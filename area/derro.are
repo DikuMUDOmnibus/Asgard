@@ -1,0 +1,1705 @@
+#AREADATA
+Name Cavern of Cloven Heads~
+Builders Ishamael Unlinked~
+VNUMs 75200 75299
+Continent 7
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#75200
+Inside a Natural Tunnel~
+The tunnel walls are surprisingly smooth as the tunnel continues through
+the dark underground.  The sound of your steps echo through the tunnel
+around you.  
+~
+0 4 0
+D0
+~
+~
+0 0 74574
+D2
+~
+~
+0 0 75201
+S
+#75201
+Turn in the Tunnel~
+The tunnel twists as it travels further away from the cavern of
+Sunnyvalle.  The walls of the tunnel are oddly notched and nicked as if
+someone attacked them in anger.  
+~
+0 0 0
+D0
+~
+~
+0 0 75200
+D3
+~
+~
+0 0 75202
+S
+#75202
+Turn in the Tunnel~
+The tunnel twists as it travels further away from the cavern of
+Sunnyvalle.  The walls of the tunnel are oddly notched and nicked as if
+someone attacked them in anger.  
+~
+0 0 0
+D1
+~
+~
+0 0 75201
+D5
+~
+~
+0 0 75203
+S
+#75203
+Turn in the Tunnel~
+The tunnel twists as it travels further away from the cavern of
+Sunnyvalle.  The walls of the tunnel are oddly notched and nicked as if
+someone attacked them in anger.  
+~
+0 0 0
+D2
+~
+~
+0 0 75204
+D4
+~
+~
+0 0 75202
+S
+#75204
+Turn in the Tunnel~
+The tunnel twists as it travels further away from the cavern of
+Sunnyvalle.  The walls of the tunnel are oddly notched and nicked as if
+someone attacked them in anger.  
+~
+0 0 0
+D0
+~
+~
+0 0 75203
+D3
+~
+~
+0 0 75205
+S
+#75205
+In a Debris Filled Tunnel~
+The tunnel is littered with debris, upper world possessions tossed aside
+by the dwellers of the deep.  The walls of the tunnel are marked and painted
+with various nonsensical symbols that represent the factions down here.  
+~
+0 0 0
+D1
+~
+~
+0 0 75204
+D3
+~
+~
+0 0 75206
+S
+#75206
+In a Debris Filled Tunnel~
+The tunnel is littered with debris, upper world possessions tossed aside
+by the dwellers of the deep.  The walls of the tunnel are marked and painted
+with various nonsensical symbols that represent the factions down here.  
+~
+0 0 0
+D1
+~
+~
+0 0 75205
+D3
+~
+~
+0 0 75207
+S
+#75207
+In a Debris Filled Tunnel~
+The tunnel is littered with debris, upper world possessions tossed aside
+by the dwellers of the deep.  The walls of the tunnel are marked and painted
+with various nonsensical symbols that represent the factions down here.  
+~
+0 0 0
+D1
+~
+~
+0 0 75206
+D5
+~
+~
+0 0 75208
+S
+#75208
+Junction in the Tunnel~
+The tunnel splits off running off in two different directions through the
+underground.  The bizarre symbols marked on the walls offer no indication as
+to where either branch will lead.  
+~
+0 0 0
+D1
+~
+~
+0 0 75284
+D3
+~
+~
+0 0 75209
+D4
+~
+~
+0 0 75207
+S
+#75209
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 75208
+D2
+~
+~
+0 0 75210
+D3
+~
+~
+0 0 75212
+S
+#75210
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75209
+D2
+~
+~
+0 0 75211
+D3
+~
+~
+0 0 75213
+S
+#75211
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75210
+D3
+~
+~
+0 0 75214
+S
+#75212
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 75209
+D2
+~
+~
+0 0 75213
+D3
+~
+~
+0 0 75215
+S
+#75213
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75212
+D1
+~
+~
+0 0 75210
+D2
+~
+~
+0 0 75214
+D3
+~
+~
+0 0 75216
+S
+#75214
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75213
+D1
+~
+~
+0 0 75211
+D3
+~
+~
+0 0 75217
+S
+#75215
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 75212
+D2
+~
+~
+0 0 75216
+S
+#75216
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75215
+D1
+~
+~
+0 0 75213
+D2
+~
+~
+0 0 75217
+S
+#75217
+Cavern of Broken Skulls~
+Fragments of bone cover the floor of the cavern as you can pick out
+pieces that identify the bones as skull bones.  The walls are stained a
+crimson red from blood dried long ago as an odd chanting echoes around the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 75216
+D1
+~
+~
+0 0 75214
+D2
+~
+~
+0 0 75218
+S
+#75218
+Inside a Bloody Tunnel~
+The rock of the tunnel is stained entirely in the crimson red as a faint
+coppery smell fills the air.  The floor of the tunnel is littered with
+broken weapons and shards of discarded bones.  
+~
+0 0 0
+D0
+~
+~
+0 0 75217
+D2
+~
+~
+0 0 75219
+S
+#75219
+Inside a Bloody Tunnel~
+The rock of the tunnel is stained entirely in the crimson red as a faint
+coppery smell fills the air.  The floor of the tunnel is littered with
+broken weapons and shards of discarded bones.  
+~
+0 0 0
+D0
+~
+~
+0 0 75218
+D5
+~
+~
+0 0 75220
+S
+#75220
+Inside a Bloody Tunnel~
+The rock of the tunnel is stained entirely in the crimson red as a faint
+coppery smell fills the air.  The floor of the tunnel is littered with
+broken weapons and shards of discarded bones.  
+~
+0 0 0
+D1
+~
+~
+0 0 75221
+D4
+~
+~
+0 0 75219
+S
+#75221
+Inside a Bloody Tunnel~
+The rock of the tunnel is stained entirely in the crimson red as a faint
+coppery smell fills the air.  The floor of the tunnel is littered with
+broken weapons and shards of discarded bones.  
+~
+0 0 0
+D1
+~
+~
+0 0 75222
+D3
+~
+~
+0 0 75220
+S
+#75222
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 75225
+D2
+~
+~
+0 0 75223
+D3
+~
+~
+0 0 75221
+S
+#75223
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75222
+D1
+~
+~
+0 0 75226
+D2
+~
+~
+0 0 75224
+S
+#75224
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75223
+D1
+~
+~
+0 0 75227
+S
+#75225
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 75228
+D2
+~
+~
+0 0 75226
+D3
+~
+~
+0 0 75222
+S
+#75226
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75225
+D1
+~
+~
+0 0 75229
+D2
+~
+~
+0 0 75227
+D3
+~
+~
+0 0 75223
+S
+#75227
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75226
+D1
+~
+~
+0 0 75230
+D2
+~
+~
+0 0 75231
+D3
+~
+~
+0 0 75224
+S
+#75228
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 75229
+D3
+~
+~
+0 0 75225
+S
+#75229
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75228
+D2
+~
+~
+0 0 75230
+D3
+~
+~
+0 0 75226
+S
+#75230
+Cavern of Severed Heads~
+The smell of decay fills the cavern as severed heads in various states of
+decay lay scattered throughout the cavern.  Dark red stains of blood are
+throughout the cavern as hand prints in blood mark the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 75229
+D3
+~
+~
+0 0 75227
+S
+#75231
+Between the Caverns~
+The narrow tunnel leads away from the cavern as it dips down in the
+darkness towards the next cavern.  Discarded objects are littered throughout
+the tunnel nearly tripping you as you continue on.  
+~
+0 0 0
+D0
+~
+~
+0 0 75227
+D5
+~
+~
+0 0 75232
+S
+#75232
+Between the Caverns~
+The narrow tunnel leads away from the cavern as it dips down in the
+darkness towards the next cavern.  Discarded objects are littered throughout
+the tunnel nearly tripping you as you continue on.  
+~
+0 0 0
+D2
+~
+~
+0 0 75233
+D4
+~
+~
+0 0 75231
+S
+#75233
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75232
+D1
+~
+~
+0 0 75234
+D2
+~
+~
+0 0 75236
+S
+#75234
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D1
+~
+~
+0 0 75235
+D2
+~
+~
+0 0 75237
+D3
+~
+~
+0 0 75233
+S
+#75235
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D1
+~
+~
+0 0 75242
+D2
+~
+~
+0 0 75238
+D3
+~
+~
+0 0 75234
+S
+#75236
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75233
+D1
+~
+~
+0 0 75237
+D2
+~
+~
+0 0 75239
+S
+#75237
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75234
+D1
+~
+~
+0 0 75238
+D2
+~
+~
+0 0 75240
+D3
+~
+~
+0 0 75236
+S
+#75238
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75235
+D2
+~
+~
+0 0 75241
+D3
+~
+~
+0 0 75237
+S
+#75239
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75236
+D1
+~
+~
+0 0 75240
+S
+#75240
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75237
+D1
+~
+~
+0 0 75241
+D3
+~
+~
+0 0 75239
+S
+#75241
+Cavern of Severed Limbs~
+Severed arms and legs lie piled throughout the cavern as blood pools on
+the floor.  The stench of decay fills the room as the rotting flesh lies
+here untouched.  
+~
+0 0 0
+D0
+~
+~
+0 0 75238
+D3
+~
+~
+0 0 75240
+S
+#75242
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75243
+D3
+~
+~
+0 0 75235
+S
+#75243
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75245
+D3
+~
+~
+0 0 75242
+S
+#75244
+~
+~
+0 0 0
+D3
+~
+~
+0 0 75243
+S
+#75245
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75246
+D3
+~
+~
+0 0 75243
+S
+#75246
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75247
+D1
+~
+~
+0 0 75249
+D3
+~
+~
+0 0 75245
+S
+#75247
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75248
+D1
+~
+~
+0 0 75250
+D2
+~
+~
+0 0 75246
+S
+#75248
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75251
+D2
+~
+~
+0 0 75247
+S
+#75249
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75250
+D1
+~
+~
+0 0 75252
+D3
+~
+~
+0 0 75246
+S
+#75250
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75251
+D1
+~
+~
+0 0 75253
+D2
+~
+~
+0 0 75249
+D3
+~
+~
+0 0 75247
+S
+#75251
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75255
+D1
+~
+~
+0 0 75254
+D2
+~
+~
+0 0 75250
+D3
+~
+~
+0 0 75248
+S
+#75252
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75253
+D3
+~
+~
+0 0 75249
+S
+#75253
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75254
+D1
+~
+~
+0 0 75288
+D2
+~
+~
+0 0 75252
+D3
+~
+~
+0 0 75250
+S
+#75254
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75253
+D3
+~
+~
+0 0 75251
+S
+#75255
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75256
+D2
+~
+~
+0 0 75251
+S
+#75256
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75255
+D4
+~
+~
+0 0 75257
+S
+#75257
+Junction in the Tunnel~
+The tunnel splits off running off in two different directions through the
+underground.  The bizarre symbols marked on the walls offer no indication as
+to where either branch will lead.  
+~
+0 0 0
+D1
+~
+~
+0 0 75258
+D3
+~
+~
+0 0 75269
+D5
+~
+~
+0 0 75256
+S
+#75258
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75259
+D3
+~
+~
+0 0 75257
+S
+#75259
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75260
+D3
+~
+~
+0 0 75258
+S
+#75260
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75263
+D2
+~
+~
+0 0 75261
+D3
+~
+~
+0 0 75259
+S
+#75261
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75260
+D1
+~
+~
+0 0 75264
+D2
+~
+~
+0 0 75262
+S
+#75262
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75261
+D1
+~
+~
+0 0 75265
+D2
+~
+~
+0 0 75286
+S
+#75263
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75266
+D2
+~
+~
+0 0 75264
+D3
+~
+~
+0 0 75260
+S
+#75264
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75263
+D1
+~
+~
+0 0 75267
+D2
+~
+~
+0 0 75265
+D3
+~
+~
+0 0 75261
+S
+#75265
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75264
+D1
+~
+~
+0 0 75268
+D3
+~
+~
+0 0 75262
+S
+#75266
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75267
+S
+#75267
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75266
+D2
+~
+~
+0 0 75268
+D3
+~
+~
+0 0 75264
+S
+#75268
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75267
+D3
+~
+~
+0 0 75265
+S
+#75269
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75270
+D1
+~
+~
+0 0 75257
+D2
+~
+~
+0 0 75269
+S
+#75270
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75271
+D2
+~
+~
+0 0 75269
+S
+#75271
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75270
+D3
+~
+~
+0 0 75272
+S
+#75272
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75275
+D1
+~
+~
+0 0 75271
+D3
+~
+~
+0 0 75273
+S
+#75273
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75276
+D1
+~
+~
+0 0 75272
+D3
+~
+~
+0 0 75274
+S
+#75274
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75277
+D1
+~
+~
+0 0 75273
+S
+#75275
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75278
+D2
+~
+~
+0 0 75272
+D3
+~
+~
+0 0 75276
+S
+#75276
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75279
+D1
+~
+~
+0 0 75275
+D2
+~
+~
+0 0 75273
+D3
+~
+~
+0 0 75277
+S
+#75277
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75280
+D1
+~
+~
+0 0 75276
+D2
+~
+~
+0 0 75274
+S
+#75278
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75275
+D3
+~
+~
+0 0 75279
+S
+#75279
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75278
+D2
+~
+~
+0 0 75276
+D3
+~
+~
+0 0 75280
+S
+#75280
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75279
+D2
+~
+~
+0 0 75277
+D3
+~
+~
+0 0 75281
+S
+#75281
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75280
+D4
+~
+~
+0 0 75282
+S
+#75282
+~
+~
+0 0 0
+D3
+~
+~
+0 0 75283
+D5
+~
+~
+0 0 75281
+S
+#75283
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75284
+D1
+~
+~
+0 0 75282
+S
+#75284
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75283
+D3
+~
+~
+0 0 75208
+S
+#75286
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75262
+D5
+~
+~
+0 0 75287
+S
+#75287
+Junction in the Tunnel~
+The tunnel splits off running off in two different directions through the
+underground.  The bizarre symbols marked on the walls offer no indication as
+to where either branch will lead.  
+~
+0 0 0
+D2
+~
+~
+0 0 75289
+D3
+~
+~
+0 0 75288
+D4
+~
+~
+0 0 75286
+S
+#75288
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75287
+D3
+~
+~
+0 0 75253
+S
+#75289
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75287
+D1
+~
+~
+0 0 75290
+S
+#75290
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75291
+D3
+~
+~
+0 0 75289
+S
+#75291
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75294
+D2
+~
+~
+0 0 75292
+D3
+~
+~
+0 0 75290
+S
+#75292
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75291
+D1
+~
+~
+0 0 75295
+D2
+~
+~
+0 0 75293
+S
+#75293
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75292
+D1
+~
+~
+0 0 75296
+S
+#75294
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75297
+D2
+~
+~
+0 0 75295
+D3
+~
+~
+0 0 75291
+S
+#75295
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75294
+D1
+~
+~
+0 0 75298
+D2
+~
+~
+0 0 75296
+D3
+~
+~
+0 0 75292
+S
+#75296
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75295
+D1
+~
+~
+0 0 75299
+D3
+~
+~
+0 0 75293
+S
+#75297
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75298
+D3
+~
+~
+0 0 75294
+S
+#75298
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75297
+D2
+~
+~
+0 0 75299
+D3
+~
+~
+0 0 75295
+S
+#75299
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75298
+D3
+~
+~
+0 0 75296
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

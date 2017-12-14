@@ -1,0 +1,1329 @@
+Sender  Bree~
+Date    Tue Feb 16 12:13:31 2010~
+Stamp   1266347611
+To      all~
+Subject quest.{x~
+Text
+You can now quest again, Iquest pills have been set back to the normal price of 1 Iquest point.{x
+Bree{x
+~
+Sender  Bree~
+Date    Sun Feb 21 12:55:57 2010~
+Stamp   1266782157
+To      all~
+Subject Learned{x~
+Text
+Learned has been reworked. The max learned is now 50. If you currently have a rating over 50 in a specific spell color, it will reset to the max, 50, after you cast a spell in that color group.{x
+The spell damage might be off slightly, as in 25-100 dam points max. If you notice anything wonky with spell damage over that value, note me asap.{x
+Bree{x
+~
+Sender  Bree~
+Date    Tue Feb 23 16:09:48 2010~
+Stamp   1266966588
+To      all~
+Subject Ninjas{x~
+Text
+Ninjas hereby lose Wands, staves, nerve, track, envenom, disarm, and
+blindness dust.  {x They henceforth gain: smokebomb that will not blind the
+thrower initially.  {x New skill called Shadowblend: Basically a moving hide
+with an extremely low chance to be seen by another player.  This cannot be
+used with a pktimer on.  Also when in shadowblend, using the concealment the
+first round they will hit harder during a{x Innerstrength will now give at
+101 with skill at 100% 50 hr/dr and 100 regen, upped from 45/45 90.  {x
+Ninjas keep track btw, scratch that one.  {x This is the first change in
+what will be a mud wide change in every class to some extent.  {x Direct any
+complaints to Grim.  {x Bree.  {x 
+~
+Sender  Bree~
+Date    Wed Feb 24 21:06:46 2010~
+Stamp   1267070806
+To      all~
+Subject Aesir pack{x~
+Text
+Noghir brought it to my attention that the pack of Aesir is about the same to the backpack of the gods, as a result the stats have been upped.{x
+Hp:75{x
+DR: 15{x
+HR: 12{x
+AC: -5{x
+regen: 5{x
+That is all for now.{x
+Bree{x
+~
+Sender  Bree~
+Date    Sat Mar  6 14:59:05 2010~
+Stamp   1267912745
+To      all~
+Subject Lodoss{x~
+Text
+This area had several pieces of eq that were over powered, and some that
+were just down right insane.  {x These oversights have been taken care of. 
+{x 
+Bree{x
+~
+Sender  Bree~
+Date    Wed Mar 10 09:40:36 2010~
+Stamp   1268239236
+To      all~
+Subject Shamans{x~
+Text
+Shaman enhanced damage was crashing the mud, this has been fixed.  Bawn
+noticed the connection between enhanced and crashing, and saved me lots of
+time.  So thank you Bawn!  {x 
+Bree, Georgia bound in T-14 Hours 21 minutes.{x
+~
+Sender  Bree~
+Date    Tue Mar 23 16:05:58 2010~
+Stamp   1269381958
+To      all~
+Subject Ninjas{x~
+Text
+Ninjas can no longer use shadowblend in the arena.{x
+Bree{x
+~
+Sender  Bree~
+Date    Mon Mar 29 09:19:45 2010~
+Stamp   1269875985
+To      all~
+Subject Impair{x~
+Text
+Assassins get the Impair skill now.  It will allow you a very good chance
+to blind someone who is already sleeping, and also cause them some damage
+which is based on your hitroll.  More hitroll, more damage{x More class
+changes to come very soon.  {x 
+Bree{x
+~
+Sender  Dusk~
+Date    Mon May 10 19:26:39 2010~
+Stamp   1273541199
+To      all~
+Subject Shriek{x~
+Text
+Shriek{x
+Shriek now factors in the Banshee's age into the to hit chance. Should notice an improvement now.{x
+~
+Sender  Grim~
+Date    Fri May 14 12:57:05 2010~
+Stamp   1273863425
+To      all~
+Subject tumble/damage cap{x~
+Text
+You will have little to no chance to tumble blind now{x
+Max damage per skill was increased.It goes off targets max hp...More tweaking if need be.{x
+More to come stay tuned!{x
+~
+Sender  Grim~
+Date    Fri May 14 13:26:20 2010~
+Stamp   1273865180
+To      all~
+Subject assassins{x~
+Text
+Their dagger bonus was looked at and tweaked,Now dual wielding daggers you will see a differnce{x
+When not duel wielding sadly you will notice a differnce as well.{x
+More to come{x
+~
+Sender  Dusk~
+Date    Fri May 21 22:31:21 2010~
+Stamp   1274502681
+To      all~
+Subject Backstab/Circle/Headcut/Grenado{x~
+Text
+Backstab/Circle: Hitroll now affects the amount of hits you can receive. Its your hitroll{x
+divided by your level. So if you have 404 hr as a hero you can backstab/circle 4 times.{x
+{x
+Headcut: Now when it does the message of blood, it blinds the target for 1 tick.{x
+{x
+Grenado: Works now, and blinds the target{x
+{x
+Note: Backstab/circle damage across board has been lowered some since the addition of additional{x
+hits. If you have a decent amount of hitroll, along with damroll you shouldn't notice much of a change{x
+in net damage. This is put in to make hitroll matter more for those with backstab, but at the same{x
+time gives more of a benefit to classes with - hitroll spells/skills. Currently the hitroll/level{x
+check rounds up. I'll be adjusting this once I remember the syntax so it won't round.{x
+{x
+Note: Headcut, the bleed message has no damage, says 0. I will adjust this to provide some damage later.{x
+{x
+Note: Grenado, since its back in, its still new and will need some tweaking. Tweaking in terms{x
+of damage, and possible lag delay. Note any problems/suggestions with this and be mindful when{x
+fighting a Swash. If it is deemed too powerful I hope those Swashes out there will not abuse it{x
+in PK till it is tweaked.{x
+~
+Sender  Dusk~
+Date    Sat May 22 13:55:13 2010~
+Stamp   1274558113
+To      all~
+Subject Backstab/Circle/Grenado/Kill command{x~
+Text
+that are not a thief base.{x
+Backstab/Circle: Also fixed it so it shouldn't round up.{x
+{x
+Grenado damage cut in half for now. Will adjust more later.{x
+{x
+Kill Command: Lag removed from it.{x
+{x
+The first part wad down before a copyover erased my note..but it{x
+it was saying that backstab damage lowered overall slightly, but more{x
+for a non thief.{x
+{x
+Enjoy{x
+~
+Sender  Dusk~
+Date    Sun Jun  6 20:26:29 2010~
+Stamp   1275877589
+To      all~
+Subject Aesir{x~
+Text
+Updated Aesir a bit, noteable in the respect toward Age/Mana.{x
+Alot of the Aesir was lacking Age, and Mana, so it was geared more{x
+toward melee. If noticed any pieces you have need exchanged let {x
+us know.{x
+~
+Sender  Dusk~
+Date    Wed Jun  9 14:49:57 2010~
+Stamp   1276116597
+To      all~
+Subject Help World{x~
+Text
+Updated help world with 20 more areas that didn't have directions{x
+prior. Keep in mind, some might be quicker/easier to get to via{x
+the Conjurer. But thanks to Bobby we now have more directions!{x
+{x
+As I stated, he was awarded 1 iq per area, so he just got himself 20iq.{x
+~
+Sender  Fesdor~
+Date    Wed Dec 15 03:15:44 2010~
+Stamp   1292408144
+To      all~
+Subject small addition{x~
+Text
+2 new items and a small new quest added to Blackwater Park.
+That's all for now, just had to do something to brush up on the skills :P
+-Fesdor
+~
+Sender  Fesdor~
+Date    Wed Dec 15 18:13:04 2010~
+Stamp   1292461984
+To      all~
+Subject Randoms{x~
+Text
+Randoms will have been altered on next copyover.
+Some general balancing I've wanted to do for a while,
+Big changes are:
+Top-end prefixes lost a couple points (Godly, King's, etc)
+Minor penalty added to resist items
+Added 3 new prefixes where needed.
+Various tweaks to some of the Gods' suffixes.
+That's all for now.
+-Fesdor
+~
+Sender  Fesdor~
+Date    Thu Dec 16 19:05:31 2010~
+Stamp   1292551531
+To      all~
+Subject subdue{x~
+Text
+Spam-subduing is no longer possible.  From now on if you try to attack a
+subdued player you will get a message telling you to finish them off.  
+~
+Sender  Wayyne~
+Date    Fri Dec 17 00:18:44 2010~
+Stamp   1292570324
+To      all~
+Subject Sonic Blast{x~
+Text
+Sonic Blast has been bugged due to the lowering of the max
+amount learned for magics, to correct this I adjusted the
+formula proportionaly in order to bring the damage back to
+where it was intended to be.
+ 
+{RENJOY{x
+~
+Sender  Wayyne~
+Date    Fri Dec 17 00:39:20 2010~
+Stamp   1292571560
+To      all~
+Subject Conceal and the Vis command{x~
+Text
+Using the visible command will not also strip you of conceal.
+This can be reversed by re-equipping the item.
+{RENJOY{x
+~
+Sender  Wayyne~
+Date    Fri Dec 17 01:47:57 2010~
+Stamp   1292575677
+To      all~
+Subject Conceal{x~
+Text
+Conceal was not properly reapplying on login, these values now
+save and load properly. In other words youll be concealed when
+you log in, if you were concealed when you logged out.
+{RENJOY{x
+~
+Sender  Fesdor~
+Date    Sun Dec 19 03:45:27 2010~
+Stamp   1292755527
+To      all~
+Subject uniques{x~
+Text
+36 uniques have been removed from the game.  If you were unlucky enough
+to have items turned into paper bags, we are sorry for your loss.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Sun Dec 19 03:54:07 2010~
+Stamp   1292756047
+To      all~
+Subject City of Despair{x~
+Text
+City of Despair has been changed.  The mobs had far too little health for
+their level.  Their hp is now in line with other mobs of similar level.  
+-Fesdor
+~
+Sender  Fesdor~
+Date    Sun Dec 19 05:46:17 2010~
+Stamp   1292762777
+To      all~
+Subject some more{x~
+Text
+Fixed a problem in the code that wasn't making magic surges only work on spells.
+You should only see actual spells surge now.
+Fixed bard songs, they will raise learned and be based off learned now.
+-Fesdor
+~
+Sender  Ishamael~
+Date    Wed Dec 29 18:07:48 2010~
+Stamp   1293671268
+To      all~
+Subject New PK Rank System{x~
+Text
+PK Rank will now function as follows.  The killer will now receive either
+3 rank or 40% of the victims rank the greater of the 2.  The victim will
+lose 25% of their existing rank.  So for example...  Ishamael with 100
+pkpoints and Nico with 0 pkpoints kills him.  Ishamael would drop to 75
+points and Nico would increase to 40 points.  Plevels are being adjusted to
+the following 
+P1: 1-15
+P2: 16-35
+P3: 36-65
+P4: 66-120
+P5: 121-225
+P6: 225+
+
+Un-Noobing will take place automatically at 10 points.
+ 
+ 
+-Ish
+~
+Sender  Nico~
+Date    Thu Dec 30 14:03:26 2010~
+Stamp   1293743006
+To      all~
+Subject PK Points{x~
+Text
+PK and arena kills/losses/points have been combined into one.{x
+This means that if you get 10 points from arena, you unnoob.{x
+This also means highlanders can get power points from both the arena and outside it.{x
+~
+Sender  Fesdor~
+Date    Thu Jan  6 18:34:48 2011~
+Stamp   1294364088
+To      all~
+Subject recent changes{x~
+Text
+Just a few things that needed doing:
+2Hander damage has been looked at and adjusted to be more in-balance.
+h2h damage for Monks and Ninjas has been brought back down to this planet.
+Prayer skill for saints debugged and cleaned up.  Damtype is Holy now.
+-Fesdor
+~
+Sender  Nico~
+Date    Sun Jan  9 03:24:56 2011~
+Stamp   1294568696
+To      all~
+Subject Teleport{x~
+Text
+Hi,{x
+{x
+You should no longer be able to warp into unlinked rooms using the teleport spell.{x
+As a knock-on effect, babbles can no longer warp into these rooms either.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Sun Mar 13 04:03:46 2011~
+Stamp   1300014226
+To      all~
+Subject delete{x~
+Text
+Hi,{x
+{x
+I've put a password guard on the delete command. This means you need to provide{x
+your password to delete your character (the password will not be logged).{x
+This also means we will no longer be restoring pfiles if your character is deleted,{x
+as its now your responsibility to ensure others don't have your password.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Mon Mar 21 09:05:10 2011~
+Stamp   1300723510
+To      all~
+Subject Mana blast{x~
+Text
+Mana blast now has increased lag.{x
+~
+Sender  Nico~
+Date    Mon Apr  4 14:50:53 2011~
+Stamp   1301950253
+To      all~
+Subject Energydrain/dragon randoms{x~
+Text
+Hi,{x
+{x
+Hopefully the conceal bug with randoms should be fixed.{x
+Energy drain has been added as a weapon flag at the QM.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Fri Apr 15 11:07:38 2011~
+Stamp   1302887258
+To      all~
+Subject randoms{x~
+Text
+A global keyword "random" has been added to all NEW randoms popped.{x
+The same has been done for uniques: "unique".{x
+Again, this change isn't retroactive, so your old randoms will stay the same for now.{x
+Nico{x
+~
+Sender  Nico~
+Date    Sat Apr 16 07:53:09 2011~
+Stamp   1302961989
+To      all~
+Subject showskill showclass{x~
+Text
+They have been spammed up to make them more informative.{x
+~
+Sender  Nico~
+Date    Sun Apr 17 04:39:16 2011~
+Stamp   1303036756
+To      all~
+Subject Prompt command{x~
+Text
+Hi,{x
+{x
+The prompt command has been improved:{x
+Your prompt is now allowed to be twice as large as it was before,{x
+and when you type 'prompt info', you can see what your prompt actually{x
+is, with visible colour codes - handy for copy/pasting to others.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Sun Apr 17 04:47:11 2011~
+Stamp   1303037231
+To      all~
+Subject quests{x~
+Text
+Also fixed a bug with the quest code.{x
+Previously, LGDs could get quests that were waaaay too easy{x
+but now quest mobs should be within 50 levels of you.{x
+~
+Sender  Bree~
+Date    Tue Apr 19 14:46:52 2011~
+Stamp   1303246012
+To      all~
+Subject Swashbucklers{x~
+Text
+Swashbucklers now receive Coule at level 70.{x
+Coule is when a skilled swordsman uses his sword to beat past his opponent's weapon and strike them{x
+It has a chance to disarm, and both damage and chance to disarm is based on your hitroll{x
+Report any problems to me please.{x
+Bree{x
+~
+Sender  Nico~
+Date    Sat Apr 23 14:30:57 2011~
+Stamp   1303590657
+To      all~
+Subject Trance{x~
+Text
+Trance now has a bit of lag.{x
+~
+Sender  Nico~
+Date    Sat Apr 30 03:59:45 2011~
+Stamp   1304157585
+To      all~
+Subject bugfix{x~
+Text
+Voodan curse bug (where it could crash the mud) has been fixed.{x
+~
+Sender  Nico~
+Date    Wed Jun 29 16:19:40 2011~
+Stamp   1309385980
+To      all~
+Subject blah{x~
+Text
+The "pose" command is now gone.{x
+~
+Sender  Nico~
+Date    Sat Aug 20 10:14:12 2011~
+Stamp   1313856852
+To      all~
+Subject Minor fixes{x~
+Text
+- crashes from babbles should be reduced, if not fully fixed.{x
+- empty player corpses are now removed after a delay.{x
+- mprogs are saved recursively, so builders can use stacked mprogs on mobs.{x
+~
+Sender  Marduk~
+Date    Wed Sep 28 14:02:22 2011~
+Stamp   1317240142
+To      all~
+Subject Clan EQ Limits RAISED{x~
+Text
+Get your rears in gear and start buying.  Clan EQ limits have been raised
+and if you want to take advantage of that go for it.  In particular, changes
+are as follows: 
+ 
+Hit/Dam raised to 35
+Age raised to 20
+Saves lowered? to -8
+HP/Mana/Moves raised to 250
+AC lowered? to -30 AC
+ 
+Enjoy!
+Marduk
+~
+Sender  Marduk~
+Date    Fri Sep 30 22:36:44 2011~
+Stamp   1317443804
+To      all~
+Subject What's that? MAGIC RESONANCE?{x~
+Text
+Are the players of Asgardian Nightmare men or legends?  The gods believe
+them to be legends, and so legendary things they must do.  A recent shift in
+cosmic powers have caused legends to have greater control over the magic
+they own.  Now, when casting a spell they may find their latent mystical
+powers to be overwhelming.  A resonance is met, and the air around creatures
+is pumulted with sorcerous backlash and tumult.
+ 
+In short, a new focus called Magic Resonance should hit the shelves
+tomorrow. Due to the way legends focus their energy, you will find that
+weaker spells are often easier to resonate than stronger ones.
+ 
+Do not worry, eventually all your spells will be able to resonate, but
+you will definitely notice it more in weak spells than strong.
+ 
+In the process, I had to redo a significant amount of damage increases
+related to spells so if you see anything odd or amiss please let me know.
+This change is not intended to harm mages, so if it seems that way TELL
+ME.
+ 
+Thanks, Marduk
+ 
+P.S. The change should be in tomorrow, but if it isn't, it isn't. I'll let
+you know.
+~
+Sender  Marduk~
+Date    Fri Sep 30 22:40:31 2011~
+Stamp   1317444031
+To      all~
+Subject oh, also{x~
+Text
+Oh also the following changes:
+* Fleeing no longer will cause an EXP loss. That was stupid.
+* You will never ALWAYS get sorcerous bonus. It has been returned to a %.
+* Spells such as entity and unite can surge now. (Mana Blast could before)
+* Poison and Plague will not surge.
+* The magic power bonus in 'Focus' displays correctly now.
+* The magic resonance bonus does not display anything useful yet.
+ 
+Marduk
+~
+Sender  Nico~
+Date    Sat Oct  1 18:22:05 2011~
+Stamp   1317514925
+To      all~
+Subject Changes{x~
+Text
+"directions" now aliases to lookup.{x
+Recent crash bug fixed.{x
+~
+Sender  Marduk~
+Date    Mon Oct  3 13:33:16 2011~
+Stamp   1317670396
+To      all~
+Subject Magic Resonance{x~
+Text
+Note to all:
+Focus magic resonance as desired.
+ 
+Thanks,
+The Management.
+~
+Sender  Marduk~
+Date    Mon Oct  3 21:03:05 2011~
+Stamp   1317697385
+To      all~
+Subject Few Things{x~
+Text
+* 2 Handed Weapons damage tweaked up
+* Shriek hitroll modifier tweaked
+* Layhands adjusted. See below.
+* Magic Resonance tweaked.
+ 
+Layhands:
+The initial design of layhands was to make an important pk skill
+available that requires teamwork. Paladins are natural leaders
+(theoretically) and layhands is part of that vision.
+ 
+Because of this, layhands was not intended to be able to be used
+very well on yourself, nor very well in combat.
+ 
+I've adjusted a few numbers, and you should see the following:
+* Layhands on someone else is MUCH better than it was.
+* Layhands on yourself is a bit selfish and has been decreased a bunch.
+* Layhands on someone in combat does not work.
+* Layhands mana/move usage has been decreased.
+ 
+-Marduk
+~
+Sender  Marduk~
+Date    Tue Oct  4 07:30:21 2011~
+Stamp   1317735021
+To      all~
+Subject Backstab (sorry assassins, hooray everyone else){x~
+Text
+Previously, the code for backstab was a bit off kilter.  On the next
+build/copyover you should see a bit of a difference.  Notably as follows: 
+ 
+* Assassin backstab damage is now in line with Ninjas and Bards.
+* Ninja/Bard/Assassin backstab damage increased very slightly.
+* A new check is added so low stats does not equal no bonus.
+ 
+The reason for this change is because:
+* Assassin backstab damage was 4x (as in 40x a normal hit vs 10x) other classes
+* Ninja/Bard/Assassins have an emphasis on sneaking. Let's keep that.
+ 
+Also:
+* Banshee's lose a very high backstab bonus
+* Assassins lose dual wielding backstab bonus. Two weapons does not increase
+{x   the damage on a skill maneuver.
+ 
+NOTE: This note and the last one will take effect on the next build/copyover.
+ 
+As always, please communicate with me any disagreements or problems with
+changes. These are meant to help balance the mud, not make you angry
+and start crying.
+~
+Sender  Marduk~
+Date    Wed Oct  5 09:21:51 2011~
+Stamp   1317828111
+To      all~
+Subject Alias Limit{x~
+Text
+I always hit the alias limit when playing a mortal. No
+one has said anything about it, but it has always bugged
+me.
+ 
+So:
+* The alias limit has been increased from 25 to 50.
+ 
+Note: This will take effect in the next build/copyover.
+Thanks, Marduk!
+~
+Sender  Nico~
+Date    Wed Oct  5 15:49:25 2011~
+Stamp   1317851365
+To      all~
+Subject Marduks changes{x~
+Text
+Marduks changes are now in.{x
+~
+Sender  Marduk~
+Date    Thu Oct  6 06:15:03 2011~
+Stamp   1317903303
+To      all~
+Subject Illusionary Armor{x~
+Text
+Effective immediately, Illusionary Armor has been stripped from
+Archmages, and granted to Warlocks and Alchemists.  
+ 
+Reason:
+* Archmages already had Mana Shield which granted additional HP.
+* Alchemists and Warlocks could use some diversification in skills.
+ 
+That is all, carry on. And as always, do not hesitate to criticize
+in a note to me and immortals. Changes are meant for good, not for
+evil.
+~
+Sender  Marduk~
+Date    Thu Oct  6 08:05:40 2011~
+Stamp   1317909940
+To      all~
+Subject PK CHANGES (Damage, Timer){x~
+Text
+Are you violent?
+Do you like to {rkill{x things?
+Do you like to {RCRUSH{x those who think they are better than you?
+ 
+Great!
+ 
+* PK damage has been reduced by 1/3.
+* PK timer has been reduced from 75 to 10.
+ 
+Reasons?
+* Lower damage = longer fights. ROT is not designed for high
+{x   damage numbers. We are.
+* Shorter time til recall or quit? This allows spars and quick
+{x   fights that will not always lead to death. FUN.
+ 
+As always, if experience proves different than testing and
+theory, let us know! Change is good, in the face of death.
+ 
+-Marduk!
+~
+Sender  Marduk~
+Date    Thu Oct  6 11:46:49 2011~
+Stamp   1317923209
+To      all~
+Subject Changes{x~
+Text
+Note that with any change I post, they will not be in effect until you
+see another change that says, "Changes are now in effect!"  .  
+ 
+-Marduk
+~
+Sender  Marduk~
+Date    Fri Oct  7 12:44:59 2011~
+Stamp   1318013099
+To      all~
+Subject Changes are now in effect!{x~
+Text
+Changes are now in effect!
+~
+Sender  Ishamael~
+Date    Tue Oct 11 16:38:54 2011~
+Stamp   1318372734
+To      all~
+Subject Class Tier 3 Randoms{x~
+Text
+They have all been updated to be more inline with what you knew the
+swashbuckler stats to be.  Let me know if any still look low or out of wack.
+{x 
+~
+Sender  Marduk~
+Date    Thu Oct 20 15:50:25 2011~
+Stamp   1319147425
+To      all~
+Subject a few things{x~
+Text
+I'll try to remember a few of the changes:
+ 
+* Grenado has been rewritten. Completely. Now can cause faerie fog,
+{x  and has accuracy built into your toss. Dexterity, size, and strength
+{x  are much more significant than previously. Alchemists are better at it
+{x  than anyone else.
+* Oh, Alchemists get grenado.
+* The way damroll is calculated into damage has been changed. It still
+{x  works, but the actually weapon rolls are more significant.
+* A few typos were fixed.
+* The first phase of a new focus tiering system is in. Ish will be updating
+{x  mob and area data with it in preparation.
+ 
+That's it for now. As always, here to please, so let me know if something
+is not working as expected, or if you just want to cry for a bit over a
+change.
+ 
+-Marduk!
+~
+Sender  Marduk~
+Date    Thu Oct 20 15:51:58 2011~
+Stamp   1319147518
+To      all~
+Subject more changes{x~
+Text
+* 2 Handed weapons are doing more damage now.{x
+~
+Sender  Ishamael~
+Date    Thu Oct 20 18:43:56 2011~
+Stamp   1319157836
+To      all~
+Subject Aesir Weapons{x~
+Text
+With the changes to damages, Aesir has been rebalanced.  Damage dice is
+now the same across all weapons types, one handers are 10d21 and 2handers
+are 10d23.  {x In the very near future, we will be adding in an additional 4
+weapons.  Sword 2handed, Axe 1handed, Spear 1handed, Flail 1handed, and {x
+mace 2handed.  {x Note me if anything seems out of wack on these items.  {x 
+{x
+{x
+Ish{x
+~
+Sender  Marduk~
+Date    Fri Oct 21 22:21:26 2011~
+Stamp   1319257286
+To      all~
+Subject spell saves!{x~
+Text
+I've reworked the spell_save function to prepare for a few things.
+Please see below for details:
+ 
+* Before, above about -75 saves were ignored in the code.
+* So now, you can use as many saves as you have, but it's on a
+{x   curve. So as always, moderation can be useful.
+ 
+--
+* The future tier system will allow you to increase your spell
+{x   levels. This new function accounts for that appropriately.
+* Mobs, being of a high level, will start to save more often
+{x   than in the past.
+ 
+Thanks, Marduk
+~
+Sender  Ishamael~
+Date    Sat Oct 22 08:28:23 2011~
+Stamp   1319293703
+To      all~
+Subject Unlinked Zones{x~
+Text
+Castle of Eternity and The Box have been unlinked.  {x
+Note me if theres any linking issues to other zones by having these taking out.{x
+~
+Sender  Marduk~
+Date    Sat Oct 22 08:42:18 2011~
+Stamp   1319294538
+To      all~
+Subject re:grenado{x~
+Text
+Grenado now uses hitroll to some degree.{x
+~
+Sender  Marduk~
+Date    Sat Oct 22 10:56:18 2011~
+Stamp   1319302578
+To      all~
+Subject Aesir{x~
+Text
+The additional aesir items have been added to questmasters.{x
+~
+Sender  Ishamael~
+Date    Sat Oct 22 14:05:03 2011~
+Stamp   1319313903
+To      all~
+Subject BabbleLand{x~
+Text
+The gauntlet is unlinked at the moment, need to make some adjustments due to the changes in the damage code{x
+as soon as things get sorted i will reopen and post a note to all.{x
+{x
+{x
+ish{x
+~
+Sender  Marduk~
+Date    Sun Oct 23 21:07:47 2011~
+Stamp   1319425667
+To      all~
+Subject Spells{x~
+Text
+I modified numerous spells so they use the caster level instead of the
+player level.  This should not change much, but your spell level will drop
+slightly from the change.  This is in preparation for the coming tier code
+which will allow player spell levels to increase, as well as their visible
+level.  
+ 
+If you notice any problems, as always, let me know!
+Thanks!
+~
+Sender  Marduk~
+Date    Fri Oct 28 20:25:47 2011~
+Stamp   1319855147
+To      all~
+Subject The start of post-legend tiers.....{x~
+Text
+So the first part of focus level tiers is in.  You will notice the
+following: 
+ 
+* Typing _focus_ now shows you your classes primary, secondary,
+{x   and tertiary focus groups.
+* Your tier level bonus is calculated using your primary, secondary,
+{x   and also your maximum focus.
+* Your spell level bonus is calculated using the average of your
+{x   magic focuses.
+ 
+There will be exp bonuses added in soon, but this will give you a
+direction on where your class should be putting its efforts.
+ 
+A higher focus level bonus will mean greater exp bonuses when
+killing mobs that are your level or higher.
+ 
+-Marduk
+~
+Sender  Marduk~
+Date    Sat Oct 29 14:08:51 2011~
+Stamp   1319918931
+To      all~
+Subject Mobs{x~
+Text
+You will now gain experience based on your level bonus, and the mobs
+tier.  Remember the following:{x 
+ 
+* Killing at your tier nets the best bonus.
+* If you have a level bonus of 10, killing mobs tiehr tier 8,9, or 10, is best.
+* Killing mobs of a higher tier, nets smaller 3% gains to exp.
+ 
+~
+Sender  Ishamael~
+Date    Sun Oct 30 12:50:22 2011~
+Stamp   1320000622
+To      all~
+Subject babbleland{x~
+Text
+Gauntlet is reopened.  Damage on the last mobs has been upped signifigantly{x
+~
+Sender  Ishamael~
+Date    Sun Nov  6 13:32:03 2011~
+Stamp   1320611523
+To      all~
+Subject BabbleLand{x~
+Text
+To progress through the levels, you now need to kill babbles in each zone.  Portals will drop on a % change on death of the babble to move you through to the next zone.{x
+% drop will increase as you advance through the levels and the babbles become more difficult.{x
+The gauntlet has been slightly downed to compensate for the time needed to reach the end.{x
+let me know if there are any issues{x
+~
+Sender  Marduk~
+Date    Mon Nov  7 12:14:07 2011~
+Stamp   1320693247
+To      all~
+Subject game/forestwalk{x~
+Text
+Slight adjustment to allow them to work again.{x
+~
+Sender  Marduk~
+Date    Mon Nov  7 12:46:58 2011~
+Stamp   1320695218
+To      all~
+Subject nexus{x~
+Text
+Nexus has been revoked from all classes except the wizard tier.  It was
+meant to be a special mage spell originally, and needs to be reigned back
+in.  Portal is still available to a variety of other classes.  {x 
+~
+Sender  Marduk~
+Date    Tue Nov  8 09:13:28 2011~
+Stamp   1320768808
+To      all~
+Subject align / experience{x~
+Text
+How you get experience has been modified.
+ 
+* Mobs now generate a set amount of experience when you are legend.
+* The experience you gain increases for killing higher tier mobs.
+* The experience you gain decreases for lower tier mobs (very slowly).
+ 
+* Align modifiers for experience are now granular.
+* Evil vs Good = 100% exp, Evil vs Evil = 50% exp.
+* Neutral vs Evil/Good = 75% exp. Neutral vs Neutral = 50% exp.
+ 
+Let us know if you see any problems or weird behavior!
+~
+Sender  Marduk~
+Date    Tue Nov  8 09:39:40 2011~
+Stamp   1320770380
+To      all~
+Subject chop{x~
+Text
+* Using chop now increases your skill in chop.{x
+* Using chop now does NOT increase you skill in lunge.{x
+~
+Sender  Marduk~
+Date    Tue Nov  8 18:46:13 2011~
+Stamp   1320803173
+To      all~
+Subject dispel / demonfire / mob spells{x~
+Text
+* Dispelling spells is more granular now.{x
+* A failed dispel makes the next dispel easier (sometimes){x
+* Demonfire is more random and more powerful.{x
+* Demonfire always has a chance to hit yourself.{x
+* Mob spells are now at a reduced (more believable) level.{x
+~
+Sender  Marduk~
+Date    Wed Nov  9 18:59:38 2011~
+Stamp   1320890378
+To      all~
+Subject mods / continent{x~
+Text
+* Mod max is 3.0 for qps/exp now.{x
+* Some background continent code updated.{x
+~
+Sender  Marduk~
+Date    Wed Nov  9 19:31:55 2011~
+Stamp   1320892315
+To      all~
+Subject focus level bonus{x~
+Text
+The equation has been modified.  You may appear to be higher levels now! 
+{x 
+~
+Sender  Marduk~
+Date    Thu Nov 10 08:14:18 2011~
+Stamp   1320938058
+To      all~
+Subject Auto Spell-Up{x~
+Text
+* Madness and Illusionary Armor removed from auto-spellup spells.{x
+{x
+Madness added berserk flag which reduces capability to save vs spells.{x
+Illusionary armor, well, because I wanted to remove it.{x
+~
+Sender  Marduk~
+Date    Sat Nov 12 08:23:16 2011~
+Stamp   1321111396
+To      immortal~
+Subject set char hp/mana/move{x~
+Text
+set char hp/mana/move now set the base_hp (before focus/eq bonuses){x
+you can find that value while statting someone{x
+{x
+hooray finally fixed!{x
+~
+Sender  Marduk~
+Date    Sat Nov 12 08:48:06 2011~
+Stamp   1321112886
+To      all~
+Subject focus Bonuses/Dam/AC{x~
+Text
+* Focus bonuses will now increase as you progress higher in a focus!{x
+* Damroll/AC modifiers adjusted slightly to account for higher numbers.{x
+~
+Sender  Marduk~
+Date    Mon Nov 14 18:28:25 2011~
+Stamp   1321320505
+To      all~
+Subject random pops!{x~
+Text
+* Random objects now pop 3x as often.{x
+* The numbers have been adjusted so the best items still pop at the same rate.{x
+{x
+The change in numbers should allow more moderate equipment to circulate helping{x
+out newer characters (and being useful later when some other{x
+bonuses kick in){x
+~
+Sender  Marduk~
+Date    Tue Nov 15 11:18:29 2011~
+Stamp   1321381109
+To      all~
+Subject corpses / random object flags{x~
+Text
+* Corpses now will show you the tier of the mob you killed.{x
+* Random objects are not always burn proof anymore{x
+* Random objects are not always sacrifice proof anymore{x
+{x
+The presence of the prior two flags is based on the quality of the item popped{x
+and some randomness. Higher quality items ar emore likely to be flagged.{x
+~
+Sender  Marduk~
+Date    Tue Nov 15 11:21:27 2011~
+Stamp   1321381287
+To      all~
+Subject pitting / acid breath stuff{x~
+Text
+* Objects will no longer be pitted when using gas/acid stuff.{x
+~
+Sender  Marduk~
+Date    Tue Nov 15 19:04:53 2011~
+Stamp   1321409093
+To      all~
+Subject Aesir Upgrades{x~
+Text
+* You can now "quest list upgrade / quest buy upgrade" at Urd.{x
+* The upgrade only works on Aesir items.{x
+* Armor gains 10% stats each purchase to a max of 100%{x
+* Weapons gain 20% stats each purchase to a max of 100%{x
+* Armor values are treated as affects, so Odin will get a -55 AC boost, not -165 when fully maxed out.{x
+~
+Sender  Marduk~
+Date    Wed Nov 16 10:06:56 2011~
+Stamp   1321463216
+To      all~
+Subject aesir upgrade{x~
+Text
+* AC upgrades now go on to base AC values.
+ 
+Note that there will be other ways to increase items AC values. So if you
+bought a different piece of Aesir equipment, THAT IS OKAY.
+~
+Sender  Ishamael~
+Date    Thu Nov 17 16:16:21 2011~
+Stamp   1321571781
+To      all~
+Subject Babble Gauntlet{x~
+Text
+In advance of the coming changes to randoms, Babble Gauntlet will no
+longer load 5 random items.  {x new prize is still being discussed but for
+now the gauntlet prize will load as a normal BFB.  {x 
+{x
+{x
+{x
+-Ish{x
+~
+Sender  Marduk~
+Date    Thu Nov 17 18:10:56 2011~
+Stamp   1321578656
+To      all~
+Subject random objects and stuff{x~
+Text
+* Random objects now load with a tier set on them.{x
+* More powerful random objects are harder to wear / more difficult to control.{x
+* You'll notice instead of H or (Humming) you will get h/H/b/B {yHumming / {YHumming / {yBuzzing / {YBuzzing
+{x
+More powerful objects in Asgard are more difficult to control. If you wear an
+object that is above your player level bonus, it will be more and more
+difficult. If an object is {yHumming{x, it is only a little difficult to wear
+it. If an object is {YHumming{x, it is a bit more difficult and so forth.
+ 
+You'll figure it out quickly. This only applies to new random objects
+that are created.
+~
+Sender  Marduk~
+Date    Fri Nov 18 12:44:58 2011~
+Stamp   1321645498
+To      all~
+Subject pk damage and plague{x~
+Text
+* PK Damage now has a modifier in that much more heavily curves big bonuses. This should enable PK to be lively across a significant portion of character strengths.{x
+{x
+* Plague does much less to an opponent who hits 0 mana/moves now.{x
+~
+Sender  Marduk~
+Date    Wed Nov 23 15:30:39 2011~
+Stamp   1322087439
+To      all~
+Subject focus levels{x~
+Text
+* Focus levels now increase 10% each level instead of 15%.{x
+{x
+Happy Thanksgiving!{x
+~
+Sender  Marduk~
+Date    Mon Nov 28 12:01:31 2011~
+Stamp   1322506891
+To      immortal~
+Subject healing pod{x~
+Text
+* Increased hp healing to 5000{x
+* Increased mana healing to 2500{x
+~
+Sender  Marduk~
+Date    Mon Nov 28 17:43:11 2011~
+Stamp   1322527391
+To      all~
+Subject magic resonance damage bonus{x~
+Text
+* the Max +XXX% bonus displayed in focus for Magic Resonance is now approximately correctly.{x
+{x
+There may be something else too, I forget. A bug fix or two perhaps.{x
+~
+Sender  Marduk~
+Date    Fri Dec  2 20:03:32 2011~
+Stamp   1322881412
+To      all~
+Subject Few Things{x~
+Text
+* Mana blast now seeks out vulnerabilities.{x
+Mana blast / Acid blast / Torrents of Flame / Demonfire damage adjusted.{x
+* Focus Sorcery damage bonus now displays correctly.{x
+* Monks do a normal nerve now.{x
+* Monks can hara kiri now.{x
+* Monks and Ninjas do more H2H damage now.{x
+* Saves adjust more for spell level now than more (slightly).{x
+~
+Sender  Marduk~
+Date    Sun Dec  4 13:07:26 2011~
+Stamp   1323029246
+To      all~
+Subject Few More Things{x~
+Text
+* Groups now show levels correctly.{x
+* Focus level bonuses now appear as an announcement.{x
+* HP/Move/Mana are now correct on rerolls.{x
+~
+Sender  Marduk~
+Date    Tue Dec  6 11:26:32 2011~
+Stamp   1323195992
+To      all~
+Subject Combat + Other stuff{x~
+Text
+* Bags don't burn up.{x
+* Resonance doesn't show a # at focus 0 now.{x
+* Crowded fighting = less hits!{x
+{x
+Basically, the more people that are hitting a mob, the less likely{x
+you are to get in your hits.{x
+{x
+This change also redoes how haste/slow and mob attacks are calculated,{x
+so if you notice anything odd please let me know.{x
+I'm sure some adjustments will be necessary.{x
+~
+Sender  Marduk~
+Date    Fri Dec  9 07:49:33 2011~
+Stamp   1323442173
+To      all~
+Subject Mobs and Wizard Eye{x~
+Text
+* Mobs now do 2-3 backstabs instead of 4-5.{x
+* Mobs can be slowed/weakened/dispelled now. Albeit difficultly.{x
+* Wizard Eye is harder to use against players/mobs and provides more feedback.{x
+* Wizard Eye now considers your victims bonus spell level.{x
+* Wizard Eye now does a save check BEFORE doing a displace.{x
+~
+Sender  Marduk~
+Date    Fri Dec  9 18:57:32 2011~
+Stamp   1323482252
+To      all~
+Subject Parry / PK Damroll{x~
+Text
+* Rewrote how parry is performed. You may notice yourself parrying now.{x
+* One of the PK balancing equations was adjusted. Damage may be dropped slightly hitting players.{x
+~
+Sender  Marduk~
+Date    Fri Dec  9 18:58:16 2011~
+Stamp   1323482296
+To      immortal~
+Subject Mob Tier / DT Wiz Errors{x~
+Text
+* Audit mob tier now works.{x
+* DT errors are no longer displayed. The entire function is skipped now.{x
+~
+Sender  Marduk~
+Date    Sat Dec 10 22:23:58 2011~
+Stamp   1323581038
+To      all~
+Subject Wizard Eye{x~
+Text
+* Displace now sends a successful wizeye to a random room on the mud.{x
+* Detect location now allows the possibility of tracing a failed wizeye back to the caster.{x
+* Wizeye now gives a notification to everyone in the room.{x
+{x
+- Wizeye is cast with a spellcheck against 1.5*spell_level of the target.{x
+- The detect location return surge is checked against a 2*spell_level of the original caster.{x
+~
+Sender  Ishamael~
+Date    Tue Dec 13 16:33:26 2011~
+Stamp   1323819206
+To      all~
+Subject Recall Points{x~
+Text
+Be warned, recall points have changed if you are exploring the underground areas.{x
+{x
+{x
+Ish{x
+~
+Sender  Marduk~
+Date    Tue Dec 13 16:41:39 2011~
+Stamp   1323819699
+To      all~
+Subject Pets in PK{x~
+Text
+* Pet's now get the same reduction players get if in PK.{x
+{x
+That is all for the moment. (besides the prior recall message).{x
+~
+Sender  Marduk~
+Date    Tue Dec 13 20:47:45 2011~
+Stamp   1323834465
+To      all~
+Subject Mob Attacks, Dragon Randoms, Arena{x~
+Text
+* Mobs will hit less at lower levels now. And also have a little more variety in their attacks.{x
+* Dragon random items won't pop mud crashing items now.{x
+* You can't arena across continents anymore. It's too far away!{x
+~
+Sender  Marduk~
+Date    Wed Dec 14 06:54:31 2011~
+Stamp   1323870871
+To      all~
+Subject recent crashes{x~
+Text
+* They're fixed.{x
+{x
+{x
+* It was related to monks trying to block attacks without having a weapon.{x
+~
+Sender  Marduk~
+Date    Wed Dec 14 16:02:14 2011~
+Stamp   1323903734
+To      all~
+Subject Summon, Acid Blast{x~
+Text
+* Acid blast damage has been increased.{x
+* Summon now considers the distance your target is away.{x
+~
+Sender  Marduk~
+Date    Sat Dec 17 07:21:26 2011~
+Stamp   1324131686
+To      all~
+Subject Haste / Mobs / Mass Heal{x~
+Text
+* You can now haste fast mobs.{x
+* Mobs may have 1 less hit than normal now.{x
+* Mass heal now heals group members (including NPCs){x
+~
+Sender  Marduk~
+Date    Thu Dec 22 18:19:36 2011~
+Stamp   1324603176
+To      all~
+Subject Mob Commands, Shopkeepers.{x~
+Text
+* Shopkeepers drop a certain amount of cash now (0) if they die somehow.{x
+* The commands a mob can do is a bit more restricted now. Let's prevent some crashes.{x
+~
+Sender  Marduk~
+Date    Mon Jan  2 19:24:30 2012~
+Stamp   1325557470
+To      all~
+Subject Equipment Bonus Levels{x~
+Text
+* "equipment" now lists how many bonuses levels are in use.  Let me know
+of anything odd.  Thanks!  {x 
+~
+Sender  Ishamael~
+Date    Thu Jan 12 17:57:36 2012~
+Stamp   1326416256
+To      all~
+Subject {YNEW SKILL:{x SLASH{x~
+Text
+Fork was effectively useless for the fade class and has been removed.{x
+In place fades, now get SLASH an interround skill using a sword.{x
+Using their knowledge of dark arts, fades will find the affects of a slash are greater if the sword is flaming or poison or both.{x
+Think of this quick strike as a form of a maledict, your opponent will see a significant hit to regen if your sword has the above mentioned flags.{x
+{x
+{x
+Fades note me with any issues. More to follow{x
+{x
+{x
+~
+Sender  Ishamael~
+Date    Sat Jan 14 12:38:02 2012~
+Stamp   1326569882
+To      all~
+Subject Variety of Changes{x~
+Text
+Fades: Slash is now known as "Demonic Slash" but still uses keyword slash.{x
+Fades: Summon minion is now available at level 101, pretty self explanatory.  As your magic levels increase, stronger minions will appear at your call.{x
+Charm: Max number of charmed pets has been dropped to 2.  {x
+Conjure: To compensate chars for the loss of a pet, cojured pets stats now increase based on your spell bonus level.{x
+Hara: Your regen will now increase based on your overall bonus level.{x
+Demonic Slash part 2: negative effects on your target will now increase based on your spell bonus level.{x
+{x
+{x
+note me if you see any issues with these changes{x
+~
+Sender  Ishamael~
+Date    Sun Jan 29 00:44:06 2012~
+Stamp   1327797846
+To      all~
+Subject Barbarians{x~
+Text
+1 more thing i forgot{x
+barbs also get advanced mace{x
+~

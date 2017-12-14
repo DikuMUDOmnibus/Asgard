@@ -1,0 +1,23 @@
+[{wNico        {B] {yJul 23: {wremove rounding on give/receive plat from 50000
+[{wNico        {B] {yJul 23: {wbackstab dam worse than circle
+[{wNico        {B] {yJul 23: {wairians frost giant dex maxed out at 18/20 (y/blue)
+[{wNico        {B] {yJul 25: {wassassinate vs mobs like vs players
+[{wNico        {B] {yJul 26: {w-moves for coule (works on neg)
+[{wNico        {B] {yJul 27: {wheadcut doesn't check dr and weapontype (e.g. 2h should be stronger)
+[{wNico        {B] {yJul 28: {wchain lightning and so on=spam kill(causes target to autoattack) if spawn=death site
+[{wNico        {B] {yJul 28: {wconsider a general no-kill time after pkills or sockets on pkhist table?
+[{wNico        {B] {yJul 28: {wrescue tweaks-stop player being attacked for a bit
+[{wNico        {B] {yJul 28: {wpetition summary on login
+[{wNico        {B] {yJul 31: {wdimension walk w/ pet forces other person to look
+[{wNico        {B] {yJul 31: {wand spams several times if target is same room
+[{wNico        {B] {yJul 31: {wgrenado "you tosses a grenado"
+[{wSkahld      {B] {yAug  4: {wprismatic spray adds slow affect to perm equipment list and must die to remove
+[{wSkahld      {B] {yAug  4: {wconsider reducing resist/vuln affect percentages a bit and possibly cap
+[{wSkahld      {B] {yAug  4: {wRoom Flag - No Gate(all types) / No Teleport effect
+[{wSkahld      {B] {yAug  4: {wHunger/Thirst Immunity Carry Over with Reroll
+[{wNico        {B] {yAug 16: {wcustom resist/vuln % system
+[{wNico        {B] {yAug 18: {wup clan eq stat max
+[{wNico        {B] {yAug 24: {wcheck for > rather than >= in mprog list code
+[{wSkahld      {B] {yAug 31: {wOLC Item Save Message olc_save: Invalid Affect->where Museum VNUM OBJ 4287 
+[{wNico        {B] {yNov  8: {wclan mob names can block players from logging in!
+[{wRoivas      {B] {yNov 13: {wNewbie pack is saccable?

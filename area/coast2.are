@@ -1,0 +1,3699 @@
+#AREADATA
+Name Coastline of K'rat~
+Builders Unlinked Ishamael~
+VNUMs 74000 74199
+Continent 3
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#74000
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D1
+~
+~
+0 0 74001
+D2
+~
+~
+0 0 74010
+S
+#74001
+In the Surf~
+The blue waters of the ocean splash around your feet as you continue
+walking through the surf.  The soggy sand squishes with every step as the
+sound crashing waves fills the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 74002
+D2
+~
+~
+0 0 74011
+D3
+~
+~
+0 0 74000
+S
+#74002
+In the Surf~
+The coastline is littered with long strands of seaweed as the surf tosses
+it haphazardly onto the sand.  The dark wet sand pulls at your feet with
+every step on the beach.  
+~
+0 0 0
+D1
+~
+~
+0 0 74003
+D2
+~
+~
+0 0 74012
+D3
+~
+~
+0 0 74001
+S
+#74003
+In the Surf~
+The water foams and rushes the beach as waves break near the coast.  The
+tangle of green seaweed and the dark wet sand only minorly hinder your
+travel along the coastline.  
+~
+0 0 0
+D1
+~
+~
+0 0 74004
+D2
+~
+~
+0 0 74013
+D3
+~
+~
+0 0 74002
+S
+#74004
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D1
+~
+~
+0 0 74005
+D2
+~
+~
+0 0 74014
+D3
+~
+~
+0 0 74003
+S
+#74005
+In the Surf~
+The coastline is littered with long strands of seaweed as the surf tosses
+it haphazardly onto the sand.  The dark wet sand pulls at your feet with
+every step on the beach.  
+~
+0 0 0
+D1
+~
+~
+0 0 74006
+D2
+~
+~
+0 0 74015
+D3
+~
+~
+0 0 74004
+S
+#74006
+In the Surf~
+The surf rushes onto the coastline as the sound of crashing waves
+surround you.  Seaweed wraps around your feet as it rushes in on the
+incoming surf.  A small ramp runs up to small wooden pier to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73016
+D2
+~
+~
+0 0 74016
+D3
+~
+~
+0 0 74005
+S
+#74007
+In the Surf~
+The water rushes onto the shore splashing up against wooden ramp to the
+west the connects to the pier.  The west sand pulls at your feet as you slog
+through the seaweed and muck.  
+~
+0 0 0
+D1
+~
+~
+0 0 74008
+D3
+~
+~
+0 0 73063
+S
+#74008
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D1
+~
+~
+0 0 74009
+D2
+~
+~
+0 0 74017
+D3
+~
+~
+0 0 74007
+S
+#74009
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D1
+~
+~
+0 0 74010
+D2
+~
+~
+0 0 74018
+D3
+~
+~
+0 0 74008
+S
+#74010
+On the Beach~
+The grainy sand of the beach shifts beneath your feet with every step as
+the mainland of K'Rat looms off in the distance.  Loud squawking from the
+gulls above can be hear over the din of the crashing waves of the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 74000
+D1
+~
+~
+0 0 74011
+D2
+~
+~
+0 0 74019
+D3
+~
+~
+0 0 74009
+S
+#74011
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74001
+D1
+~
+~
+0 0 74012
+D2
+~
+~
+0 0 74020
+D3
+~
+~
+0 0 74010
+S
+#74012
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74002
+D1
+~
+~
+0 0 74013
+D2
+~
+~
+0 0 74021
+D3
+~
+~
+0 0 74011
+S
+#74013
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74003
+D1
+~
+~
+0 0 74014
+D3
+~
+~
+0 0 74012
+S
+#74014
+On the Beach~
+The tall trees of the forest to the south provide some shade on the
+beach.  As you glance around, you notice the beach extends far to the west
+and the sea to the north appears to be endless as it stretches to the
+horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74004
+D1
+~
+~
+0 0 74015
+D3
+~
+~
+0 0 74013
+S
+#74015
+On the Beach~
+The white sands of the beach lead back to a dense forest to the south. 
+To the north you notice a wooden pier as the only bit of color beyond the
+beach as the ocean extends to the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74005
+D1
+~
+~
+0 0 74016
+D3
+~
+~
+0 0 74014
+S
+#74016
+On a Sandy Beach~
+The sound of the surf to the north echoes throughout the area.  The sand
+here is warm beneath your feet as a small wooden ramp leaps up to the a
+wooden pier to the east.  To the south a small path runs away from the beach
+towards the heart of the island.  
+~
+0 0 0
+D0
+~
+~
+0 0 74006
+D1
+~
+~
+0 0 73017
+D2
+~
+~
+0 0 73019
+D3
+~
+~
+0 0 74015
+S
+#74017
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74008
+D1
+~
+~
+0 0 74018
+D2
+~
+~
+0 0 74022
+S
+#74018
+On the Beach~
+The coastline of K'Rat extends around the forest of the mainland, giving
+you glimpses of the overall geography.  The white sandy beach extends for
+miles around you as waves crash ineffectually against it.  
+~
+0 0 0
+D0
+~
+~
+0 0 74009
+D1
+~
+~
+0 0 74019
+D2
+~
+~
+0 0 74023
+D3
+~
+~
+0 0 74017
+S
+#74019
+On the Beach~
+The sandy beach continues back to a thick forest to the south.  The sound
+of waves crashing fills the area as the water to the north fills the
+horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74010
+D1
+~
+~
+0 0 74020
+D3
+~
+~
+0 0 74018
+S
+#74020
+On the Beach~
+The white sands of the beach extend to a dense tangle of a forest to the
+south. To the north the dark sea extends out to the horizon.
+~
+0 0 0
+D0
+~
+~
+0 0 74011
+D1
+~
+~
+0 0 74021
+D3
+~
+~
+0 0 74019
+S
+#74021
+On the Beach~
+The grainy sand of the beach shifts beneath your feet with every step as
+the mainland of K'Rat looms off in the distance.  Loud squawking from the
+gulls above can be hear over the din of the crashing waves of the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 74012
+D3
+~
+~
+0 0 74020
+S
+#74022
+On the Beach~
+The warm sand of the coastline extends back to a tangle of underbrush to
+the west.  To the south a small staircase leads up to a wooden pier.  
+~
+0 0 0
+D0
+~
+~
+0 0 74017
+D1
+~
+~
+0 0 74023
+D2
+~
+~
+0 0 73056
+S
+#74023
+Edge of the Beach~
+The area is part beach and part grass as the dunes almost extend back
+into the forest.  To the north the dark sea extends as far as the eye can
+see.  
+~
+0 0 0
+D0
+~
+~
+0 0 74018
+D3
+~
+~
+0 0 74022
+S
+#74024
+On the Beach~
+The white sands of the beach are warm from the bright sun high overhead. 
+The beach continues to the south as a small ramp to the north leads up to a
+wooden pier.  
+~
+0 0 0
+D0
+~
+~
+0 0 73014
+D1
+~
+~
+0 0 74025
+D2
+~
+~
+0 0 74026
+S
+#74025
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D2
+~
+~
+0 0 74027
+D3
+~
+~
+0 0 74024
+S
+#74026
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74024
+D1
+~
+~
+0 0 74027
+D2
+~
+~
+0 0 74028
+S
+#74027
+In the Surf~
+Small clams rush to burrow deep into the sand as the outgoing tide strips
+away their hiding places.  The dark sea extends for miles as you spot a
+large volcano out to the east near the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74025
+D2
+~
+~
+0 0 74029
+D3
+~
+~
+0 0 74026
+S
+#74028
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74026
+D1
+~
+~
+0 0 74029
+D2
+~
+~
+0 0 74030
+S
+#74029
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74027
+D2
+~
+~
+0 0 74031
+D3
+~
+~
+0 0 74028
+S
+#74030
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74028
+D1
+~
+~
+0 0 74031
+D2
+~
+~
+0 0 74033
+S
+#74031
+In the Surf~
+The surf rushes onto the beach foaming slightly as it rushes over the
+sand.  Dark tangles of seaweed are visible in the waves as it comes assure
+and litters the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74029
+D2
+~
+~
+0 0 74034
+D3
+~
+~
+0 0 74030
+S
+#74032
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74033
+D2
+~
+~
+0 0 74035
+S
+#74033
+On the Beach~
+The coastline of K'Rat extends around the forest of the mainland, giving
+you glimpses of the overall geography.  The white sandy beach extends for
+miles around you as waves crash ineffectually against it.  
+~
+0 0 0
+D0
+~
+~
+0 0 74030
+D1
+~
+~
+0 0 74034
+D2
+~
+~
+0 0 74036
+D3
+~
+~
+0 0 74032
+S
+#74034
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74031
+D2
+~
+~
+0 0 74037
+D3
+~
+~
+0 0 74033
+S
+#74035
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74032
+D1
+~
+~
+0 0 74036
+D2
+~
+~
+0 0 74038
+S
+#74036
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74033
+D1
+~
+~
+0 0 74037
+D2
+~
+~
+0 0 73092
+D3
+~
+~
+0 0 74035
+S
+#74037
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74034
+D1
+~
+~
+0 0 73095
+D2
+~
+~
+0 0 73093
+D3
+~
+~
+0 0 74036
+S
+#74038
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74035
+D1
+~
+~
+0 0 73092
+D2
+~
+~
+0 0 74039
+S
+#74039
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74038
+D1
+~
+~
+0 0 73091
+D2
+~
+~
+0 0 73089
+S
+#74040
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73096
+D1
+~
+~
+0 0 74041
+D2
+~
+~
+0 0 74043
+D3
+~
+~
+0 0 73094
+S
+#74041
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73097
+D2
+~
+~
+0 0 74044
+D3
+~
+~
+0 0 74040
+S
+#74042
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73094
+D1
+~
+~
+0 0 74043
+D2
+~
+~
+0 0 74045
+S
+#74043
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74040
+D1
+~
+~
+0 0 74044
+D2
+~
+~
+0 0 74046
+D3
+~
+~
+0 0 74042
+S
+#74044
+~
+~
+0 4 0
+D0
+~
+~
+0 0 74041
+D2
+~
+~
+0 0 74047
+D3
+~
+~
+0 0 74043
+S
+#74045
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74042
+D1
+~
+~
+0 0 74046
+D2
+~
+~
+0 0 74048
+S
+#74046
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74043
+D1
+~
+~
+0 0 74047
+D2
+~
+~
+0 0 74049
+D3
+~
+~
+0 0 74045
+S
+#74047
+In the Surf~
+Small clams rush to burrow deep into the sand as the outgoing tide strips
+away their hiding places.  The dark sea extends for miles as you spot a
+large volcano out to the east near the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74044
+D2
+~
+~
+0 0 74050
+D3
+~
+~
+0 0 74046
+S
+#74048
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74045
+D1
+~
+~
+0 0 74049
+D2
+~
+~
+0 0 74051
+S
+#74049
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74046
+D1
+~
+~
+0 0 74050
+D2
+~
+~
+0 0 74052
+D3
+~
+~
+0 0 74048
+S
+#74050
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D0
+~
+~
+0 0 74047
+D2
+~
+~
+0 0 74053
+D3
+~
+~
+0 0 74049
+S
+#74051
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74048
+D1
+~
+~
+0 0 74052
+D2
+~
+~
+0 0 74054
+S
+#74052
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74049
+D1
+~
+~
+0 0 74053
+D2
+~
+~
+0 0 74055
+D3
+~
+~
+0 0 74051
+S
+#74053
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 74050
+D2
+~
+~
+0 0 74056
+D3
+~
+~
+0 0 74052
+S
+#74054
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74051
+D1
+~
+~
+0 0 74055
+S
+#74055
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74052
+D1
+~
+~
+0 0 74056
+D2
+~
+~
+0 0 74057
+D3
+~
+~
+0 0 74054
+S
+#74056
+In the Surf~
+The coastline is littered with long strands of seaweed as the surf tosses
+it haphazardly onto the sand.  The dark wet sand pulls at your feet with
+every step on the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74053
+D2
+~
+~
+0 0 74058
+D3
+~
+~
+0 0 74055
+S
+#74057
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74055
+D1
+~
+~
+0 0 74058
+D2
+~
+~
+0 0 74059
+S
+#74058
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74056
+D2
+~
+~
+0 0 74060
+D3
+~
+~
+0 0 74057
+S
+#74059
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74057
+D1
+~
+~
+0 0 74060
+D2
+~
+~
+0 0 74061
+S
+#74060
+In the Surf~
+The surf rushes onto the beach foaming slightly as it rushes over the
+sand.  Dark tangles of seaweed are visible in the waves as it comes assure
+and litters the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74058
+D2
+~
+~
+0 0 74062
+D3
+~
+~
+0 0 74059
+S
+#74061
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74059
+D1
+~
+~
+0 0 74062
+D2
+~
+~
+0 0 74064
+S
+#74062
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74060
+D2
+~
+~
+0 0 74065
+D3
+~
+~
+0 0 74061
+S
+#74063
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74064
+D2
+~
+~
+0 0 74066
+S
+#74064
+On the Beach~
+The coastline of K'Rat extends around the forest of the mainland, giving
+you glimpses of the overall geography.  The white sandy beach extends for
+miles around you as waves crash ineffectually against it.  
+~
+0 0 0
+D0
+~
+~
+0 0 74061
+D1
+~
+~
+0 0 74065
+D2
+~
+~
+0 0 74067
+D3
+~
+~
+0 0 74063
+S
+#74065
+In the Surf~
+Small clams rush to burrow deep into the sand as the outgoing tide strips
+away their hiding places.  The dark sea extends for miles as you spot a
+large volcano out to the east near the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74062
+D2
+~
+~
+0 0 74068
+D3
+~
+~
+0 0 74064
+S
+#74066
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74063
+D1
+~
+~
+0 0 74067
+D2
+~
+~
+0 0 74069
+S
+#74067
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74064
+D1
+~
+~
+0 0 74068
+D2
+~
+~
+0 0 73110
+D3
+~
+~
+0 0 74066
+S
+#74068
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74065
+D2
+~
+~
+0 0 73111
+D3
+~
+~
+0 0 74067
+S
+#74069
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74066
+D1
+~
+~
+0 0 73110
+D2
+~
+~
+0 0 73108
+S
+#74070
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73111
+D2
+~
+~
+0 0 74073
+D3
+~
+~
+0 0 73109
+S
+#74071
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73108
+D1
+~
+~
+0 0 74072
+D2
+~
+~
+0 0 74074
+D3
+~
+~
+0 0 73106
+S
+#74072
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74073
+D2
+~
+~
+0 0 74075
+D3
+~
+~
+0 0 74071
+S
+#74073
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 74070
+D2
+~
+~
+0 0 74076
+D3
+~
+~
+0 0 74072
+S
+#74074
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74071
+D1
+~
+~
+0 0 74075
+D2
+~
+~
+0 0 74077
+S
+#74075
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74072
+D1
+~
+~
+0 0 74076
+D2
+~
+~
+0 0 74078
+D3
+~
+~
+0 0 74074
+S
+#74076
+In the Surf~
+The water foams and rushes the beach as waves break near the coast.  The
+tangle of green seaweed and the dark wet sand only minorly hinder your
+travel along the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74073
+D2
+~
+~
+0 0 74079
+D3
+~
+~
+0 0 74075
+S
+#74077
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74074
+D1
+~
+~
+0 0 74078
+D2
+~
+~
+0 0 74080
+S
+#74078
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74075
+D1
+~
+~
+0 0 74079
+D2
+~
+~
+0 0 74081
+D3
+~
+~
+0 0 74077
+S
+#74079
+In the Surf~
+The coastline is littered with long strands of seaweed as the surf tosses
+it haphazardly onto the sand.  The dark wet sand pulls at your feet with
+every step on the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74076
+D2
+~
+~
+0 0 74082
+D3
+~
+~
+0 0 74078
+S
+#74080
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74077
+D1
+~
+~
+0 0 74081
+S
+#74081
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74078
+D1
+~
+~
+0 0 74082
+D2
+~
+~
+0 0 74083
+D3
+~
+~
+0 0 74080
+S
+#74082
+In the Surf~
+The blue waters of the ocean splash around your feet as you continue
+walking through the surf.  The soggy sand squishes with every step as the
+sound crashing waves fills the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 74079
+D2
+~
+~
+0 0 74084
+D3
+~
+~
+0 0 74081
+S
+#74083
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74081
+D1
+~
+~
+0 0 74084
+D2
+~
+~
+0 0 74087
+S
+#74084
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D0
+~
+~
+0 0 74082
+D3
+~
+~
+0 0 74083
+S
+#74085
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74086
+D2
+~
+~
+0 0 74088
+D3
+~
+~
+0 0 73143
+S
+#74086
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74087
+D2
+~
+~
+0 0 74089
+D3
+~
+~
+0 0 74085
+S
+#74087
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74083
+D2
+~
+~
+0 0 74090
+D3
+~
+~
+0 0 74086
+S
+#74088
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74085
+D1
+~
+~
+0 0 74089
+D3
+~
+~
+0 0 73144
+S
+#74089
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74086
+D1
+~
+~
+0 0 74090
+D2
+~
+~
+0 0 74091
+D3
+~
+~
+0 0 74088
+S
+#74090
+In the Surf~
+The surf rushes onto the beach foaming slightly as it rushes over the
+sand.  Dark tangles of seaweed are visible in the waves as it comes assure
+and litters the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74087
+D2
+~
+~
+0 0 74092
+D3
+~
+~
+0 0 74089
+S
+#74091
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74089
+D1
+~
+~
+0 0 74092
+D2
+~
+~
+0 0 73148
+D3
+~
+~
+0 0 73146
+S
+#74092
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74090
+D2
+~
+~
+0 0 73149
+D3
+~
+~
+0 0 74091
+S
+#74093
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74094
+D2
+~
+~
+0 0 74097
+S
+#74094
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74095
+D2
+~
+~
+0 0 74098
+D3
+~
+~
+0 0 74093
+S
+#74095
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73147
+D1
+~
+~
+0 0 74096
+D2
+~
+~
+0 0 74099
+D3
+~
+~
+0 0 74094
+S
+#74096
+~
+~
+0 0 0
+D0
+~
+~
+0 0 73148
+D1
+~
+~
+0 0 73150
+D2
+~
+~
+0 0 74100
+D3
+~
+~
+0 0 74095
+S
+#74097
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74093
+D1
+~
+~
+0 0 74098
+D2
+~
+~
+0 0 74101
+S
+#74098
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74094
+D1
+~
+~
+0 0 74099
+D2
+~
+~
+0 0 74102
+D3
+~
+~
+0 0 74097
+S
+#74099
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74095
+D1
+~
+~
+0 0 74100
+D2
+~
+~
+0 0 74103
+D3
+~
+~
+0 0 74098
+S
+#74100
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74096
+D1
+~
+~
+0 0 73151
+D2
+~
+~
+0 0 74104
+D3
+~
+~
+0 0 74099
+S
+#74101
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74097
+D1
+~
+~
+0 0 74102
+D2
+~
+~
+0 0 73182
+D3
+~
+~
+0 0 73180
+S
+#74102
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74098
+D1
+~
+~
+0 0 74103
+D2
+~
+~
+0 0 74105
+D3
+~
+~
+0 0 74101
+S
+#74103
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74099
+D1
+~
+~
+0 0 74104
+D2
+~
+~
+0 0 74106
+D3
+~
+~
+0 0 74102
+S
+#74104
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74100
+D2
+~
+~
+0 0 74107
+D3
+~
+~
+0 0 74103
+S
+#74105
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74102
+D1
+~
+~
+0 0 74106
+D3
+~
+~
+0 0 73182
+S
+#74106
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 74103
+D1
+~
+~
+0 0 74107
+D3
+~
+~
+0 0 74105
+S
+#74107
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D0
+~
+~
+0 0 74104
+D3
+~
+~
+0 0 74106
+S
+#74108
+On the Beach~
+The warm sand of the coastline extends back to a tangle of underbrush to
+the north.  To the south a small staircase leads up to the wooden pier.  
+~
+0 0 0
+D1
+~
+~
+0 0 74109
+D2
+~
+~
+0 0 73171
+S
+#74109
+On the Beach~
+The white sands of the beach extend to a dense tangle of a forest to the
+north.  To the south the blue sea extends out to the horizon.  
+~
+0 0 0
+D1
+~
+~
+0 0 74110
+D2
+~
+~
+0 0 74112
+D3
+~
+~
+0 0 74108
+S
+#74110
+On the Beach~
+The white sands of the beach backup to a dense tangle of the forest.  To
+the south the beach extends to the blue waters of the sea.  
+~
+0 0 0
+D1
+~
+~
+0 0 74111
+D2
+~
+~
+0 0 74113
+D3
+~
+~
+0 0 74109
+S
+#74111
+On the Beach~
+The sands of the beach end to the north in an unpassable tangle of the
+forest.  To the east a small wooden ramp leads up onto a pier, to the south
+you can see the blue waters of the sea in the distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 73186
+D2
+~
+~
+0 0 74114
+D3
+~
+~
+0 0 74110
+S
+#74112
+On the Beach~
+The white sands of the beach extend from the surf of the sea to the
+north.  To the west a small wooden ramp leads up to a wooden pier.  
+~
+0 0 0
+D0
+~
+~
+0 0 74109
+D1
+~
+~
+0 0 74113
+D2
+~
+~
+0 0 74115
+D3
+~
+~
+0 0 73171
+S
+#74113
+On the Beach~
+The warmth of the sun heats the white sand beneath your feet.  The sea
+can be seen off to the south as a tall forest looms in the area to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 74110
+D1
+~
+~
+0 0 74114
+D2
+~
+~
+0 0 74116
+D3
+~
+~
+0 0 74112
+S
+#74114
+On the Beach~
+The white sands of the beach extend from the surf of the sea to the
+north.  To the east a small wooden ramp leads up to a wooden pier.  
+~
+0 0 0
+D0
+~
+~
+0 0 74111
+D1
+~
+~
+0 0 73187
+D2
+~
+~
+0 0 74117
+D3
+~
+~
+0 0 74113
+S
+#74115
+In the Surf~
+The water rushes onto the shore splashing up against wooden ramp to the
+west the connects to the pier.  The west sand pulls at your feet as you slog
+through the seaweed and muck.  
+~
+0 0 0
+D0
+~
+~
+0 0 74112
+D1
+~
+~
+0 0 74116
+D3
+~
+~
+0 0 73171
+S
+#74116
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D0
+~
+~
+0 0 74113
+D1
+~
+~
+0 0 74117
+D3
+~
+~
+0 0 74115
+S
+#74117
+In the Surf~
+The water rushes onto the shore splashing up against wooden ramp to the
+east that connects to the pier.  The wet sand pulls at your feet as you slog
+through the seaweed and muck.  
+~
+0 0 0
+D0
+~
+~
+0 0 74114
+D1
+~
+~
+0 0 73188
+D3
+~
+~
+0 0 74116
+S
+#74118
+End of the Beach~
+The sandy beach ends to the east as a massive cliff towers over the area
+and a impassable rock jetty juts out to the south The sound of crashing
+waves on the jetty fills the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 74119
+S
+#74119
+On the Beach~
+The white sand continues to the base of the cliff to the east as large
+gulls circle overhead.  The smell of salt fills the air as the beach
+stretches for miles to the north and the sea to west dominates the horizon. 
+~
+0 0 0
+D0
+~
+~
+0 0 74121
+D2
+~
+~
+0 0 74118
+D3
+~
+~
+0 0 74120
+S
+#74120
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D0
+~
+~
+0 0 74122
+D1
+~
+~
+0 0 74119
+S
+#74121
+On the Beach~
+The sound of roaring sea to the west echos off the eastern walls of the
+high cliff.  The white sands are spotted green with the remains of dried out
+seaweed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74123
+D2
+~
+~
+0 0 74119
+D3
+~
+~
+0 0 74122
+S
+#74122
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74124
+D1
+~
+~
+0 0 74121
+D2
+~
+~
+0 0 74120
+S
+#74123
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74126
+D2
+~
+~
+0 0 74121
+D3
+~
+~
+0 0 74124
+S
+#74124
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74127
+D1
+~
+~
+0 0 74123
+D2
+~
+~
+0 0 74122
+D3
+~
+~
+0 0 74125
+S
+#74125
+In the Surf~
+The surf rushes onto the beach foaming slightly as it rushes over the
+sand.  Dark tangles of seaweed are visible in the waves as it comes assure
+and litters the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74128
+D1
+~
+~
+0 0 74124
+S
+#74126
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74129
+D2
+~
+~
+0 0 74123
+D3
+~
+~
+0 0 74127
+S
+#74127
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74130
+D1
+~
+~
+0 0 74126
+D2
+~
+~
+0 0 74124
+D3
+~
+~
+0 0 74128
+S
+#74128
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74131
+D1
+~
+~
+0 0 74127
+D2
+~
+~
+0 0 74125
+S
+#74129
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74133
+D2
+~
+~
+0 0 74126
+D3
+~
+~
+0 0 74130
+S
+#74130
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74134
+D1
+~
+~
+0 0 74129
+D2
+~
+~
+0 0 74127
+D3
+~
+~
+0 0 74131
+S
+#74131
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74135
+D1
+~
+~
+0 0 74130
+D2
+~
+~
+0 0 74128
+D3
+~
+~
+0 0 74132
+S
+#74132
+In the Surf~
+The water foams and rushes the beach as waves break near the coast.  The
+tangle of green seaweed and the dark wet sand only minorly hinder your
+travel along the coastline.  
+~
+0 0 0
+D0
+~
+~
+0 0 74136
+D1
+~
+~
+0 0 74131
+S
+#74133
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74137
+D2
+~
+~
+0 0 74129
+D3
+~
+~
+0 0 74134
+S
+#74134
+On the Beach~
+The grainy sand of the beach shifts beneath your feet with every step as
+the mainland of K'Rat looms off in the distance.  Loud squawking from the
+gulls above can be hear over the din of the crashing waves of the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 74138
+D1
+~
+~
+0 0 74133
+D2
+~
+~
+0 0 74130
+D3
+~
+~
+0 0 74135
+S
+#74135
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74139
+D1
+~
+~
+0 0 74134
+D2
+~
+~
+0 0 74131
+D3
+~
+~
+0 0 74136
+S
+#74136
+In the Surf~
+The coastline is littered with long strands of seaweed as the surf tosses
+it haphazardly onto the sand.  The dark wet sand pulls at your feet with
+every step on the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74140
+D1
+~
+~
+0 0 74135
+D2
+~
+~
+0 0 74132
+S
+#74137
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74141
+D2
+~
+~
+0 0 74133
+D3
+~
+~
+0 0 74138
+S
+#74138
+On the Beach~
+Grains of sand swirl around in the wind as the sound of crashing waves
+fills the area.  To the east you can see a rocky cliff towering over the
+beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74142
+D1
+~
+~
+0 0 74137
+D2
+~
+~
+0 0 74134
+D3
+~
+~
+0 0 74139
+S
+#74139
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74143
+D1
+~
+~
+0 0 74138
+D2
+~
+~
+0 0 74135
+D3
+~
+~
+0 0 74140
+S
+#74140
+In the Surf~
+The blue waters of the ocean splash around your feet as you continue
+walking through the surf.  The soggy sand squishes with every step as the
+sound crashing waves fills the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 74144
+D1
+~
+~
+0 0 74139
+D2
+~
+~
+0 0 74136
+S
+#74141
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74152
+D2
+~
+~
+0 0 74137
+D3
+~
+~
+0 0 74142
+S
+#74142
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74146
+D1
+~
+~
+0 0 74141
+D2
+~
+~
+0 0 74138
+D3
+~
+~
+0 0 74143
+S
+#74143
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74147
+D1
+~
+~
+0 0 74142
+D2
+~
+~
+0 0 74139
+D3
+~
+~
+0 0 74144
+S
+#74144
+In the Surf~
+The ocean waters splash against the sandy beach, constantly swirling in
+and rushing out with the tide.  The wet sand slows down travel as you trudge
+around the coastline of the island.  
+~
+0 0 0
+D1
+~
+~
+0 0 74143
+D2
+~
+~
+0 0 74140
+S
+#74145
+~
+~
+0 0 0
+D2
+~
+~
+0 0 74141
+D3
+~
+~
+0 0 74146
+S
+#74146
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74153
+D1
+~
+~
+0 0 74145
+D2
+~
+~
+0 0 74142
+D3
+~
+~
+0 0 74147
+S
+#74147
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 74146
+D2
+~
+~
+0 0 74143
+S
+#74148
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74154
+D3
+~
+~
+0 0 74149
+S
+#74149
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74155
+D1
+~
+~
+0 0 74148
+D3
+~
+~
+0 0 74150
+S
+#74150
+On the Beach~
+The white sands of the beach lead up to the rocky cliffs of the island. 
+The sea to the north looks calm and tranquil as it extends to the horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 74156
+D1
+~
+~
+0 0 74149
+D3
+~
+~
+0 0 74151
+S
+#74151
+On the Beach~
+The southern cliff casts a large shadow over the beach, shading the sands
+from the hot sun.  The sound of waves crashing echoes off the cliffs as
+gulls circle overhead.  
+~
+0 0 0
+D0
+~
+~
+0 0 74157
+D1
+~
+~
+0 0 74150
+D3
+~
+~
+0 0 74152
+S
+#74152
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74158
+D1
+~
+~
+0 0 74151
+D2
+~
+~
+0 0 74141
+D3
+~
+~
+0 0 74153
+S
+#74153
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D1
+~
+~
+0 0 74152
+D2
+~
+~
+0 0 74146
+S
+#74154
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74163
+D2
+~
+~
+0 0 74148
+D3
+~
+~
+0 0 74155
+S
+#74155
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74164
+D1
+~
+~
+0 0 74154
+D2
+~
+~
+0 0 74149
+D3
+~
+~
+0 0 74156
+S
+#74156
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74165
+D1
+~
+~
+0 0 74155
+D2
+~
+~
+0 0 74150
+D3
+~
+~
+0 0 74157
+S
+#74157
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74166
+D1
+~
+~
+0 0 74156
+D2
+~
+~
+0 0 74151
+D3
+~
+~
+0 0 74158
+S
+#74158
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74157
+D2
+~
+~
+0 0 74152
+S
+#74159
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74167
+D3
+~
+~
+0 0 74160
+S
+#74160
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74168
+D1
+~
+~
+0 0 74159
+D3
+~
+~
+0 0 74161
+S
+#74161
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74169
+D1
+~
+~
+0 0 74160
+D3
+~
+~
+0 0 74162
+S
+#74162
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74170
+D1
+~
+~
+0 0 74161
+D3
+~
+~
+0 0 74163
+S
+#74163
+On the Beach~
+The sand glitters in the sun as if the grains were tiny diamonds.  Dried
+out seaweed and bits of broken shells provide some color to the otherwise
+white sands of the beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 74171
+D1
+~
+~
+0 0 74162
+D2
+~
+~
+0 0 74154
+D3
+~
+~
+0 0 74164
+S
+#74164
+On the Beach~
+The grainy sand of the beach shifts beneath your feet with every step as
+the mainland of K'Rat looms off in the distance.  Loud squawking from the
+gulls above can be hear over the din of the crashing waves of the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 74172
+D1
+~
+~
+0 0 74163
+D2
+~
+~
+0 0 74155
+D3
+~
+~
+0 0 74165
+S
+#74165
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74173
+D1
+~
+~
+0 0 74164
+D2
+~
+~
+0 0 74156
+D3
+~
+~
+0 0 74166
+S
+#74166
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74165
+D2
+~
+~
+0 0 74157
+S
+#74167
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74174
+D2
+~
+~
+0 0 74159
+D3
+~
+~
+0 0 74168
+S
+#74168
+On the Beach~
+The coastline of K'Rat extends around the forest of the mainland, giving
+you glimpses of the overall geography.  The white sandy beach extends for
+miles around you as waves crash ineffectually against it.  
+~
+0 0 0
+D0
+~
+~
+0 0 74175
+D1
+~
+~
+0 0 74167
+D2
+~
+~
+0 0 74160
+D3
+~
+~
+0 0 74169
+S
+#74169
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74176
+D1
+~
+~
+0 0 74168
+D2
+~
+~
+0 0 74161
+D3
+~
+~
+0 0 74170
+S
+#74170
+On the Beach~
+The white sands of the beach extend in all directions as there is little
+shade in the area.  The waters of the sea and the mainland are the only two
+predominant features in view.  
+~
+0 0 0
+D0
+~
+~
+0 0 74177
+D1
+~
+~
+0 0 74169
+D2
+~
+~
+0 0 74162
+D3
+~
+~
+0 0 74171
+S
+#74171
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74178
+D1
+~
+~
+0 0 74170
+D2
+~
+~
+0 0 74163
+D3
+~
+~
+0 0 74172
+S
+#74172
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74179
+D1
+~
+~
+0 0 74171
+D2
+~
+~
+0 0 74164
+D3
+~
+~
+0 0 74173
+S
+#74173
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74172
+D2
+~
+~
+0 0 74165
+S
+#74174
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74180
+D2
+~
+~
+0 0 74167
+D3
+~
+~
+0 0 74175
+S
+#74175
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74181
+D1
+~
+~
+0 0 74174
+D2
+~
+~
+0 0 74168
+D3
+~
+~
+0 0 74176
+S
+#74176
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74182
+D1
+~
+~
+0 0 74175
+D2
+~
+~
+0 0 74169
+D3
+~
+~
+0 0 74177
+S
+#74177
+On the Beach~
+Bits of broken shells are littered throughout the sand and crunch beneath
+your feet with every step.  Large gulls fly overhead circling the beach
+searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 74183
+D1
+~
+~
+0 0 74176
+D2
+~
+~
+0 0 74170
+D3
+~
+~
+0 0 74178
+S
+#74178
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74177
+D2
+~
+~
+0 0 74171
+D3
+~
+~
+0 0 74179
+S
+#74179
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 74178
+D2
+~
+~
+0 0 74172
+S
+#74180
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74184
+D1
+~
+~
+0 0 73059
+D2
+~
+~
+0 0 74174
+D3
+~
+~
+0 0 74181
+S
+#74181
+On the Beach~
+A large shell lies overturned and rotting in the heat of the sun, several
+gulls land briefly to inspect the remains.  The sands of the beach extend in
+all directions around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74185
+D1
+~
+~
+0 0 74180
+D2
+~
+~
+0 0 74175
+D3
+~
+~
+0 0 74182
+S
+#74182
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74186
+D1
+~
+~
+0 0 74181
+D2
+~
+~
+0 0 74176
+D3
+~
+~
+0 0 74183
+S
+#74183
+~
+~
+0 0 0
+D1
+~
+~
+0 0 74182
+D2
+~
+~
+0 0 74177
+S
+#74184
+~
+~
+0 0 0
+D0
+~
+~
+0 0 74187
+D1
+~
+~
+0 0 73060
+D2
+~
+~
+0 0 74180
+D3
+~
+~
+0 0 74185
+S
+#74185
+On the Beach~
+The grainy sand of the beach shifts beneath your feet with every step as
+the mainland of K'Rat looms off in the distance.  Loud squawking from the
+gulls above can be hear over the din of the crashing waves of the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 74188
+D1
+~
+~
+0 0 74184
+D2
+~
+~
+0 0 74181
+D3
+~
+~
+0 0 74186
+S
+#74186
+In the Surf~
+Water rushes onto the beach bringing a tangle of green seaweed with it. 
+The dark wet sand pulls at your feet with every step as you wander around
+the coastline of K'rat.  
+~
+0 0 0
+D1
+~
+~
+0 0 74185
+D2
+~
+~
+0 0 74182
+S
+#74187
+On the Beach~
+The sands of the beach end to the north in an unpassable tangle of the
+forest.  To the east a small wooden ramp leads up onto a pier, to the north
+you can see the blue waters of the sea in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 74189
+D1
+~
+~
+0 0 73061
+D2
+~
+~
+0 0 74184
+D3
+~
+~
+0 0 74188
+S
+#74188
+In the Surf~
+The surf rushes onto the beach foaming slightly as it rushes over the
+sand.  Dark tangles of seaweed are visible in the waves as it comes assure
+and litters the coastline.  
+~
+0 0 0
+D1
+~
+~
+0 0 74187
+D2
+~
+~
+0 0 74185
+S
+#74189
+In the Surf~
+Water rushes onto the beach carrying bits of broken shells and dark green
+strands of seaweed.  You sink with every step through the wet sand as it
+sinks beneath your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 74187
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74049
+~
+#0
+
+#$

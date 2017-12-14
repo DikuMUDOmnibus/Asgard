@@ -1,0 +1,214 @@
+#AREADATA
+Name Forest of Darkness~
+Builders None~
+VNUMs 23000 23199
+Continent 2
+Credits Ishamael~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+~
+0 0 14571
+S
+#23001
+Small Path~
+The ancient road can barely been seen to the west as you get closer to
+the large rock formation ahead.  As you are getting closer you can see tree
+tops well below the end of the cliff.  
+~
+0 0 2
+D1
+~
+~
+0 0 23002
+S
+#23002
+Edge of the Cliff~
+The path all but disappears as you walk out onto the rocky ground of a
+high cliff.  Out to the east a large seemingly endless forest grows rampant.
+To the south it appears a small trail leads down to the forest below.  
+~
+0 0 2
+D2
+~
+~
+0 0 23003
+D3
+~
+~
+0 0 23001
+S
+#23003
+Narrow Pass~
+The narrow pass is carved out in the cliff making it difficult to get a
+better glimpse of the forest.  The carefully carved passage appears to snake
+its way around revealing little of what lies ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 23002
+D2
+~
+~
+0 0 23004
+S
+#23004
+Narrow Pass~
+The passage continues on its gradual decline down the high cliff, ending
+sharply and snaking off to the east.  Very little can be head around you as
+your footsteps echo off the high rock walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 23003
+D1
+~
+~
+0 0 23005
+S
+#23005
+Narrow Pass~
+The passage twists its way down the cliff leaving you wandering what
+awaits you at the foot of the cliff.  Again making another abrupt turn the
+high rock walls force you to head south or back the way you came.  
+~
+0 0 0
+D2
+~
+~
+0 0 23006
+D3
+~
+~
+0 0 23004
+S
+#23006
+Narrow Pass~
+The pass continues down the tall granite cliff leading you gradually down
+to the base.  Strangely an oppressive heat radiates off the rock walls, not
+from the sun above but from another source below.  
+~
+0 0 0
+D0
+~
+~
+0 0 23005
+D2
+~
+~
+0 0 23007
+S
+#23007
+Narrow Pass~
+The air around you is thick and heavy, the imposing heat weighing heavily on you.  Strong stench of death and decay assault your nostrils as you continue closer to the base.
+~
+0 0 0
+D0
+~
+~
+0 0 23006
+D3
+~
+~
+0 0 23008
+S
+#23008
+Base of the Cliff~
+The high rock walls end abruptly opening to the south into a small
+clearing.  The heat is overbearing and the foul stench of death is around
+you.  
+~
+0 0 0
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+0 0 23009
+S
+#23009
+Small Clearing~
+Tall trees surround you, the canopy making it difficult to see the sky
+above.  On closer examination you notice they are riddled with disease and
+are severely blighted.  A narrow trail runs between several large trunks to
+the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 23008
+D1
+~
+~
+0 0 23010
+S
+#23010
+Deer Trail~
+The narrow trail winds its way through the large trunks.  The extensive
+canopy above eliminates all natural light leaving the floor relatively
+barren of plant life.  
+~
+0 0 0
+D1
+~
+~
+0 0 23011
+D3
+~
+~
+0 0 23009
+S
+#23011
+Deer Trail~
+The trail continues beneath the massive trunks with a small opening to
+the east.  The overwhelming heat and noxious smell linger heavily in your
+nostrils.  
+~
+0 0 0
+D3
+~
+~
+0 0 23010
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

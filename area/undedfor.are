@@ -1,0 +1,2886 @@
+#AREADATA
+Name Island of Sheol~
+Builders Ishamael Unlinked~
+VNUMs 73200 73335
+Continent 3
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#73200
+skeleton warrior~
+a skeleton warrior~
+A large skeleton patrols along the walls of the fortress.
+~
+~
+human~
+AOT Vace A 0 0
+225 750 1d1+27500 0d0+0 20d20+250 pound
+-100 -100 -100 -100
+CDFHINU ABFHIJKLMQRXYZ CEG NS
+stand stand none 50000
+I CGHI medium unknown
+F for AHMV
+F par ABDEFJK
+S 1
+V 28
+A -1
+M DEATH 73200 100~
+#73201
+transparent ghost~
+a transparent ghost ~
+{x
+~
+~
+human~
+AT PTVac 0 0 0
+225 1000 1d1+25000 0d0+0 25d50+1000 drain
+-100 -100 -100 -100
+0 ABDEFGHIJKLMQRXYZ 0 NS
+stand stand none 50000
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 26
+A -1
+M GRALL 73201 5~
+#73202
+dark spirit~
+a dark spirit~
+A dark spirit floats here.
+~
+~
+demon~
+AT JPTUVac 0 0 0
+225 0 1d1+25000 0d0+0 27d50+1000 drain
+-100 -100 -100 -100
+0 ABDEGHIJKLMQRXYZ CM NS
+stand stand none 50000
+AHIMV ABCDEFGHIJKQ medium unknown
+S 1
+V 29
+A -1
+M DEATH 73202 100~
+#73203
+{x~
+{x~
+{x
+~
+~
+human~
+AB 0 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M ACT 73203 sits~
+#73204
+transparent ghost~
+a transparent ghost ~
+{x
+~
+~
+human~
+AT PTVac 0 0 0
+225 1000 1d1+22500 0d0+0 25d50+1000 drain
+-100 -100 -100 -100
+0 ABDEFGHIJKLMQRXYZ 0 NS
+stand stand none 50000
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 25
+A -1
+M GRALL 73201 5~
+#73205
+spectral king~
+The Spectral King~
+The Spectral King stands here gazing around the room.
+~
+~
+demon~
+ABFO FJPTUace 0 0 0
+250 2500 1d1+75000 0d0+0 29d52+1500 drain
+-150 -150 -150 -150
+CDEFGHIJK ABCDEGHIJKLMQRXYZ CM NS
+stand stand none 0
+AHMV ABCDEFGHIJKQ huge unknown
+S 1
+V 75
+A -1
+M DEATH 73204 100~
+#0
+
+
+
+#OBJECTS
+#73200
+rusty long sword longsword~
+a rusty longsword~
+A rusty old sword lies here.~
+iron~
+weapon P AN
+sword 10 20 slash CDEN
+102 0 0 P
+#73201
+key finger bone~
+a finger bone~
+A finger bone lies here looking oddly out of place.~
+bone~
+key 0 A
+0 0 0 0 0
+101 0 0 B
+E
+bone~
+The end of the finger bone is carefully carved at one end.  Looking at
+the grooves you realize this could be used as a KEY!  
+~
+E
+finger~
+The end of the finger bone is carefully carved at one end.  Looking at
+the grooves you realize this could be used as a KEY!  
+~
+#73202
+toe bone key~
+an elongated toe bone~
+A long toe bone lies here oddly out of place~
+bone~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+E
+toe~
+The end of the finger bone is carefully carved at one end.  Looking at
+the grooves you realize this could be used as a KEY!  
+~
+E
+bone~
+The end of the finger bone is carefully carved at one end.  Looking at
+the grooves you realize this could be used as a KEY!  
+~
+#73203
+broken rib bone key~
+a broken rib bone~
+A broken rib lies here collecting dust.~
+bone~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+E
+rib~
+The end of the rib bone is carefully carved at one end.  Looking at the
+grooves you realize this could be used as a KEY!  
+~
+E
+bone~
+The end of the rib bone is carefully carved at one end.  Looking at the
+grooves you realize this could be used as a KEY!  
+~
+#73204
+splintered leg bone key~
+a splintered leg bone~
+A broken leg bone lies here.~
+bone~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+E
+bone~
+The end of the leg bone is carefully carved at one end.  Looking at the
+grooves you realize this could be used as a KEY!  
+~
+E
+leg~
+The end of the leg bone is carefully carved at one end.  Looking at the
+grooves you realize this could be used as a KEY!  
+~
+#73205
+a smoky soulstone~
+a smoky soulstone~
+A smoky soulstone glows here.~
+soul~
+key 0 A
+0 0 0 0 0
+101 0 45000 P
+#73206
+a glowing soulstone~
+a glowing soulstone~
+A soulstone glows here.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 0 45000 P
+#73207
+a luminous soulstone~
+a luminous soulstone~
+A luminous soulstone sits here.~
+soul~
+key 0 A
+0 0 0 0 0
+101 0 45000 P
+#73208
+a dark soulstone~
+a dark soulstone~
+A burnt out soulstone sits here.~
+soul~
+key 0 A
+0 0 0 0 0
+101 0 45000 P
+#73209
+bone throne~
+{WA Throne of Bone{x~
+{WA tall throne constructed from bones sits here.{x~
+unknown~
+furniture OR 0
+CFG EGIJOP BEHKN 0 0
+101 0 0 P
+#73210
+crown bone chiseled token~
+a finely chiseled bone crown glowing opaguely from an unknown inner source~
+(no description)~
+unknown~
+armor 0 AE
+0 0 0 0 0
+101 0 0 P
+A
+20 -15
+A
+12 500
+#0
+
+
+
+#ROOMS
+#73200
+On the Dock~
+The small dock provides moorings for only a handful of boats, it appears
+very few visitors come to this island.  Off the dock to the west you see a
+trail leading up to a massive stone fortress, back to the east you can make
+out the outline of the mainland.  
+~
+0 0 0
+D3
+~
+~
+0 0 73201
+S
+#73201
+Rocky Shoreline~
+Large flat rocks make up an uninviting shoreline as you notice a small
+dock to the east.  A worn path between the rocks heads south along the
+shoreline as it turns into the mainland and begins to head towards the
+towering fortress.  
+~
+0 0 0
+D1
+~
+~
+0 0 73200
+D2
+~
+~
+0 0 73202
+S
+#73202
+Rocky Shoreline~
+The path continues south as it leads away from the main part of the
+coast.  The large flat rocks of the shoreline as slick from the changing
+tides and in the distance to the west the imposing fortress dominates the
+area.  
+~
+0 0 0
+D0
+~
+~
+0 0 73201
+D2
+~
+~
+0 0 73203
+S
+#73203
+At the Beginning of a Rocky Trail~
+The small path opens into a larger rocky trail leading slowly away from
+the coastline.  The gradient of the trail steepens as it begins to head up
+the cliff side towards the stone fortress to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73202
+D2
+~
+~
+0 0 73204
+S
+#73204
+Turn in the Rocky Trail~
+The trail turns directly towards the fortress to the west, a sharp cut
+stone staircase is cut into the rock of the island offering ease of passage
+up the steepening trail.  Back to the east you can see the mainland of K'rat
+off in the distance across the 
+~
+0 0 0
+D0
+~
+~
+0 0 73203
+D3
+~
+~
+0 0 73205
+S
+#73205
+Turn in the Rocky Trail~
+The trail bends here is it weaves between the rocky cliff side of the
+island.  To the west the fortress dominates the skyline as the trail appears
+to head in its general direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 73204
+D2
+~
+~
+0 0 73206
+S
+#73206
+Rocky Trail~
+The trail continues along the rocky terrain of the island as an unnatural
+chill lingers over the area.  The bleak island feels even more remote and
+desolate with the massive fortress dominating the main portion of land to
+the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73205
+D2
+~
+~
+0 0 73207
+S
+#73207
+End of the Rocky Trail~
+The rocky trail ends abruptly to the south as a stone walkway can be seen
+leading off to the fortress.  Heading north leads along the winding rocky
+trail back towards the docks.  
+~
+0 4 0
+D0
+~
+~
+0 0 73206
+D2
+~
+~
+0 0 73208
+S
+#73208
+Stone Walkway~
+A carefully laid stone walkway leads directly towards the fortress to the
+west.  No signs of life can be seen as a cold chilling wind whips through
+the area, seemingly originating from the fortress itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 73207
+D3
+~
+~
+0 0 73209
+S
+#73209
+Stone Walkway~
+The walkway continues on heading west towards the fortress or east back
+towards the rocky trail and the coastline.  The gray walls of the fortress
+are void of activity and there is no sign that anything living occupies the
+fortress.  
+~
+0 0 0
+D1
+~
+~
+0 0 73208
+D3
+~
+~
+0 0 73210
+S
+#73210
+Stone Walkway~
+To the west a massive gate and wall stand as the entrance to the massive
+fortress, to east the walkway heads back towards the rocky trail and the
+docks.  The chilling wind roars through the area sounding as if a collective
+wail was being let loose from the fortress.
+~
+0 0 0
+D1
+~
+~
+0 0 73209
+D3
+~
+~
+0 0 73211
+S
+#73211
+Before the Eastern Gate~
+A massive iron gate stands blocks the entrance into the massive fortress,
+skulls and bones are interwoven throughout the metal bars meant as a
+deterrent to all visitors.  A supernatural wind roars through the gate as a
+loud wailing fills the area.  
+~
+0 4 0
+D0
+~
+~
+0 0 73212
+D1
+~
+~
+0 0 73210
+D2
+~
+~
+0 0 73274
+D3
+~
+~
+4 73201 73275
+S
+#73212
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73211
+D3
+~
+~
+0 0 73213
+S
+#73213
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73214
+D1
+~
+~
+0 0 73212
+S
+#73214
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73213
+D3
+~
+~
+0 0 73215
+S
+#73215
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73216
+D1
+~
+~
+0 0 73214
+S
+#73216
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73215
+D3
+~
+~
+0 0 73217
+S
+#73217
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73218
+D1
+~
+~
+0 0 73216
+S
+#73218
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73217
+D3
+~
+~
+0 0 73219
+S
+#73219
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73220
+D1
+~
+~
+0 0 73218
+S
+#73220
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73219
+D3
+~
+~
+0 0 73221
+S
+#73221
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73222
+D1
+~
+~
+0 0 73220
+S
+#73222
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73221
+D3
+~
+~
+0 0 73223
+S
+#73223
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73224
+D1
+~
+~
+0 0 73222
+S
+#73224
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73223
+D3
+~
+~
+0 0 73225
+S
+#73225
+Outer Wall, Northeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads north and east around
+the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73226
+D1
+~
+~
+0 0 73224
+S
+#73226
+Outer Wall, Northeastern Sector~
+A slate gray wall rises skyward barring entranced into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads south and west around the
+wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 73225
+D3
+~
+~
+0 0 73227
+S
+#73227
+Before the Northern Gate~
+A massive iron gate stands blocks the entrance into the massive fortress,
+skulls and bones are interwoven throughout the metal bars meant as a
+deterrent to all visitors.  A supernatural wind roars through the gate as a
+loud wailing fills the area.  
+~
+0 4 0
+D1
+~
+~
+0 0 73226
+D2
+~
+~
+4 73202 73278
+D3
+~
+~
+0 0 73228
+S
+#73228
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73227
+D2
+~
+~
+0 0 73229
+S
+#73229
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73228
+D3
+~
+~
+0 0 73230
+S
+#73230
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73229
+D2
+~
+~
+0 0 73231
+S
+#73231
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73230
+D3
+~
+~
+0 0 73232
+S
+#73232
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73231
+D2
+~
+~
+0 0 73233
+S
+#73233
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73232
+D3
+~
+~
+0 0 73234
+S
+#73234
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73233
+D2
+~
+~
+0 0 73235
+S
+#73235
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73234
+D3
+~
+~
+0 0 73236
+S
+#73236
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73235
+D2
+~
+~
+0 0 73237
+S
+#73237
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73236
+D3
+~
+~
+0 0 73238
+S
+#73238
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73237
+D2
+~
+~
+0 0 73239
+S
+#73239
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73238
+D3
+~
+~
+0 0 73240
+S
+#73240
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73239
+D2
+~
+~
+0 0 73241
+S
+#73241
+Outer Wall, Northwestern Sector~
+The gray stone walls of the fortress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path leads off to the north and west around
+the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73240
+D3
+~
+~
+0 0 73242
+S
+#73242
+Outer Wall, Northwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streak of red blood are noticeable high up.  The path
+continues around the wall to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 73241
+D2
+~
+~
+0 0 73243
+S
+#73243
+Before the Western Gate~
+A massive iron gate stands blocks the entrance into the massive fortress,
+skulls and bones are interwoven throughout the metal bars meant as a
+deterrent to all visitors.  A supernatural wind roars through the gate as a
+loud wailing fills the area.  
+~
+0 4 0
+D0
+~
+~
+0 0 73242
+D1
+~
+~
+4 73203 73281
+D2
+~
+~
+0 0 73244
+S
+#73244
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73243
+D1
+~
+~
+0 0 73245
+S
+#73245
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73246
+D3
+~
+~
+0 0 73244
+S
+#73246
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73245
+D1
+~
+~
+0 0 73247
+S
+#73247
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73248
+D3
+~
+~
+0 0 73246
+S
+#73248
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73247
+D1
+~
+~
+0 0 73249
+S
+#73249
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73250
+D3
+~
+~
+0 0 73248
+S
+#73250
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73249
+D1
+~
+~
+0 0 73251
+S
+#73251
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73252
+D3
+~
+~
+0 0 73250
+S
+#73252
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73251
+D1
+~
+~
+0 0 73253
+S
+#73253
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73254
+D3
+~
+~
+0 0 73252
+S
+#73254
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73253
+D1
+~
+~
+0 0 73255
+S
+#73255
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73256
+D3
+~
+~
+0 0 73254
+S
+#73256
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73255
+D1
+~
+~
+0 0 73257
+S
+#73257
+Outer Wall, Southwestern Sector~
+The gray stone walls of the forestress are marked with blotches of dried
+blood, the remains of corpses littered around the path.  A ghostly wind
+winds around the walls as the path least off to the south and west around
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 73258
+D3
+~
+~
+0 0 73256
+S
+#73258
+Outer Wall, Southwestern Sector~
+The desolate walls of the fortress offer little respite from the
+unnatural wind that whips through the area.  Broken bits of bone lie at the
+base of the wall as streaks of red blood are noticeable high up.  The path
+continues around the wall to the north and east 
+~
+0 0 0
+D0
+~
+~
+0 0 73257
+D1
+~
+~
+0 0 73259
+S
+#73259
+Before the Southern Gate~
+A massive iron gate blocks the entrance into the massive fortress, skulls
+and bones are interwoven throughout the metal bars meant as a deterrent to
+all visitors.  A supernatrual wind roars through the gate as a loud wailing
+fills the area.  
+~
+0 4 0
+D0
+~
+~
+4 73204 73284
+D1
+~
+~
+0 0 73260
+D3
+~
+~
+0 0 73258
+S
+#73260
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73261
+D3
+~
+~
+0 0 73259
+S
+#73261
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73262
+D2
+~
+~
+0 0 73260
+S
+#73262
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73263
+D3
+~
+~
+0 0 73261
+S
+#73263
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73264
+D2
+~
+~
+0 0 73262
+S
+#73264
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73265
+D3
+~
+~
+0 0 73263
+S
+#73265
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73266
+D2
+~
+~
+0 0 73264
+S
+#73266
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73267
+D3
+~
+~
+0 0 73265
+S
+#73267
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73268
+D2
+~
+~
+0 0 73266
+S
+#73268
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73269
+D3
+~
+~
+0 0 73267
+S
+#73269
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73270
+D2
+~
+~
+0 0 73268
+S
+#73270
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73271
+D3
+~
+~
+0 0 73269
+S
+#73271
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73272
+D2
+~
+~
+0 0 73270
+S
+#73272
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73273
+D3
+~
+~
+0 0 73271
+S
+#73273
+Outer Wall, Southeastern Sector~
+The imposing walls of the fortress tower over the area casting a dark
+shadow around the area.  Bits of rusted armor and broken swords lie at the
+base of the gray walls offering evidence of a great battle that took place
+long ago.  A cold wind whips around as the path leads south and east around
+the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73274
+D2
+~
+~
+0 0 73272
+S
+#73274
+Outer Wall, Southeastern Sector~
+A slate gray wall rises skyward barring entrance into the massive
+fortress, streaks of crimson blood stand out on the high wall.  An unnatural
+chill runs through the area as the path heads north and west around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73211
+D3
+~
+~
+0 0 73273
+S
+#73275
+Inside the Eastern Gate~
+Crossing through the gate reveals additional fortifications with a
+drawbridge and smaller wall to the west.  The fortifications offered little
+protection for the former inhabitants as the number of corpses and skeletons
+has increased inside the walls.  
+~
+0 0 0
+D1
+~
+~
+4 73201 73211
+D3
+~
+~
+0 0 73276
+S
+#73276
+Crossing the Eastern Drawbridge~
+The wide wooden bridge provides passage between the eastern gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 73275
+D3
+~
+~
+0 0 73277
+S
+#73277
+Crossing the Eastern Drawbridge~
+The wide wooden bridge provides passage between the eastern gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 73276
+D3
+~
+~
+0 0 73287
+S
+#73278
+Inside the Northern Gate~
+Crossing through the gate reveals additional fortifications with a
+drawbridge and smaller wall to the south.  The fortifications offered little
+protection for the former inhabitants as the number of corpses and skeletons
+has increased inside the walls.  
+~
+0 0 0
+D0
+~
+~
+4 73202 73227
+D2
+~
+~
+0 0 73279
+S
+#73279
+Crossing the Northern Drawbridge~
+The wide wooden bridge provides passage between the northern gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73278
+D2
+~
+~
+0 0 73280
+S
+#73280
+Crossing the Northern Drawbridge~
+The wide wooden bridge provides passage between the northern gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73279
+D2
+~
+~
+0 0 73295
+S
+#73281
+Inside the Western Gate~
+Crossing through the gate reveals additional fortifications with a
+drawbridge and smaller wall to the east.  The fortifications offered little
+protection for the former inhabitants as the number of corpses and skeletons
+has increased inside the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 73282
+D3
+~
+~
+4 73203 73243
+S
+#73282
+Crossing the Western Drawbridge~
+The wide wooden bridge provides passage between the western gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 73283
+D3
+~
+~
+0 0 73281
+S
+#73283
+Crossing the Western Drawbridge~
+The wide wooden bridge provides passage between the western gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 73303
+D3
+~
+~
+0 0 73282
+S
+#73284
+Inside the Southern Gate~
+Crossing through the gate reveals additional fortifications with a
+drawbridge and smaller wall to the north.  The fortifications offered little
+protection for the former inhabitants as the number of corpses and skeletons
+has increased inside the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73285
+D2
+~
+~
+4 73204 73259
+S
+#73285
+Crossing the Southern Drawbridge~
+The wide wooden bridge provides passage between the southern gate and the
+inner fortress.  A river of blood runs rapidly beneath the bridge as the
+unnatural wind intensifies as it whips between the two walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73286
+D2
+~
+~
+0 0 73284
+S
+#73286
+Inside the Southern Gate~
+Crossing through the gate reveals additional fortifications with a
+drawbridge and smaller wall to the north.  The fortifications offered little
+protection for the former inhabitants as the number of corpses and skeletons
+has increased inside the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 73311
+D2
+~
+~
+0 0 73285
+S
+#73287
+Eastern Entrance, Before the Gate~
+A high arched opening in the fortress is blocked by a thick metal
+grating.  Several bars appear to be rusting and in need of repair but the
+gate still serves its purpose and bars all passage.  A wide stone ledge
+heads around the inner wall to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 73288
+D1
+~
+~
+0 0 73277
+D2
+~
+~
+0 0 73318
+D3
+~
+~
+4 73207 73319
+S
+#73288
+Inner Wall, Northeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form of a path heading to the west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 73287
+D3
+~
+~
+0 0 73289
+S
+#73289
+Inner Wall, Northeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the north and the
+east around the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73290
+D1
+~
+~
+0 0 73288
+S
+#73290
+Inner Wall, Northeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form of a path heading to the west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 73289
+D3
+~
+~
+0 0 73291
+S
+#73291
+Inner Wall, Northeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the north and the
+east around the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73292
+D1
+~
+~
+0 0 73290
+S
+#73292
+Inner Wall, Northeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form of a path heading to the west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 73291
+D3
+~
+~
+0 0 73293
+S
+#73293
+Inner Wall, Northeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the north and the
+east around the wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73294
+D1
+~
+~
+0 0 73292
+S
+#73294
+Inner Wall, Northeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form of a path heading to the west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 73293
+D3
+~
+~
+0 0 73295
+S
+#73295
+Northern Entrance, Before the Gate~
+A high arched opening in the fortress is blocked by a thick metal grate. 
+Several bars appear to be rusting and need of repair but the gate still
+serves its purpose and bars all passage.  A wide stone ledge heads around
+the inner wall to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73280
+D1
+~
+~
+0 0 73294
+D2
+~
+~
+4 73208 73321
+D3
+~
+~
+0 0 73296
+S
+#73296
+Inner Wall, Northwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and south around the
+wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73295
+D2
+~
+~
+0 0 73297
+S
+#73297
+Inner Wall, Northwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73296
+D3
+~
+~
+0 0 73298
+S
+#73298
+Inner Wall, Northwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and south around the
+wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73297
+D2
+~
+~
+0 0 73299
+S
+#73299
+Inner Wall, Northwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73298
+D3
+~
+~
+0 0 73300
+S
+#73300
+Inner Wall, Northwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and south around the
+wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73299
+D2
+~
+~
+0 0 73301
+S
+#73301
+Inner Wall, Northwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 73300
+D3
+~
+~
+0 0 73302
+S
+#73302
+Inner Wall, Northwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and south around the
+wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73301
+D2
+~
+~
+0 0 73303
+S
+#73303
+Western Entrance, Before the Gate~
+A high arched opening in the fortress is blocked by a thick metal
+grating.  Several bars appear to be rusting and in need of repair but the
+gate still serves its purpose and bars all passage.  A wide stone ledge
+heads around the inner wall to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 73302
+D1
+~
+~
+4 73205 73323
+D2
+~
+~
+0 0 73304
+D3
+~
+~
+0 0 73283
+S
+#73304
+Inner Wall, Southwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and north around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73303
+D1
+~
+~
+0 0 73305
+S
+#73305
+Inner Wall, Southwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 73306
+D3
+~
+~
+0 0 73304
+S
+#73306
+Inner Wall, Southwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and north around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73305
+D1
+~
+~
+0 0 73307
+S
+#73307
+Inner Wall, Southwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 73308
+D3
+~
+~
+0 0 73306
+S
+#73308
+Inner Wall, Southwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and north around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73307
+D1
+~
+~
+0 0 73309
+S
+#73309
+Inner Wall, Southwestern Sector~
+The stone walls are are in pristine condition free of marks or wear, the
+stone ledge is also clear of debris.  The ghostly wind speeds between the
+walls howling loudly around you.  The ledge continues its way around the
+inner wall heading to the south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 73310
+D3
+~
+~
+0 0 73308
+S
+#73310
+Inner Wall, Southwestern Sector~
+Thick blocks of stone form the high inner wall.  The ghostly wind rips
+through clothing and flesh chilling you down to the bone.  The wide ledge is
+relatively clear of debris as it continues to the east and north around the
+wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 73309
+D1
+~
+~
+0 0 73311
+S
+#73311
+Southern Entrance, Before the Gate~
+A high arched opening in the fortress is blocked by a thick metal
+grating.  Several bars appear to be rusting and in need of repair but the
+gate still serves its purpose and bars all passage.  A wide stone ledge
+heads around the inner wall to the east and west.  
+~
+0 0 0
+D0
+~
+~
+4 73206 73325
+D1
+~
+~
+0 0 73312
+D2
+~
+~
+0 0 73286
+D3
+~
+~
+0 0 73310
+S
+#73312
+Inner Wall, Southeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form a path heading to the west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 73313
+D3
+~
+~
+0 0 73311
+S
+#73313
+Inner Wall, Southeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the south and the
+east around the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73314
+D2
+~
+~
+0 0 73312
+S
+#73314
+Inner Wall, Southeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form a path heading to the west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 73315
+D3
+~
+~
+0 0 73313
+S
+#73315
+Inner Wall, Southeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the south and the
+east around the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73316
+D2
+~
+~
+0 0 73314
+S
+#73316
+Inner Wall, Southeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form a path heading to the west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 73317
+D3
+~
+~
+0 0 73315
+S
+#73317
+Inner Wall, Southeastern Sector~
+There is little cover as the gap between the walls act as a funnel and
+amplify the ghostly wind that rushes through the area.  The faint smell of
+copper can be detected drifting off the massive quantity of blood that forms
+the moat between the two walls.  The ledge continues to the south and the
+east around the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 73318
+D2
+~
+~
+0 0 73316
+S
+#73318
+Inner Wall, Southeastern Sector~
+Thick stone slabs of the inner wall bar entrance to the fortress.  The
+wind rushes between the inner and outer wall as the smell of copper rises
+from the vast moat of blood.  The ledge continues around the wall in the
+form a path heading to the west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 73287
+D3
+~
+~
+0 0 73317
+S
+#73319
+Eastern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the west down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.
+~
+0 4 0
+D1
+~
+~
+4 73207 73287
+D3
+~
+~
+0 0 73320
+S
+#73320
+Eastern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the west down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.
+~
+0 0 0
+D1
+~
+~
+0 0 73319
+D3
+~
+~
+0 0 73327
+S
+#73321
+Northern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the south down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.
+~
+0 4 0
+D0
+~
+~
+4 73208 73295
+D2
+~
+~
+0 0 73322
+S
+#73322
+Northern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the south down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.
+~
+0 0 0
+D0
+~
+~
+0 0 73321
+D2
+~
+~
+0 0 73329
+S
+#73323
+Western Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the east down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.  
+~
+0 4 0
+D1
+~
+~
+0 0 73324
+D3
+~
+~
+4 73205 73303
+S
+#73324
+Western Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the east down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.  
+~
+0 0 0
+D1
+~
+~
+0 0 73331
+D3
+~
+~
+0 0 73323
+S
+#73325
+Southern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the north down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.  
+~
+0 4 0
+D0
+~
+~
+0 0 73326
+D2
+~
+~
+4 73206 73311
+S
+#73326
+Southern Entrance, Arched Hallway~
+The high arched walls are void of any decoration and the floor is of a
+polished gray stone.  To the north down the arched corridor you can see the
+inner chambers of the fortress, yet another dull gray room with little in
+the way of identification or decoration.  
+~
+0 0 0
+D0
+~
+~
+0 0 73333
+D2
+~
+~
+0 0 73325
+S
+#73327
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73328
+D1
+~
+~
+0 0 73320
+D2
+~
+~
+0 0 73334
+D3
+~
+~
+0 0 73335
+S
+#73328
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D2
+~
+~
+0 0 73327
+D3
+~
+~
+0 0 73329
+S
+#73329
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73322
+D1
+~
+~
+0 0 73328
+D2
+~
+~
+0 0 73335
+D3
+~
+~
+0 0 73330
+S
+#73330
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D1
+~
+~
+0 0 73329
+D2
+~
+~
+0 0 73331
+S
+#73331
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73330
+D1
+~
+~
+0 0 73335
+D2
+~
+~
+0 0 73332
+D3
+~
+~
+0 0 73324
+S
+#73332
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73331
+D1
+~
+~
+0 0 73333
+S
+#73333
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73335
+D1
+~
+~
+0 0 73334
+D2
+~
+~
+0 0 73326
+D3
+~
+~
+0 0 73332
+S
+#73334
+Inner Chamber~
+Cold winds rush through the chamber as all sounds echo off the high stone
+ceiling.  To the center of the enormous a crumbling throne stands out as the
+remainder of the chamber is void of all objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 73327
+D3
+~
+~
+0 0 73333
+S
+#73335
+In Front of the Throne~
+A massive stone throne in poor state of repair sits as the centerpiece to
+this massive room.  Chunks of rock have broken off from this ancient throne
+and sit crumbling at the foot of the throne.  The unnatural wind howls
+loudest here as this appears to be the origination point of the ghostly
+breeze.  
+~
+0 4 0
+D0
+~
+~
+0 0 73329
+D1
+~
+~
+0 0 73327
+D2
+~
+~
+0 0 73333
+D3
+~
+~
+0 0 73331
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 73211 3 2 The west door of Before the Eastern Gate is closed and locked
+D 0 73227 2 2 The south door of Before the Northern Gate is closed and locked
+D 0 73243 1 2 The east door of Before the Western Gate is closed and locked
+D 0 73259 0 2 The north door of Before the Southern Gate is closed and locked
+D 0 73275 1 2 The east door of Inside the Eastern Gate is closed and locked
+D 0 73278 0 2 The north door of Inside the Northern Gate is closed and locked
+D 0 73281 3 2 The west door of Inside the Western Gate is closed and locked
+D 0 73284 2 2 The south door of Inside the Southern Gate is closed and locked
+D 0 73287 3 2 The west door of Eastern Entrance, Before the Gate is closed and locked
+D 0 73295 2 2 The south door of Northern Entrance, Before the Gate is closed and locked
+D 0 73303 1 2 The east door of Western Entrance, Before the Gate is closed and locked
+D 0 73311 0 2 The north door of Southern Entrance, Before the Gate is closed and locked
+D 0 73319 1 2 The east door of Eastern Entrance, Arched Hallway is closed and locked
+D 0 73321 0 2 The north door of Northern Entrance, Arched Hallway is closed and locked
+D 0 73323 3 2 The west door of Western Entrance, Arched Hallway is closed and locked
+D 0 73325 2 2 The south door of Southern Entrance, Arched Hallway is closed and locked
+M 0 73200 30 73212 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73213 3 *Load a transparent ghost 
+M 0 73200 30 73214 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73215 3 *Load a transparent ghost 
+M 0 73200 30 73216 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73217 3 *Load a transparent ghost 
+M 0 73200 30 73218 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73219 3 *Load a transparent ghost 
+M 0 73200 30 73220 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73221 3 *Load a transparent ghost 
+M 0 73200 30 73222 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73223 3 *Load a transparent ghost 
+M 0 73200 30 73224 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73225 3 *Load a transparent ghost 
+M 0 73200 30 73226 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73200 30 73228 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73229 3 *Load a transparent ghost 
+M 0 73200 30 73230 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73231 3 *Load a transparent ghost 
+M 0 73200 30 73232 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73233 3 *Load a transparent ghost 
+M 0 73200 30 73234 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73235 3 *Load a transparent ghost 
+M 0 73200 30 73236 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73237 3 *Load a transparent ghost 
+M 0 73200 30 73238 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73239 3 *Load a transparent ghost 
+M 0 73200 30 73240 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73241 3 *Load a transparent ghost 
+M 0 73200 30 73242 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73200 30 73244 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73245 3 *Load a transparent ghost 
+M 0 73200 30 73246 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73247 3 *Load a transparent ghost 
+M 0 73200 30 73248 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73249 3 *Load a transparent ghost 
+M 0 73200 30 73250 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73251 3 *Load a transparent ghost 
+M 0 73200 30 73252 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73253 3 *Load a transparent ghost 
+M 0 73200 30 73254 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73255 3 *Load a transparent ghost 
+M 0 73200 30 73256 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73257 3 *Load a transparent ghost 
+M 0 73200 30 73258 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73200 30 73260 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73261 3 *Load a transparent ghost 
+M 0 73200 30 73262 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73263 3 *Load a transparent ghost 
+M 0 73200 30 73264 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73265 3 *Load a transparent ghost 
+M 0 73200 30 73266 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73267 3 *Load a transparent ghost 
+M 0 73200 30 73268 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73269 3 *Load a transparent ghost 
+M 0 73200 30 73270 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73271 3 *Load a transparent ghost 
+M 0 73200 30 73272 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73201 150 73273 3 *Load a transparent ghost 
+M 0 73200 30 73274 1 *Load a skeleton warrior
+E 0 73200 0 16 *A rusty longsword is loaded wielded of a skeleton warrior
+M 0 73202 60 73288 2 *Load a dark spirit
+M 0 73202 60 73289 2 *Load a dark spirit
+M 0 73202 60 73290 2 *Load a dark spirit
+M 0 73202 60 73291 2 *Load a dark spirit
+M 0 73202 60 73292 2 *Load a dark spirit
+M 0 73202 60 73293 2 *Load a dark spirit
+M 0 73202 60 73294 2 *Load a dark spirit
+M 0 73202 60 73296 2 *Load a dark spirit
+M 0 73202 60 73297 2 *Load a dark spirit
+M 0 73202 60 73298 2 *Load a dark spirit
+M 0 73202 60 73299 2 *Load a dark spirit
+M 0 73202 60 73300 2 *Load a dark spirit
+M 0 73202 60 73301 2 *Load a dark spirit
+M 0 73202 60 73302 2 *Load a dark spirit
+M 0 73202 60 73304 2 *Load a dark spirit
+M 0 73202 60 73305 2 *Load a dark spirit
+M 0 73202 60 73306 2 *Load a dark spirit
+M 0 73202 60 73307 2 *Load a dark spirit
+M 0 73202 60 73308 2 *Load a dark spirit
+M 0 73202 60 73309 2 *Load a dark spirit
+M 0 73202 60 73310 2 *Load a dark spirit
+M 0 73202 60 73312 2 *Load a dark spirit
+M 0 73202 60 73313 2 *Load a dark spirit
+M 0 73202 60 73314 2 *Load a dark spirit
+M 0 73202 60 73315 2 *Load a dark spirit
+M 0 73202 60 73316 2 *Load a dark spirit
+M 0 73202 60 73317 2 *Load a dark spirit
+M 0 73202 60 73318 2 *Load a dark spirit
+M 0 73204 10 73327 2 *Load a transparent ghost 
+M 0 73204 10 73328 2 *Load a transparent ghost 
+M 0 73204 10 73329 2 *Load a transparent ghost 
+M 0 73204 10 73330 2 *Load a transparent ghost 
+M 0 73204 10 73331 2 *Load a transparent ghost 
+M 0 73204 10 73332 2 *Load a transparent ghost 
+M 0 73204 10 73333 2 *Load a transparent ghost 
+M 0 73204 10 73334 2 *Load a transparent ghost 
+O 0 73209 0 73335 *{wa throne of bone{x loaded to In Front of the Throne
+M 0 73203 1 73335 1 *Load {x
+S
+
+
+
+#SHOPS
+73203 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#73200
+if rand 85
+mob oload 73201
+else
+if rand 85
+mob oload 73202
+else
+if rand 85
+mob oload 73203
+else
+if rand 85
+mob oload 73204
+else
+endif
+endif
+endif
+endif
+~
+#73201
+kill $n
+~
+#73202
+if rand 80
+mob oload 73205
+else
+if rand 80
+mob oload 73206
+else
+if rand 80
+mob oload 73207
+else
+if rand 80
+mob oload 73208
+endif
+endif
+endif
+endif
+~
+#73203
+if mobhere 73205
+mob echo {WThe Spectral King glares at you angrily.{x
+else
+mob echo {WThe Spectral King says, 'Trespasser! Get off of my throne!'{x
+mob echo {WThe Spectral King Screams in RAGE and ATTACKS!{x
+mob mload 73205
+mob purge self
+endif
+~
+#73204
+mob oload 73210
+~
+#0
+
+#$

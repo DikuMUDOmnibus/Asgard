@@ -1,0 +1,653 @@
+#AREADATA
+Name Sunnyville Cavern~
+Builders Ishamael~
+VNUMs 74550 74574
+Continent 7
+Mobtier 0
+Credits [  LGD ] Ishamael Sunnyville Cavern~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74550
+elder myconid fungus~
+an elder myconid~
+An ancient fungus creature wanders here.
+~
+~
+dwarf~
+ABa DFJ 0 1000 0
+200 50 1d1+25000 0d0+0 25d40+100 none
+-100 -100 -100 -100
+0 0 CDL 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 35
+A 0
+#74551
+myconid circle leader fungus~
+a myconid circle leader~
+A large fungus creature stands here directing in the cavern.
+~
+~
+dwarf~
+ABJKTVb DFJ 0 1000 0
+71 0 1d1+1999 1d1+199 3d8+24 beating
+-20 -20 -20 -20
+ACDEIK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 35
+A 0
+#74552
+junior worker myconid~
+a junior myconid worker~
+A junior myconid stands here handing out spores.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 0
+#74553
+senior myconid worker~
+a senior myconid worker~
+A senior myconid worker stands here collecting items.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#74554
+myconid king ruler~
+the myconid king~
+The ruler of the myconid's wanders around the cavern
+~
+~
+dragon~
+AR JTV 0 0 0
+5000 2000 1d1+20000000 1d1+20000000 750d10+2000 digestion
+-500 -500 -500 -500
+H ABCDEFGHIJKLMNOPQRSTXYZ BEH F
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+F vul I
+S 1
+V 99
+A 0
+M KILL 74550 100~
+#0
+
+
+
+#OBJECTS
+#74550
+a green spore~
+a {Ggreen{x spore~
+A green spore sits here~
+unknown~
+pill 0 A
+120 'mass healing' 'mass healing' 'mass healing' 'cure poison'
+101 0 45000 P
+#74551
+an orange spore~
+an {yorange{x spore~
+An orange spore sits here~
+unknown~
+pill 0 A
+110 'frenzy' 'haste' 'giant strength' 'bless'
+101 0 50000 P
+#74552
+a blue spore~
+a {Bblue{x spore~
+A blue spore sits here.~
+unknown~
+pill 0 A
+110 'stone skin' 'steel flesh' 'armor' 'shield'
+101 0 50000 P
+#74553
+red spore~
+a {Rred{x spore~
+A red spore lies here.~
+unknown~
+pill 0 A
+115 'detect invis' 'detect motion' 'infravision' 'farsight'
+101 0 25000 P
+#0
+
+
+
+#ROOMS
+#74550
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D0
+~
+~
+0 0 74899
+D1
+~
+~
+0 0 74551
+S
+#74551
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 4 0
+D1
+~
+~
+0 0 74552
+D3
+~
+~
+0 0 74550
+S
+#74552
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74557
+D2
+~
+~
+0 0 74553
+D3
+~
+~
+0 0 74551
+S
+#74553
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74552
+D1
+~
+~
+0 0 74555
+D2
+~
+~
+0 0 74554
+S
+#74554
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74553
+D1
+~
+~
+0 0 74556
+D2
+~
+~
+0 0 74561
+S
+#74555
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74557
+D1
+~
+~
+0 0 74559
+D2
+~
+~
+0 0 74556
+D3
+~
+~
+0 0 74553
+S
+#74556
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74555
+D1
+~
+~
+0 0 74560
+D2
+~
+~
+0 0 74562
+D3
+~
+~
+0 0 74554
+S
+#74557
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74558
+D2
+~
+~
+0 0 74555
+D3
+~
+~
+0 0 74552
+S
+#74558
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74564
+D2
+~
+~
+0 0 74559
+D3
+~
+~
+0 0 74557
+S
+#74559
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74558
+D1
+~
+~
+0 0 74565
+D2
+~
+~
+0 0 74560
+D3
+~
+~
+0 0 74555
+S
+#74560
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74559
+D1
+~
+~
+0 0 74566
+D2
+~
+~
+0 0 74563
+D3
+~
+~
+0 0 74556
+S
+#74561
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74554
+D1
+~
+~
+0 0 74562
+S
+#74562
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74556
+D1
+~
+~
+0 0 74563
+D2
+~
+~
+0 0 74571
+D3
+~
+~
+0 0 74561
+S
+#74563
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74560
+D1
+~
+~
+0 0 74567
+D3
+~
+~
+0 0 74562
+S
+#74564
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 74565
+D3
+~
+~
+0 0 74558
+S
+#74565
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74564
+D2
+~
+~
+0 0 74566
+D3
+~
+~
+0 0 74559
+S
+#74566
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74565
+D2
+~
+~
+0 0 74567
+D3
+~
+~
+0 0 74560
+S
+#74567
+Inside a Dark Cavern~
+The dark cavern is difficult to walk through as stalactites and
+stalagmites form a teeth like structure around the cavern.  The sounds echo
+all around as strange shapes move throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74566
+D1
+~
+~
+0 0 74568
+D3
+~
+~
+0 0 74563
+S
+#74568
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 4 0
+D2
+~
+~
+0 0 74569
+D3
+~
+~
+0 0 74567
+S
+#74569
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74568
+D1
+~
+~
+0 0 74570
+S
+#74570
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 4 0
+D1
+~
+~
+0 0 74799
+D3
+~
+~
+0 0 74569
+S
+#74571
+Inside a Natural Tunnel~
+The tunnel leads away from Sunnyville Cavern and heads farther below the
+surface.  Dark fungus grows on the walls as the walls of the tunnel are
+surprisingly smooth.  
+~
+0 4 0
+D0
+~
+~
+0 0 74562
+D2
+~
+~
+0 0 74572
+S
+#74572
+Inside a Natural Tunnel~
+The tunnel walls are surprisingly smooth as the tunnel continues through
+the dark underground.  The sound of your steps echo through the tunnel
+around you.  
+~
+0 4 0
+D0
+~
+~
+0 0 74571
+D3
+~
+~
+0 0 74573
+S
+#74573
+Inside a Natural Tunnel~
+The tunnel walls are surprisingly smooth as the tunnel continues through
+the dark underground.  The sound of your steps echo through the tunnel
+around you.  
+~
+0 4 0
+D1
+~
+~
+0 0 74572
+D2
+~
+~
+0 0 74574
+S
+#74574
+Inside a Natural Tunnel~
+The tunnel walls are surprisingly smooth as the tunnel continues through
+the dark underground.  The sound of your steps echo through the tunnel
+around you.  
+~
+0 4 0
+D0
+~
+~
+0 0 74573
+D2
+~
+~
+0 0 75200
+S
+#0
+
+
+
+#SPECIALS
+M 74551 spec_questmaster Load to: a myconid circle leader
+S
+
+
+
+#RESETS
+M 0 74554 1 74556 1 *Load the myconid king
+M 0 74553 1 74559 1 *Load a senior myconid worker
+M 0 74550 1 74561 1 *Load an elder myconid
+M 0 74552 1 74563 1 *Load a junior myconid worker
+G 0 74553 0 *A {rred{x spore is given to a junior myconid worker
+G 0 74552 0 *A {bblue{x spore is given to a junior myconid worker
+G 0 74551 0 *An {yorange{x spore is given to a junior myconid worker
+G 0 3036 0 *A {gstranger{x demon stone is given to a junior myconid worker
+G 0 3035 0 *A {gstrange{x warpstone is given to a junior myconid worker
+G 0 74550 0 *A {ggreen{x spore is given to a junior myconid worker
+M 0 74551 1 74564 1 *Load a myconid circle leader
+S
+
+
+
+#SHOPS
+74552 10 0 0 0 0 100 100 0 23
+74553 9 5 0 0 0 125 115 0 23
+0
+
+
+
+#MOBPROGS
+#74550
+mob echo {yThe myconid king showers you in spores!!!!{x
+mob trans $n 74532
+~
+#0
+
+#$

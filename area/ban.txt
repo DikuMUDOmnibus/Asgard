@@ -1,0 +1,10 @@
+list                 110 DF
+h-72-244-192-106.atlngahp.static.covad.net 110 DF
+ip70-160-19-112.hr.hr.cox.net 110 DF
+pool-173-63-77-241.nwrknj.fios.verizon.net 110 DF
+80.63.56.147         110 DF
+host1845321144.direcway.com 110 DF
+frostmud.com         110 DF
+208-104-56-220.rhhe2.2wcm.compor 110 DF
+205.162.219.64       110 DF
+142.176.163.226      110 DF

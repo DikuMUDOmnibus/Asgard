@@ -1,0 +1,617 @@
+#AREADATA
+Name Dwarven Mining Station~
+Builders Nogate Ishamael~
+VNUMs 74500 74524
+Continent 5
+Mobtier 0
+Credits [  LGD ] Ishamael Dwarven Mining Station~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74500
+stout dwarf dwarven guard~
+a stout dwarven guard~
+A stout dwarf stands here keeping an eye out for goblin intruders.
+~
+~
+human~
+ABRST DFJTVc 0 -1000 0
+200 500 1d1+100000 110d10+100 500d3+100 pound
+-100 -85 -85 -85
+ADEFGHK AIJ ABCDEMZ C
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 15
+A 0
+#74501
+dwarven appraiser~
+a dwarven appraiser~
+A dwarven appraiser sits here examining gems.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 3d130+23099 0d0+0 500d12+120 none
+0 0 0 0
+0 0 L 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A 0
+#74502
+dwarf dwarven healer~
+a dwarven healer~
+An old dwarf stands here offering to heal you.
+~
+~
+dwarf~
+ABa DFJ 0 1000 0
+200 50 1d1+25000 0d0+0 25d40+100 none
+-100 -100 -100 -100
+0 0 CDL 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A 0
+#74503
+dwarven brewer~
+a dwarven brewer~
+A stout dwarf careful checks the stills.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A 0
+#74504
+dwarven metal worker~
+a dwarven metal worker~
+A dwarven metal worker stands here ready to buy your scrap metal.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d4093+3409 0d0+0 390d123+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A 0
+#74505
+dwarf dwarven miner~
+a stout dwarven miner~
+A dwarf hustles about preparing to resume his mining duties.
+~
+~
+human~
+AB J 0 0 0
+165 500 1d1+22500 40d9+100 15d32+100 pound
+-32 -32 -32 -32
+IPU AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A 0
+#0
+
+
+
+#OBJECTS
+#74500
+healing cot~
+a healing cot~
+A small cot sits here.~
+platinum~
+furniture ABGIRY 0
+A DHIJM CFILO BGHI BGHI
+0 100000 0 P
+#74501
+stout beer~
+a bottle of stout beer~
+A bottle of dark liquid sits here.~
+unknown~
+potion AG A
+103 'stone skin' 'steel flesh' 'armor' 'shield'
+101 0 40000 P
+#74502
+pilsner beer~
+a bottle of pilsner~
+A bottle of light beer sits here.~
+unknown~
+potion AG A
+103 'frenzy' 'haste' 'giant strength' 'bless'
+101 0 40000 P
+#74503
+shot of whiskey~
+a shot of whiskey~
+A shot glass sits here.~
+food~
+potion B A
+103 'teleport' 'feeble mind' 'reserved' 'reserved'
+101 10 10000 P
+#0
+
+
+
+#ROOMS
+#74500
+In the Side Tunnel~
+A small tunnel leads north-south through the thick rock walls.  The low
+height and wideness of the passage way indicates it was dug by a group of
+dwarves.  
+~
+0 4 0
+D0
+~
+~
+0 0 71904
+D2
+~
+~
+0 0 74524
+S
+#74501
+Dark Passageway~
+The dark passage way runs through the thick rock of the underground as
+weak torchlight illuminates the area.  A small rail track ends here as a
+large mining cart sits waiting to be filled with gems.  
+~
+0 4 0
+D1
+~
+~
+0 0 74502
+D3
+~
+~
+0 0 71190
+S
+#74502
+Dark Passageway~
+The passageway bends as the cart track follows through the dense
+underground rock.  Thick wooden supports hold the passage open and prevent
+the possibility of a cave in.  
+~
+0 0 0
+D2
+~
+~
+0 0 74503
+D3
+~
+~
+0 0 74501
+S
+#74503
+Dark Passageway~
+The passageway continues through the underground as torchlight flickers
+around you.  The cart track leads you through the underground towards an
+unknown destination.  
+~
+0 0 0
+D0
+~
+~
+0 0 74502
+D2
+~
+~
+0 0 74504
+S
+#74504
+Before the Mining Station~
+The passageway opens to a larger cavern to the east as sounds of activity
+echo up the cavern.  The cart track ends here as several dwarves wait to
+unload the next load of gems.  
+~
+0 0 0
+D0
+~
+~
+0 0 74503
+D1
+~
+~
+0 0 74506
+S
+#74505
+~
+~
+0 0 0
+D3
+~
+~
+0 0 74504
+S
+#74506
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D1
+~
+~
+0 0 74511
+D2
+~
+~
+0 0 74507
+D3
+~
+~
+0 0 74504
+S
+#74507
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74506
+D1
+~
+~
+0 0 74510
+D2
+~
+~
+0 0 74508
+S
+#74508
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74507
+D1
+~
+~
+0 0 74509
+D2
+~
+~
+0 0 74515
+S
+#74509
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74510
+D1
+~
+~
+0 0 74514
+D3
+~
+~
+0 0 74508
+S
+#74510
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  In the center of the
+room, a large pulley system sits ready to haul up the next load of gems to
+the great hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 74511
+D1
+~
+~
+0 0 74513
+D2
+~
+~
+0 0 74509
+D3
+~
+~
+0 0 74507
+S
+#74511
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74519
+D1
+~
+~
+0 0 74512
+D2
+~
+~
+0 0 74510
+D3
+~
+~
+0 0 74506
+S
+#74512
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D1
+~
+~
+0 0 74518
+D2
+~
+~
+0 0 74513
+D3
+~
+~
+0 0 74511
+S
+#74513
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74512
+D2
+~
+~
+0 0 74514
+D3
+~
+~
+0 0 74510
+S
+#74514
+In the Cavern~
+The high ceiling of the cavern is supported by thick wooden timbers as
+sconces in the walls provide lighting in the area.  Several dwarves move
+about preparing to enter the mines and resume work.  
+~
+0 0 0
+D0
+~
+~
+0 0 74513
+D1
+~
+~
+0 0 74517
+D2
+~
+~
+0 0 74516
+D3
+~
+~
+0 0 74509
+S
+#74515
+Dwarven Appraiser~
+The room is filled with sparkling gems, barrels of diamonds shine in the
+torch light.  Other barrels sit empty waiting for the next load of gems to
+be brought in for examination.  
+~
+0 8192 0
+D0
+~
+~
+0 0 74508
+S
+#74516
+Dwarven Brewery~
+Stout barrels sit stacked high in the corners of the rooms, several of
+the kegs sit tapped ready for the ale to be drawn from them.  The smell of
+malt liquor emminates from one of the stills in the center of the room.  
+~
+0 8192 0
+D0
+~
+~
+0 0 74514
+S
+#74517
+Dwarven Metalsmith~
+A large furnace sits heating various pieces of metal, a large anvil sits
+ready in the center of room.  Various tools line the walls and tables used
+for shaping pieces of armor and tools for those who need.  
+~
+0 8192 0
+D3
+~
+~
+0 0 74514
+S
+#74518
+Dwarven Healer~
+Several cots sit here offering a place to rest from the grind of the
+mines.  A pungent odor fills the chamber as the scents drift from various
+jars on the shelves.  
+~
+0 0 0
+D3
+~
+~
+0 0 74512
+S
+#74519
+Before the Mining Station~
+The tunnel opens to the south into a large cavern as the bustle of
+activity echoes through the tunnel.  To the north a small tunnel runs
+through the thick bedrock.  
+~
+0 0 0
+D0
+~
+~
+0 0 74520
+D2
+~
+~
+0 0 74511
+S
+#74520
+In the Side Tunnel~
+The tunnel continues north-south throw the thick layers of rock.  You are
+forced to crouch and proceed at a slow pace through the low cielinged
+tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74521
+D2
+~
+~
+0 0 74519
+S
+#74521
+In the Side Tunnel~
+The rock walls glitter with untapped gems as the tunnel runs north-south.
+Several torches are fitted into the wall providing light in the otherwise
+dark tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74522
+D2
+~
+~
+0 0 74520
+S
+#74522
+In the Side Tunnel~
+The rock walls glitter with untapped gems as the tunnel runs north-south.
+Several torches are fitted into the wall providing light in the otherwise
+dark tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74523
+D2
+~
+~
+0 0 74521
+S
+#74523
+In the Side Tunnel~
+The tunnel runs through the thick layers of rock, the weight above held
+up by several wooden supports.  The low supports almost brushing your head
+as you wander through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74524
+D2
+~
+~
+0 0 74522
+S
+#74524
+In the Side Tunnel~
+The tunnel continues north-south throw the thick layers of rock.  You are
+forced to crouch and proceed at a slow pace through the low cielinged
+tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74500
+D2
+~
+~
+0 0 74523
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74500 5 74503 1 *Load a stout dwarven guard
+M 0 74505 5 74506 1 *Load a stout dwarven miner
+M 0 74505 5 74508 1 *Load a stout dwarven miner
+M 0 74505 5 74510 1 *Load a stout dwarven miner
+M 0 74505 5 74511 1 *Load a stout dwarven miner
+M 0 74505 5 74512 1 *Load a stout dwarven miner
+M 0 74505 5 74514 1 *Load a stout dwarven miner
+M 0 74501 1 74515 1 *Load a dwarven appraiser
+M 0 74503 1 74516 1 *Load a dwarven brewer
+G 0 74501 0 *A bottle of stout beer is given to a dwarven brewer
+G 0 74502 0 *A bottle of pilsner is given to a dwarven brewer
+G 0 74503 0 *A shot of whiskey is given to a dwarven brewer
+M 0 74504 1 74517 1 *Load a dwarven metal worker
+O 0 74500 0 74518 *A healing cot loaded to Dwarven Healer
+O 0 74500 0 74518 *A healing cot loaded to Dwarven Healer
+O 0 74500 0 74518 *A healing cot loaded to Dwarven Healer
+M 0 74502 1 74518 1 *Load a dwarven healer
+M 0 74500 5 74520 1 *Load a stout dwarven guard
+M 0 74500 5 74522 1 *Load a stout dwarven guard
+M 0 74500 5 74524 1 *Load a stout dwarven guard
+S
+
+
+
+#SHOPS
+74501 32 0 0 0 0 500 105 0 23
+74503 10 19 0 0 0 100 100 0 23
+74504 9 5 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

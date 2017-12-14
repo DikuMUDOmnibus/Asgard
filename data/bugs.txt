@@ -1,0 +1,108 @@
+[ 3367] Fenix: when you recall with -moves it halfs em instead of not letting you recall
+[ 9222] Fenix: rooms going dark when you kill a mob holding a light
+[ 7504] Ransom: fix nocharm flag for soulbind vs charm
+[ 3014] Zsijn: you can be walked out of combat if leader isnt being attacked and you are not being attacked
+[ 3005] Zsijn: when you get walked out of combat you cant still bash and fight the mob
+[ 6406] Fenix: you still attack with autoassist while harastunned
+[  114] Zsijn: arena starting doesnt remove nerve affect!
+[ 3054] Zsijn: the mprogs on soldiers do damage when you flee into them but they dont initiate combat
+[17651] Zsijn: nerve doesnt initial combat on mobs if you fail
+[17667] Zsijn: mprog in kingdoms emotes 1k damage but doesnt actually do anything
+[ 1600] Marduk: you can throw while stunned
+[  700] Skyntil: yawn @ person doesn't have a social
+[ 3056] Jored: when the conjurer is in the fountain of youth apothecary in midgard, you can't buy any potions.
+[17631] Ared: sometimes when i use roundhouse, it randomly picks a target... including players in my group.
+[ 1600] Marduk: blocking without shield doesn't work
+[ 1600] Marduk: smokebomb should be room affect immediately
+[ 3007] Claude: Can Hold an Item and Shield While wielding a Two-handed Sword doesnt sound right.
+[ 3056] Thraxian: You can't buy from a shop when the "powerful conjurer" is in the same room.
+[ 3700] Thraxian: No gods to choose from as a good hill-giant gladiator.  Had to guess.
+[ 1600] Marduk: earthquake shows ghost immortals
+[17999] Fesdor: I've got a bug . . . Throw now fails like every time due to fear aura, and it gives the feared <@@@> shit.
+[{wXorax        {B- {w    2{B] {yFeb 12: {wrestore / gspell hit pkers
+[{wXorax        {B- {w    2{B] {yFeb 12: {wconjurer doesnt convert platinum to gold
+[{wAlexandra    {B- {w 6450{B] {yMar  6: {wYou can dirt kick while in hara stun. I think..
+[{wAlexandra    {B- {w41017{B] {yMar  6: {wHead Cut works without a main weapon.
+[{wZarko        {B- {w20501{B] {yMar  8: {w'cripple working whilst stunned'
+[{wJohar        {B- {w10619{B] {yMar  8: {wcan't see kick/twirl damage with short combat on
+[{wRhyot        {B- {w20802{B] {yFeb 12: {wYou can still stay in meditation by using scrolls and staves. You guys fixed the wand party but yea I found that loophole.
+[{wMagoo        {B- {w 3365{B] {yFeb 16: {wVentriloquate doesn't work
+[{wKral         {B- {w 6413{B] {yFeb 16: {wguard dirtkick doesn't work
+[{wLucius       {B- {w 3367{B] {yFeb 17: {wyou can recall while hara stunned but can't move, don't know if that's a huge deal but just noticed it...
+[{wRhyot        {B- {w 3054{B] {yFeb 17: {wyou can strangle someone while they're in combat, I got attacked then strangled to sleep fix it
+[{wBeitosm      {B- {w 2653{B] {yMar 25: {worder a pet to buy something crashes the mud
+[{wVorin        {B- {w 3011{B] {yApr  6: {wThe frost blade spell seems to be broken.. no success or failure messaging, and no flag added to the weapon.
+[{wEolu         {B- {w 3014{B] {yMay  8: {wThe directions helpfile doesnt contain anything for "sanctuary"
+[{wEolu         {B- {w 3007{B] {yMay  8: {wThe quest command refers to help quest, which accesses a help file having to do with hide and seek, instead of a helpful file on the quest command.
+[{wVeneficus    {B- {w10630{B] {yMay 17: {wBACKSTAB HAS LESS LAG THAN KILL COMMAND, PLEASE FIX THIS.
+[{wRoq          {B- {w16801{B] {yFeb 24: {wcant get thru to ivalice with timer on, the old man room is flagged safe, so is jeweler in midgaard appearantly
+[{wThraxian     {B- {w41024{B] {yJun 15: {wwhen finishing a quest, if the xp gain gives you a level, no notification is sent to the player about the level up
+[{wThraxian     {B- {w 3016{B] {yJun 15: {wTRAIN HP ALL works, but it shows "Your (null) is already at the maximum" also
+[{wSorn         {B- {w10609{B] {ySep 27: {wachievement said i got 500 exp, but my tnl didn't change
+[{wSorn         {B- {w10628{B] {ySep 28: {winfravision and i can't see without a light?
+[{wSoltek       {B- {w41005{B] {ySep 28: {wshort combat doesn't return damage done on a twirl
+[{wSorn         {B- {w 7545{B] {ySep 29: {wclan ranks in do_who don't fix clor. they BLEED
+[{wSorn         {B- {w10633{B] {ySep 29: {wif i kill with shriek, lag doesn't disappear!
+[{wSoltek       {B- {w41010{B] {yOct  2: {wexperience gained from skill level ups isn't affected by the xp modifier
+[{wSorn         {B- {w10609{B] {yOct  3: {wsorcery only works for mages. i feel like this shouldn't be the case
+[{wMarduk       {B- {w22050{B] {yOct  4: {wif you get attacked while meditating, it doesn't remove meditate
+[{wSorn         {B- {w10631{B] {yOct  4: {wkilling with shriek doesn't clear lag...
+[{wSorn         {B- {w 2644{B] {yOct 10: {wshriek affects even if you fail the shriek?
+[{wSorn         {B- {w 3014{B] {yOct 12: {wacid blast giving -strength? um, no
+[{wMarduk       {B- {w 1600{B] {yOct 16: {wholy aura is a shield spell. fear aura should be model based on
+[{wSkuhlk       {B- {w16017{B] {yOct 19: {wreroll switch doesn't gives a message upon successfully changing base race
+[{wSorn         {B- {w 2603{B] {yOct 21: {wtrip _never_ works against mobs. why?
+[{wMarduk       {B- {w 1600{B] {yOct 24: {wteleport should be resistant to crossing continents
+[{wMarduk       {B- {w 1600{B] {yOct 25: {wconcealment only works if shadowblended? not from sneak or hide. veldrik observation.
+[{wMarduk       {B- {w 1600{B] {yNov  6: {wforestwalk won't go to mobs anymore? check level limitation
+[{wSorn         {B- {w71168{B] {yNov  9: {wnightstalker should check if you are indoors
+[{wMarduk       {B- {w23164{B] {yNov  9: {wvoodoo curse should be removed with remove curse
+[{wMarduk       {B- {w 3030{B] {yNov 10: {wmortals see incog if you are wizi'd!
+[{wMarduk       {B- {w 1600{B] {yNov 10: {wnewlook off by default!? other defaults?
+[{wSorn         {B- {w 2654{B] {yNov 10: {wrescue doesn't rescue?
+[{wMarduk       {B- {w 1600{B] {yNov 11: {wmagic missile is like 0 damage at low level, check how it creates damage
+[{wMarduk       {B- {w 1600{B] {yNov 11: {wnull vch with TO_VICT when failing strangle
+[{wMarduk       {B- {w 1600{B] {yNov 11: {wshadowblend is impossible with pk flag up?
+[{wKronos       {B- {w41008{B] {yNov 12: {wfire breath complete misses like 1/4 of the time?
+[{wRentiran     {B- {w10625{B] {yNov 12: {wIf a NPC dies while caught on fire, and it dies from "screams as flames erupt along his skin." you get no exp.
+[{wHelios       {B- {w60201{B] {yNov 13: {wwhen you kill a multi colored babble and it picks silver as one you dont get the 3500 exp from it...waste of a babble
+[{wMarduk       {B- {w  700{B] {yNov 15: {wcharmies don't follow through portal
+[{wMarduk       {B- {w 1600{B] {yNov 15: {wconcealment checks aren't working correctly
+[{wMarduk       {B- {w 1600{B] {yNov 16: {wultradark room flag or spell?
+[{wMarduk       {B- {w 1600{B] {yNov 16: {wfix charmies so you can give them weapons..
+[{wMarduk       {B- {w25900{B] {yNov 16: {wrename crashes!
+[{wFinzgar      {B- {w 3007{B] {yNov 16: {wAble to buy quest pill from quest master and then eat it, and continue the cycle over and over to complete the achievements for free xp.
+[{wMarduk       {B- {w 1600{B] {yNov 17: {wacute vision against shadowwalk?
+[{wMarduk       {B- {w 1600{B] {yNov 17: {wfocus level bonus goes up, congratulate people?!?
+[{wMarduk       {B- {w 1600{B] {yNov 17: {wimmortals on bounty list?!
+[{wMarduk       {B- {w 1600{B] {yNov 17: {wcreate a counter for deaths!  achievement
+[{wMarduk       {B- {w24500{B] {yNov 17: {wmagic level of caster should be used for scrolls somehow
+[{wBoGdan       {B- {w11636{B] {yNov 18: {wcoule can get you to negative moves : -10713/1280Mv
+[{wLombax       {B- {w 3014{B] {yNov 18: {wIf you level from the xp from completing a quest, it doesn't give you a notification that you leveled and what you gained. Although you still gain properly.
+[{wSorn         {B- {w71166{B] {yNov 18: {wquest level gains don't show proper on ooc stuff
+[{wSorn         {B- {w71174{B] {yNov 18: {wadd room faerie fog should be purple
+[{wSorn         {B- {w71167{B] {yNov 18: {wadd whois color bleeds on noghir
+[{wMarduk       {B- {w 1600{B] {yNov 18: {wplayer tier into pk rank!
+[{wMarduk       {B- {w 6412{B] {yNov 20: {wacid blade does nothing?
+[{wKronos       {B- {w 9222{B] {yNov 20: {wfirebreath misses constantly. spells shouldnt miss?
+[{wMarduk       {B- {w 1600{B] {yNov 21: {wadd another argument to delete - REASON and dump it to a txt file
+[{wSorn         {B- {w23165{B] {yNov 21: {wadd burning skin needs reduced timer (104 hours!)
+[{wMarduk       {B- {w72608{B] {yNov 28: {wYou have never lost your conceal to begin with, hopefuly... login message
+[{wSorn         {B- {w71174{B] {yNov 30: {wadd drashall has no damage noun
+[{wPell         {B- {w 3054{B] {yDec  1: {wadd hara doesn't increase combat toughness?
+[{wSthenos      {B- {w 2642{B] {yDec  2: {wshrieks round lag still happens if it kills the mob
+[{wMelkor       {B- {w 3007{B] {yDec  2: {wif you cast a combat spell on yourself, it can flag you as pk, even when set as npk.
+[{wMarduk       {B- {w 1600{B] {yDec  6: {wmonks can adamantium palm themselves
+[{wMarduk       {B- {w 1600{B] {yDec  8: {wrename crashes the mud
+[{wPell         {B- {w 9630{B] {yDec 12: {wadd the darkness dissapating?
+[{wBoGy         {B- {w11664{B] {yDec 13: {wCheck EDrain for the experience modifier, this is wrong -> You LOSE 34 experience points.
+[{wMarduk       {B- {w12127{B] {yDec 13: {wblind mob, autohits you immediately
+[{wPell         {B- {w16021{B] {yDec 13: {wadd You block Pell's attack with your shield wall.
+[{wMarduk       {B- {w 3334{B] {yDec 20: {wequip mob with conceal and look at them crashes (via natsu)
+[{wMarduk       {B- {w60150{B] {yDec 20: {wsurge should do different bonuses on different damage types
+[{wTaroum       {B- {w 3007{B] {yDec 20: {wmy conjured angel doesn't fly!
+[{wMarduk       {B- {w 1600{B] {yDec 21: {wge works but get stops, ta works but take doesnt for mobs
+[{wHaittas      {B- {w41018{B] {yDec 26: {wIf I miss an ambush or if a NPC initiates combat instead of me, my battle falcon doesnt come down and enter the fight.
+[{wMarduk       {B- {w 1600{B] {yDec 28: {wfreezing shattered a refreshing helm?
+[{wSirensu      {B- {w 3366{B] {yJan 22: {wkill command as dark paladin with -1000 align crashes mthe mud??
+[{wSirensu      {B- {w12045{B] {yJan 24: {welixir and battle elixirs from despair cant be taken out of bags.

@@ -1,0 +1,2422 @@
+#AREADATA
+Name Catacombs of the Karzotun~
+Builders Ishamael Nogate~
+VNUMs 74300 74399
+Continent 5
+Mobtier 0
+Credits [  LGD ] Ishamael Catacombs of the Karzotun~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74300
+a deep dwarf~
+a deep dwarf~
+A deep dwarf stands here eyes glowing red.
+~
+~
+dwarf~
+AT DJc 0 0 0
+200 650 1d1+20000 40d9+100 27d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 20
+A -1
+M DEATH 74307 25~
+M GRALL 74301 10~
+#74301
+a deep dwarf~
+a deep dwarf~
+A deep dwarf stands here glaring at you.
+~
+~
+dwarf~
+AR DJc 0 0 0
+200 700 1d1+17500 1d1+15000 27d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 20
+A -1
+M FIGHT 74300 10~
+M DEATH 74307 25~
+M GRALL 74301 10~
+#74302
+duergar dark dwarf~
+a duergar~
+A dark dwarf stands here glaring in your direction.
+~
+~
+dwarf~
+ART DJc 0 0 0
+205 750 1d1+22500 1d1+15000 29d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 21
+A -1
+M DEATH 74307 25~
+M GRALL 74301 10~
+#74303
+the aleithian dwarf~
+the aleithian dwarf~
+An aleithian dwarf stands here gazing through you.
+~
+~
+dwarf~
+ART DJc 0 0 0
+205 800 1d1+22500 1d1+15000 30d45+500 psias
+-100 -100 -100 -100
+DI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 22
+A -1
+M FIGHT 74300 15~
+M DEATH 74307 25~
+M GRALL 74301 10~
+#74304
+duergar dark dwarf~
+a duergar~
+A dark dwarf stands here wielding a large axe.
+~
+~
+dwarf~
+ART DJVc 0 0 0
+210 850 1d1+20000 1d1+15000 29d45+200 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 23
+A -1
+M DEATH 74307 25~
+M GRALL 74301 10~
+#74305
+a deep dwarf~
+a deep dwarf~
+A deep dwarf stands here wielding a large mace.
+~
+~
+dwarf~
+AT DJc 0 0 0
+210 850 1d1+20000 40d9+100 27d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+V 23
+A -1
+M DEATH 74307 25~
+M GRALL 74301 12~
+#74306
+guard dwarf karzotun~
+a guard of the karzotun~
+A dark dwarf stands here guarding the hall of his clan.
+~
+~
+dwarf~
+ART DJc 0 0 0
+215 1000 1d1+25000 1d1+15000 30d45+650 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 25
+A -1
+M GRALL 74301 50~
+M DEATH 74307 35~
+#74307
+dark dwarf psionic glowing~
+a duergar~
+A dark dwarf with eyes glowing wanders about the hall
+~
+~
+dwarf~
+AR DJc 0 0 0
+215 1000 1d1+25000 1d1+15000 30d45+550 psias
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 25
+A -1
+M FIGHT 74300 20~
+M GRALL 74301 30~
+M DEATH 74307 35~
+#74308
+clan leader karzotun dwarf~
+Leader of the Karzotun~
+The Clan Leader sits here on his throne overseeing the great hall.
+~
+~
+dwarf~
+ABFGRS DFJTVc 0 -1000 0
+275 2000 1d1+75000 110d10+100 750d6+250 psias
+-100 -100 -100 -100
+ADEFGHK ACIJ ABCDELMZ S
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV medium unknown
+S 1
+V 65
+A -1
+M DEATH 74308 100~
+#74309
+kobold guard~
+a kobold guard~
+A kobold stands here guarding the entrance to the eastern tunnel
+~
+~
+kobold~
+ABMT DJVZc 0 0 0
+190 800 1d1+35000 40d9+100 30d50+500 pound
+-100 -100 -100 -100
+CDHIR AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 20
+A -1
+M EXALL 74405 1~
+M DEATH 74409 100~
+M EXALL 74408 3~
+#0
+
+
+
+#OBJECTS
+#74300
+a bronze headed axe~
+a bronze-headed axe~
+A large axe lies on the ground.~
+unknown~
+weapon 0 AN
+mace 10 20 blast F
+101 50 0 P
+#74301
+a heavy spiked mace~
+a heavy spiked mace~
+A heavy spiked mace lies here.~
+unknown~
+weapon 0 AN
+mace 10 20 blast F
+101 50 0 P
+#74302
+small rock crystal~
+a small rock crystal~
+A small rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 100000 P
+#74303
+medium rock crystal~
+a medium rock crystal~
+A medium rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 135000 P
+#74304
+large rock crystal~
+a large rock crystal~
+A large rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 177250 P
+#74305
+huge rock crystal~
+a huge rock crystal~
+A huge rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#74306
+small red jasper~
+a small red jasper~
+A small red jasper sits here~
+jasper~
+gem 0 A
+0 0 0 0 0
+0 1 150000 P
+#74307
+medium red jasper~
+a medium red jasper~
+A medium red jasper sits here.~
+jasper~
+gem 0 A
+0 0 0 0 0
+0 1 175000 P
+#74308
+large red jasper~
+a large red jasper~
+A large red jasper sits here.~
+jasper~
+gem 0 A
+0 0 0 0 0
+0 1 200000 P
+#74309
+huge red jasper~
+a huge red jasper~
+A huge red jasper sits here.~
+jasper~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#74310
+small red-green bloodstone~
+a small red-green bloodstone~
+A small red-green bloodstone lies here.~
+bloodstone~
+gem 0 A
+0 0 0 0 0
+0 1 200000 P
+#74311
+medium red-green bloodstone~
+a medium red-green bloodstone~
+A medium red-green bloodstone~
+bloodstone~
+gem 0 A
+0 0 0 0 0
+0 1 225000 P
+#74312
+large red-green bloodstone~
+a large red-green bloodstone~
+A large red-green bloodstone lies here~
+bloodstone~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#74313
+huge red-green bloodstone~
+a huge red-green bloodstone~
+A huge red-green bloodstone lies here.~
+bloodstone~
+gem 0 A
+0 0 0 0 0
+0 1 300000 P
+#74314
+small tanzanite~
+a small tanzanite~
+A small piece of tanzanite sits here.~
+tanzanite~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#74315
+medium tanzanite~
+a medium tanzanite~
+A medium piece of tanzanite lies here.~
+tanzanite~
+gem 0 A
+0 0 0 0 0
+0 1 275000 P
+#74316
+large tanzanite~
+a large tanzanite~
+A large piece of tanzanite lies here.~
+tanzanite~
+gem 0 A
+0 0 0 0 0
+0 1 300000 P
+#74317
+huge tanzanite~
+a huge tanzanite~
+A huge piece of tanzanite lies here.~
+tanzanite~
+gem 0 A
+0 0 0 0 0
+0 1 350000 P
+#74318
+tiny yellow diamond~
+a tiny yellow diamond~
+A tiny yellow diamond sits here.~
+bloodstone~
+gem 0 A
+0 0 0 0 0
+0 1 500000 P
+#74319
+small yellow diamond~
+a small yellow diamond~
+A small yellow diamond lies here.~
+diamond~
+gem 0 A
+0 0 0 0 0
+0 1 1000000 P
+#74320
+medium yellow diamond~
+a medium yellow diamond~
+A medium yellow diamond lies here.~
+diamond~
+gem 0 A
+0 0 0 0 0
+0 1 2500000 P
+#74321
+large yellow diamond~
+a large yellow diamond~
+A large yellow diamond lies here.~
+diamond~
+gem 0 A
+0 0 0 0 0
+0 1 5000000 P
+#74322
+huge yellow diamond~
+a huge yellow diamond~
+A huge yellow diamond lies here.~
+diamond~
+gem 0 A
+0 0 0 0 0
+0 1 10000000 P
+#74323
+massive yellow diamond~
+a massive yellow diamond~
+A massive yellow diamond lies here.~
+diamond~
+gem 0 A
+0 0 0 0 0
+0 1 20000000 P
+#0
+
+
+
+#ROOMS
+#74300
+In the Crumbling Passage~
+Loose stones litter the floor as large cracks appear in the the ceiling
+overhead.  Rusted sconces lie the walls but lack proper lighting as the
+passage descends down into darkness.  
+~
+0 5 0
+D1
+~
+~
+0 0 74301
+D3
+~
+~
+0 0 71194
+S
+#74301
+Descending Passage~
+The passage darkens as it descends farther away from the mines above. 
+The hand carved tunnels are cracked and badly in need of repair.  
+~
+0 1 0
+D3
+~
+~
+0 0 74300
+D5
+~
+~
+0 0 74302
+S
+#74302
+Deep Below the Mines~
+The passageway continues down away from the mines and descends further
+into the darkness.  The sound of loose stones skittering along the passage
+floor echoes off the rock walls of the tunnel.  
+~
+0 1 0
+D4
+~
+~
+0 0 74301
+D5
+~
+~
+0 0 74303
+S
+#74303
+In the Crumbling Tunnel~
+The tunnel is in a state of serious disrepair as dirt and dust pour
+through a large crack in the ceiling.  The structured supports and left over
+pickaxes offers signs that this once was an active mine.  
+~
+0 1 0
+D4
+~
+~
+0 0 74302
+D5
+~
+~
+0 0 74304
+S
+#74304
+Twist in the Darkness~
+The passage twists off to the east leading into the dark unknown.  To the
+west a cave-in blocks passage into a larger chamber of these long forgotten
+mines.  
+~
+0 1 0
+D1
+~
+~
+0 0 74305
+D4
+~
+~
+0 0 74303
+S
+#74305
+Narrow Passage~
+The roughly hewn walls narrow as they guide you through the dark tunnels
+of the mine.  This appears to be an exploratory mine but all indications
+show it has long been abandoned.  
+~
+0 1 0
+D1
+~
+~
+0 0 74306
+D3
+~
+~
+0 0 74304
+S
+#74306
+Dark Passageway~
+The passageway leads down deeper beneath the surface and farther away
+from the mines above.  A mining cart lies on its side badly dented and
+rusted looking long forgotten.  
+~
+0 1 0
+D3
+~
+~
+0 0 74305
+D5
+~
+~
+0 0 74307
+S
+#74307
+On the Dark Descent~
+The passageway continues deep into the depths heading down through
+roughly carved walls of rock.  Bits of stone and rusted metal lie scattered
+throughout the passage.  
+~
+0 1 0
+D4
+~
+~
+0 0 74306
+D5
+~
+~
+0 0 74308
+S
+#74308
+Empty Staging Area~
+The passageway opens to this large room that appears to be a staging area
+for a mine.  A splintered wood rack holds pickaxes as helmets and hammers
+lie scattered on the floor of the room.  
+~
+0 1 0
+D1
+~
+~
+0 0 74309
+D4
+~
+~
+0 0 74307
+S
+#74309
+Before an Abandoned Mine~
+The once narrow passage opens to a large cavern to the east.  Pieces of
+heavy mining equipment lie here in disarray as you have to sidestep a
+toppled mining cart.  
+~
+0 0 0
+D1
+~
+~
+0 0 74310
+D3
+~
+~
+0 0 74308
+S
+#74310
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74311
+D1
+~
+~
+0 0 74314
+D2
+~
+~
+0 0 74312
+D3
+~
+~
+0 0 74309
+S
+#74311
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D1
+~
+~
+0 0 74313
+D2
+~
+~
+0 0 74310
+S
+#74312
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74310
+D1
+~
+~
+0 0 74315
+S
+#74313
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D1
+~
+~
+0 0 74316
+D2
+~
+~
+0 0 74314
+D3
+~
+~
+0 0 74311
+S
+#74314
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74313
+D1
+~
+~
+0 0 74317
+D2
+~
+~
+0 0 74315
+D3
+~
+~
+0 0 74310
+S
+#74315
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74314
+D1
+~
+~
+0 0 74318
+D2
+~
+~
+0 0 74319
+D3
+~
+~
+0 0 74312
+S
+#74316
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D2
+~
+~
+0 0 74317
+D3
+~
+~
+0 0 74313
+S
+#74317
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74316
+D2
+~
+~
+0 0 74318
+D3
+~
+~
+0 0 74314
+S
+#74318
+In the Crumbling Mine~
+The mine is in a bad state of repair as chunks of rock litter the floor
+and the ceiling overhead is barely six feet.  Splintered wood and discarded
+tools lay scattered throughout the abandoned mine, long forgotten by the
+miners that dug this cavern.  
+~
+0 1 0
+D0
+~
+~
+0 0 74317
+D3
+~
+~
+0 0 74315
+S
+#74319
+Descending Passage~
+The dark passage leads away from the crumbling mine and deeper beneath
+the surface.  You notice the marks on the walls on the passage heading
+downward are from different tools from that of the mine.  
+~
+0 1 0
+D0
+~
+~
+0 0 74315
+D5
+~
+~
+0 0 74320
+S
+#74320
+Twist in the Passageway~
+The area is completely dark and there is no sign of mining activity at
+the bottom of the passage.  To the east the passage opens up into a series
+of catacombs.  
+~
+0 1 0
+D1
+~
+~
+0 0 74321
+D4
+~
+~
+0 0 74319
+S
+#74321
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74322
+D2
+~
+~
+0 0 74324
+D3
+~
+~
+0 0 74320
+S
+#74322
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74323
+D3
+~
+~
+0 0 74321
+S
+#74323
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74326
+D3
+~
+~
+0 0 74322
+S
+#74324
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74321
+D2
+~
+~
+0 0 74327
+S
+#74325
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74326
+D2
+~
+~
+0 0 74328
+S
+#74326
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74323
+D2
+~
+~
+0 0 74329
+D3
+~
+~
+0 0 74325
+S
+#74327
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74324
+D1
+~
+~
+0 0 74328
+S
+#74328
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74325
+D3
+~
+~
+0 0 74327
+S
+#74329
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74326
+D2
+~
+~
+0 0 74330
+S
+#74330
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74329
+D2
+~
+~
+0 0 74331
+S
+#74331
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74330
+D1
+~
+~
+0 0 74344
+D3
+~
+~
+0 0 74332
+S
+#74332
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74331
+D5
+~
+~
+0 0 74333
+S
+#74333
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D3
+~
+~
+0 0 74334
+D4
+~
+~
+0 0 74332
+S
+#74334
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74333
+D2
+~
+~
+0 0 74335
+S
+#74335
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74334
+D1
+~
+~
+0 0 74337
+D3
+~
+~
+0 0 74336
+S
+#74336
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74335
+D2
+~
+~
+0 0 74338
+S
+#74337
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74340
+D3
+~
+~
+0 0 74335
+S
+#74338
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74336
+D1
+~
+~
+0 0 74339
+D2
+~
+~
+0 0 74341
+S
+#74339
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74342
+D3
+~
+~
+0 0 74338
+S
+#74340
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74337
+D2
+~
+~
+0 0 74343
+D5
+~
+~
+0 0 74365
+S
+#74341
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74338
+D1
+~
+~
+0 0 74342
+S
+#74342
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74339
+D1
+~
+~
+0 0 74343
+D3
+~
+~
+0 0 74341
+S
+#74343
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74340
+D3
+~
+~
+0 0 74342
+S
+#74344
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74345
+D3
+~
+~
+0 0 74331
+S
+#74345
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74346
+D3
+~
+~
+0 0 74344
+S
+#74346
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74345
+D5
+~
+~
+0 0 74347
+S
+#74347
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74348
+D4
+~
+~
+0 0 74346
+S
+#74348
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74349
+D2
+~
+~
+0 0 74350
+D3
+~
+~
+0 0 74347
+S
+#74349
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74351
+D2
+~
+~
+0 0 74348
+S
+#74350
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74348
+D1
+~
+~
+0 0 74353
+S
+#74351
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74354
+D2
+~
+~
+0 0 74352
+D3
+~
+~
+0 0 74349
+S
+#74352
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74351
+D1
+~
+~
+0 0 74355
+S
+#74353
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74356
+D2
+~
+~
+0 0 74357
+D3
+~
+~
+0 0 74350
+S
+#74354
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74355
+D3
+~
+~
+0 0 74351
+S
+#74355
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74354
+D2
+~
+~
+0 0 74356
+D3
+~
+~
+0 0 74352
+S
+#74356
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74355
+D3
+~
+~
+0 0 74353
+S
+#74357
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74353
+D5
+~
+~
+0 0 74358
+S
+#74358
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74359
+D4
+~
+~
+0 0 74357
+S
+#74359
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74358
+D5
+~
+~
+0 0 74360
+S
+#74360
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74361
+D4
+~
+~
+0 0 74359
+S
+#74361
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74360
+D3
+~
+~
+0 0 74362
+S
+#74362
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74361
+D2
+~
+~
+0 0 74363
+D3
+~
+~
+0 0 74366
+S
+#74363
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74362
+D3
+~
+~
+0 0 74364
+S
+#74364
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74363
+D2
+~
+~
+0 0 74367
+S
+#74365
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D4
+~
+~
+0 0 74340
+D5
+~
+~
+0 0 74366
+S
+#74366
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74362
+D4
+~
+~
+0 0 74365
+S
+#74367
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74364
+D2
+~
+~
+0 0 74368
+S
+#74368
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74367
+D1
+~
+~
+0 0 74370
+D3
+~
+~
+0 0 74369
+S
+#74369
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74368
+D2
+~
+~
+0 0 74371
+S
+#74370
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74373
+D3
+~
+~
+0 0 74368
+S
+#74371
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74369
+D2
+~
+~
+0 0 74374
+S
+#74372
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74373
+D2
+~
+~
+0 0 74375
+S
+#74373
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74370
+D2
+~
+~
+0 0 74376
+D3
+~
+~
+0 0 74372
+S
+#74374
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74371
+D1
+~
+~
+0 0 74375
+S
+#74375
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74372
+D3
+~
+~
+0 0 74374
+S
+#74376
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74373
+D1
+~
+~
+0 0 74377
+S
+#74377
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D3
+~
+~
+0 0 74376
+D5
+~
+~
+0 0 74378
+S
+#74378
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D2
+~
+~
+0 0 74379
+D4
+~
+~
+0 0 74377
+S
+#74379
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74378
+D2
+~
+~
+0 0 74380
+S
+#74380
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74379
+D2
+~
+~
+0 0 74384
+S
+#74381
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D1
+~
+~
+0 0 74382
+D2
+~
+~
+0 0 74385
+S
+#74382
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D1
+~
+~
+0 0 74383
+D2
+~
+~
+0 0 74386
+D3
+~
+~
+0 0 74381
+S
+#74383
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D1
+~
+~
+0 0 74399
+D2
+~
+~
+0 0 74387
+D3
+~
+~
+0 0 74382
+S
+#74384
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74380
+D2
+~
+~
+0 0 74388
+S
+#74385
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74381
+D1
+~
+~
+0 0 74386
+D2
+~
+~
+0 0 74389
+S
+#74386
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74382
+D1
+~
+~
+0 0 74387
+D2
+~
+~
+0 0 74390
+D3
+~
+~
+0 0 74385
+S
+#74387
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74383
+D2
+~
+~
+0 0 74391
+D3
+~
+~
+0 0 74386
+S
+#74388
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74384
+D2
+~
+~
+0 0 74392
+S
+#74389
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74385
+D1
+~
+~
+0 0 74390
+S
+#74390
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74386
+D1
+~
+~
+0 0 74391
+D2
+~
+~
+0 0 74394
+D3
+~
+~
+0 0 74389
+S
+#74391
+Hall of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  The standard of the Karzotun showing a clenched
+fist hangs from the top of each pillar and throughout the hall.  
+~
+0 1 0
+D0
+~
+~
+0 0 74387
+D3
+~
+~
+0 0 74390
+S
+#74392
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74388
+D2
+~
+~
+0 0 74395
+S
+#74393
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D1
+~
+~
+0 0 74394
+D2
+~
+~
+0 0 74396
+S
+#74394
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  You notice to
+the north the catacombs open to a large cavern.  
+~
+0 5 0
+D0
+~
+~
+0 0 74390
+D2
+~
+~
+0 0 74397
+D3
+~
+~
+0 0 74393
+S
+#74395
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74392
+D1
+~
+~
+0 0 74396
+S
+#74396
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74393
+D1
+~
+~
+0 0 74397
+D3
+~
+~
+0 0 74395
+S
+#74397
+In the Catacombs~
+A series of passages and tunnels run deep through the bedrock.  The
+arched ceiling overhead and numerous passageways offer little in the way of
+the destination and appear to be a large underground maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 74394
+D1
+~
+~
+0 0 74398
+D3
+~
+~
+0 0 74396
+S
+#74398
+Bottleneck in the Catacombs~
+The catacombs narrow to the point only single file passage is possible. 
+The narrow walls slow your passage as you try to progress deeper
+underground.  
+~
+0 2053 0
+D1
+~
+~
+0 0 74525
+D3
+~
+~
+0 0 74397
+S
+#74399
+Throne Room of the Karzotun~
+Large stone pillars brace the rock ceiling high above as sound echoes off
+the rock walls of the hall.  A large throne sits back against the wall with
+large banners showing the symbols of the Karzotun on either side.  
+~
+0 5 0
+D3
+~
+~
+0 0 74383
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74300 50 74304 2 *Load a deep dwarf
+M 0 74301 50 74306 2 *Load a deep dwarf
+M 0 74301 50 74308 1 *Load a deep dwarf
+M 0 74300 50 74308 1 *Load a deep dwarf
+M 0 74300 50 74310 1 *Load a deep dwarf
+M 0 74301 50 74310 2 *Load a deep dwarf
+M 0 74300 50 74311 2 *Load a deep dwarf
+M 0 74301 50 74311 1 *Load a deep dwarf
+M 0 74301 50 74312 2 *Load a deep dwarf
+M 0 74300 50 74312 2 *Load a deep dwarf
+M 0 74300 50 74313 1 *Load a deep dwarf
+M 0 74301 50 74313 2 *Load a deep dwarf
+M 0 74300 50 74314 2 *Load a deep dwarf
+M 0 74300 50 74314 1 *Load a deep dwarf
+M 0 74300 50 74315 3 *Load a deep dwarf
+M 0 74301 50 74315 3 *Load a deep dwarf
+M 0 74300 50 74316 2 *Load a deep dwarf
+M 0 74301 50 74316 2 *Load a deep dwarf
+M 0 74300 50 74317 1 *Load a deep dwarf
+M 0 74300 50 74319 1 *Load a deep dwarf
+M 0 74301 50 74320 1 *Load a deep dwarf
+M 0 74302 30 74321 2 *Load a duergar
+M 0 74302 30 74321 2 *Load a duergar
+M 0 74300 50 74322 1 *Load a deep dwarf
+M 0 74302 30 74323 2 *Load a duergar
+M 0 74301 50 74323 1 *Load a deep dwarf
+M 0 74302 30 74324 1 *Load a duergar
+M 0 74302 30 74325 2 *Load a duergar
+M 0 74302 30 74326 2 *Load a duergar
+M 0 74302 30 74327 2 *Load a duergar
+M 0 74301 50 74329 1 *Load a deep dwarf
+M 0 74302 30 74330 1 *Load a duergar
+M 0 74301 50 74330 1 *Load a deep dwarf
+M 0 74301 50 74332 1 *Load a deep dwarf
+M 0 74301 50 74332 1 *Load a deep dwarf
+M 0 74303 30 74334 2 *Load the aleithian dwarf
+M 0 74302 30 74335 1 *Load a duergar
+M 0 74303 30 74335 2 *Load the aleithian dwarf
+M 0 74303 30 74336 2 *Load the aleithian dwarf
+M 0 74300 50 74337 1 *Load a deep dwarf
+M 0 74301 50 74337 1 *Load a deep dwarf
+M 0 74302 30 74338 1 *Load a duergar
+M 0 74301 50 74340 1 *Load a deep dwarf
+M 0 74303 30 74340 2 *Load the aleithian dwarf
+M 0 74303 30 74341 2 *Load the aleithian dwarf
+M 0 74301 50 74342 2 *Load a deep dwarf
+M 0 74303 30 74342 1 *Load the aleithian dwarf
+M 0 74302 30 74343 1 *Load a duergar
+M 0 74303 30 74343 1 *Load the aleithian dwarf
+M 0 74302 30 74345 1 *Load a duergar
+M 0 74302 30 74347 1 *Load a duergar
+M 0 74303 30 74348 1 *Load the aleithian dwarf
+M 0 74303 30 74349 1 *Load the aleithian dwarf
+M 0 74302 30 74349 1 *Load a duergar
+M 0 74303 30 74350 1 *Load the aleithian dwarf
+M 0 74302 30 74350 2 *Load a duergar
+M 0 74302 30 74351 1 *Load a duergar
+M 0 74303 30 74351 2 *Load the aleithian dwarf
+M 0 74302 30 74352 1 *Load a duergar
+M 0 74303 30 74352 1 *Load the aleithian dwarf
+M 0 74303 30 74353 1 *Load the aleithian dwarf
+M 0 74300 50 74353 1 *Load a deep dwarf
+M 0 74302 30 74354 1 *Load a duergar
+M 0 74303 30 74354 3 *Load the aleithian dwarf
+M 0 74303 30 74355 1 *Load the aleithian dwarf
+M 0 74303 30 74356 3 *Load the aleithian dwarf
+M 0 74305 50 74359 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74305 50 74361 5 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74362 1 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74304 50 74364 1 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74365 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74305 50 74367 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74368 3 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74369 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74369 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74304 50 74370 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74371 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74305 50 74372 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74372 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74304 50 74373 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74304 50 74374 3 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74375 2 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74305 50 74377 1 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74378 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74379 3 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74380 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74306 10 74381 1 *Load a guard of the karzotun
+M 0 74307 10 74381 2 *Load a duergar
+M 0 74306 10 74382 1 *Load a guard of the karzotun
+M 0 74306 10 74383 1 *Load a guard of the karzotun
+M 0 74307 10 74383 2 *Load a duergar
+M 0 74305 50 74384 3 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74306 10 74385 1 *Load a guard of the karzotun
+M 0 74307 10 74385 2 *Load a duergar
+M 0 74306 10 74386 1 *Load a guard of the karzotun
+M 0 74306 10 74387 1 *Load a guard of the karzotun
+M 0 74307 10 74387 2 *Load a duergar
+M 0 74304 50 74388 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74306 10 74389 1 *Load a guard of the karzotun
+M 0 74307 10 74389 2 *Load a duergar
+M 0 74306 10 74390 1 *Load a guard of the karzotun
+M 0 74307 10 74390 2 *Load a duergar
+M 0 74306 10 74391 1 *Load a guard of the karzotun
+M 0 74304 50 74392 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74304 50 74393 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74305 50 74395 1 *Load a deep dwarf
+E 0 74301 0 16 *A heavy spiked mace is loaded wielded of a deep dwarf
+M 0 74304 50 74396 2 *Load a duergar
+E 0 74300 0 16 *A bronze-headed axe is loaded wielded of a duergar
+M 0 74309 1 74398 1 *Load a kobold guard
+M 0 74308 1 74399 1 *Load Leader of the Karzotun
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74300
+mob echo {YA deep dwarf glares at you attacking your mind!!!{x
+mob cast 'mana blast'
+~
+#74301
+mob echo Someone yells out, "Trespasser!!!" as the dwarves rush to attack you!!!
+mob echo {YThe dwarf glares at you and blasts you with his mind!!!{x
+mob cast 'mana blast' $n
+~
+#74302
+if rand 85
+mob oload 74305
+else
+if rand 70
+mob oload 74304
+else
+if rand 55
+mob oload 74303
+else
+mob oload 74302
+endif
+~
+#74303
+if rand 85
+mob oload 74309
+else
+if rand 70
+mob oload 74308
+else
+if rand 55
+mob oload 74307
+else
+mob oload 74306
+~
+#74304
+if rand 85
+mob oload 74313
+else
+if rand 70
+mob oload 74312
+else
+if rand 55
+mob oload 74311
+else
+mob oload 74310
+~
+#74305
+if rand 85
+mob oload 74317
+else
+if rand 70
+mob oload 74316
+else
+if rand 55
+mob oload 74315
+else
+mob oload 74314
+~
+#74306
+if rand 98
+mob oload 74323
+else
+if rand 95
+mob oload 74322
+else
+if rand 85
+mob oload 74321
+else if rand 70
+moad oload 74320
+else
+if rand 55
+mob oload 74319
+else
+mob oload 74318
+~
+#74307
+if rand 35
+mob call 74302 self
+else
+if rand 40
+mob call 74303 self
+else
+if rand 45
+mob call 74304 self
+else
+if rand 60
+mob call 74305 self
+else
+if rand 80
+mob call 74306 self
+~
+#74308
+if rand 95
+mob oload 74323
+else
+if rand 80
+mob oload 74322
+else
+if rand 60
+mob oload 74321
+else
+if rand 40
+mob oload 74320
+else
+if rand 20
+mob oload 74319
+else
+mob oload 74318
+~
+#74309
+if mobhere 60311
+mob echo {WA deep dwarfs metal blast destroys your pet!!{x
+mob purge demon
+endif
+if mobhere 60208
+mob echo {WA deep dwarfs mental blast destroys your pet!!{x
+mob purge pet
+endif
+if mobhere 60011
+mob echo {WA deep dwarfs mental blast destroys your pet!!{x
+mob purge pet
+endif
+~
+#0
+
+#$

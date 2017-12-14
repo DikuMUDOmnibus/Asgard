@@ -1,0 +1,2411 @@
+#AREADATA
+Name City of Dark Weavings~
+Builders Ishamael Nogate~
+VNUMs 75000 75099
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael City of Dark Weavings~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#75000
+drow enchanter~
+a drow enchanter~
+A dark skinned elf stands here enchanting an object
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 475d4+500 magic
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 4
+M GRALL 75006 17~
+#75001
+drow conjurer~
+a drow conjurer~
+A drow stands here summoning creatures from beyond.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 475d4+500 wrath
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 4
+M GRALL 75006 17~
+#75002
+drow mage~
+a drow mage~
+A dark cloaked elf stands here practicing magic.
+~
+~
+elf~
+AR JV 0 0 0
+235 0 1d1+30000 1d1+50000 1d1+1 flame
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 0
+M FIGHT 75004 100~
+M GRALL 75006 17~
+#75003
+a drow elementalist~
+a drow elementalist~
+A white haired elf stands here tinkering with the elements.
+~
+~
+elf~
+AR J 0 0 0
+235 0 1d1+30000 1d1+50000 1d1+1 none
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 0
+M FIGHT 75000 100~
+M GRALL 75006 17~
+#75004
+drow adjurer~
+a drow adjurer~
+A dark skinned elf stands here casting protective spells.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 400d4+100 beating
+-175 -175 -175 -175
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 4
+M FIGHT 75001 100~
+M GRALL 75006 17~
+#75005
+drow illusionist~
+a drow illusionist~
+A dark robed elf stands here creating illusions.
+~
+~
+elf~
+AR JV 0 0 0
+235 0 1d1+30000 1d1+50000 475d4+300 flash
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 4
+M GRALL 75006 17~
+#75006
+drow priestess lloth~
+a priestess of lloth~
+A female drow stands here worshipping Lloth.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 475d4+275 divine
+-100 -100 -100 -100
+0 B 0 0
+stand stand female 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 2
+M FIGHT 75002 100~
+M GRALL 75006 17~
+#75007
+drow invoker~
+a drow invoker~
+A dark skinned elf stands here summoning forces of darkness.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 475d4+300 drain
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 1
+M FIGHT 75003 100~
+M GRALL 75006 17~
+#75008
+drow rogue~
+a drow rogue~
+{x
+~
+~
+elf~
+ARS J 0 0 0
+235 2000 1d1+30000 1d1+50000 28d50+400 none
+-100 -100 -100 -100
+B B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 4
+M GRALL 75005 75~
+#75009
+Masoj Dhuunyl drow master~
+Masoj Dhuunyl~
+The Master of Abjuration stands here instructing the school.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+12500 0d0+0 750d5+200 beating
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75010
+Shurdriira Helviiryn master drow~
+Shurdriira Helviiryn~
+The Master of Alteration stands here instructing his students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 flash
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75011
+Urlryn Khalazza drow master~
+Urlryn Khalazza~
+The Master of Summoning stands here instructing his students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 wrath
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75012
+Malaggar Xarann drow master~
+Malaggar Xarann~
+The Master of Enchantment and Charm stands here instructing his students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+200 magic
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75013
+Krondorl Waeglossz drow master~
+Krondorl Waeglossz~
+The Master of Invocation and Evocation stands here instructing his students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 drain
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75014
+Guldor Zauviir drow master~
+Guldor Zauviir~
+The Master of Mages stands here instructing his students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 flame
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75015
+Antatlab of the Shaking Stones drow master~
+Antatlab of the Shaking Stones~
+The Master of Elemental Magic stands here instructing students.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 chill
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75016
+Nurissa Vyllshan drow master~
+Nurissa Vyllshan~
+The Mistress of Shadows stands here overseeing the school.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+200 pierce
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand female 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75017
+Laele Zauviir drow high priestess~
+Laele Zauviir~
+The Leader of the Spider Queen's temple stands here leading services.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+125000 0d0+0 800d5+250 divine
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand female 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75018
+drow elf dark skinned~
+a drow~
+A dark skinned elf walks throughout the city.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 34d50+300 slice
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 35
+A 4
+M GRALL 75006 22~
+#75019
+drow elf student~
+a drow student~
+A student walks between schools preparing to study magic.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 34d50+300 slash
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 34
+A 4
+M GRALL 75006 22~
+#75020
+minotaur slave~
+a minotaur slave~
+A shackled minotaur is lead through the square to auction.
+~
+~
+minotaur~
+ART DJc 0 0 0
+205 750 1d1+32500 1d1+15000 32d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 35
+A 4
+M GRALL 75006 22~
+#75021
+human slave~
+a human slave~
+A human slave is lead through the square.
+~
+~
+human~
+ART DJc 0 0 0
+205 750 1d1+27500 1d1+15000 35d50+400 slap
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 35
+A 4
+M GRALL 75006 22~
+#75022
+drow gate guard figure~
+a drow guard~
+A darkly cloaked figure stands here guarding the gate to the city.
+~
+~
+elf~
+AB JVe 0 0 0
+250 2000 1d1+35000 0d0+0 850d2+250 slash
+-100 -100 -100 -100
+FHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 35
+A 5
+#75023
+drow slaver~
+a drow slaver~
+A slaver walks through the area leading his prize.
+~
+~
+elf~
+ART DJc 0 0 0
+205 750 1d1+27500 1d1+15000 35d50+400 slap
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 36
+A 5
+M GRALL 75006 22~
+#0
+
+
+
+#OBJECTS
+#75000
+jagged obsidian blade~
+a jagged obsidian blade~
+A dark piece of obsidian sits here.~
+unknown~
+weapon 0 AN
+dagger 13 15 pierce EH
+102 0 0 P
+#75001
+a sliver of shimmering light~
+a sliver of shimmering light~
+A sliver of light lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+#0
+
+
+
+#ROOMS
+#75000
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75001
+D2
+~
+~
+0 0 74903
+S
+#75001
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75002
+D2
+~
+~
+0 0 75000
+S
+#75002
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75003
+D2
+~
+~
+0 0 75001
+S
+#75003
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75004
+D2
+~
+~
+0 0 75002
+S
+#75004
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75005
+D2
+~
+~
+0 0 75003
+S
+#75005
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The tunnel turns to the west as it opens to a large cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 75004
+D3
+~
+~
+0 0 75006
+S
+#75006
+Before the City of Sshamath~
+The great cavern opens up to the city of Sshamath, known for its nine
+schools of magic.  Stalactites hang throughout the cavern and dangle over
+the large city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75007
+D1
+~
+~
+0 0 75005
+S
+#75007
+Before the Gates of Sshamath~
+A large magical barrier serves as a gate to the city of dark weavings. 
+The nine schools of magic rise high over the walls of the city and stand out
+prominently behind the gates.  
+~
+0 0 0
+D0
+~
+~
+4 75001 75009
+D2
+~
+~
+0 0 75006
+S
+#75008
+Before the School of Mages~
+The streets of Sshamath run past a large building housing the school for
+mages.  Several cloaked drow head up the stairs to enter the building.  
+~
+0 0 0
+D0
+~
+~
+1 0 75071
+D1
+~
+~
+0 0 75064
+D3
+~
+~
+0 0 75009
+S
+#75009
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75008
+D2
+~
+~
+4 75001 75007
+D3
+~
+~
+0 0 75010
+S
+#75010
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75016
+D1
+~
+~
+0 0 75009
+D3
+~
+~
+0 0 75011
+S
+#75011
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75010
+D3
+~
+~
+0 0 75012
+S
+#75012
+Before the School of Conjuration~
+The streets of Sshamath run past a large building housing the school of
+conjuration.  Conjurer stones are intermixed with the stones of the building
+amplifying the magic in the area.  
+~
+0 0 0
+D0
+~
+~
+1 0 75076
+D1
+~
+~
+0 0 75011
+D3
+~
+~
+0 0 75013
+S
+#75013
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75025
+D1
+~
+~
+0 0 75012
+D3
+~
+~
+0 0 75014
+S
+#75014
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75013
+D3
+~
+~
+0 0 75015
+S
+#75015
+Before the School of Enchantment~
+The street of Sshamath run past a large building housing the school of
+enchantment.  The building itself glows in an unnatural gold aura as
+students inside practice their enchantments.  
+~
+0 0 0
+D0
+~
+~
+1 0 75080
+D1
+~
+~
+0 0 75014
+S
+#75016
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75017
+D2
+~
+~
+0 0 75010
+S
+#75017
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75018
+D2
+~
+~
+0 0 75016
+S
+#75018
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75019
+D2
+~
+~
+0 0 75017
+S
+#75019
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D2
+~
+~
+0 0 75018
+D3
+~
+~
+0 0 75020
+S
+#75020
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75026
+D1
+~
+~
+0 0 75019
+D3
+~
+~
+0 0 75021
+S
+#75021
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75027
+D1
+~
+~
+0 0 75020
+D3
+~
+~
+0 0 75022
+S
+#75022
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75021
+D2
+~
+~
+0 0 75023
+S
+#75023
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75022
+D2
+~
+~
+0 0 75024
+S
+#75024
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75023
+D2
+~
+~
+0 0 75025
+S
+#75025
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75024
+D2
+~
+~
+0 0 75013
+S
+#75026
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75028
+D2
+~
+~
+0 0 75020
+D3
+~
+~
+0 0 75027
+S
+#75027
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75029
+D1
+~
+~
+0 0 75026
+D2
+~
+~
+0 0 75021
+S
+#75028
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75031
+D2
+~
+~
+0 0 75026
+D3
+~
+~
+0 0 75029
+S
+#75029
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75032
+D1
+~
+~
+0 0 75028
+D2
+~
+~
+0 0 75027
+S
+#75030
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75035
+D3
+~
+~
+0 0 75031
+S
+#75031
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75036
+D1
+~
+~
+0 0 75030
+D2
+~
+~
+0 0 75028
+D3
+~
+~
+0 0 75032
+S
+#75032
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75037
+D1
+~
+~
+0 0 75031
+D2
+~
+~
+0 0 75029
+D3
+~
+~
+0 0 75033
+S
+#75033
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75038
+D1
+~
+~
+0 0 75032
+S
+#75034
+Before the School of Invocation~
+The streets of Sshamath run past a large building housing the school of
+elemental magic.  Several darkly shrouded figures walk up the stairs towards
+the entrance of the building.  
+~
+0 0 0
+D1
+~
+~
+1 0 75086
+D3
+~
+~
+0 0 75068
+S
+#75035
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75040
+D1
+~
+~
+0 0 75068
+D2
+~
+~
+0 0 75030
+D3
+~
+~
+0 0 75036
+S
+#75036
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75041
+D1
+~
+~
+0 0 75035
+D2
+~
+~
+0 0 75031
+D3
+~
+~
+0 0 75037
+S
+#75037
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75042
+D1
+~
+~
+0 0 75036
+D2
+~
+~
+0 0 75032
+D3
+~
+~
+0 0 75038
+S
+#75038
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75043
+D1
+~
+~
+0 0 75037
+D2
+~
+~
+0 0 75033
+D3
+~
+~
+0 0 75069
+S
+#75039
+Before the School of Elemental Magic~
+The streets of Sshamath run past a large building housing the school of
+elemental magic.  The building itself is marked by symbols of the key
+elements earth, fire, and water.  
+~
+0 0 0
+D1
+~
+~
+0 0 75069
+D3
+~
+~
+1 0 75083
+S
+#75040
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75044
+D2
+~
+~
+0 0 75035
+D3
+~
+~
+0 0 75041
+S
+#75041
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75045
+D1
+~
+~
+0 0 75040
+D2
+~
+~
+0 0 75036
+D3
+~
+~
+0 0 75042
+S
+#75042
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75046
+D1
+~
+~
+0 0 75041
+D2
+~
+~
+0 0 75037
+D3
+~
+~
+0 0 75043
+S
+#75043
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75047
+D1
+~
+~
+0 0 75042
+D2
+~
+~
+0 0 75038
+S
+#75044
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D2
+~
+~
+0 0 75040
+D3
+~
+~
+0 0 75045
+S
+#75045
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75048
+D1
+~
+~
+0 0 75044
+D2
+~
+~
+0 0 75041
+D3
+~
+~
+0 0 75046
+S
+#75046
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D0
+~
+~
+0 0 75049
+D1
+~
+~
+0 0 75045
+D2
+~
+~
+0 0 75042
+D3
+~
+~
+0 0 75047
+S
+#75047
+Great Square of Sshamath~
+The great square functions as a bazaar as the inhabitants of the city
+move about purchasing items of need.  Several runners move about preparing
+to journey to the surface to obtain the hard to find items.  Slavers move
+about getting their prizes ready for the next auction.  
+~
+0 0 0
+D1
+~
+~
+0 0 75046
+D2
+~
+~
+0 0 75043
+S
+#75048
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75050
+D2
+~
+~
+0 0 75045
+D3
+~
+~
+0 0 75049
+S
+#75049
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75051
+D1
+~
+~
+0 0 75048
+D2
+~
+~
+0 0 75046
+S
+#75050
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75055
+D2
+~
+~
+0 0 75048
+D3
+~
+~
+0 0 75051
+S
+#75051
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 75056
+D1
+~
+~
+0 0 75050
+D2
+~
+~
+0 0 75049
+S
+#75052
+Before the School of Divination~
+The streets of Sshamath run past a large building housing the school of
+divination.  Very little activity takes place around this building as noone
+appears to be studying here.  
+~
+0 0 0
+D0
+~
+~
+1 0 75061
+D3
+~
+~
+0 0 75053
+S
+#75053
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75052
+D3
+~
+~
+0 0 75054
+S
+#75054
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75053
+D3
+~
+~
+0 0 75055
+S
+#75055
+Before the School of Illusion~
+The streets of Sshamath run past a large building housing the school of
+illusion.  Oddly the building appears to far more ornate than the other
+schools in the city.  
+~
+0 0 0
+D0
+~
+~
+1 0 75097
+D1
+~
+~
+0 0 75054
+D2
+~
+~
+0 0 75050
+D3
+~
+~
+0 0 75056
+S
+#75056
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75055
+D2
+~
+~
+0 0 75051
+D3
+~
+~
+0 0 75057
+S
+#75057
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75056
+D3
+~
+~
+0 0 75058
+S
+#75058
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75057
+D3
+~
+~
+0 0 75059
+S
+#75059
+Before the School of Abjuration~
+The streets of Sshamath run past a large building housing the school of
+abjuration.  The building itself appears to be heavily fortified as if the
+students were practicing protective spells.  
+~
+0 0 0
+D0
+~
+~
+1 0 75092
+D1
+~
+~
+0 0 75058
+S
+#75060
+Inside the School of Divination~
+The school serves as a makeshift temple to Lloth as several priestesses
+preside over the students studies.  Several glance in your direction as you
+are disturbing the sanctity of their temple.  
+~
+0 0 0
+D0
+~
+~
+0 0 75062
+D1
+~
+~
+0 0 75061
+S
+#75061
+Inside the School of Divination~
+The school serves as a makeshift temple to Lloth as several priestesses
+preside over the students studies.  Several glance in your direction as you
+are disturbing the sanctity of their temple.  
+~
+0 0 0
+D0
+~
+~
+0 0 75063
+D2
+~
+~
+1 0 75052
+D3
+~
+~
+0 0 75060
+S
+#75062
+Inside the School of Divination~
+The school serves as a makeshift temple to Lloth as several priestesses
+preside over the students studies.  Several glance in your direction as you
+are disturbing the sanctity of their temple.  
+~
+0 4 0
+D1
+~
+~
+0 0 75063
+D2
+~
+~
+0 0 75060
+S
+#75063
+Inside the School of Divination~
+The school serves as a makeshift temple to Lloth as several priestesses
+preside over the students studies.  Several glance in your direction as you
+are disturbing the sanctity of their temple.  
+~
+0 0 0
+D2
+~
+~
+0 0 75061
+D3
+~
+~
+0 0 75062
+S
+#75064
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75065
+D3
+~
+~
+0 0 75008
+S
+#75065
+Before the Tower of the Masked Mage~
+A large stalagmite rises up to the south forming a large tower used as a
+training center for the masked mages.  A dark shadow surrounds the tower
+shrouding it in mystery.  
+~
+0 0 0
+D2
+~
+~
+1 0 75066
+D3
+~
+~
+0 0 75064
+S
+#75066
+Inside the Tower of the Masked Mage~
+The inside of the tower is almost entirely dark as a faint fog lingers
+throughout the tower obscuring your view.  The darkness and obscuring fog
+makes it difficult to pick out any students within this school.  
+~
+0 0 0
+D0
+~
+~
+1 0 75065
+D1
+~
+~
+0 0 75067
+D2
+~
+~
+0 0 75098
+S
+#75067
+Inside the Tower of the Masked Mage~
+The inside of the tower is almost entirely dark as a faint fog lingers
+throughout the tower obscuring your view.  The darkness and obscuring fog
+makes it difficult to pick out any students within this school.  
+~
+0 0 0
+D2
+~
+~
+0 0 75099
+D3
+~
+~
+0 0 75066
+S
+#75068
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75034
+D3
+~
+~
+0 0 75035
+S
+#75069
+The Streets of Sshamath~
+The street runs throughout the city as several drow head towards their
+respective schools of magic.  The nine schools of magic rise throughout the
+city as it is not uncommon to see spells cast throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 75038
+D3
+~
+~
+0 0 75039
+S
+#75070
+Inside the School of Mages~
+Lightning bolts crackle overhead as fireballs fly around the room as the
+students practice their magic spells.  Desks are scattered throughout the
+school as thick spellbooks lay open to marked pages.  
+~
+0 0 0
+D0
+~
+~
+0 0 75073
+D1
+~
+~
+0 0 75071
+S
+#75071
+Inside the School of Mages~
+Lightning bolts crackle overhead as fireballs fly around the room as the
+students practice their magic spells.  Desks are scattered throughout the
+school as thick spellbooks lay open to marked pages.  
+~
+0 0 0
+D0
+~
+~
+0 0 75072
+D2
+~
+~
+1 0 75008
+D3
+~
+~
+0 0 75070
+S
+#75072
+Inside the School of Mages~
+Lightning bolts crackle overhead as fireballs fly around the room as the
+students practice their magic spells.  Desks are scattered throughout the
+school as thick spellbooks lay open to marked pages.  
+~
+0 0 0
+D2
+~
+~
+0 0 75071
+D3
+~
+~
+0 0 75073
+S
+#75073
+Inside the School of Mages~
+Lightning bolts crackle overhead as fireballs fly around the room as the
+students practice their magic spells.  Desks are scattered throughout the
+school as thick spellbooks lay open to marked pages.  
+~
+0 0 0
+D1
+~
+~
+0 0 75072
+D2
+~
+~
+0 0 75070
+S
+#75074
+Inside the School of Conjuration~
+Several students sit huddled around the desks as they study the thick
+tomes of their craft.  Every now and then a new creature randomly appears
+summoned from another plane.  
+~
+0 0 0
+D1
+~
+~
+0 0 75075
+D2
+~
+~
+0 0 75076
+S
+#75075
+Inside the School of Conjuration~
+Several students sit huddled around the desks as they study the thick
+tomes of their craft.  Every now and then a new creature randomly appears
+summoned from another plane.  
+~
+0 0 0
+D2
+~
+~
+0 0 75077
+D3
+~
+~
+0 0 75074
+S
+#75076
+Inside the School of Conjuration~
+Several students sit huddled around the desks as they study the thick
+tomes of their craft.  Every now and then a new creature randomly appears
+summoned from another plane.  
+~
+0 0 0
+D0
+~
+~
+0 0 75074
+D1
+~
+~
+0 0 75077
+D2
+~
+~
+1 0 75012
+S
+#75077
+Inside the School of Conjuration~
+Several students sit huddled around the desks as they study the thick
+tomes of their craft.  Every now and then a new creature randomly appears
+summoned from another plane.  
+~
+0 0 0
+D0
+~
+~
+0 0 75075
+D3
+~
+~
+0 0 75076
+S
+#75078
+Inside the School of Enchantment~
+The large building is filled with glowing objects as students sit hunched
+over their desks trying to enhance magical items.  The occasional flash of a
+vaporized object fills the area startling you.  
+~
+0 0 0
+D1
+~
+~
+0 0 75079
+D2
+~
+~
+0 0 75080
+S
+#75079
+Inside the School of Enchantment~
+The large building is filled with glowing objects as students sit hunched
+over their desks trying to enhance magical items.  The occasional flash of a
+vaporized object fills the area startling you.  
+~
+0 0 0
+D2
+~
+~
+0 0 75081
+D3
+~
+~
+0 0 75078
+S
+#75080
+Inside the School of Enchantment~
+The large building is filled with glowing objects as students sit hunched
+over their desks trying to enhance magical items.  The occasional flash of a
+vaporized object fills the area startling you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75078
+D1
+~
+~
+0 0 75081
+D2
+~
+~
+1 0 75015
+S
+#75081
+Inside the School of Enchantment~
+The large building is filled with glowing objects as students sit hunched
+over their desks trying to enhance magical items.  The occasional flash of a
+vaporized object fills the area startling you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75079
+D3
+~
+~
+0 0 75080
+S
+#75082
+Inside the School of Elemental Magic~
+The large room is filled with various elementals as the students of the
+school practice their craft.  On the tables are various containers holding
+the basic elements needed to create their elemental companions.  
+~
+0 0 0
+D1
+~
+~
+0 0 75083
+D2
+~
+~
+0 0 75084
+S
+#75083
+Inside the School of Elemental Magic~
+The large room is filled with various elementals as the students of the
+school practice their craft.  On the tables are various containers holding
+the basic elements needed to create their elemental companions.  
+~
+0 0 0
+D1
+~
+~
+1 0 75039
+D2
+~
+~
+0 0 75085
+D3
+~
+~
+0 0 75082
+S
+#75084
+Inside the School of Elemental Magic~
+The large room is filled with various elementals as the students of the
+school practice their craft.  On the tables are various containers holding
+the basic elements needed to create their elemental companions.  
+~
+0 0 0
+D0
+~
+~
+0 0 75082
+D1
+~
+~
+0 0 75085
+S
+#75085
+Inside the School of Elemental Magic~
+The large room is filled with various elementals as the students of the
+school practice their craft.  On the tables are various containers holding
+the basic elements needed to create their elemental companions.  
+~
+0 0 0
+D0
+~
+~
+0 0 75083
+D3
+~
+~
+0 0 75084
+S
+#75086
+Inside the School of Invocation~
+A large number of desks sit empty as very few students are studying the
+craft of invocation.  Several sit solemnly at their desks reading over a
+dusty book of ancient lore.  
+~
+0 0 0
+D1
+~
+~
+0 0 75087
+D2
+~
+~
+0 0 75088
+D3
+~
+~
+1 0 75034
+S
+#75087
+Inside the School of Invocation~
+A large number of desks sit empty as very few students are studying the
+craft of invocation.  Several sit solemnly at their desks reading over a
+dusty book of ancient lore.  
+~
+0 0 0
+D2
+~
+~
+0 0 75089
+D3
+~
+~
+0 0 75086
+S
+#75088
+Inside the School of Invocation~
+A large number of desks sit empty as very few students are studying the
+craft of invocation.  Several sit solemnly at their desks reading over a
+dusty book of ancient lore.  
+~
+0 0 0
+D0
+~
+~
+0 0 75086
+D1
+~
+~
+0 0 75089
+S
+#75089
+Inside the School of Invocation~
+A large number of desks sit empty as very few students are studying the
+craft of invocation.  Several sit solemnly at their desks reading over a
+dusty book of ancient lore.  
+~
+0 0 0
+D0
+~
+~
+0 0 75087
+D3
+~
+~
+0 0 75088
+S
+#75090
+Inside the School of Abjuration~
+Several students from the other schools are gathered as test subjects for
+the abjurers to practice on.  Spells surrounding the other mages suddenly
+wink out as they are dispelled by the abjurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 75091
+D2
+~
+~
+0 0 75092
+S
+#75091
+Inside the School of Abjuration~
+Several students from the other schools are gathered as test subjects for
+the abjurers to practice on.  Spells surrounding the other mages suddenly
+wink out as they are dispelled by the abjurers.  
+~
+0 0 0
+D2
+~
+~
+0 0 75093
+D3
+~
+~
+0 0 75090
+S
+#75092
+Inside the School of Abjuration~
+Several students from the other schools are gathered as test subjects for
+the abjurers to practice on.  Spells surrounding the other mages suddenly
+wink out as they are dispelled by the abjurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 75090
+D1
+~
+~
+0 0 75093
+D2
+~
+~
+1 0 75059
+S
+#75093
+Inside the School of Abjuration~
+Several students from the other schools are gathered as test subjects for
+the abjurers to practice on.  Spells surrounding the other mages suddenly
+wink out as they are dispelled by the abjurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 75091
+D3
+~
+~
+0 0 75092
+S
+#75094
+Inside the School of Illusion~
+The large building is relatively empty with the exception of several
+tables with thick tomes lying on them.  Various illusions fill the room as
+students practice their skills.  
+~
+0 0 0
+D1
+~
+~
+0 0 75095
+D2
+~
+~
+0 0 75096
+S
+#75095
+Inside the School of Illusion~
+The large building is relatively empty with the exception of several
+tables with thick tomes lying on them.  Various illusions fill the room as
+students practice their skills.  
+~
+0 0 0
+D2
+~
+~
+0 0 75097
+D3
+~
+~
+0 0 75094
+S
+#75096
+Inside the School of Illusion~
+The large building is relatively empty with the exception of several
+tables with thick tomes lying on them.  Various illusions fill the room as
+students practice their skills.  
+~
+0 0 0
+D0
+~
+~
+0 0 75094
+D1
+~
+~
+0 0 75097
+S
+#75097
+Inside the School of Illusion~
+The large building is relatively empty with the exception of several
+tables with thick tomes lying on them.  Various illusions fill the room as
+students practice their skills.  
+~
+0 0 0
+D0
+~
+~
+0 0 75095
+D2
+~
+~
+1 0 75055
+D3
+~
+~
+0 0 75096
+S
+#75098
+Inside the Tower of the Masked Mage~
+The inside of the tower is almost entirely dark as a faint fog lingers
+throughout the tower obscuring your view.  The darkness and obscuring fog
+makes it difficult to pick out any students within this school.  
+~
+0 0 0
+D0
+~
+~
+0 0 75066
+D1
+~
+~
+0 0 75099
+S
+#75099
+Inside the Tower of the Masked Mage~
+The inside of the tower is almost entirely dark as a faint fog lingers
+throughout the tower obscuring your view.  The darkness and obscuring fog
+makes it difficult to pick out any students within this school.  
+~
+0 0 0
+D0
+~
+~
+0 0 75067
+D3
+~
+~
+0 0 75098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 75007 0 2 The north door of Before the Gates of Sshamath is closed and locked
+D 0 75008 0 1 The north door of Before the School of Mages is closed
+D 0 75009 2 2 The south door of The Streets of Sshamath is closed and locked
+D 0 75012 0 1 The north door of Before the School of Conjuration is closed
+D 0 75015 0 1 The north door of Before the School of Enchantment is closed
+D 0 75034 1 1 The east door of Before the School of Invocation is closed
+D 0 75039 3 1 The west door of Before the School of Elemental Magic is closed
+D 0 75052 0 1 The north door of Before the School of Divination is closed
+D 0 75055 0 1 The north door of Before the School of Illusion is closed
+D 0 75059 0 1 The north door of Before the School of Abjuration is closed
+D 0 75061 2 1 The south door of Inside the School of Divination is closed
+D 0 75065 2 1 The south door of Before the Tower of the Masked Mage is closed
+D 0 75066 0 1 The north door of Inside the Tower of the Masked Mage is closed
+D 0 75071 2 1 The south door of Inside the School of Mages is closed
+D 0 75076 2 1 The south door of Inside the School of Conjuration is closed
+D 0 75080 2 1 The south door of Inside the School of Enchantment is closed
+D 0 75083 1 1 The east door of Inside the School of Elemental Magic is closed
+D 0 75086 3 1 The west door of Inside the School of Invocation is closed
+D 0 75092 2 1 The south door of Inside the School of Abjuration is closed
+D 0 75097 2 1 The south door of Inside the School of Illusion is closed
+M 0 75022 1 75007 1 *Load a drow guard
+G 0 75001 0 *A sliver of shimmering light is given to a drow guard
+M 0 75019 30 75008 2 *Load a drow student
+M 0 75018 30 75010 2 *Load a drow
+M 0 75019 30 75012 2 *Load a drow student
+M 0 75018 30 75013 2 *Load a drow
+M 0 75019 30 75015 2 *Load a drow student
+M 0 75019 30 75016 2 *Load a drow student
+M 0 75018 30 75017 2 *Load a drow
+M 0 75019 30 75021 2 *Load a drow student
+M 0 75018 30 75024 2 *Load a drow
+M 0 75019 30 75025 2 *Load a drow student
+M 0 75019 30 75026 2 *Load a drow student
+M 0 75018 30 75027 2 *Load a drow
+M 0 75021 10 75030 2 *Load a human slave
+M 0 75023 15 75031 1 *Load a drow slaver
+M 0 75018 30 75031 2 *Load a drow
+M 0 75020 10 75032 1 *Load a minotaur slave
+M 0 75023 15 75033 1 *Load a drow slaver
+M 0 75021 10 75033 1 *Load a human slave
+M 0 75018 30 75033 2 *Load a drow
+M 0 75019 30 75034 2 *Load a drow student
+M 0 75023 15 75036 1 *Load a drow slaver
+M 0 75020 10 75036 2 *Load a minotaur slave
+M 0 75023 15 75037 2 *Load a drow slaver
+M 0 75018 30 75037 2 *Load a drow
+M 0 75020 10 75038 1 *Load a minotaur slave
+M 0 75019 30 75039 2 *Load a drow student
+M 0 75018 30 75040 2 *Load a drow
+M 0 75023 15 75041 2 *Load a drow slaver
+M 0 75021 10 75041 1 *Load a human slave
+M 0 75020 10 75041 1 *Load a minotaur slave
+M 0 75018 30 75042 2 *Load a drow
+M 0 75023 15 75043 2 *Load a drow slaver
+M 0 75021 10 75043 2 *Load a human slave
+M 0 75020 10 75044 2 *Load a minotaur slave
+M 0 75021 10 75045 1 *Load a human slave
+M 0 75018 30 75045 2 *Load a drow
+M 0 75018 30 75047 2 *Load a drow
+M 0 75019 30 75049 2 *Load a drow student
+M 0 75018 30 75050 2 *Load a drow
+M 0 75019 30 75052 2 *Load a drow student
+M 0 75018 30 75054 2 *Load a drow
+M 0 75019 30 75056 2 *Load a drow student
+M 0 75018 30 75057 2 *Load a drow
+M 0 75019 30 75059 2 *Load a drow student
+M 0 75006 5 75060 1 *Load a priestess of lloth
+M 0 75006 5 75061 2 *Load a priestess of lloth
+M 0 75017 1 75062 1 *Load Laele Zauviir
+M 0 75006 5 75063 2 *Load a priestess of lloth
+M 0 75019 30 75065 2 *Load a drow student
+M 0 75008 5 75066 1 *Load a drow rogue
+E 0 75000 0 16 *A jagged obsidian blade is loaded wielded of a drow rogue
+M 0 75008 5 75067 2 *Load a drow rogue
+E 0 75000 0 16 *A jagged obsidian blade is loaded wielded of a drow rogue
+M 0 75021 10 75068 1 *Load a human slave
+M 0 75002 5 75070 1 *Load a drow mage
+M 0 75002 5 75071 2 *Load a drow mage
+M 0 75002 5 75072 2 *Load a drow mage
+M 0 75014 1 75073 1 *Load Guldor Zauviir
+M 0 75011 1 75074 1 *Load Urlryn Khalazza
+M 0 75001 5 75075 2 *Load a drow conjurer
+M 0 75001 5 75076 1 *Load a drow conjurer
+M 0 75001 5 75077 2 *Load a drow conjurer
+M 0 75012 1 75078 1 *Load Malaggar Xarann
+M 0 75000 5 75079 2 *Load a drow enchanter
+M 0 75000 5 75080 1 *Load a drow enchanter
+M 0 75000 5 75081 2 *Load a drow enchanter
+M 0 75003 5 75082 1 *Load a drow elementalist
+M 0 75003 2 75083 1 *Load a drow elementalist
+M 0 75015 1 75084 1 *Load Antatlab of the Shaking Stones
+M 0 75003 2 75085 1 *Load a drow elementalist
+M 0 75007 5 75086 1 *Load a drow invoker
+M 0 75007 5 75087 2 *Load a drow invoker
+M 0 75007 5 75088 2 *Load a drow invoker
+M 0 75013 1 75089 1 *Load Krondorl Waeglossz
+M 0 75004 5 75090 1 *Load a drow adjurer
+M 0 75009 1 75091 1 *Load Masoj Dhuunyl
+M 0 75004 5 75092 2 *Load a drow adjurer
+M 0 75004 5 75093 2 *Load a drow adjurer
+M 0 75010 1 75094 1 *Load Shurdriira Helviiryn
+M 0 75005 5 75095 2 *Load a drow illusionist
+M 0 75005 5 75096 1 *Load a drow illusionist
+M 0 75005 5 75097 2 *Load a drow illusionist
+M 0 75008 5 75098 2 *Load a drow rogue
+E 0 75000 0 16 *A jagged obsidian blade is loaded wielded of a drow rogue
+M 0 75016 1 75099 1 *Load Nurissa Vyllshan
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#75000
+mob cast 'fire breath' $n
+mob cast 'frost breath' $n
+mob cast 'earthquake' $n
+~
+#75001
+if rand 50
+mob cast 'dispel magic' $n
+else
+endif
+~
+#75002
+mob cast 'wrath of god' $n
+~
+#75003
+mob cast 'demonfire' $n
+~
+#75004
+mob cast 'fireball' $n
+mob cast 'fireball' $n
+mob cast 'call lightning' $n
+mob cast 'call lightning' $n
+mob cast 'chain lightning' $n
+~
+#75005
+backstab $n
+~
+#75006
+kill $n
+~
+#0
+
+#$

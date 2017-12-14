@@ -1,0 +1,30 @@
+[{wNil          {B- {w 3054{B] {yApr 11: {wOne of the dreams has the typo "row of hideuos sharp teeth".  Should be spelled "hideous".
+[{wVeldrik      {B- {w 9208{B] {yApr 11: {wdefty
+[{wVeldrik      {B- {w 9220{B] {yApr 25: {wvahalla
+[{wMabus        {B- {w10609{B] {yMay  3: {wwhimp
+[{wMabus        {B- {w 2653{B] {yMay  7: {wtosses
+[{wThraxian     {B- {w11816{B] {yJun 16: {w"Through the tick brush" should be "Through the thick brush"...room desc in mutant dump
+[{wVeldrik      {B- {w72990{B] {yAug 24: {wGreat prizes away the victor if you are able to defeat all 10 babbles!!!
+[{wSorn         {B- {w60150{B] {ySep 26: {wgrenado "and they fiercly"
+[{wSoltek       {B- {w 9634{B] {ySep 26: {whara or hari? affected lists hari but ability is hara (along with the help files)
+[{wSoltek       {B- {w10624{B] {ySep 27: {win  the randoms list i think i noticed precision was presicion
+[{wSorn         {B- {w16022{B] {ySep 27: {wyou block Sorn's attack with your shield wall.
+[{wSoltek       {B- {w 6400{B] {ySep 27: {wthe room description should be changed from "passed" to "past" and "too" is wrong also.
+[{wSoltek       {B- {w 3015{B] {ySep 28: {wtrooper rank in the who list has a bleed
+[{wSorn         {B- {w16021{B] {ySep 29: {wEntrance to the Royal Eagle - Main Deck - "ships travelling the Blood Sea" should be traveling.
+[{wSorn         {B- {w41015{B] {yOct  4: {wYou chomp a mouthfull of air.  It's mouthful-
+[{wTaliesin     {B- {w 9739{B] {yOct  9: {wWest of NT on the Ishtar River several rooms say 'The river continue'. It should be 'continues'. :)
+[{wSorn         {B- {w43143{B] {yOct  9: {wInside The War Citidal- it's CITADEL
+[{wSorn         {B- {w 3365{B] {yOct 11: {wa pair of power wrists does not have keyword wrists
+[{wSorn         {B- {w13861{B] {yOct 21: {wwristguard of presicion and weakness - precision**
+[{wBobby        {B- {w60150{B] {yOct 25: {wYou appear mightier then you are!
+[{wBobby        {B- {w60150{B] {yOct 25: {wwhen casting illusionary armor: You appear mightier then you are!
+[{wRoq          {B- {w72702{B] {yNov 14: {wA Multi-Colered Portal glows here.
+[{wBobby        {B- {w72794{B] {yNov 18: {wA Multi-Colered Portal glows here. (portal in babble land...)
+[{wBobby        {B- {w72794{B] {yNov 18: {wYou appear mightier then you are! (grammar?)
+[{wSkuhlk       {B- {w72792{B] {yNov 18: {w( 3) A Multi-Colered Portal glows here.  COLORED is proper spelling.
+[{wKarnok       {B- {w10617{B] {yNov 24: {wYour kick scathes a marine eel.
+[{wKarnok       {B- {w41035{B] {yNov 24: {wYour slash scathes A sahuagin metal worker
+[{wKarnok       {B- {w16034{B] {yNov 25: {wYou block Karnok's attack with your shield wall.
+[{wBobby        {B- {w72700{B] {yDec  6: {wA Multi-Colered Portal glows here. (Colered? Really?)
+[{wVeldrik      {B- {w71126{B] {yApr 10: {wYou slam into a stout dwarven miner, and knocking her to the ground!

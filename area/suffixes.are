@@ -1,0 +1,2272 @@
+#AREADATA
+Name Random Suffixes~
+Builders Unlinked~
+VNUMs 25900 26299
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#25900
+pain ~
+pain~
+pain~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+17 20
+#25901
+tears ~
+tears~
+tears~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+17 10
+#25902
+health ~
+health~
+health~
+unknown~
+trash 0 0
+0 0 0 0 0
+55 0 55 P
+A
+17 -10
+#25903
+protection ~
+protection~
+protection~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+17 -15
+#25904
+absorbtion ~
+absorbtion~
+absorbtion~
+unknown~
+trash 0 0
+0 0 0 0 0
+90 0 90 P
+A
+17 -20
+#25905
+life ~
+life~
+life~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+17 -30
+#25906
+osmosis ~
+osmosis~
+osmosis~
+unknown~
+trash 0 0
+0 0 0 0 0
+150 0 150 P
+A
+17 -40
+#25907
+brittleness ~
+brittleness~
+brittleness~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+19 -15
+#25908
+fragility ~
+fragility~
+fragility~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+19 -10
+#25909
+craftsmanship~
+craftsmanship~
+Craftsmanship~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+19 3
+#25910
+quality ~
+quality~
+quality~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+19 5
+#25911
+maiming ~
+maiming~
+maiming~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+19 10
+#25912
+slaying ~
+slaying~
+slaying~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 -1000 70 P
+A
+19 15
+#25913
+gore ~
+gore~
+gore~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 -1000 80 P
+A
+19 20
+#25914
+carnage ~
+carnage~
+carnage~
+unknown~
+trash 0 0
+0 0 0 0 0
+90 -1000 90 P
+A
+19 25
+#25915
+slaughter ~
+slaughter~
+slaughter~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 -1000 100 P
+A
+19 30
+#25916
+destruction ~
+destruction~
+destruction~
+unknown~
+trash 0 0
+0 0 0 0 0
+150 -1000 150 P
+A
+19 40
+#25917
+evisceration ~
+evisceration~
+evisceration~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+19 50
+#25918
+meek ~
+the meek~
+the meek~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+14 -100
+#25919
+lethargy ~
+lethargy~
+lethargy~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+14 -25
+#25920
+readiness ~
+readiness~
+readiness~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+14 50
+#25921
+alacrity ~
+alacrity~
+alacrity~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+14 100
+#25922
+swiftness ~
+swiftness~
+swiftness~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+14 150
+#25923
+quickness ~
+quickness~
+quickness~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+14 200
+#25924
+youth ~
+youth~
+youth~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+9 -10
+#25925
+age ~
+age~
+age~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+9 3
+#25926
+ages ~
+the ages~
+the ages~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+9 5
+#25927
+time ~
+time~
+time~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+9 10
+#25928
+elders ~
+the elders~
+the elders~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+9 15
+#25929
+ancients ~
+the ancients~
+the ancients~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+9 25
+#25930
+paralysis ~
+paralysis~
+paralysis~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+2 -5
+A
+18 -10
+#25931
+atrophy ~
+atrophy~
+atrophy~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+2 -3
+A
+18 -5
+#25932
+dexterity ~
+dexterity~
+dexterity~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+2 1
+A
+18 3
+#25933
+skill ~
+skill~
+skill~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+2 2
+A
+18 5
+#25934
+accuracy ~
+accuracy~
+accuracy~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+2 3
+A
+18 7
+#25935
+presicion ~
+presicion~
+presicion~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+2 4
+A
+18 10
+#25936
+perfection ~
+perfection~
+perfection~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+2 7
+A
+18 15
+#25937
+fool ~
+the fool~
+the fool~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+28 -10
+A
+3 -5
+A
+12 -50
+#25938
+dyslexia ~
+dyslexia~
+dyslexia~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+28 -5
+A
+3 -3
+A
+12 -25
+#25939
+energy ~
+energy~
+energy~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+28 3
+A
+3 1
+A
+12 25
+#25940
+mind ~
+the mind~
+the mind~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+28 5
+A
+3 2
+A
+12 50
+#25941
+brilliance ~
+brilliance~
+brilliance~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+28 7
+A
+3 3
+A
+12 75
+#25942
+sorcery ~
+sorcery~
+sorcery~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+28 10
+A
+3 4
+A
+12 100
+#25943
+wizardry ~
+wizardry~
+wizardry~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+28 15
+A
+3 7
+A
+12 125
+#25944
+wimp~
+the wimp~
+The wimp~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+1 -5
+A
+19 -10
+#25945
+weakness ~
+weakness~
+weakness~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+1 -3
+A
+19 -5
+#25946
+strength ~
+strength~
+strength~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+1 1
+A
+19 3
+#25947
+might ~
+might~
+might~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+1 2
+A
+19 5
+#25948
+ox ~
+the ox~
+the ox~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+1 3
+A
+19 7
+#25949
+giant ~
+the giant~
+the giant~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+1 4
+A
+19 10
+#25950
+titan ~
+the titan~
+the titan~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+1 7
+A
+19 15
+#25951
+illness ~
+illness~
+illness~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+26 -10
+A
+5 -5
+A
+13 -50
+#25952
+disease ~
+disease~
+disease~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+26 -5
+A
+5 -3
+A
+13 -25
+#25953
+vitality ~
+vitality~
+vitality~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+26 3
+A
+5 1
+A
+13 25
+#25954
+zest ~
+zest~
+zest~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+26 5
+A
+5 2
+A
+13 50
+#25955
+vim ~
+vim~
+vim~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+26 7
+A
+5 3
+A
+13 75
+#25956
+vigor ~
+vigor~
+vigor~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+26 10
+A
+5 4
+A
+13 100
+#25957
+balance ~
+balance~
+balance~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+26 15
+A
+5 7
+A
+13 125
+#25958
+idiot ~
+the idiot~
+the idiot~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+4 -5
+A
+20 5
+#25959
+dazed ~
+the dazed~
+the dazed~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+4 -3
+A
+20 3
+#25960
+wisdom ~
+wisdom~
+wisdom~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+4 1
+A
+20 -1
+#25961
+clarity~
+clarity~
+Clarity~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+4 2
+A
+20 -2
+#25962
+enlightenment ~
+enlightenment~
+enlightenment~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+4 3
+A
+20 -3
+#25963
+sage ~
+the sage~
+the sage~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+4 4
+A
+20 -4
+#25964
+druid ~
+the druid~
+the druid~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+4 7
+A
+20 -7
+#25965
+trouble ~
+trouble~
+trouble~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+5 -5
+A
+2 -5
+A
+1 -5
+#25966
+pit ~
+the pit~
+the pit~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+5 -5
+A
+4 -5
+A
+3 -5
+#25967
+sky ~
+the sky~
+the sky~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+5 2
+A
+4 2
+A
+3 2
+#25968
+moon ~
+the moon~
+the moon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+5 2
+A
+2 2
+A
+1 2
+#25969
+stars ~
+the stars~
+the stars~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 0 80 P
+A
+5 5
+A
+4 5
+A
+3 5
+#25970
+heavens ~
+the heavens~
+the heavens~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 0 80 P
+A
+5 5
+A
+2 5
+A
+1 5
+#25971
+zodiac ~
+the zodiac~
+the zodiac~
+unknown~
+trash 0 0
+0 0 0 0 0
+120 0 120 P
+A
+5 5
+A
+2 5
+A
+4 5
+A
+3 5
+A
+1 5
+#25972
+vulture ~
+the vulture~
+the vulture~
+unknown~
+trash 0 0
+0 0 0 0 0
+10 0 10 P
+A
+13 -50
+#25973
+jackal ~
+the jackal~
+the jackal~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+13 -25
+#25974
+fox ~
+the fox~
+the fox~
+unknown~
+trash 0 0
+0 0 0 0 0
+30 0 30 P
+A
+13 25
+#25975
+jaguar ~
+the jaguar~
+the jaguar~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+13 50
+#25976
+eagle ~
+the eagle~
+the eagle~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+13 75
+#25977
+wolf ~
+the wolf~
+the wolf~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+13 100
+#25978
+tiger ~
+the tiger~
+the tiger~
+unknown~
+trash 0 0
+0 0 0 0 0
+70 0 70 P
+A
+13 125
+#25979
+lion ~
+the lion~
+the lion~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 0 80 P
+A
+13 150
+#25980
+mammoth ~
+the mammoth~
+the mammoth~
+unknown~
+trash 0 0
+0 0 0 0 0
+90 0 90 P
+A
+13 175
+#25981
+whale ~
+the whale~
+the whale~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+13 200
+#25982
+colossus ~
+the colossus~
+the colossus~
+unknown~
+trash 0 0
+0 0 0 0 0
+150 0 150 P
+A
+13 300
+#25983
+njord ~
+njord~
+njord~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+5 1
+A
+2 1
+A
+4 1
+#25984
+frey ~
+frey~
+frey~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+2 1
+A
+20 -1
+A
+12 25
+#25985
+freya ~
+freya~
+freya~
+unknown~
+trash 0 0
+0 0 0 0 0
+20 0 20 P
+A
+28 5
+A
+4 1
+A
+12 25
+#25986
+magni ~
+magni~
+magni~
+unknown~
+trash 0 0
+0 0 0 0 0
+35 0 35 P
+A
+28 5
+A
+26 5
+A
+12 25
+A
+13 25
+#25987
+heimdall ~
+heimdall~
+heimdall~
+unknown~
+trash 0 0
+0 0 0 0 0
+35 0 35 P
+A
+14 50
+A
+12 50
+A
+13 50
+#25988
+tyr ~
+tyr~
+tyr~
+unknown~
+trash 0 0
+0 0 0 0 0
+35 0 35 P
+A
+2 1
+A
+1 1
+A
+18 6
+A
+19 6
+#25989
+balder ~
+balder~
+balder~
+unknown~
+trash 0 0
+0 0 0 0 0
+35 0 35 P
+A
+5 1
+A
+2 1
+A
+1 1
+A
+14 25
+A
+12 25
+A
+13 25
+#25990
+loki ~
+loki~
+loki~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+2 3
+A
+20 -3
+A
+18 20
+#25991
+fenrir wolf ~
+the fenrir wolf~
+the fenrir wolf~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+12 75
+A
+13 75
+A
+19 15
+#25992
+thor ~
+thor~
+thor~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+13 75
+A
+18 12
+A
+19 12
+#25993
+hel ~
+hel~
+hel~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+20 -3
+A
+18 15
+A
+19 15
+#25994
+midgaard serpent ~
+midgaard serpent~
+midgaard serpent~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+14 150
+A
+12 150
+A
+13 150
+#25995
+odin ~
+odin~
+odin~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+12 75
+A
+13 75
+A
+17 -15
+#25996
+doom ~
+doom~
+doom~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 0 80 P
+A
+9 15
+A
+14 150
+A
+19 25
+#25997
+tas ~
+tas~
+tas~
+unknown~
+trash 0 0
+0 0 0 0 0
+80 0 80 P
+A
+20 -5
+A
+13 150
+A
+19 30
+#25998
+burning ~
+burning~
+burning~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 H
+#25999
+shock ~
+shock~
+shock~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 J
+#26000
+poison ~
+poison~
+poison~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 L
+#26001
+freeze ~
+freeze~
+freeze~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 I
+#26002
+corrosion ~
+corrosion~
+corrosion~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 K
+#26003
+disorder ~
+disorder~
+disorder~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 M
+#26004
+distrurbed ~
+the distrurbed~
+the distrurbed~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 N
+#26005
+troubled ~
+the troubled~
+the troubled~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 T
+#26006
+shrieking ~
+shrieking~
+shrieking~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 P
+#26007
+mole ~
+the mole~
+the mole~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 S
+#26008
+infestation ~
+infestation~
+infestation~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+V 0 0 Q
+#26009
+crusader ~
+the crusader~
+the crusader~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 1000 40 P
+F
+A 0 0 C
+#26010
+detection ~
+detection~
+detection~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 D
+#26011
+channeling ~
+channeling~
+channeling~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 E
+#26012
+perception ~
+perception~
+perception~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 F
+#26013
+minion ~
+the minion~
+the minion~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 G
+#26014
+redeye ~
+redeye~
+redeye~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 J
+#26015
+vision ~
+vision~
+vision~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 L
+#26016
+chameleon ~
+the chameleon~
+the chameleon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 P
+#26017
+falcon ~
+the falcon~
+the falcon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 T
+#26018
+ghost ~
+the ghost~
+the ghost~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+F
+A 0 0 U
+#26019
+red dragon ~
+the red dragon~
+the red dragon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+27 5
+#26020
+black dragon ~
+the black dragon~
+the black dragon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+27 6
+#26021
+green dragon ~
+the green dragon~
+the green dragon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+27 7
+#26022
+white dragon ~
+the white dragon~
+the white dragon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+27 8
+#26023
+gold dragon ~
+the gold dragon~
+the gold dragon~
+unknown~
+trash 0 0
+0 0 0 0 0
+40 0 40 P
+A
+27 9
+#26024
+mage ~
+the mage~
+the mage~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+28 3
+A
+4 2
+A
+3 2
+A
+12 50
+#26025
+wizard ~
+the wizard~
+the wizard~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+28 5
+A
+4 5
+A
+3 5
+A
+12 100
+#26026
+cleric ~
+the cleric~
+the cleric~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+20 -1
+A
+12 50
+A
+17 -10
+#26027
+priest ~
+the priest~
+the priest~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+20 -3
+A
+12 100
+A
+17 -15
+#26028
+thief ~
+the thief~
+the thief~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+14 25
+A
+18 10
+A
+19 5
+#26029
+mercenary ~
+the mercenary~
+the mercenary~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+14 50
+A
+18 15
+A
+19 10
+#26030
+warrior ~
+the warrior~
+the warrior~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+1 2
+A
+13 50
+A
+19 15
+#26031
+gladiator ~
+the gladiator~
+the gladiator~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+1 3
+A
+13 100
+A
+19 25
+#26032
+ranger ~
+the ranger~
+the ranger~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+26 3
+A
+14 50
+A
+19 7
+#26033
+strider ~
+the strider~
+the strider~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+26 5
+A
+14 100
+A
+19 15
+#26034
+druid ~
+the druid~
+the druid~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+28 5
+A
+12 50
+A
+17 -15
+#26035
+sage ~
+the sage~
+the sage~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+28 7
+A
+12 100
+A
+17 -20
+#26036
+shade ~
+the shade~
+the shade~
+unknown~
+trash 0 0
+0 0 0 0 0
+50 0 50 P
+A
+9 5
+A
+4 1
+A
+3 1
+A
+18 5
+A
+19 5
+#26037
+lich ~
+the lich~
+the lich~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+9 10
+A
+4 2
+A
+3 2
+A
+18 10
+A
+19 10
+#26038
+forsaken ~
+the forsaken~
+the forsaken~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+28 5
+A
+17 -30
+A
+20 -10
+#26039
+conjurer ~
+the conjurer~
+the conjurer~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+20 -10
+A
+17 -30
+A
+28 5
+#26040
+archmage ~
+the archmage~
+the archmage~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+28 5
+A
+20 -10
+A
+17 -30
+#26041
+voodan ~
+the voodan~
+the voodan~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+26 5
+A
+17 -25
+A
+13 200
+#26042
+monk ~
+the monk~
+the monk~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+28 10
+A
+26 12
+A
+18 20
+A
+19 20
+#26043
+saint ~
+the saint~
+the saint~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+26 5
+A
+13 150
+A
+17 -30
+#26044
+assassin ~
+the assassin~
+the assassin~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+14 100
+A
+18 25
+A
+19 20
+#26045
+ninja ~
+the ninja~
+the ninja~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+18 35
+A
+19 10
+A
+14 100
+#26046
+bard ~
+the bard~
+the bard~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+26 10
+A
+14 100
+A
+18 25
+A
+19 10
+#26047
+highlander ~
+the highlander~
+the highlander~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+19 50
+A
+26 3
+A
+13 25
+#26048
+crusader ~
+the crusader~
+the crusader~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 1000 200 P
+A
+26 3
+A
+13 50
+A
+18 15
+A
+19 35
+#26049
+swashbuckler ~
+the swashbuckler~
+the swashbuckler~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+18 10
+A
+19 40
+A
+26 5
+A
+13 25
+#26050
+dark paladin ~
+the dark paladin~
+the dark paladin~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+18 10
+A
+19 10
+A
+17 -40
+#26051
+paladin ~
+the paladin~
+the paladin~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 1000 200 P
+A
+17 -40
+A
+18 10
+A
+19 10
+#26052
+hunter ~
+the hunter~
+the hunter~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+14 75
+A
+13 75
+A
+18 10
+A
+19 30
+#26053
+warlock ~
+the warlock~
+the warlock~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+12 100
+A
+28 15
+A
+20 -6
+#26054
+alchemist ~
+the alchemist~
+the alchemist~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+18 5
+A
+12 150
+A
+13 250
+#26055
+shaman ~
+the shaman~
+the shaman~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 0 200 P
+A
+18 5
+A
+13 200
+A
+12 200
+#26056
+fade ~
+the fade~
+the fade~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+18 15
+A
+19 15
+A
+13 100
+A
+14 100
+A
+12 100
+#26057
+necromancer ~
+the necromancer~
+the necromancer~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+13 150
+A
+14 150
+A
+12 150
+#26058
+banshee ~
+the banshee~
+the banshee~
+unknown~
+trash 0 0
+0 0 0 0 0
+200 -1000 200 P
+A
+9 40
+A
+18 15
+A
+19 15
+#26059
+flame ~
+the flame~
+the flame~
+unknown~
+weapon 0 0
+exotic 0 0 none A
+90 0 90 P
+#26060
+winter ~
+the winter~
+the winter~
+unknown~
+weapon 0 0
+exotic 0 0 none B
+90 0 90 P
+#26061
+lightning ~
+lightning~
+lightning~
+unknown~
+weapon 0 0
+exotic 0 0 none G
+90 0 90 P
+#26062
+venom ~
+venom~
+venom~
+unknown~
+weapon 0 0
+exotic 0 0 none H
+90 0 90 P
+#26063
+thorns ~
+thorns~
+thorns~
+unknown~
+weapon 0 0
+exotic 0 0 none D
+90 0 90 P
+#26064
+sword ~
+the sword~
+the sword~
+unknown~
+weapon 0 0
+exotic 0 0 none E
+90 0 90 P
+#26065
+vampire ~
+the vampire~
+the vampire~
+unknown~
+weapon 0 0
+exotic 0 0 none C
+90 0 90 P
+#26066
+water ~
+the water~
+the water~
+unknown~
+weapon 0 0
+exotic 0 0 none J
+90 0 90 P
+#26067
+draining ~
+draining~
+draining~
+unknown~
+weapon 0 0
+exotic 0 0 none N
+90 0 90 P
+#26068
+telepathy~
+telepathy~
+Telepathy~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 0 60 P
+A
+13 25
+A
+20 -1
+A
+17 -5
+#26069
+the illusionist~
+the illusionist~
+The illusionist~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+20 -2
+A
+13 50
+A
+17 -7
+#26070
+the mentalist~
+the mentalist~
+The mentalist~
+unknown~
+trash 0 0
+0 0 0 0 0
+90 0 90 P
+A
+20 -3
+A
+13 75
+A
+17 -10
+#26071
+the mindflayer~
+the mindflayer~
+The mindflayer~
+unknown~
+trash 0 0
+0 0 0 0 0
+105 0 105 P
+A
+20 -4
+A
+13 100
+A
+17 -12
+#26072
+the magus~
+the magus~
+The magus~
+unknown~
+trash 0 0
+0 0 0 0 0
+150 0 150 P
+A
+28 5
+A
+20 -6
+A
+13 150
+A
+17 -17
+#26073
+regeneration~
+regeneration~
+Regeneration~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+26 25
+A
+28 25
+#26074
+the physician~
+the physician~
+The physician~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+13 150
+A
+26 20
+#26075
+the soldier~
+the soldier~
+The soldier~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+19 20
+A
+13 100
+#26076
+the invoker~
+the invoker~
+The invoker~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+12 100
+A
+20 -4
+#26077
+the marksman~
+the marksman~
+The marksman~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 100 P
+A
+18 30
+A
+2 3
+#26078
+restoration~
+restoration~
+Restoration~
+unknown~
+trash 0 0
+0 0 0 0 0
+150 0 150 P
+A
+26 33
+A
+28 33
+#26079
+piousness~
+piousness~
+Piousness~
+unknown~
+trash KL 0
+0 0 0 0 0
+125 0 125 P
+A
+17 -25
+A
+20 -5
+#26080
+the damned~
+the damned~
+The damned~
+unknown~
+trash JLZ 0
+0 0 0 0 0
+125 0 125 P
+A
+19 25
+A
+13 125
+#26081
+the darkling~
+the darkling~
+The darkling~
+unknown~
+trash 0 0
+0 0 0 0 0
+75 0 75 P
+A
+18 20
+F
+A 0 0 Z
+#26082
+resurrection ~
+resurrection ~
+Resurrection ~
+unknown~
+trash 0 0
+0 0 0 0 0
+225 0 195 P
+A
+26 75
+#0
+
+
+
+#ROOMS
+#25900
+Random Suffixes~
+~
+0 12 0
+D3
+~
+~
+0 0 25500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

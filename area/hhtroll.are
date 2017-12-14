@@ -1,0 +1,2329 @@
+#AREADATA
+Name Hall of Heilund~
+Builders Ishamael Nogate~
+VNUMs 74700 74799
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael Hall of Heilund~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74700
+troll scavenger~
+a troll scavenger~
+A troll scavenger picks through the debris of the mines looking for shiny objects.
+~
+~
+troll~
+AT FJc 0 0 0
+235 900 1d1+27500 0d0+0 750d4+200 pound
+-100 -100 -100 -10
+CD 0 BE HKP
+stand stand male 50000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 26
+A 2
+M GRALL 74700 12~
+M DEATH 74307 40~
+#74701
+stone troll~
+a stone troll~
+A large stone troll stands here ready to bash your face in.
+~
+~
+troll~
+AT FJc 0 0 0
+230 1000 1d1+30000 0d0+0 755d4+200 crush
+-125 -125 -125 -125
+CD 0 BE HK
+stand stand male 50000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 27
+A 2
+M GRALL 74700 12~
+M DEATH 74307 25~
+#74702
+fell troll two headed~
+a fell troll~
+A two-headed troll stands here glaring at you with both sets of eyes.
+~
+~
+troll~
+AT FJc 0 0 0
+230 1500 1d1+30000 0d0+0 350d5+100 bite
+-100 -100 -100 -100
+CD 0 BE HK
+stand stand male 50000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 28
+A 4
+M GRALL 74700 12~
+M DEATH 74307 25~
+#74703
+olog-hai hai olog troll~
+an olog-hai~
+A large scaled creature stands here looking ready to smash you to a pulp.
+~
+~
+troll~
+AT FJc 0 0 0
+230 1200 1d1+30000 0d0+0 775d4+300 smash
+-100 -100 -100 -100
+CD 0 BE HK
+stand stand male 50000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 28
+A 2
+M GRALL 74700 12~
+M DEATH 74307 25~
+#74704
+armored cave troll~
+an armored cave troll~
+A large troll stands here clad in dark plate mail.
+~
+~
+troll~
+AT FJc 0 0 0
+240 1500 1d1+30000 0d0+0 800d4+300 blast
+-150 -150 -150 -150
+CD 0 BE HK
+stand stand male 60000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 30
+A 2
+M GRALL 74700 12~
+M DEATH 74307 35~
+#74705
+blood troll~
+a blood troll~
+A blood troll stands here with eyes glowing.
+~
+~
+troll~
+ART FJc 0 0 0
+230 800 1d1+30000 1d1+200000 1d1+5 drain
+-100 -100 -100 -100
+CD 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 29
+A 0
+M FIGHT 74705 100~
+M GRALL 74700 12~
+M DEATH 74307 20~
+#74706
+war troll~
+a war troll~
+A massive troll stands here looking for battle.
+~
+~
+troll~
+A FJc 0 0 0
+240 0 1d1+30000 0d0+0 800d4+400 blast
+-120 -120 -120 -120
+D 0 BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 30
+A 2
+M GRALL 74700 12~
+M DEATH 74307 35~
+#74707
+ugluk troll leader~
+Ugluk~
+Ugluk, leader of the trolls, stands here ready for the next battle.
+~
+~
+troll~
+ABFT FJc 0 0 0
+250 2000 1d1+100000 0d0+0 750d5+200 smash
+-120 -120 -120 -120
+ACD 0 BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 75
+A 4
+M DEATH 74308 100~
+#74708
+myconid guard fungus~
+a myconid guard~
+A fungus like creature stands here guarding the tunnel.
+~
+~
+troll~
+AB FJbc 0 0 0
+210 1000 1d1+40000 0d0+0 30d50+200 none
+-150 -150 -150 -150
+D 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKQUV medium unknown
+S 1
+V 35
+A -1
+M EXALL 74701 3~
+M EXALL 74702 0~
+M DEATH 74703 100~
+#0
+
+
+
+#OBJECTS
+#74700
+blackened steel helm ~
+a blackened steel helm~
+A dark steel helm lies here~
+metal~
+armor 0 AE
+CDEF CDEF CDEF CDEF 0
+102 0 20000 P
+F
+R 0 0 S
+#74701
+blackened steel platemail~
+a suit of blackened steel platemail~
+A dark suit of platemail lies here.~
+metal~
+armor 0 AD
+CDEF CDEF CDEF CDEF 0
+102 0 50000 P
+F
+R 0 0 S
+#74702
+a blackened greatsword~
+a blackened greatsword~
+A darkened greatsword lies here.~
+metal~
+weapon 0 AN
+sword 10 20 slash 0
+102 0 50000 P
+#0
+
+
+
+#ROOMS
+#74752
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74728
+D2
+~
+~
+0 0 74753
+S
+#74753
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74752
+D1
+~
+~
+0 0 74754
+S
+#74754
+Entrance to the Hall of Heilund~
+The tunnel opens into a large arched hallway which high ceilings and
+thick columns of stone.  The once majestic entryway is in disrepair as the
+trolls have done a number on the stonework, leaving the ground littered with
+debris.  
+~
+0 0 0
+D2
+~
+~
+0 0 74755
+D3
+~
+~
+0 0 74753
+S
+#74755
+Hallway to the Hall of Heilund~
+The arched hallway continues to the now desecrated great hall.  The
+stonework of the dwarves is now cracked and crumbling from the damage done
+by the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74754
+D2
+~
+~
+0 0 74756
+S
+#74756
+Hallway to the Hall of Heilund~
+The arched hallway continues to the now desecrated great hall.  The
+stonework of the dwarves is now cracked and crumbling from the damage done
+by the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74755
+D2
+~
+~
+0 0 74759
+S
+#74757
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D1
+~
+~
+0 0 74758
+D2
+~
+~
+0 0 74763
+S
+#74758
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D1
+~
+~
+0 0 74759
+D2
+~
+~
+0 0 74764
+D3
+~
+~
+0 0 74757
+S
+#74759
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74756
+D1
+~
+~
+0 0 74760
+D2
+~
+~
+0 0 74765
+D3
+~
+~
+0 0 74758
+S
+#74760
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D1
+~
+~
+0 0 74761
+D2
+~
+~
+0 0 74766
+D3
+~
+~
+0 0 74759
+S
+#74761
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D1
+~
+~
+0 0 74762
+D2
+~
+~
+0 0 74767
+D3
+~
+~
+0 0 74760
+S
+#74762
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D2
+~
+~
+0 0 74768
+D3
+~
+~
+0 0 74761
+S
+#74763
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74757
+D1
+~
+~
+0 0 74764
+D2
+~
+~
+0 0 74769
+S
+#74764
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74758
+D1
+~
+~
+0 0 74765
+D2
+~
+~
+0 0 74770
+D3
+~
+~
+0 0 74763
+S
+#74765
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74759
+D1
+~
+~
+0 0 74766
+D2
+~
+~
+0 0 74771
+D3
+~
+~
+0 0 74764
+S
+#74766
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74760
+D1
+~
+~
+0 0 74767
+D2
+~
+~
+0 0 74772
+D3
+~
+~
+0 0 74765
+S
+#74767
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74761
+D1
+~
+~
+0 0 74768
+D2
+~
+~
+0 0 74773
+D3
+~
+~
+0 0 74766
+S
+#74768
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74762
+D2
+~
+~
+0 0 74774
+D3
+~
+~
+0 0 74767
+S
+#74769
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74763
+D1
+~
+~
+0 0 74770
+D2
+~
+~
+0 0 74775
+S
+#74770
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74764
+D1
+~
+~
+0 0 74771
+D2
+~
+~
+0 0 74776
+D3
+~
+~
+0 0 74769
+S
+#74771
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 4 0
+D0
+~
+~
+0 0 74765
+D1
+~
+~
+0 0 74772
+D2
+~
+~
+0 0 74777
+D3
+~
+~
+0 0 74770
+S
+#74772
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74766
+D1
+~
+~
+0 0 74773
+D2
+~
+~
+0 0 74778
+D3
+~
+~
+0 0 74771
+S
+#74773
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74767
+D1
+~
+~
+0 0 74774
+D2
+~
+~
+0 0 74779
+D3
+~
+~
+0 0 74772
+S
+#74774
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74768
+D2
+~
+~
+0 0 74780
+D3
+~
+~
+0 0 74773
+S
+#74775
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74769
+D1
+~
+~
+0 0 74776
+D2
+~
+~
+0 0 74781
+S
+#74776
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74770
+D1
+~
+~
+0 0 74777
+D2
+~
+~
+0 0 74782
+D3
+~
+~
+0 0 74775
+S
+#74777
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74771
+D1
+~
+~
+0 0 74778
+D2
+~
+~
+0 0 74783
+D3
+~
+~
+0 0 74776
+S
+#74778
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74772
+D1
+~
+~
+0 0 74779
+D2
+~
+~
+0 0 74784
+D3
+~
+~
+0 0 74777
+S
+#74779
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74773
+D1
+~
+~
+0 0 74780
+D2
+~
+~
+0 0 74785
+D3
+~
+~
+0 0 74778
+S
+#74780
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74774
+D2
+~
+~
+0 0 74786
+D3
+~
+~
+0 0 74779
+S
+#74781
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74775
+D1
+~
+~
+0 0 74782
+D2
+~
+~
+0 0 74787
+S
+#74782
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74776
+D1
+~
+~
+0 0 74783
+D2
+~
+~
+0 0 74788
+D3
+~
+~
+0 0 74781
+S
+#74783
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74777
+D1
+~
+~
+0 0 74784
+D2
+~
+~
+0 0 74789
+D3
+~
+~
+0 0 74782
+S
+#74784
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74778
+D1
+~
+~
+0 0 74785
+D2
+~
+~
+0 0 74790
+D3
+~
+~
+0 0 74783
+S
+#74785
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74779
+D1
+~
+~
+0 0 74786
+D2
+~
+~
+0 0 74791
+D3
+~
+~
+0 0 74784
+S
+#74786
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74780
+D2
+~
+~
+0 0 74792
+D3
+~
+~
+0 0 74785
+S
+#74787
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74781
+D1
+~
+~
+0 0 74788
+S
+#74788
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74782
+D1
+~
+~
+0 0 74789
+D2
+~
+~
+0 0 74793
+D3
+~
+~
+0 0 74787
+S
+#74789
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74783
+D1
+~
+~
+0 0 74790
+D3
+~
+~
+0 0 74788
+S
+#74790
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74784
+D1
+~
+~
+0 0 74791
+D3
+~
+~
+0 0 74789
+S
+#74791
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74785
+D1
+~
+~
+0 0 74792
+D3
+~
+~
+0 0 74790
+S
+#74792
+In the Hall of Heilund~
+The once great hall of the dwarf lord Heilund is in an utter state of
+disarray.  Piles of bones, rusted armor, and troll filth lay scattered over
+the floor of the hall.  The great stone columns are missing chunks of rock a
+result of the trolls brief war with the dwarves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74786
+D3
+~
+~
+0 0 74791
+S
+#74793
+In the Narrow Tunnel~
+A narrow tunnel leads further into the depths away from the desiccated
+great hall.  The foul stench still lingers but is not as overpowering in the
+previous tunnels, very little debris is on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 74788
+D2
+~
+~
+0 0 74794
+S
+#74794
+In the Narrow Tunnel~
+The narrow tunnel twists through the rock as it appears relatively
+untouched by the trolls.  The stench is all but vanished as you no longer
+have to navigate piles of debris and troll excrement.  
+~
+0 4 0
+D0
+~
+~
+0 0 74793
+D3
+~
+~
+0 0 74795
+S
+#74795
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74794
+D5
+~
+~
+0 0 74796
+S
+#74796
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 74797
+D4
+~
+~
+0 0 74795
+S
+#74797
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74796
+D2
+~
+~
+0 0 74798
+S
+#74798
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74797
+D2
+~
+~
+0 0 74799
+S
+#74799
+In the Narrow Tunnel~
+The tunnel twists through the rock walls making it difficult for a large
+body to pass through.  The dark rock pulls at your cloak as you attempt to
+squeeze through the tunnel.  
+~
+0 2048 0
+D0
+~
+~
+0 0 74798
+D3
+~
+~
+0 0 74570
+S
+#74700
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74693
+D1
+~
+~
+0 0 74701
+S
+#74701
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 74702
+D3
+~
+~
+0 0 74700
+S
+#74702
+End of the Exploratory Tunnel~
+The exploratory tunnel comes to an abrupt end as a very large hole is dug
+in the center of the room.  Looking at the hole you realize it is large
+enough for ten svirfneblin to fit through, leaving you wondering what may
+have dug this entrance.  
+~
+0 0 0
+D0
+~
+~
+0 0 74701
+D5
+~
+~
+0 0 74703
+S
+#74703
+In a Large Hole~
+The large hole continues down through the earth as you notice the walls
+are grooved with large claw marks.  A foul stench lingers through the hole
+as you can continue downward or head back towards the svirfneblin mine.  
+~
+0 0 0
+D4
+~
+~
+0 0 74702
+D5
+~
+~
+0 0 74704
+S
+#74704
+In a Large Dark Tunnel~
+The hole opens to a large tunnel that is littered with pieces of dented
+and rusted armor.  The foul stench drifts through the cavern nearly brining
+you to your knees.  
+~
+0 0 0
+D3
+~
+~
+0 0 74705
+D4
+~
+~
+0 0 74703
+S
+#74705
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74704
+D5
+~
+~
+0 0 74706
+S
+#74706
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 74707
+D4
+~
+~
+0 0 74705
+S
+#74707
+Junction in the Dark Tunnel~
+The tunnel reaches a T as it heads off to the east and west through the
+underground.  The stench from either direction is equally foul as a pile of
+troll excrement sits on the floor in front of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74706
+D1
+~
+~
+0 0 74735
+D3
+~
+~
+0 0 74708
+S
+#74708
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74707
+D3
+~
+~
+0 0 74709
+S
+#74709
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74708
+D2
+~
+~
+0 0 74710
+S
+#74710
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74709
+D2
+~
+~
+0 0 74715
+D3
+~
+~
+0 0 74711
+S
+#74711
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D1
+~
+~
+0 0 74710
+D2
+~
+~
+0 0 74714
+D3
+~
+~
+0 0 74712
+S
+#74712
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D1
+~
+~
+0 0 74711
+D2
+~
+~
+0 0 74713
+S
+#74713
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74712
+D1
+~
+~
+0 0 74714
+D2
+~
+~
+0 0 74718
+S
+#74714
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74711
+D1
+~
+~
+0 0 74715
+D2
+~
+~
+0 0 74717
+D3
+~
+~
+0 0 74713
+S
+#74715
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74710
+D2
+~
+~
+0 0 74716
+D3
+~
+~
+0 0 74714
+S
+#74716
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74715
+D3
+~
+~
+0 0 74717
+S
+#74717
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74714
+D1
+~
+~
+0 0 74716
+D3
+~
+~
+0 0 74718
+S
+#74718
+In a Ruined Mine~
+Debris is scattered everywhere, broken pickaxes, hammers, and large
+chunks of stone tangle in your feet as you walk through this wrecked mine. 
+The stench of the trolls is overpowering as you fight back the urge to
+vomit.  
+~
+0 0 0
+D0
+~
+~
+0 0 74713
+D1
+~
+~
+0 0 74717
+D2
+~
+~
+0 0 74719
+S
+#74719
+Tunnel Between Caverns~
+The tunnel leads off from the cavern as it heads through the dark
+underground towards the next cavern.  The overpowering stench assails your
+nostrils as your eyes tear up from the smell.  
+~
+0 0 0
+D0
+~
+~
+0 0 74718
+D5
+~
+~
+0 0 74720
+S
+#74720
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74721
+D4
+~
+~
+0 0 74719
+S
+#74721
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74722
+D3
+~
+~
+0 0 74720
+S
+#74722
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 74723
+D3
+~
+~
+0 0 74721
+S
+#74723
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74722
+D5
+~
+~
+0 0 74724
+S
+#74724
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74725
+D4
+~
+~
+0 0 74723
+S
+#74725
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74726
+D3
+~
+~
+0 0 74724
+S
+#74726
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D1
+~
+~
+0 0 74731
+D2
+~
+~
+0 0 74727
+D3
+~
+~
+0 0 74725
+S
+#74727
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74726
+D1
+~
+~
+0 0 74730
+D2
+~
+~
+0 0 74728
+S
+#74728
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74727
+D1
+~
+~
+0 0 74729
+D2
+~
+~
+0 0 74752
+S
+#74729
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74730
+D1
+~
+~
+0 0 74734
+D3
+~
+~
+0 0 74728
+S
+#74730
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74731
+D1
+~
+~
+0 0 74733
+D2
+~
+~
+0 0 74729
+D3
+~
+~
+0 0 74727
+S
+#74731
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D1
+~
+~
+0 0 74732
+D2
+~
+~
+0 0 74730
+D3
+~
+~
+0 0 74726
+S
+#74732
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D1
+~
+~
+0 0 74751
+D2
+~
+~
+0 0 74733
+D3
+~
+~
+0 0 74731
+S
+#74733
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74732
+D2
+~
+~
+0 0 74734
+D3
+~
+~
+0 0 74730
+S
+#74734
+Cavern of Debris~
+The cavern is littered with broken mining equipment and various pieces of
+junk collected by the trolls.  A foul stench lingers in the cavern briefly
+causing your eyes to water as it nearly overpowers you.  
+~
+0 0 0
+D0
+~
+~
+0 0 74733
+D3
+~
+~
+0 0 74729
+S
+#74735
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 74707
+D5
+~
+~
+0 0 74736
+S
+#74736
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74737
+D4
+~
+~
+0 0 74735
+S
+#74737
+In a Large Dark Tunnel~
+The tunnel turns through the underground leading further into the depths.
+Debris litter the floor of the tunnel as you you are forced to watch your
+step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74738
+D3
+~
+~
+0 0 74736
+S
+#74738
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D1
+~
+~
+0 0 74743
+D2
+~
+~
+0 0 74739
+D3
+~
+~
+0 0 74737
+S
+#74739
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74738
+D1
+~
+~
+0 0 74742
+D2
+~
+~
+0 0 74740
+S
+#74740
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74739
+D1
+~
+~
+0 0 74741
+S
+#74741
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74742
+D1
+~
+~
+0 0 74746
+D2
+~
+~
+0 0 74747
+D3
+~
+~
+0 0 74740
+S
+#74742
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74743
+D1
+~
+~
+0 0 74745
+D2
+~
+~
+0 0 74741
+D3
+~
+~
+0 0 74739
+S
+#74743
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D1
+~
+~
+0 0 74744
+D2
+~
+~
+0 0 74742
+D3
+~
+~
+0 0 74738
+S
+#74744
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D2
+~
+~
+0 0 74745
+D3
+~
+~
+0 0 74743
+S
+#74745
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74744
+D2
+~
+~
+0 0 74746
+D3
+~
+~
+0 0 74742
+S
+#74746
+In the Abandoned Cavern~
+Splintered support lie broken on the floor of the cavern as you have to
+step around numerous objects.  An mining cart lies on its side bashed and
+dented from the onslaught of the trolls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74745
+D3
+~
+~
+0 0 74741
+S
+#74747
+Tunnel Between Caverns~
+The tunnel leads off from the cavern as it heads through the dark
+underground towards the next cavern.  The overpowering stench assails your
+nostrils as your eyes tear up from the smell.  
+~
+0 0 0
+D0
+~
+~
+0 0 74741
+D5
+~
+~
+0 0 74748
+S
+#74748
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 74749
+D4
+~
+~
+0 0 74747
+S
+#74749
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74748
+D3
+~
+~
+0 0 74750
+S
+#74750
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74749
+D2
+~
+~
+0 0 74751
+S
+#74751
+Tunnel Between Caverns~
+The tunnel runs through the deep underground, its floors littered with
+various pieces of wreckage and debris.  The enclosed space amplifies the
+stench of the foul smelling trolls as you wander from cavern to cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74750
+D3
+~
+~
+0 0 74732
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74701 30 74752 1 *Load a stone troll
+M 0 74703 15 74754 1 *Load an olog-hai
+M 0 74702 25 74757 2 *Load a fell troll
+M 0 74706 20 74758 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74703 15 74758 1 *Load an olog-hai
+M 0 74706 20 74759 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74704 20 74760 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74706 20 74761 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74702 25 74762 2 *Load a fell troll
+M 0 74706 20 74763 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74704 20 74764 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74702 25 74765 2 *Load a fell troll
+M 0 74702 25 74766 2 *Load a fell troll
+M 0 74705 13 74767 1 *Load a blood troll
+M 0 74703 15 74767 1 *Load an olog-hai
+M 0 74706 20 74768 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74704 20 74769 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74706 20 74770 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74707 1 74771 1 *Load Ugluk
+M 0 74704 20 74772 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74704 20 74773 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74702 25 74774 2 *Load a fell troll
+M 0 74706 20 74775 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74703 15 74775 1 *Load an olog-hai
+M 0 74703 15 74775 1 *Load an olog-hai
+M 0 74702 25 74776 2 *Load a fell troll
+M 0 74706 20 74777 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74706 20 74778 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74702 25 74779 2 *Load a fell troll
+M 0 74705 13 74780 1 *Load a blood troll
+M 0 74704 20 74781 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74704 20 74782 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74704 20 74783 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74704 20 74784 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74705 13 74785 1 *Load a blood troll
+M 0 74704 20 74786 2 *Load an armored cave troll
+E 0 74700 0 6 *A blackened steel helm is loaded over the head of an armored cave troll
+E 0 74701 0 5 *A suit of blackened steel platemail is loaded on the body of an armored cave troll
+M 0 74703 15 74786 1 *Load an olog-hai
+M 0 74705 13 74787 1 *Load a blood troll
+M 0 74702 25 74788 2 *Load a fell troll
+M 0 74705 13 74789 1 *Load a blood troll
+M 0 74703 15 74789 1 *Load an olog-hai
+M 0 74702 25 74790 2 *Load a fell troll
+M 0 74706 20 74791 2 *Load a war troll
+E 0 74702 0 16 *A blackened greatsword is loaded wielded of a war troll
+M 0 74702 25 74792 2 *Load a fell troll
+M 0 74708 1 74799 1 *Load a myconid guard
+M 0 74701 30 74706 1 *Load a stone troll
+M 0 74701 30 74708 1 *Load a stone troll
+M 0 74700 15 74708 1 *Load a troll scavenger
+M 0 74700 15 74710 1 *Load a troll scavenger
+M 0 74701 30 74711 2 *Load a stone troll
+M 0 74700 15 74712 1 *Load a troll scavenger
+M 0 74701 30 74713 2 *Load a stone troll
+M 0 74705 13 74714 1 *Load a blood troll
+M 0 74702 25 74714 1 *Load a fell troll
+M 0 74701 30 74715 2 *Load a stone troll
+M 0 74700 15 74716 1 *Load a troll scavenger
+M 0 74701 30 74717 2 *Load a stone troll
+M 0 74703 15 74718 1 *Load an olog-hai
+M 0 74700 15 74718 1 *Load a troll scavenger
+M 0 74703 15 74720 1 *Load an olog-hai
+M 0 74702 25 74724 1 *Load a fell troll
+M 0 74700 15 74724 1 *Load a troll scavenger
+M 0 74701 30 74725 1 *Load a stone troll
+M 0 74700 15 74726 1 *Load a troll scavenger
+M 0 74701 30 74727 2 *Load a stone troll
+M 0 74700 15 74728 1 *Load a troll scavenger
+M 0 74701 30 74729 2 *Load a stone troll
+M 0 74705 13 74730 1 *Load a blood troll
+M 0 74703 15 74730 1 *Load an olog-hai
+M 0 74702 25 74730 1 *Load a fell troll
+M 0 74701 30 74731 2 *Load a stone troll
+M 0 74700 15 74732 1 *Load a troll scavenger
+M 0 74701 30 74733 2 *Load a stone troll
+M 0 74703 15 74734 1 *Load an olog-hai
+M 0 74700 15 74734 1 *Load a troll scavenger
+M 0 74701 30 74736 1 *Load a stone troll
+M 0 74703 15 74738 1 *Load an olog-hai
+M 0 74700 15 74738 1 *Load a troll scavenger
+M 0 74701 30 74739 2 *Load a stone troll
+M 0 74700 15 74740 1 *Load a troll scavenger
+M 0 74701 30 74741 2 *Load a stone troll
+M 0 74705 13 74742 1 *Load a blood troll
+M 0 74702 25 74742 1 *Load a fell troll
+M 0 74701 30 74743 2 *Load a stone troll
+M 0 74700 15 74744 1 *Load a troll scavenger
+M 0 74701 30 74745 2 *Load a stone troll
+M 0 74700 15 74746 1 *Load a troll scavenger
+M 0 74702 25 74749 1 *Load a fell troll
+M 0 74701 30 74749 1 *Load a stone troll
+M 0 74700 15 74750 1 *Load a troll scavenger
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74700
+mob echo {yThe foul stench forces you to your knees!!!{x
+mob force $n sit
+kill $n
+~
+#74701
+mob echo {yA myconid guard blocks your path.{x
+~
+#74702
+mob trans $n 74798
+mob mload 74708
+mob purge self
+~
+#74703
+mob trans $n 74570
+mob mload 74708
+~
+#74705
+mob echo {RA blood troll murmurs a foul phrase!!{x
+mob cast 'demonfire' $n
+mob cast 'demonfire' $n
+~
+#0
+
+#$

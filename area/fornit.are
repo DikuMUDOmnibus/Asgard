@@ -1,0 +1,4361 @@
+#AREADATA
+Name Forest of Night~
+Builders Ishamael~
+VNUMs 23000 23199
+Continent 2
+Mobtier 0
+Credits [  LGD ] Ishamael Forest of Night~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#23000
+blighted bear~
+a blighted bear~
+A large diseased bear growls at you and attacks!
+~
+~
+bear~
+AFG DFZb 0 0 0
+180 700 1d1+27500 0d0+0 25d46+225 claw
+-55 -55 -55 -55
+DEFHO ALQ EI F
+stand stand none 0
+AGHMV ABCDEFGHIJKQUV medium unknown
+V 15
+A -1
+M DEATH 23000 100~
+#23001
+blight tree blighted~
+a blighted tree~
+A decaying tree stands here writhing in the wind.
+~
+~
+human~
+AB 0 0 0 0
+1 0 1d1+3000 0d0+0 1d1+1 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M GRALL 23001 35~
+#23002
+blood nyad~
+a blood nyad~
+A blood nyad dances between the trunks.
+~
+~
+human~
+AF TVac 0 0 0
+205 1500 1d1+30000 0d0+0 26d50+500 slash
+-75 -75 -75 -75
+DGIKU ABQX 0 0
+stand stand female 50000
+H CEGU small unknown
+F for AMV
+F par ABDFHIJK
+S 1
+V 24
+A -1
+#23003
+blood dryad~
+a blood dryad~
+A blood dryad spins through the forest menacingly.
+~
+~
+human~
+AS PTVac 0 0 0
+210 700 1d1+30000 0d0+0 26d50+375 claw
+-75 -75 -75 -75
+BDFGIK ABLQ 0 0
+stand stand none 50000
+C 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 20
+A -1
+M GRALL 23002 10~
+#23004
+electric eel~
+an electric eel~
+A long eel swims through the murky water.
+~
+~
+snake~
+ABF Vab E 0 0
+195 1000 1d1+25000 0d0+0 26d49+250 shock
+-50 -50 -50 -50
+DU JLR L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+S 1
+V 18
+A -1
+M DEATH 23003 100~
+#23005
+large ogre~
+a large ogre~
+A large ogre stands here grunting loudly.
+~
+~
+ogre~
+AT DFZc 0 0 0
+230 1000 1d1+32500 0d0+0 28d50+735 pound
+-100 -100 -100 -100
+CDJK 0 E PT
+stand stand male 70000
+AHMV BDFIJ huge unknown
+F par ACEGHK
+V 26
+A -1
+M GRALL 23004 10~
+#23006
+large ogre~
+a large ogre~
+A large ogre walks by dragging a large bloody club.
+~
+~
+ogre~
+AT DFZc 0 0 0
+230 1000 1d1+25000 0d0+0 28d50+735 pound
+-100 -100 -100 -100
+CDJK 0 E PT
+stand stand male 70000
+AHMV BDFIJ huge unknown
+F par ACEGHK
+V 26
+A -1
+M GRALL 23005 100~
+#23007
+fade smirking general~
+a tall fade~
+A tall figure cloaked in black stands here planning the next attack.
+~
+~
+demon~
+ABFRST JUZc 0 0 0
+250 2500 1d1+75000 0d0+0 28d50+735 slash
+-125 -125 -125 -125
+CDGHIJK LQST CDEM 0
+stand stand male 100000
+AHMV ABCDEFGHIJKQ medium unknown
+F vul NS
+S 1
+V 30
+A -1
+M HPCNT 23006 6~
+M DEATH 23007 100~
+#23008
+corpse fade~
+a corpse~
+A lanky corpse thrashes around wildly.
+~
+~
+demon~
+ABFRST JUZc 0 0 0
+255 2500 1d1+20000 0d0+0 28d55+1000 slash
+-75 -75 -75 -75
+ACDGHIJK LQST CDEM 0
+stand stand male 100000
+AHMV ABCDEFGHIJKQ medium unknown
+F vul NS
+S 1
+V 35
+A -1
+#23009
+guard captain~
+captain of the guards~
+A soldier in tattered and bloody armor leans up against the wall exhausted.
+~
+~
+human~
+AB 0 0 0 0
+5 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 1
+A -1
+M GRALL 23008 100~
+M SPEECH 23009 help~
+M GIVE 23010 23024~
+#23010
+shadow~
+a large shadow~
+A large shadow moves between buildings.
+~
+~
+human~
+AM 0 0 0 0
+5 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M GRALL 23011 75~
+#23011
+large ogre~
+a large ogre~
+A large ogre stands here grunting loudly.
+~
+~
+ogre~
+AFT DFZc 0 0 0
+230 1000 1d1+32500 0d0+0 28d50+735 pound
+-100 -100 -100 -100
+CDJK 0 E PT
+stand stand male 70000
+AHMV BDFIJ huge unknown
+F par ACEGHK
+V 29
+A -1
+#0
+
+
+
+#OBJECTS
+#23000
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 BCEFGHILMO 0
+0 0 0 P
+#23001
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ABCEFGHILMO 0
+0 0 0 P
+#23002
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 DEFGHILMO 0
+0 0 0 P
+#23003
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ADEFGHILMO 0
+0 0 0 P
+#23004
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ABJLMO 0
+0 0 0 P
+#23005
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 CDJLMO 0
+0 0 0 P
+#23006
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ABEJLMO 0
+0 0 0 P
+#23007
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 BEJLMO 0
+0 0 0 P
+#23008
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 AEJLMO 0
+0 0 0 P
+#23009
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 EJLMO 0
+0 0 0 P
+#23010
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ADJLMO 0
+0 0 0 P
+#23011
+lake~
+a lake~
+{x~
+unknown~
+portal 0 0
+0 KL 0 JLMO 0
+0 0 0 P
+#23012
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 CEFJLMO 0
+0 0 0 P
+#23013
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 CDEFJLMO 0
+0 0 0 P
+#23014
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 BDGJLMO 0
+0 0 0 P
+#23015
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 DEGJLMO 0
+0 0 0 P
+#23016
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ABCFGJLMO 0
+0 0 0 P
+#23017
+small trail~
+a small trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 ABCEFGJLMO 0
+0 0 0 P
+#23018
+a faint trail~
+a faint trail~
+{x~
+unknown~
+portal 0 0
+0 KL 0 BCHJLMO 0
+0 0 0 P
+#23019
+fountain water~
+a large cracked fountain~
+A large cracked fountain sits here in the middle of the square.~
+marble~
+fountain 0 0
+2147483647 2147483647 'water' 1 0
+0 0 0 P
+#23020
+bear skin~
+a large bear skin~
+A large bear skin lies discarded.~
+cougar~
+armor 0 A
+0 0 0 0 0
+0 5 70000 P
+#23021
+bone handled knife~
+a bone-handled knife~
+A knife made of bone lies here.~
+bone~
+weapon 0 AN
+dagger 12 17 pierce 0
+101 0 20000 P
+#23022
+eelskin eel skin~
+an eel skin~
+A long eel skin lies here flaking in the wind.~
+unknown~
+armor 0 A
+0 0 0 0 0
+101 0 65000 P
+#23023
+an enormous spiked club~
+an enormous spiked club~
+A massive club lies here covered in blood.~
+unknown~
+weapon 0 AN
+mace 10 20 crush F
+101 50 0 P
+#23024
+eyeless head fade~
+the severed head of a fade~
+An eyeless head sits here decomposing.~
+unknown~
+trash 0 A
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#23000
+A small path~
+The small path continues away from the ancient road, the sharp stakes
+guide you towards the base of a tall rock formation.  
+~
+0 4 3
+D1
+~
+~
+0 0 23001
+D3
+~
+~
+0 0 14571
+S
+#23001
+A small path~
+The ancient road is long forgotten to the west and to the east the high
+rock formation looms ahead of you creating a seemingly impassible object.  
+~
+0 0 3
+D1
+~
+~
+0 0 23002
+D3
+~
+~
+0 0 23000
+S
+#23002
+At the Base of a Cliff~
+The high cliff towers over the area making it impossible to see what lies
+beyond.  A narrow passage carved into the rock walls appears to lead south
+from the cliff base.  
+~
+0 0 3
+D2
+~
+~
+0 0 23003
+D3
+~
+~
+0 0 23001
+S
+#23003
+Narrow Passage~
+The high rock walls make it difficult to determine what lies ahead, the
+small path and towering cliff loom to your north.  To the south the passage
+continues revealing little of what is to come.  
+~
+0 0 3
+D0
+~
+~
+0 0 23002
+D2
+~
+~
+0 0 23004
+S
+#23004
+Narrow Passage~
+The passage twists to the east, its high rock walls guiding you to an
+unknown destination.  With each step you are greeted with a loud echo of
+your footfalls leaving you to wander when this passage will end.  
+~
+0 0 3
+D0
+~
+~
+0 0 23003
+D1
+~
+~
+0 0 23005
+S
+#23005
+Narrow Passage~
+The passage twists back to the south leading you again in another
+direction.  The rock walls reveal little of the road ahead and leaving you
+guessing as to what lies ahead.  
+~
+0 0 3
+D2
+~
+~
+0 0 23006
+D3
+~
+~
+0 0 23004
+S
+#23006
+Narrow Passage~
+The rock walls show no sign of age or appear to be affect by the natural
+element.  Strangely the air around you is getting warmer and you notice
+beads of water from the humidity glisten on the passage walls.  
+~
+0 0 3
+D0
+~
+~
+0 0 23005
+D2
+~
+~
+0 0 23007
+S
+#23007
+Narrow Passage~
+The passage again turns heading back west, still revealing little in
+regards to your destination.  The unknown source of heat is getting stronger
+and an acrid smell swirls throughout the passage.  
+~
+0 0 3
+D0
+~
+~
+0 0 23006
+D3
+~
+~
+0 0 23008
+S
+#23008
+Passage End~
+The rock passage abruptly comes to an end opening into a small clearing
+amongst tall trees.  The source of heat appears to be coming from the forest
+to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+0 0 23009
+S
+#23009
+A Small Clearing~
+Tall trunks surround the clearing with a small narrow deer trail heading
+off to the east.  Looking closer at the trees you notice they are severely
+blighted and riddled with disease.  
+~
+0 0 3
+D0
+~
+~
+0 0 23008
+D1
+~
+~
+0 0 23010
+S
+#23010
+A Small Deer Trail~
+The small trail twists its way between the large trunks and dense
+underbrush.  The bushes and vines almost seem to writhe and move in pain as
+you take each step.  
+~
+0 0 3
+D1
+~
+~
+0 0 23011
+D3
+~
+~
+0 0 23009
+S
+#23011
+A Small Deer Trail~
+The trail continues through the trunks leading to a less dense part of
+the forest to the east.  Several decaying trunks lay rotting across the
+trail making your passage slow.  
+~
+0 4 3
+D1
+~
+~
+0 0 23014
+D3
+~
+~
+0 0 23010
+S
+#23012
+Decaying Trees~
+A tumbled over weeping willow is now the nest of huge green birds.  The
+birds have green foam flowing out of their noses and mouth.  Their claws are
+covered with dried blood.  
+~
+0 0 3
+D1
+~
+~
+0 0 23020
+D2
+~
+~
+0 0 23013
+S
+#23013
+In the Dark Forest~
+A rotting elk carcass makes the path almost unpassable.  Many other
+smaller carcasses lie around the rotting elk dead from eatting the poisoned
+meat of the elk.  
+~
+0 0 3
+D0
+~
+~
+0 0 23012
+D1
+~
+~
+0 0 23021
+D2
+~
+~
+0 0 23014
+S
+#23014
+Entering the Dark Forest~
+Decaying tree trunks lie all about.  The path is cluttered with dead
+brackes, and piles of moss covered leaves.  Small insects feed off of the
+decay that lays all around.  
+~
+0 0 3
+D0
+~
+~
+0 0 23013
+D1
+~
+~
+0 0 23022
+D2
+~
+~
+0 0 23015
+D3
+~
+~
+0 0 23011
+S
+#23015
+Underneath the Dark Tangle~
+Skeletal remains of a warrior are hanging loosely from a fallen tree.  A
+huge spider has wove a web all around the bones, and is watching for its
+next meal.  
+~
+0 0 3
+D0
+~
+~
+0 0 23014
+D1
+~
+~
+0 0 23023
+D2
+~
+~
+0 0 23016
+S
+#23016
+Beneath Dying Oaks~
+Withered branches hang over the forest floor creating odd flickering
+shadows around your feet.  A decaying corpse sits entangled in writhing grey
+vines, as the oppressive heats assails you.  
+~
+0 0 3
+D0
+~
+~
+0 0 23015
+D1
+~
+~
+0 0 23024
+D2
+~
+~
+0 0 23017
+S
+#23017
+Twisting Vines~
+Thick gray vines writhe and shrink away from your presence.  A foul
+stench of decay surrounds you as the overpowering heat bakes it into your
+nostrils.  
+~
+0 0 3
+D0
+~
+~
+0 0 23016
+D1
+~
+~
+0 0 23025
+D2
+~
+~
+0 0 23018
+S
+#23018
+Dark Tangle~
+A dark tangle of vines and branches form a wall to the south and west
+making it impossible to pass.  The foliage wall seems to twist and move as
+you try to gaze through it.  
+~
+0 0 3
+D0
+~
+~
+0 0 23017
+D1
+~
+~
+0 0 23026
+S
+#23019
+Dark Forest~
+The twisted branches overhead darken the area as odd shadows dance around
+you.  Think vines writhe and twist along the trunks of the half rotten
+trees.  A small path leads off to the north through the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 23028
+D2
+~
+~
+0 0 23020
+S
+#23020
+In the Blight~
+Twisted trunks shiver and writhe as you walk past, seeming as if they are
+trying to reach out to you and grab you.  The heat is overpowering and
+oppressive as sweat poors from your body.  
+~
+0 0 3
+D0
+~
+~
+0 0 23019
+D1
+~
+~
+0 0 23029
+D2
+~
+~
+0 0 23021
+D3
+~
+~
+0 0 23012
+S
+#23021
+At the Edge of the Lake~
+To the east the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23020
+D2
+~
+~
+0 0 23022
+D3
+~
+~
+0 0 23013
+S
+#23022
+At the Edge of the Lake~
+To the east the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23021
+D2
+~
+~
+0 0 23023
+D3
+~
+~
+0 0 23014
+S
+#23023
+At the Edge of the Lake~
+To the east the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23022
+D2
+~
+~
+0 0 23024
+D3
+~
+~
+0 0 23015
+S
+#23024
+At the Edge of the Lake~
+To the east the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23023
+D2
+~
+~
+0 0 23025
+D3
+~
+~
+0 0 23016
+S
+#23025
+Blighted Forest~
+The tall twisting trunks writhe and shift in the unnatural heat.  Chunks
+of gray bark fall around you, littering the forest floor with a thin papery
+substance.  Each step crackles as you walk through the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 23024
+D1
+~
+~
+0 0 23034
+D2
+~
+~
+0 0 23026
+D3
+~
+~
+0 0 23017
+S
+#23026
+Decaying Trunks~
+Partially felled trees surround you, the smell of wet decaying wood
+surrounds you.  Thick gray vines climb the decaying trunks, writhing and
+slithering around them.  
+~
+0 0 3
+D0
+~
+~
+0 0 23025
+D1
+~
+~
+0 0 23035
+D2
+~
+~
+0 0 23027
+D3
+~
+~
+0 0 23018
+S
+#23027
+Dark Forest~
+The leafless branches overhead create an odd set of shadows on the forest
+floor.  The graying bark of the trees is crumbling and falling off in large
+flakes.  The noxious smell follows you as you wander through the area.  A
+small trail runs south through the branches.  
+~
+0 0 3
+D0
+~
+~
+0 0 23026
+D1
+~
+~
+0 0 23036
+S
+#23028
+Dense Tangle~
+Thick underbrush makes it difficult to walk through the blighted forest. 
+Sharp thorns pull at your cloak as you try to pass through the tangle.  
+~
+0 0 3
+D1
+~
+~
+0 0 23038
+D2
+~
+~
+0 0 23029
+D3
+~
+~
+0 0 23019
+S
+#23029
+At the Edge of the Lake~
+To the south the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23028
+D1
+~
+~
+0 0 23039
+D3
+~
+~
+0 0 23020
+S
+#23030
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23029
+D1
+~
+~
+0 0 23040
+D2
+~
+~
+0 0 23031
+D3
+~
+~
+0 0 23021
+S
+#23031
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23030
+D1
+~
+~
+0 0 23041
+D2
+~
+~
+0 0 23032
+D3
+~
+~
+0 0 23022
+S
+#23032
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23031
+D1
+~
+~
+0 0 23042
+D2
+~
+~
+0 0 23033
+D3
+~
+~
+0 0 23023
+S
+#23033
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23032
+D1
+~
+~
+0 0 23043
+D2
+~
+~
+0 0 23034
+D3
+~
+~
+0 0 23024
+S
+#23034
+At the Edge of the Lake~
+To the north the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 23044
+D2
+~
+~
+0 0 23035
+D3
+~
+~
+0 0 23025
+S
+#23035
+In the Blighted Forest~
+Dried out leaves crumble beneath your feet as crunching sounds follow
+your every step.  The acrid odor of the heat lingers with you as you
+continue on through this dying forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 23034
+D1
+~
+~
+0 0 23045
+D2
+~
+~
+0 0 23036
+D3
+~
+~
+0 0 23026
+S
+#23036
+Dense Tangle~
+Thick underbrush makes it difficult to walk through the blighted forest. 
+Sharp thorns pull at your cloak as you try to pass through the tangle.  
+~
+0 0 3
+D0
+~
+~
+0 0 23035
+D3
+~
+~
+0 0 23027
+S
+#23037
+Underneath the Dark Tangle~
+Skeletal remains of a warrior are hanging loosely from a fallen tree.  A
+huge spider has wove a web all around the bones, and is watching for its
+next meal.  A faint trail runs north through the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 23046
+D2
+~
+~
+0 0 23038
+S
+#23038
+Decaying Trees~
+A tumbled over weeping willow is now the nest of huge green birds.  The
+birds have green foam flowing out of their noses and mouth.  Their claws are
+covered with dried blood.  
+~
+0 0 3
+D0
+~
+~
+0 0 23037
+D1
+~
+~
+0 0 23047
+D2
+~
+~
+0 0 23039
+D3
+~
+~
+0 0 23028
+S
+#23039
+At the Edge of the Lake~
+To the south the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23038
+D1
+~
+~
+0 0 23048
+D3
+~
+~
+0 0 23029
+S
+#23040
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23039
+D1
+~
+~
+0 0 23049
+D2
+~
+~
+0 0 23041
+D3
+~
+~
+0 0 23030
+S
+#23041
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23040
+D1
+~
+~
+0 0 23050
+D2
+~
+~
+0 0 23042
+D3
+~
+~
+0 0 23031
+S
+#23042
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23041
+D1
+~
+~
+0 0 23051
+D2
+~
+~
+0 0 23043
+D3
+~
+~
+0 0 23032
+S
+#23043
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23042
+D1
+~
+~
+0 0 23052
+D2
+~
+~
+0 0 23044
+D3
+~
+~
+0 0 23033
+S
+#23044
+At the Edge of the Lake~
+To the north the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 23053
+D2
+~
+~
+0 0 23045
+D3
+~
+~
+0 0 23034
+S
+#23045
+Unpassable Tangle~
+The thick wall of underbrush blocks your path to the east forcing you to
+turn north back towards the lake.  The twisted mass rustles as you walk by
+startling you slightly.  
+~
+0 0 3
+D0
+~
+~
+0 0 23044
+D3
+~
+~
+0 0 23035
+S
+#23046
+Underneath the Dark Tangle~
+Skeletal remains of a warrior are hanging loosely from a fallen tree.  A
+huge spider has wove a web all around the bones, and is watching for its
+next meal.  
+~
+0 0 3
+D2
+~
+~
+0 0 23047
+D3
+~
+~
+0 0 23037
+S
+#23047
+Blighted Forest~
+The tall twisting trunks writhe and shift in the unnatural heat.  Chunks
+of gray bark fall around you, littering the forest floor with a thin papery
+substance.  Each step crackles as you walk through the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 23046
+D1
+~
+~
+0 0 23054
+D2
+~
+~
+0 0 23048
+D3
+~
+~
+0 0 23038
+S
+#23048
+At the Edge of the Lake~
+To the south the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23047
+D1
+~
+~
+0 0 23055
+D3
+~
+~
+0 0 23039
+S
+#23049
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23048
+D1
+~
+~
+0 0 23056
+D2
+~
+~
+0 0 23050
+D3
+~
+~
+0 0 23040
+S
+#23050
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23049
+D1
+~
+~
+0 0 23057
+D2
+~
+~
+0 0 23051
+D3
+~
+~
+0 0 23041
+S
+#23051
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23050
+D1
+~
+~
+0 0 23058
+D2
+~
+~
+0 0 23052
+D3
+~
+~
+0 0 23042
+S
+#23052
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23051
+D1
+~
+~
+0 0 23059
+D2
+~
+~
+0 0 23053
+D3
+~
+~
+0 0 23043
+S
+#23053
+At the Edge of the Lake~
+To the north the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 23060
+D3
+~
+~
+0 0 23044
+S
+#23054
+Dark Forest~
+The twisted branches overhead darken the area as odd shadows dance around
+you.  Think vines writhe and twist along the trunks of the half rotten
+trees.  
+~
+0 0 3
+D2
+~
+~
+0 0 23055
+D3
+~
+~
+0 0 23047
+S
+#23055
+At the Edge of the Lake~
+To the south the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23054
+D1
+~
+~
+0 0 23062
+D3
+~
+~
+0 0 23048
+S
+#23056
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23055
+D1
+~
+~
+0 0 23063
+D2
+~
+~
+0 0 23057
+D3
+~
+~
+0 0 23049
+S
+#23057
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23056
+D1
+~
+~
+0 0 23064
+D2
+~
+~
+0 0 23058
+D3
+~
+~
+0 0 23050
+S
+#23058
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23057
+D1
+~
+~
+0 0 23065
+D2
+~
+~
+0 0 23059
+D3
+~
+~
+0 0 23051
+S
+#23059
+On the Murky Water~
+The water of the lake is dark and murky making it difficult to see what
+lies below.  An occasional ripple breaks the surface and faint splashing
+sounds can be heard.  A strong stench rises off the water causing your eyes
+to water.  
+~
+0 0 6
+D0
+~
+~
+0 0 23058
+D1
+~
+~
+0 0 23066
+D2
+~
+~
+0 0 23060
+D3
+~
+~
+0 0 23052
+S
+#23060
+At the Edge of the Lake~
+To the north the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 23067
+D2
+~
+~
+0 0 23061
+D3
+~
+~
+0 0 23053
+S
+#23061
+Broken Trunks~
+A broken trunk lies across your path in a bad state of decay, even the
+slightest touch would cause it to crumble.  The dark shadows cast by the
+trees that remain overhead give you an uneasy feeling.  A small trail leads
+off south from the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 23060
+D1
+~
+~
+0 0 23068
+S
+#23062
+Near the Lake~
+A noxious lake sits bubbling in your view to the southwest, an acrid
+smell fills your nostrils from that direction.  You can barely make out
+movement beneath its boiling surface.  
+~
+0 0 3
+D2
+~
+~
+0 0 23063
+D3
+~
+~
+0 0 23055
+S
+#23063
+At the Edge of the Lake~
+To the west the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23062
+D1
+~
+~
+0 0 23069
+D2
+~
+~
+0 0 23064
+S
+#23064
+At the Edge of the Lake~
+To the west the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23063
+D1
+~
+~
+0 0 23070
+D2
+~
+~
+0 0 23065
+S
+#23065
+At the Edge of the Lake~
+To the west the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23064
+D1
+~
+~
+0 0 23071
+D2
+~
+~
+0 0 23066
+S
+#23066
+At the Edge of the Lake~
+To the west the murky water of a lake can be seen.  Only faint ripples
+can be seen breaking the surface leaving you to guess as to what exists
+beneath its surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 23065
+D1
+~
+~
+0 0 23072
+D2
+~
+~
+0 0 23067
+S
+#23067
+Blighted Forest~
+Flakes of bark float down from the blighted trunks creating a snow-like
+effect.  The smell from the noxious lake fills you nostrils as you continue
+through this decaying forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 23066
+D1
+~
+~
+0 0 23073
+D2
+~
+~
+0 0 23068
+D3
+~
+~
+0 0 23060
+S
+#23068
+Dark Forest~
+Dark trunks twist and reach skyward, their leafless branches cast odd
+shadows about you.  The oppressive heat surrounds you stinging your nostils
+as you explore this forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 23067
+D3
+~
+~
+0 0 23061
+S
+#23069
+Underneath the Dark Tangle~
+Skeletal remains of a warrior are hanging loosely from a fallen tree.  A
+huge spider has wove a web all around the bones, and is watching for its
+next meal.  A small trail runs north through the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 23070
+D3
+~
+~
+0 0 23063
+S
+#23070
+Blighted Forest~
+The tall twisting trunks writhe and shift in the unnatural heat.  Chunks
+of gray bark fall around you, littering the forest floor with a thin papery
+substance.  Each step crackles as you walk through the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 23069
+D1
+~
+~
+0 0 23074
+D2
+~
+~
+0 0 23071
+D3
+~
+~
+0 0 23064
+S
+#23071
+Dense Tangle~
+Thick underbrush makes it difficult to walk through the blighted forest. 
+Sharp thorns pull at your cloak as you try to pass through the tangle.  
+~
+0 0 3
+D0
+~
+~
+0 0 23070
+D1
+~
+~
+0 0 23075
+D2
+~
+~
+0 0 23072
+D3
+~
+~
+0 0 23065
+S
+#23072
+Blighted Forest~
+The tall twisting trunks writhe and shift in the unnatural heat.  Chunks
+of gray bark fall around you, littering the forest floor with a thin papery
+substance.  Each step crackles as you walk through the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 23071
+D1
+~
+~
+0 0 23076
+D2
+~
+~
+0 0 23073
+D3
+~
+~
+0 0 23066
+S
+#23073
+In the Blight~
+There is a small break in the trees to the east only tall grasses and a
+thick tangle greet you.  The heat continues to assail you as you wonder
+through this forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 23072
+D1
+~
+~
+0 0 23077
+D3
+~
+~
+0 0 23067
+S
+#23074
+Dense Tangle~
+Thick underbrush makes it difficult to walk through the blighted forest. 
+Sharp thorns pull at your cloak as you try to pass through the tangle.  
+~
+0 0 3
+D1
+~
+~
+0 0 23080
+D2
+~
+~
+0 0 23075
+D3
+~
+~
+0 0 23070
+S
+#23075
+Twisting Vines~
+Thick gray vines writhe and shrink away from your presence.  A foul
+stench of decay surrounds you as the overpowering heat bakes it into your
+nostrils.  
+~
+0 0 3
+D0
+~
+~
+0 0 23074
+D1
+~
+~
+0 0 23081
+D2
+~
+~
+0 0 23076
+D3
+~
+~
+0 0 23071
+S
+#23076
+Blighted Forest~
+The tall twisting trunks writhe and shift in the unnatural heat.  Chunks
+of gray bark fall around you, littering the forest floor with a thin papery
+substance.  Each step crackles as you walk through the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 23075
+D1
+~
+~
+0 0 23082
+D2
+~
+~
+0 0 23077
+D3
+~
+~
+0 0 23072
+S
+#23077
+In a Small Clearing~
+The small clearing is filled with a greenish-gray grass and a tangled
+mass of thorny vines.  With each step the grasses and vines seem to shrink
+away from your foot.  
+~
+0 0 3
+D0
+~
+~
+0 0 23076
+D1
+~
+~
+0 0 23083
+D2
+~
+~
+0 0 23078
+D3
+~
+~
+0 0 23073
+S
+#23078
+In a Small Clearing~
+The small clearing is filled with a greenish-gray grass and a tangled
+mass of thorny vines.  With each step the grasses and vines seem to shrink
+away from your foot.  
+~
+0 0 3
+D0
+~
+~
+0 0 23077
+D1
+~
+~
+0 0 23084
+D2
+~
+~
+0 0 23079
+S
+#23079
+Edge of the Blight~
+The clearing ends here running into the familiar unpassable mass of vines
+and thorns as the blight again resumes to the south.  The eerie heat lingers
+and washes over you as you again approach the death and decay.  
+~
+0 0 0
+D0
+~
+~
+0 0 23078
+D1
+~
+~
+0 0 23091
+S
+#23080
+Broken Trunks~
+A broken trunk lies across your path in a bad state of decay, even the
+slightest touch would cause it to crumble.  The dark shadows cast by the
+trees that remain overhead give you an uneasy feeling.  
+~
+0 0 3
+D2
+~
+~
+0 0 23081
+D3
+~
+~
+0 0 23074
+S
+#23081
+Underneath the Dark Tangle~
+Skeletal remains of a warrior are hanging loosely from a fallen tree.  A
+huge spider has wove a web all around the bones, and is watching for its
+next meal.  
+~
+0 0 3
+D0
+~
+~
+0 0 23080
+D1
+~
+~
+0 0 23085
+D2
+~
+~
+0 0 23082
+D3
+~
+~
+0 0 23075
+S
+#23082
+Decaying Trees~
+A tumbled over weeping willow is now the nest of huge green birds.  The
+birds have green foam flowing out of their noses and mouth.  Their claws are
+covered with dried blood.  
+~
+0 0 3
+D0
+~
+~
+0 0 23081
+D1
+~
+~
+0 0 23086
+D2
+~
+~
+0 0 23083
+D3
+~
+~
+0 0 23076
+S
+#23083
+In a Small Clearing~
+The small clearing is filled with a greenish-gray grass and a tangled
+mass of thorny vines.  With each step the grasses and vines seem to shrink
+away from your foot.  
+~
+0 0 3
+D0
+~
+~
+0 0 23082
+D1
+~
+~
+0 0 23087
+D2
+~
+~
+0 0 23084
+D3
+~
+~
+0 0 23077
+S
+#23084
+In a Small Clearing~
+The small clearing is filled with a greenish-gray grass and a tangled
+mass of thorny vines.  With each step the grasses and vines seem to shrink
+away from your foot.  
+~
+0 0 3
+D0
+~
+~
+0 0 23083
+D1
+~
+~
+0 0 23088
+D2
+~
+~
+0 0 23091
+D3
+~
+~
+0 0 23078
+S
+#23085
+Dark Forest~
+The twisted branches overhead darken the area as odd shadows dance around
+you.  Think vines writhe and twist along the trunks of the half rotten
+trees.  A small path leads off to the north through the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 23086
+D3
+~
+~
+0 0 23081
+S
+#23086
+Broken Trunks~
+A broken trunk lies across your path in a bad state of decay, even the
+slightest touch would cause it to crumble.  The dark shadows cast by the
+trees that remain overhead give you an uneasy feeling.  
+~
+0 0 3
+D0
+~
+~
+0 0 23085
+D1
+~
+~
+0 0 23089
+D2
+~
+~
+0 0 23087
+D3
+~
+~
+0 0 23082
+S
+#23087
+Beneath Dying Oaks~
+Withered branches hang over the forest floor creating odd flickering
+shadows around your feet.  A decaying corpse sits entangled in writhing grey
+vines, as the oppressive heats assails you.  
+~
+0 0 3
+D0
+~
+~
+0 0 23086
+D1
+~
+~
+0 0 23090
+D2
+~
+~
+0 0 23088
+D3
+~
+~
+0 0 23083
+S
+#23088
+Unpassable Tangle~
+The thick wall of underbrush blocks your path to the east forcing you to
+turn back towards the small clearing.  The twisted mass rustles as you walk
+by startling you slightly.  
+~
+0 0 3
+D0
+~
+~
+0 0 23087
+D3
+~
+~
+0 0 23084
+S
+#23089
+Dark Forest~
+The twisted branches overhead darken the area as odd shadows dance around
+you.  Think vines writhe and twist along the trunks of the half rotten
+trees.  
+~
+0 0 3
+D2
+~
+~
+0 0 23090
+D3
+~
+~
+0 0 23086
+S
+#23090
+Unpassable Tangle~
+The thick wall of underbrush blocks your path to the east forcing you to
+turn back towards the small clearing.  The twisted mass rustles as you walk
+by startling you slightly.  
+~
+0 0 3
+D0
+~
+~
+0 0 23089
+D3
+~
+~
+0 0 23087
+S
+#23091
+Edge of the Blight~
+The clearing ends here running into the familiar unpassable mass of vines
+and thorns as the blight again resumes to the south.  The eerie heat lingers
+and washes over you as you again approach the death and decay.  A small
+trail lead through the forest to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 23084
+D3
+~
+~
+0 0 23079
+S
+#23092
+Deer Trail~
+The small trail heads through the thorny bramble towards a small cave to
+the south.  The blighted forest stands behind you off to the north, its
+branches towering over you.  
+~
+0 4 0
+D0
+~
+~
+0 0 23027
+D2
+~
+~
+0 0 23093
+S
+#23093
+In a Small Cave~
+The small dark cave offers a reprieve from the oppressive heat of the
+forest.  You notice a small set of steps headed down into a dark passageway.
+~
+0 0 0
+D0
+~
+~
+0 0 23092
+D5
+~
+~
+0 0 23094
+S
+#23094
+Dark Tunnel~
+A small tunnel leads away from the cave off to the west.  The rough hewn
+rock walls tear at your cloak as you pass through.  
+~
+0 0 0
+D3
+~
+~
+0 0 23095
+D4
+~
+~
+0 0 23093
+S
+#23095
+Dark Tunnel~
+The tunnel slopes downward descending further beneath the surface.  The
+heat from the forest has all but disappeared but the smell of decay still
+surrounds you.  
+~
+0 0 0
+D1
+~
+~
+0 0 23094
+D5
+~
+~
+0 0 23096
+S
+#23096
+Dark Tunnel~
+The tunnel turns back west away from the rough hewn stairs.  The dark
+tunnel giving little indication of the direction it heads.  
+~
+0 0 0
+D3
+~
+~
+0 0 23097
+D4
+~
+~
+0 0 23095
+S
+#23097
+Dark Tunnel~
+The dark tunnel turns south and begins to slope downward further into the
+depths.  The rough rock walls scrape against your skin and pull against your
+items as you slide through.  
+~
+0 0 0
+D1
+~
+~
+0 0 23096
+D2
+~
+~
+0 0 23098
+S
+#23098
+Dark Tunnel~
+The tunnel runs north south through dark rock walls.  The smell of stale
+air surrounds you as you pass through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 23097
+D2
+~
+~
+0 0 23099
+S
+#23099
+Entrance to a Mine~
+The tunnel ends opening to an entrance to a small mine to the west. 
+Several large chunks of debris lay at your feet as you stand in front of the
+mine.  
+~
+0 4 0
+D0
+~
+~
+0 0 23098
+D3
+~
+~
+0 0 71943
+S
+#23100
+Small Trail~
+The trail appears as if someone just forward their way through.  The
+branches along the side of the path are broken and the patch beneath your
+feet is a trample of vines and brush.  
+~
+0 4 0
+D0
+~
+~
+0 0 23061
+D2
+~
+~
+0 0 23101
+S
+#23101
+Small Trail~
+The trampled trail widens as it turns off to the east around a large
+boulder leading through the thick brush in the forest.  Thorns pull at your
+clothing as you walk along the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 23100
+D3
+~
+~
+0 0 23102
+S
+#23102
+Small Trail~
+The trail turns back to the south and leads towards a small encampment. 
+Thick smoke rises from the encampment to the south giving off a foul odor.  
+~
+0 0 0
+D1
+~
+~
+0 0 23101
+D2
+~
+~
+0 0 23103
+S
+#23103
+Before an Encampment ~
+The path opens to a large encampment to the south of you.  The foul smoke
+from the encampment surrounds you and the sound of loud grunting can be
+heard coming from the encampment.  
+~
+0 0 0
+D0
+~
+~
+0 0 23102
+D2
+~
+~
+0 0 23104
+S
+#23104
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23103
+D1
+~
+~
+0 0 23105
+D2
+~
+~
+0 0 23109
+D3
+~
+~
+0 0 23106
+S
+#23105
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 23111
+D3
+~
+~
+0 0 23104
+S
+#23106
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23104
+D2
+~
+~
+0 0 23107
+S
+#23107
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23106
+D1
+~
+~
+0 0 23109
+D2
+~
+~
+0 0 23108
+S
+#23108
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23107
+D1
+~
+~
+0 0 23110
+S
+#23109
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23104
+D1
+~
+~
+0 0 23111
+D2
+~
+~
+0 0 23110
+D3
+~
+~
+0 0 23107
+S
+#23110
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23109
+D1
+~
+~
+0 0 23112
+D2
+~
+~
+0 0 23113
+D3
+~
+~
+0 0 23108
+S
+#23111
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23105
+D2
+~
+~
+0 0 23112
+D3
+~
+~
+0 0 23109
+S
+#23112
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23111
+D3
+~
+~
+0 0 23110
+S
+#23113
+Ogre Encampment - Fades Quarters~
+A series of weapons lie scattered here and several pieces of armor lie
+discarded.  A series of heads on sharp wooden spikes sit here in various
+states of decay.  
+~
+0 4 0
+D0
+~
+~
+0 0 23110
+S
+#23114
+Small Trail~
+The trail appears as if someone just forward their way through.  The
+branches along the side of the path are broken and the patch beneath your
+feet is a trample of vines and brush.  
+~
+0 0 0
+D1
+~
+~
+0 0 23115
+D3
+~
+~
+0 0 23091
+S
+#23115
+Small Trail~
+The hastily made path turns south as if there was a forced march through
+the forest.  The leaves and thorns are stained with blood from the forced
+passage.  
+~
+0 0 0
+D2
+~
+~
+0 0 23116
+D3
+~
+~
+0 0 23114
+S
+#23116
+Small Trail~
+The trail widdens and opens to an encampment to the east.  The leaves and
+trampled foliage contain spots of blood and bits of turn flesh.  
+~
+0 0 0
+D0
+~
+~
+0 0 23115
+D1
+~
+~
+0 0 23117
+S
+#23117
+Before an Encampment ~
+The path opens to a large encampment to the east of you.  The foul smoke
+from the encampment surrounds you and the sound of loud grunting can be
+heard coming from the encampment.  
+~
+0 0 0
+D1
+~
+~
+0 0 23118
+D3
+~
+~
+0 0 23116
+S
+#23118
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23119
+D1
+~
+~
+0 0 23123
+D2
+~
+~
+0 0 23120
+D3
+~
+~
+0 0 23117
+S
+#23119
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23125
+D2
+~
+~
+0 0 23118
+S
+#23120
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23118
+D1
+~
+~
+0 0 23121
+S
+#23121
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23123
+D1
+~
+~
+0 0 23122
+D3
+~
+~
+0 0 23120
+S
+#23122
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23124
+D3
+~
+~
+0 0 23121
+S
+#23123
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23125
+D1
+~
+~
+0 0 23124
+D2
+~
+~
+0 0 23121
+D3
+~
+~
+0 0 23118
+S
+#23124
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23126
+D1
+~
+~
+0 0 23127
+D2
+~
+~
+0 0 23122
+D3
+~
+~
+0 0 23123
+S
+#23125
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23126
+D2
+~
+~
+0 0 23123
+D3
+~
+~
+0 0 23119
+S
+#23126
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 23124
+D3
+~
+~
+0 0 23125
+S
+#23127
+Ogre Encampment - Fades Quarters~
+A series of weapons lie scattered here and several pieces of armor lie
+discarded.  A series of heads on sharp wooden spikes sit here in various
+states of decay.  
+~
+0 4 0
+D3
+~
+~
+0 0 23124
+S
+#23128
+Small Trail~
+The trail appears as if someone just forward their way through.  The
+branches along the side of the path are broken and the patch beneath your
+feet is a trample of vines and brush.  
+~
+0 0 0
+D1
+~
+~
+0 0 23129
+D2
+~
+~
+0 0 23085
+S
+#23129
+Small Trail~
+The hastily made path continues east as if there was a forced march
+through the forest.  The leaves and thorns are stained with blood from the
+forced passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 23130
+D3
+~
+~
+0 0 23128
+S
+#23130
+Small Trail~
+The path takes a forced turn north and leads towards a large encampment. 
+The dark smoke that rises brings a foul smell to your nostrils.  
+~
+0 0 0
+D0
+~
+~
+0 0 23131
+D3
+~
+~
+0 0 23129
+S
+#23131
+Before an Encampment ~
+The path opens to a large encampment to the north of you.  The foul smoke
+from the encampment surrounds you and the sound of loud grunting can be
+heard coming from the encampment.  
+~
+0 0 0
+D0
+~
+~
+0 0 23132
+D2
+~
+~
+0 0 23130
+S
+#23132
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23137
+D1
+~
+~
+0 0 23133
+D2
+~
+~
+0 0 23131
+D3
+~
+~
+0 0 23134
+S
+#23133
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23135
+D3
+~
+~
+0 0 23132
+S
+#23134
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23139
+D1
+~
+~
+0 0 23132
+S
+#23135
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23136
+D2
+~
+~
+0 0 23133
+D3
+~
+~
+0 0 23137
+S
+#23136
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 23135
+D3
+~
+~
+0 0 23138
+S
+#23137
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23138
+D1
+~
+~
+0 0 23135
+D2
+~
+~
+0 0 23132
+D3
+~
+~
+0 0 23139
+S
+#23138
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23142
+D1
+~
+~
+0 0 23136
+D2
+~
+~
+0 0 23137
+D3
+~
+~
+0 0 23140
+S
+#23139
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23140
+D1
+~
+~
+0 0 23137
+D2
+~
+~
+0 0 23134
+S
+#23140
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23138
+D2
+~
+~
+0 0 23139
+S
+#23142
+Ogre Encampment - Fades Quarters~
+A series of weapons lie scattered here and several pieces of armor lie
+discarded.  A series of heads on sharp wooden spikes sit here in various
+states of decay.  
+~
+0 4 0
+D2
+~
+~
+0 0 23138
+S
+#23143
+Small Trail~
+A small trail is forced through the the dense underbrush of the forest. 
+Bits of flesh and blood are dried on the sharp thorns of the forest vines.  
+~
+0 0 0
+D0
+~
+~
+0 0 23144
+D2
+~
+~
+0 0 23069
+S
+#23144
+Small Trail~
+The trail widens as there is evidence of a body being dragged through the
+area.  The thick underbrush forced flat by the weight of the body and the
+forced march through the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 23145
+D2
+~
+~
+0 0 23143
+S
+#23145
+Small trail~
+The trail continues to widen as it heads deeper into the forest.  The
+trampled brush contains tufts of hair, bits of flesh, and red blood stains. 
+~
+0 0 0
+D0
+~
+~
+0 0 23146
+D2
+~
+~
+0 0 23144
+S
+#23146
+Small Trail~
+The trampled trail widens as it turns off to the west around a large
+boulder leading through the thick brush in the forest.  Thorns pull at your
+clothing as you walk along the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 23145
+D3
+~
+~
+0 0 23147
+S
+#23147
+Small Trail~
+The trail turns back north and widens as it approaches a large
+encampment.  A foul smell of burning flesh drifts in from the north filling
+your nose with an acrid stench.  
+~
+0 0 0
+D0
+~
+~
+0 0 23148
+D1
+~
+~
+0 0 23146
+S
+#23148
+Before an Encampment ~
+The path opens to a large encampment to the north of you.  The foul smoke
+from the encampment surrounds you and the sound of loud grunting can be
+heard coming from the encampment.  
+~
+0 0 0
+D0
+~
+~
+0 0 23149
+D2
+~
+~
+0 0 23147
+S
+#23149
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23156
+D1
+~
+~
+0 0 23150
+D2
+~
+~
+0 0 23148
+D3
+~
+~
+0 0 23153
+S
+#23150
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23151
+D3
+~
+~
+0 0 23149
+S
+#23151
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23152
+D2
+~
+~
+0 0 23150
+D3
+~
+~
+0 0 23156
+S
+#23152
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 23151
+D3
+~
+~
+0 0 23157
+S
+#23153
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23154
+D1
+~
+~
+0 0 23149
+S
+#23154
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23155
+D1
+~
+~
+0 0 23156
+D2
+~
+~
+0 0 23153
+S
+#23155
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23157
+D2
+~
+~
+0 0 23154
+S
+#23156
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23157
+D1
+~
+~
+0 0 23151
+D2
+~
+~
+0 0 23149
+D3
+~
+~
+0 0 23154
+S
+#23157
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23158
+D1
+~
+~
+0 0 23152
+D2
+~
+~
+0 0 23156
+D3
+~
+~
+0 0 23155
+S
+#23158
+Ogre Encampment - Fades Quarters~
+A series of weapons lie scattered here and several pieces of armor lie
+discarded.  A series of heads on sharp wooden spikes sit here in various
+states of decay.  
+~
+0 4 0
+D2
+~
+~
+0 0 23157
+S
+#23159
+Small Trail~
+A small trail is forced through the the dense underbrush of the forest. 
+Bits of flesh and blood are dried on the sharp thorns of the forest vines.  
+~
+0 0 0
+D0
+~
+~
+0 0 23160
+D2
+~
+~
+0 0 23019
+S
+#23160
+Small Trail~
+The trail widens as there is evidence of a body being dragged through the
+area.  The thick underbrush forced flat by the weight of the body and the
+forced march through the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 23161
+D2
+~
+~
+0 0 23159
+S
+#23161
+Small Trail~
+The trampled trail widens as it turns off to the west around a large
+boulder leading through the thick brush in the forest.  Thorns pull at your
+clothing as you walk along the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 23160
+D3
+~
+~
+0 0 23162
+S
+#23162
+Small Trail~
+The trail turns back north and widens as it approaches a large
+encampment.  A foul smell of burning flesh drifts in from the north filling
+your nose with an acrid stench.  
+~
+0 0 0
+D0
+~
+~
+0 0 23163
+D1
+~
+~
+0 0 23161
+S
+#23163
+Before an Encampment ~
+The path opens to a large encampment to the north of you.  The foul smoke
+from the encampment surrounds you and the sound of loud grunting can be
+heard coming from the encampment.  
+~
+0 4 0
+D0
+~
+~
+0 0 23164
+D2
+~
+~
+0 0 23162
+S
+#23164
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23171
+D1
+~
+~
+0 0 23165
+D2
+~
+~
+0 0 23163
+D3
+~
+~
+0 0 23168
+S
+#23165
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23166
+D3
+~
+~
+0 0 23164
+S
+#23166
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23167
+D2
+~
+~
+0 0 23165
+D3
+~
+~
+0 0 23171
+S
+#23167
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 23166
+D3
+~
+~
+0 0 23172
+S
+#23168
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23169
+D1
+~
+~
+0 0 23164
+S
+#23169
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23170
+D1
+~
+~
+0 0 23171
+D2
+~
+~
+0 0 23168
+S
+#23170
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 23172
+D2
+~
+~
+0 0 23169
+S
+#23171
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23172
+D1
+~
+~
+0 0 23166
+D2
+~
+~
+0 0 23164
+D3
+~
+~
+0 0 23169
+S
+#23172
+Ogre Encampment~
+The large clearing is filled with discarded bones and small fires for
+cooking.  Several fresh corpses lie void of all limbs and pools of blood
+slosh against your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 23173
+D1
+~
+~
+0 0 23167
+D2
+~
+~
+0 0 23171
+D3
+~
+~
+0 0 23170
+S
+#23173
+Ogre Encampment - Fades Quarters~
+A series of weapons lie scattered here and several pieces of armor lie
+discarded.  A series of heads on sharp wooden spikes sit here in various
+states of decay.  
+~
+0 4 0
+D2
+~
+~
+0 0 23172
+S
+#23174
+Faint Trail~
+A faint trail leads away from the dark forest, to the north you can see
+the foliage begining to look green again.  Looking at the forest floor you
+notice drag marks headed back towards the blight.  
+~
+0 4 0
+D0
+~
+~
+0 0 23175
+D2
+~
+~
+0 0 23037
+S
+#23175
+Faint Trail~
+The carefully hidden trail continues away from the dark forest to the
+south as you begin to see signs of green around you.  The heat is not as
+oppressive and the stench of decay is not as powerful.  
+~
+0 0 0
+D0
+~
+~
+0 0 23176
+D2
+~
+~
+0 0 23174
+S
+#23176
+Faint Trail~
+The trail continues on further away from the forest.  The growing
+presence of green foliage surrounds you as you can see a wooden gate in the
+distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 23177
+D2
+~
+~
+0 0 23175
+S
+#23177
+Faint Trail~
+The foliage around you is now entirely green, you do however notice
+bright crimson stains on several of the plants and leaves.  To the north you
+see a large wooden gate and a tall wooden palisade ringing a large town.  
+~
+0 0 0
+D0
+~
+~
+0 0 23178
+D2
+~
+~
+0 0 23176
+S
+#23178
+Before a Wooden Gate~
+As you approach the gate you notice it has been heavily damaged and
+several large notches are missing from the cross beams.  A few beams stand
+out as they appear to be newer then the rest of the gate.  
+~
+0 0 0
+D0
+~
+~
+3 0 23181
+D2
+~
+~
+0 0 23177
+S
+#23179
+Western Guardhouse~
+A small guardhouse stands here overlooking the gate.  The overall
+structure shows signs of damage and hasty repair made to the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 23181
+S
+#23180
+Eastern Guardhouse~
+A small guardhouse stands here overlooking the gate.  The overall
+structure shows signs of damage and hasty repair made to the building.  
+~
+0 0 0
+D3
+~
+~
+0 0 23181
+S
+#23181
+Inside the Gate~
+Splinters of wood lie on the ground, hacked and bashed through the wooden
+gate.  The rough gravel path leads away from the gate towards the town
+square in the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 23182
+D1
+~
+~
+0 0 23180
+D2
+~
+~
+3 0 23178
+D3
+~
+~
+0 0 23179
+S
+#23182
+Gravel Lane~
+The lane heads north away from the gate towards the town squared.  To
+your east and west ruined houses lie blocking a small side street.  
+~
+0 0 0
+D0
+~
+~
+0 0 23183
+D2
+~
+~
+0 0 23181
+S
+#23183
+Town Square - South~
+Stacks of lumber lie throughout the square and the are numerous buckets
+of water sitting by the water pump.  Several of the buildings in the town
+look to be partially damaged.  
+~
+0 0 0
+D0
+~
+~
+0 0 23190
+D1
+~
+~
+0 0 23186
+D2
+~
+~
+0 0 23182
+D3
+~
+~
+0 0 23184
+S
+#23184
+Side Street~
+The side street runs east-west with the town hall building to the south. 
+To the west a large home stands in front of you, to the east the town square
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 23183
+D3
+~
+~
+0 0 23185
+S
+#23185
+Large Home~
+The large house is badly damaged with chunks of wood lying on the floor
+covered in broken glass.  There have been several hasty repairs but it
+appears all residents have left.  
+~
+0 0 0
+D1
+~
+~
+0 0 23184
+S
+#23186
+Side Street~
+The side street runs east-west with the town barracks to the north.  To
+the east a large home stands in front of you, to the west the town square
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 23187
+D3
+~
+~
+0 0 23183
+S
+#23187
+Large Home~
+The large house is badly damaged with chunks of wood lying on the floor
+covered in broken glass.  There have been several hasty repairs but it
+appears all residents have left.  
+~
+0 0 0
+D3
+~
+~
+0 0 23186
+S
+#23189
+Town Barracks~
+Inside the barracks is in disarray, weapons lay scattered and several are
+covered in blood.  Several men sit huddled in a corner whispering among
+themselves.  
+~
+0 0 0
+D3
+~
+~
+0 0 23190
+S
+#23190
+Town Square~
+To the east a large barracks stands with large spears sitting outside on
+a weapons rack.  To the west the town hall stands there with a badly damaged
+roof.  
+~
+0 0 0
+D0
+~
+~
+0 0 23194
+D1
+~
+~
+0 0 23189
+D2
+~
+~
+0 0 23183
+D3
+~
+~
+0 0 23191
+S
+#23191
+Town Hall~
+The town hall is badly damaged, the staircase leaded up to the 2nd floor
+is completely destroyed and desks lie overturned.  Glass covers the floor as
+all the windows have been broken out.  
+~
+0 4 0
+D1
+~
+~
+0 0 23190
+S
+#23192
+Side Street~
+The side street runs east-west with the town hall building to the south. 
+To the west a large home stands in front of you, to the east the town square
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 23194
+D3
+~
+~
+0 0 23193
+S
+#23193
+Large Home~
+The large house is badly damaged with chunks of wood lying on the floor
+covered in broken glass.  There have been several hasty repairs but it
+appears all residents have left.  
+~
+0 0 0
+D1
+~
+~
+0 0 23192
+S
+#23194
+Town Square - South~
+Stacks of lumber lie throughout the square and the are numerous buckets
+of water sitting by the water pump.  Several of the buildings in the town
+look to be partially damaged.  
+~
+0 0 0
+D0
+~
+~
+0 0 23197
+D1
+~
+~
+0 0 23195
+D2
+~
+~
+0 0 23190
+D3
+~
+~
+0 0 23192
+S
+#23195
+Side Street~
+The side street runs east-west with the town barracks to the south.  To
+the east a large home stands in front of you, to the west the town square
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 23196
+D3
+~
+~
+0 0 23194
+S
+#23196
+Large Home~
+The large house is badly damaged with chunks of wood lying on the floor
+covered in broken glass.  There have been several hasty repairs but it
+appears all residents have left.  
+~
+0 0 0
+D3
+~
+~
+0 0 23195
+S
+#23197
+Inside the Gate~
+A pristine gate sits to the north, unlike its neighbor to the south the
+gate shows no sign of damage or wear.  Through the gate to the north you can
+see a thick forest of green.  
+~
+0 0 0
+D0
+~
+~
+3 0 23198
+D2
+~
+~
+0 0 23194
+S
+#23198
+Before a Wooden Gate~
+Before you stands a tall wooden gate that protects a large town.  The
+houses are ringed by a tall wooden palisade keeping out an unseen danger.  
+~
+0 0 0
+D0
+~
+~
+0 0 23199
+D2
+~
+~
+3 0 23197
+S
+#23199
+Forest Path~
+The path continues north south through the lush green forest.  To the
+south you can see a large wooden gate and over the palisade you can make out
+the roof tops of several houses.  
+~
+0 0 0
+D0
+~
+~
+0 0 22645
+D2
+~
+~
+0 0 23198
+S
+#0
+
+
+
+#SPECIALS
+M 23000 spec_poison Load to: a blighted bear
+S
+
+
+
+#RESETS
+D 0 23178 0 1 The north door of Before a Wooden Gate is closed
+D 0 23181 2 1 The south door of Inside the Gate is closed
+D 0 23197 0 1 The north door of Inside the Gate is closed
+D 0 23198 2 1 The south door of Before a Wooden Gate is closed
+M 0 23001 20 23012 1 *Load a blighted tree
+M 0 23003 40 23013 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+M 0 23003 40 23015 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+M 0 23001 20 23016 1 *Load a blighted tree
+M 0 23000 5 23017 1 *Load a blighted bear
+M 0 23001 20 23018 1 *Load a blighted tree
+O 0 23017 0 23019 *A small trail loaded to Dark Forest
+M 0 23000 5 23021 1 *Load a blighted bear
+O 0 23000 0 23021 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23021 1 *Load a blighted tree
+O 0 23001 0 23022 *A lake loaded to At the Edge of the Lake
+O 0 23002 0 23023 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23023 1 *Load a blighted tree
+O 0 23003 0 23024 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23025 1 *Load a blighted tree
+M 0 23003 40 23026 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+O 0 23012 0 23027 *A small trail loaded to Dark Forest
+M 0 23003 40 23028 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+O 0 23000 0 23029 *A lake loaded to At the Edge of the Lake
+M 0 23004 30 23030 5 *Load an electric eel
+M 0 23004 30 23031 5 *Load an electric eel
+M 0 23004 30 23032 5 *Load an electric eel
+M 0 23004 30 23033 5 *Load an electric eel
+O 0 23003 0 23034 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23036 1 *Load a blighted tree
+O 0 23018 0 23037 *A faint trail loaded to Underneath the Dark Tangle
+O 0 23011 0 23039 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23039 1 *Load a blighted tree
+M 0 23004 30 23040 5 *Load an electric eel
+M 0 23004 30 23041 5 *Load an electric eel
+M 0 23004 30 23042 5 *Load an electric eel
+M 0 23004 30 23043 5 *Load an electric eel
+O 0 23004 0 23044 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23044 1 *Load a blighted tree
+M 0 23001 20 23046 1 *Load a blighted tree
+M 0 23003 40 23047 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+O 0 23010 0 23048 *A lake loaded to At the Edge of the Lake
+M 0 23004 30 23049 5 *Load an electric eel
+M 0 23004 30 23050 5 *Load an electric eel
+M 0 23004 30 23051 5 *Load an electric eel
+M 0 23004 30 23052 5 *Load an electric eel
+M 0 23003 40 23053 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+O 0 23005 0 23053 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23054 1 *Load a blighted tree
+O 0 23009 0 23055 *A lake loaded to At the Edge of the Lake
+M 0 23004 30 23056 5 *Load an electric eel
+M 0 23004 30 23057 5 *Load an electric eel
+M 0 23004 30 23058 5 *Load an electric eel
+M 0 23004 30 23059 5 *Load an electric eel
+O 0 23006 0 23060 *A lake loaded to At the Edge of the Lake
+O 0 23013 0 23061 *A small trail loaded to Broken Trunks
+O 0 23009 0 23063 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23063 1 *Load a blighted tree
+O 0 23008 0 23064 *A lake loaded to At the Edge of the Lake
+O 0 23007 0 23065 *A lake loaded to At the Edge of the Lake
+O 0 23006 0 23066 *A lake loaded to At the Edge of the Lake
+M 0 23001 20 23066 1 *Load a blighted tree
+M 0 23003 40 23067 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+M 0 23001 20 23068 1 *Load a blighted tree
+O 0 23016 0 23069 *A small trail loaded to Underneath the Dark Tangle
+M 0 23001 20 23071 1 *Load a blighted tree
+M 0 23003 40 23072 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+M 0 23000 5 23073 1 *Load a blighted bear
+M 0 23001 20 23074 1 *Load a blighted tree
+M 0 23001 20 23077 1 *Load a blighted tree
+M 0 23001 20 23081 1 *Load a blighted tree
+M 0 23003 40 23083 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+O 0 23015 0 23085 *A small trail loaded to Dark Forest
+M 0 23003 40 23086 2 *Load a blood dryad
+E 0 23021 0 16 *A bone-handled knife is loaded wielded of a blood dryad
+M 0 23000 5 23086 1 *Load a blighted bear
+M 0 23001 20 23088 1 *Load a blighted tree
+M 0 23001 20 23089 1 *Load a blighted tree
+O 0 23014 0 23091 *A small trail loaded to Edge of the Blight
+M 0 23005 90 23104 2 *Load a large ogre
+M 0 23005 90 23105 2 *Load a large ogre
+M 0 23005 90 23106 2 *Load a large ogre
+M 0 23005 90 23107 2 *Load a large ogre
+M 0 23005 90 23108 2 *Load a large ogre
+M 0 23005 90 23109 2 *Load a large ogre
+M 0 23006 5 23109 1 *Load a large ogre
+E 0 23023 0 16 *An enormous spiked club is loaded wielded of a large ogre
+M 0 23005 90 23110 2 *Load a large ogre
+M 0 23005 90 23111 2 *Load a large ogre
+M 0 23005 90 23112 2 *Load a large ogre
+M 0 23007 5 23113 1 *Load a tall fade
+M 0 23005 90 23118 2 *Load a large ogre
+M 0 23005 90 23119 2 *Load a large ogre
+M 0 23005 90 23120 2 *Load a large ogre
+M 0 23005 90 23121 2 *Load a large ogre
+M 0 23005 90 23122 2 *Load a large ogre
+M 0 23005 90 23123 2 *Load a large ogre
+M 0 23006 5 23123 1 *Load a large ogre
+E 0 23023 0 16 *An enormous spiked club is loaded wielded of a large ogre
+M 0 23005 90 23124 2 *Load a large ogre
+M 0 23005 90 23125 2 *Load a large ogre
+M 0 23005 90 23126 2 *Load a large ogre
+M 0 23007 5 23127 1 *Load a tall fade
+M 0 23005 90 23132 2 *Load a large ogre
+M 0 23005 90 23133 2 *Load a large ogre
+M 0 23005 90 23134 2 *Load a large ogre
+M 0 23005 90 23135 2 *Load a large ogre
+M 0 23005 90 23136 2 *Load a large ogre
+M 0 23005 90 23137 2 *Load a large ogre
+M 0 23006 5 23137 1 *Load a large ogre
+E 0 23023 0 16 *An enormous spiked club is loaded wielded of a large ogre
+M 0 23005 90 23138 2 *Load a large ogre
+M 0 23005 90 23139 2 *Load a large ogre
+M 0 23005 90 23140 2 *Load a large ogre
+M 0 23007 5 23142 1 *Load a tall fade
+M 0 23005 90 23149 2 *Load a large ogre
+M 0 23005 90 23150 2 *Load a large ogre
+M 0 23005 90 23151 2 *Load a large ogre
+M 0 23005 90 23152 2 *Load a large ogre
+M 0 23005 90 23153 2 *Load a large ogre
+M 0 23005 90 23154 2 *Load a large ogre
+M 0 23005 90 23155 2 *Load a large ogre
+M 0 23005 90 23156 2 *Load a large ogre
+M 0 23006 5 23156 1 *Load a large ogre
+E 0 23023 0 16 *An enormous spiked club is loaded wielded of a large ogre
+M 0 23005 90 23157 2 *Load a large ogre
+M 0 23007 5 23158 1 *Load a tall fade
+M 0 23005 90 23164 2 *Load a large ogre
+M 0 23006 5 23164 1 *Load a large ogre
+E 0 23023 0 16 *An enormous spiked club is loaded wielded of a large ogre
+M 0 23005 90 23165 2 *Load a large ogre
+M 0 23005 90 23166 2 *Load a large ogre
+M 0 23005 90 23167 2 *Load a large ogre
+M 0 23005 90 23168 2 *Load a large ogre
+M 0 23005 90 23169 2 *Load a large ogre
+M 0 23005 90 23170 2 *Load a large ogre
+M 0 23005 90 23171 2 *Load a large ogre
+M 0 23005 90 23172 2 *Load a large ogre
+M 0 23007 5 23173 1 *Load a tall fade
+M 0 23010 4 23184 1 *Load a large shadow
+M 0 23010 4 23186 1 *Load a large shadow
+O 0 23019 0 23190 *A large cracked fountain loaded to Town Square
+M 0 23009 1 23191 1 *Load captain of the guards
+M 0 23010 4 23192 1 *Load a large shadow
+M 0 23010 4 23195 1 *Load a large shadow
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#23000
+mob oload 23020
+~
+#23001
+mob echo A tree root whips up and trips $n.
+mob force $n sit
+mob mload 23002
+~
+#23002
+backstab $n
+~
+#23003
+mob oload 23022
+~
+#23004
+mob echo {RA LARGE OGRE GRUNTS IN RAGE AND ATTACKS!!!!{x
+mob kill $n
+~
+#23005
+mob echo {RA large ogre jumps at you swinging his club wildly!!!{x
+mob kill $n
+~
+#23006
+if rand 90
+mob echo A tall fade hisses, 'You've won this round'
+mob echo {8A tall fade steps into the shadows and vanishes{x
+mob award $n 500 exp group
+mob purge self
+else
+endif
+~
+#23007
+if rand 60
+mob oload 23024
+mob echo {YYour blade severs the head of the fade at the neck and the lifeless corpse drops to the ground.{x
+else
+mob echo {YYour blade severs the head of the fade as the body begins to thrash about wildly.
+mob mload 23008
+endif
+{x
+~
+#23008
+mob echo The Captain of the Guards grips his sword tightly as you approach.
+mob echo The Captain of the Guards says, 'The fades...they die yet keep on fighting....we cannot win'
+mob echo The Captain of the Guards says, 'There is noone left in the town we badly need HELP!'
+~
+#23009
+mob echo The Captain of the Guards blinks at you.
+mob echo The Captain of the Guards says, 'You want to help? Kill the fades and bring me a head as proof'
+~
+#23010
+mob award $n 150 qps
+mob junk head
+~
+#23011
+mob echo {RA LARGE OGRE LEAPS OUT OF THE SHADOWS AND ATTACKS!!!{x
+mob mload 23011
+~
+#23099
+~
+#0
+
+#$

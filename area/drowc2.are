@@ -1,0 +1,2144 @@
+#AREADATA
+Name City of Wyrmshadows~
+Builders Ishamael Nogate~
+VNUMs 74800 74899
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael City of Wyrmshadows~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74800
+drow gate guard figure~
+a drow guard~
+A darkly cloaked figure stands here guarding the gate to the city.
+~
+~
+elf~
+AB JVe H 0 0
+250 2000 1d1+35000 0d0+0 800d2+200 slash
+-100 -100 -100 -100
+FHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 30
+A 5
+#74801
+dark bear~
+a dark bear~
+A large bear sits here guarding his master.
+~
+~
+bear~
+AB Vc 0 0 0
+235 2000 1d1+32500 0d0+0 450d4+250 claw
+-150 -150 -150 -150
+DEHO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium unknown
+S 1
+V 33
+A 4
+M GRALL 74800 100~
+M DEATH 74804 100~
+#74802
+drow sorcerer figure~
+a drow sorcerer~
+A dark figure sits here studying a thick tome.
+~
+~
+elf~
+ABR J H 0 0
+235 0 1d1+20000 1d1+50000 1d1+1 none
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 34
+A 0
+M FIGHT 74801 100~
+M GRALL 74802 100~
+M ACT 74803 howls~
+#74803
+drow assassin~
+a drow assassin~
+{x
+~
+~
+elf~
+ABS JV 0 0 0
+235 2500 1d1+25000 1d1+50000 28d50+300 none
+-100 -100 -100 -100
+EFHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 34
+A 6
+M GRALL 74805 100~
+#74804
+Jaezred Assassin~
+a Jaezred Assassin~
+{x
+~
+~
+elf~
+ABS JV 0 0 0
+240 2500 1d1+27500 1d1+50000 28d50+600 none
+-125 -125 -125 -125
+EFHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 6
+M GRALL 74806 60~
+#74805
+spectral shadow dragon~
+a shadow dragon~
+A spectral shadow wanders through the streets.
+~
+~
+dragon~
+AF JT 0 0 0
+230 2500 1d1+35000 0d0+0 30d50+200 drain
+-150 -150 -150 -150
+0 0 BEH FS
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul I
+S 1
+V 35
+A 4
+#74806
+drow elf dark skinned~
+a drow~
+A dark-skinned elf walks through the city.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+27500 1d1+50000 32d50+250 none
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 32
+A 4
+M GRALL 74807 10~
+#74807
+zekylen drow dragon shadow~
+a zekylen~
+A dark shadow lurks here.
+~
+~
+dragon~
+A JTV 0 0 0
+235 2000 1d1+30000 0d0+0 32d50+250 claw
+-75 -75 -75 -75
+0 0 BEH FI
+stand stand none 500000
+AHZ ACDEFGHIJKPQUVX medium unknown
+S 1
+V 32
+A 4
+M GRALL 74807 10~
+#74808
+father jaezred patron~
+the Patron Father of the Jaezred Assassins~
+The Patron Father of the guild stands here overseeing the guild.
+~
+~
+dragon~
+ABFT FJTc 0 0 0
+250 2000 1d1+100000 0d0+0 750d5+200 smash
+-120 -120 -120 -120
+ACD 0 BEH FI
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#0
+
+
+
+#OBJECTS
+#74800
+stone key~
+a stone key~
+A stone key sits here.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+#74801
+dagger onyx-handled~
+an onyx-handled dagger~
+A blade made of onyx lies here.~
+unknown~
+weapon 0 AN
+dagger 13 15 pierce EH
+102 0 0 P
+#74802
+jagged obsidian blade~
+a jagged obsidian blade~
+A dark piece of obsidian sits here.~
+unknown~
+weapon 0 AN
+dagger 13 15 pierce EH
+102 0 0 P
+#0
+
+
+
+#ROOMS
+#74800
+Descending Tunnel~
+The exploratory tunnel appears to merge with an older tunnel as it heads
+down father into the depths.  There is little to indicate the Svirfneblins
+have dug or created the lower tunnel.  
+~
+0 0 0
+D4
+~
+~
+0 0 74667
+D5
+~
+~
+0 0 74801
+S
+#74801
+On a Dark Ledge~
+The tunnel opens to a great underground expanse, leaving you standing on
+a small ledge.  Far below at the bottom of the great cavern you notice a
+large underground settlement.  
+~
+0 0 0
+D1
+~
+~
+0 0 74802
+D4
+~
+~
+0 0 74800
+S
+#74802
+On a Dark Ledge~
+A stone staircase is carved out on the ledge leading down further into
+the cavern.  Looking careful you notice a pathway leading to the dark city
+far below.  
+~
+0 0 0
+D3
+~
+~
+0 0 74801
+D5
+~
+~
+0 0 74803
+S
+#74803
+On a Dark Ledge~
+Another small ledge provides a resting place as you head down towards the
+floor of the expanse.  Overhead a series of stalagmites hang down from the
+ceiling above.  
+~
+0 0 0
+D1
+~
+~
+0 0 74804
+D3
+~
+~
+0 0 74900
+D4
+~
+~
+0 0 74802
+S
+#74804
+On a Dark Ledge~
+A stone staircase is carved out on the ledge leading down further into
+the cavern.  Looking careful you notice a pathway leading to the dark city
+far below.  
+~
+0 0 0
+D3
+~
+~
+0 0 74803
+D5
+~
+~
+0 0 74805
+S
+#74805
+On a Dark Causeway~
+The stairs lead down to the floor of the cavern as the ceiling of the
+cavern is nearly 250 feet above your head.  The dark causeway heads off to
+the east as the stairs lead back up on the ledges.  
+~
+0 0 0
+D1
+~
+~
+0 0 74806
+D4
+~
+~
+0 0 74804
+S
+#74806
+On a Dark Causeway~
+The causeway continues east-west through the great cavern as the ceiling
+is high above your head.  Several stalagmites mark your path as they reach
+upwards towards their twin stalactites.  
+~
+0 0 0
+D1
+~
+~
+0 0 74807
+D3
+~
+~
+0 0 74805
+S
+#74807
+On a Dark Causeway~
+The causeway turns south as it leads towards the gates of the underground
+city.  Dark shapes flicker at the edge of you vision making it difficult to
+determine illusion from reality.  
+~
+0 0 0
+D2
+~
+~
+0 0 74808
+D3
+~
+~
+0 0 74806
+S
+#74808
+Before the Gates of Chaulssin~
+A huge iron gate bars entrance to the city of Chaulssin.  The city itself
+is obscured from your view by a lingering shadow.  
+~
+0 0 0
+D0
+~
+~
+0 0 74807
+D2
+~
+~
+4 74800 74809
+S
+#74809
+Inside the Gate of Chaulssin~
+The gate opens to a large square to the south as guard posts sit on
+either side of the arched entryway.  The dark shadow visible outside the
+gate no longer obscures your view of the city as you see rows of houses and
+larger building off to the south.  
+~
+0 0 0
+D0
+~
+~
+1 0 74808
+D2
+~
+~
+0 0 74811
+S
+#74810
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D1
+~
+~
+0 0 74811
+D2
+~
+~
+0 0 74813
+S
+#74811
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74809
+D1
+~
+~
+0 0 74812
+D2
+~
+~
+0 0 74814
+D3
+~
+~
+0 0 74810
+S
+#74812
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D2
+~
+~
+0 0 74815
+D3
+~
+~
+0 0 74811
+S
+#74813
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74810
+D1
+~
+~
+0 0 74814
+D2
+~
+~
+0 0 74817
+S
+#74814
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74811
+D1
+~
+~
+0 0 74815
+D2
+~
+~
+0 0 74818
+D3
+~
+~
+0 0 74813
+S
+#74815
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74812
+D2
+~
+~
+0 0 74819
+D3
+~
+~
+0 0 74814
+S
+#74816
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D1
+~
+~
+0 0 74817
+D2
+~
+~
+0 0 74821
+S
+#74817
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74813
+D1
+~
+~
+0 0 74818
+D2
+~
+~
+0 0 74822
+D3
+~
+~
+0 0 74816
+S
+#74818
+Northern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74814
+D1
+~
+~
+0 0 74819
+D2
+~
+~
+1 0 74823
+D3
+~
+~
+0 0 74817
+S
+#74819
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74815
+D1
+~
+~
+0 0 74820
+D2
+~
+~
+0 0 74824
+D3
+~
+~
+0 0 74818
+S
+#74820
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D2
+~
+~
+0 0 74825
+D3
+~
+~
+0 0 74819
+S
+#74821
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74816
+D1
+~
+~
+0 0 74822
+D2
+~
+~
+0 0 74827
+S
+#74822
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74817
+D2
+~
+~
+0 0 74828
+D3
+~
+~
+0 0 74821
+S
+#74823
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D0
+~
+~
+1 0 74818
+S
+#74824
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74819
+D1
+~
+~
+0 0 74825
+D2
+~
+~
+0 0 74830
+S
+#74825
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74820
+D2
+~
+~
+0 0 74831
+D3
+~
+~
+0 0 74824
+S
+#74826
+Streets of Chaulssin~
+The street leads through the underground city heading along a row of
+houses to the east.  The large wall of the cavern bars passage to the west
+as the street opens to a square to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 74827
+D2
+~
+~
+0 0 74833
+S
+#74827
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74821
+D1
+~
+~
+0 0 74828
+D3
+~
+~
+0 0 74826
+S
+#74828
+Northwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74822
+D1
+~
+~
+1 0 74829
+D2
+~
+~
+0 0 74835
+D3
+~
+~
+0 0 74827
+S
+#74829
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74828
+S
+#74830
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74824
+D1
+~
+~
+0 0 74831
+D2
+~
+~
+0 0 74837
+S
+#74831
+Northeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74825
+D1
+~
+~
+0 0 74832
+D3
+~
+~
+0 0 74830
+S
+#74832
+Streets of Chaulssin~
+The street leads through the underground city heading along a row of
+houses to the west.  The large wall of the cavern bars passage to the east
+as the street opens to a square to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 74839
+D3
+~
+~
+0 0 74831
+S
+#74833
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the east with the walls of the carven to the west.  To the
+east the front door of the house sits closed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74826
+D1
+~
+~
+1 0 74834
+D2
+~
+~
+0 0 74840
+S
+#74834
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D3
+~
+~
+1 0 74833
+S
+#74835
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  The back wall of houses to the east and west back up the the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 74828
+D2
+~
+~
+0 0 74842
+S
+#74836
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D1
+~
+~
+1 0 74837
+S
+#74837
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  To the east and west the front doors of the houses face the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 74830
+D1
+~
+~
+1 0 74838
+D2
+~
+~
+0 0 74844
+D3
+~
+~
+1 0 74836
+S
+#74838
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74837
+S
+#74839
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the west with the walls of the carven to the east.  To west
+the back wall of the home does not grant access to the home.  
+~
+0 0 0
+D0
+~
+~
+0 0 74832
+D2
+~
+~
+0 0 74846
+S
+#74840
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the east with the walls of the carven to the west.  To the
+east the back wall of the home does not grant access to the home.  
+~
+0 0 0
+D0
+~
+~
+0 0 74833
+D2
+~
+~
+0 0 74847
+S
+#74841
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D1
+~
+~
+1 0 74842
+S
+#74842
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  To the east and west the front doors of the houses face the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 74835
+D1
+~
+~
+1 0 74843
+D2
+~
+~
+0 0 74849
+D3
+~
+~
+1 0 74841
+S
+#74843
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74842
+S
+#74844
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  The back wall of houses to the east and west back up the the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 74837
+D2
+~
+~
+0 0 74851
+S
+#74845
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D1
+~
+~
+1 0 74846
+S
+#74846
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the west with the walls of the cavern to the east.  To the
+west the front door of the house sits closed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74839
+D2
+~
+~
+0 0 74853
+D3
+~
+~
+1 0 74845
+S
+#74847
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the east with the walls of the carven to the west.  To the
+east the front door of the house sits closed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74840
+D1
+~
+~
+1 0 74848
+D2
+~
+~
+0 0 74854
+S
+#74848
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D3
+~
+~
+1 0 74847
+S
+#74849
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  The back wall of houses to the east and west back up the the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 74842
+D2
+~
+~
+0 0 74856
+S
+#74850
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D1
+~
+~
+1 0 74851
+S
+#74851
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  To the east and west the front doors of the houses face the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 74844
+D1
+~
+~
+1 0 74852
+D2
+~
+~
+0 0 74858
+D3
+~
+~
+1 0 74850
+S
+#74852
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74851
+S
+#74853
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the west with the walls of the carven to the east.  To west
+the back wall of the home does not grant access to the home.  
+~
+0 0 0
+D0
+~
+~
+0 0 74846
+D2
+~
+~
+0 0 74860
+S
+#74854
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the east with the walls of the carven to the west.  To the
+east the back wall of the home does not grant access to the home.  
+~
+0 0 0
+D0
+~
+~
+0 0 74847
+D2
+~
+~
+0 0 74861
+S
+#74855
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D1
+~
+~
+1 0 74856
+S
+#74856
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  To the east and west the front doors of the houses face the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 74849
+D1
+~
+~
+1 0 74857
+D2
+~
+~
+0 0 74863
+D3
+~
+~
+1 0 74855
+S
+#74857
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74856
+S
+#74858
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  The back wall of houses to the east and west back up the the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 74851
+D2
+~
+~
+0 0 74865
+S
+#74859
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D1
+~
+~
+1 0 74860
+S
+#74860
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the west with the walls of the cavern to the east.  To the
+west the front door of the house sits closed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74853
+D2
+~
+~
+0 0 74867
+D3
+~
+~
+1 0 74859
+S
+#74861
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the east with the walls of the carven to the west.  To the
+east the front door of the house sits closed.  
+~
+0 0 0
+D0
+~
+~
+0 0 74854
+D1
+~
+~
+1 0 74862
+D2
+~
+~
+0 0 74868
+S
+#74862
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D3
+~
+~
+1 0 74861
+S
+#74863
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  The back wall of houses to the east and west back up the the street. 
+~
+0 0 0
+D0
+~
+~
+0 0 74856
+D2
+~
+~
+0 0 74870
+S
+#74864
+Inside a House~
+Very little furniture sits in the home as it is exceptionally clean.  A
+small bed sits unoccupied as a series of daggers glisten on a small table.  
+~
+0 0 0
+D1
+~
+~
+1 0 74865
+S
+#74865
+Streets of Chaulssin~
+The street leads through the underground city between the houses of the
+drow.  To the east and west the front doors of the houses face the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 74858
+D1
+~
+~
+1 0 74866
+D2
+~
+~
+0 0 74872
+D3
+~
+~
+1 0 74864
+S
+#74866
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D3
+~
+~
+1 0 74865
+S
+#74867
+Streets of Chaulssin~
+The street continues north-south through the dark cavern as houses line
+the street to the west with the walls of the carven to the east.  To west
+the back wall of the home does not grant access to the home.  
+~
+0 0 0
+D0
+~
+~
+0 0 74860
+D2
+~
+~
+0 0 74874
+S
+#74868
+Streets of Chaulssin~
+The street leads through the underground city heading along a row of
+houses to the east.  The large wall of the cavern bars passage to the west
+as the street opens to a square to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 74861
+D1
+~
+~
+0 0 74869
+S
+#74869
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D1
+~
+~
+0 0 74870
+D2
+~
+~
+0 0 74875
+D3
+~
+~
+0 0 74868
+S
+#74870
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74863
+D2
+~
+~
+0 0 74876
+D3
+~
+~
+0 0 74869
+S
+#74871
+Inside a House~
+There is very little in the home as a few pieces of wooden furniture are
+about the room.  A large tome lies open on the wooden desk that sits in the
+corner.  
+~
+0 0 0
+D2
+~
+~
+1 0 74877
+S
+#74872
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74865
+D1
+~
+~
+0 0 74873
+D2
+~
+~
+0 0 74878
+S
+#74873
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D1
+~
+~
+0 0 74874
+D2
+~
+~
+0 0 74879
+D3
+~
+~
+0 0 74872
+S
+#74874
+Streets of Chaulssin~
+The street leads through the underground city heading along a row of
+houses to the west.  The large wall of the cavern bars passage to the east
+as the street opens to a square to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74867
+D3
+~
+~
+0 0 74873
+S
+#74875
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74869
+D1
+~
+~
+0 0 74876
+D2
+~
+~
+0 0 74880
+S
+#74876
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74870
+D1
+~
+~
+0 0 74877
+D2
+~
+~
+0 0 74881
+D3
+~
+~
+0 0 74875
+S
+#74877
+Between Houses in Chaulssin~
+The patch between the southern most squares is marked by houses on either
+side.  To the north sits a small home, while to the south the largest
+building in the cavern sits in view.  
+~
+0 0 0
+D0
+~
+~
+1 0 74871
+D1
+~
+~
+0 0 74878
+D2
+~
+~
+0 0 74882
+D3
+~
+~
+0 0 74876
+S
+#74878
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74872
+D1
+~
+~
+0 0 74879
+D2
+~
+~
+0 0 74883
+D3
+~
+~
+0 0 74877
+S
+#74879
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74873
+D2
+~
+~
+0 0 74884
+D3
+~
+~
+0 0 74878
+S
+#74880
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74875
+D1
+~
+~
+0 0 74881
+S
+#74881
+Southwestern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74876
+D3
+~
+~
+0 0 74880
+S
+#74882
+Before the House of Hidden Masters~
+A large staircase leads up to the doors of the large house.  The large
+home serves as the primary chapterhouse of the Jaezred Assassins.  
+~
+0 0 0
+D0
+~
+~
+0 0 74877
+D2
+~
+~
+1 0 74886
+S
+#74883
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74878
+D1
+~
+~
+0 0 74884
+S
+#74884
+Southeastern Square of Chaulssin~
+The terrain of the square is uneven from the natural floor of the cavern.
+Stalagmites rise up forcing you to weave through the square to avoid the
+rock structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 74879
+D3
+~
+~
+0 0 74883
+S
+#74885
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D1
+~
+~
+0 0 74886
+D2
+~
+~
+0 0 74888
+S
+#74886
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+3 0 74882
+D1
+~
+~
+0 0 74887
+D2
+~
+~
+0 0 74889
+D3
+~
+~
+0 0 74885
+S
+#74887
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D2
+~
+~
+0 0 74890
+D3
+~
+~
+0 0 74886
+S
+#74888
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 74885
+D1
+~
+~
+0 0 74889
+D2
+~
+~
+0 0 74891
+S
+#74889
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 74886
+D1
+~
+~
+0 0 74890
+D2
+~
+~
+0 0 74892
+D3
+~
+~
+0 0 74888
+S
+#74890
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 74887
+D2
+~
+~
+0 0 74893
+D3
+~
+~
+0 0 74889
+S
+#74891
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 74888
+D1
+~
+~
+0 0 74892
+S
+#74892
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  A small door to
+the south provides an exit out of the house.  
+~
+0 0 0
+D0
+~
+~
+0 0 74889
+D1
+~
+~
+0 0 74893
+D2
+~
+~
+3 0 74894
+D3
+~
+~
+0 0 74891
+S
+#74893
+The House of Hidden Masters~
+Tapestries hang from the wall depicting distorted images of long
+forgotten scenes.  Tarnished coins of of empires long extinct lay all over
+the floor as the onyx pillars support the arched ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 74890
+D3
+~
+~
+0 0 74892
+S
+#74894
+Outside the House of Hidden Masters~
+A small staircase leads down away from the the house of hidden masters
+leading down beneath the dark walls of the cavern.  You notice a small
+tunnel downward leading into the deep.  
+~
+0 0 0
+D0
+~
+~
+3 0 74892
+D5
+~
+~
+0 0 74895
+S
+#74895
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D1
+~
+~
+0 0 74896
+D4
+~
+~
+0 0 74894
+S
+#74896
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D1
+~
+~
+0 0 74897
+D3
+~
+~
+0 0 74895
+S
+#74897
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D2
+~
+~
+0 0 74898
+D3
+~
+~
+0 0 74896
+S
+#74898
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D0
+~
+~
+0 0 74897
+D1
+~
+~
+0 0 74899
+S
+#74899
+Tunnel Into the Darkness~
+The dark tunnel leads through the underground as your flickering light
+creates odd shadows in the tunnel.  The narrow walls catch at your cloak as
+you continue into the depths.  
+~
+0 0 0
+D2
+~
+~
+0 0 74550
+D3
+~
+~
+0 0 74898
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 74808 2 2 The south door of Before the Gates of Chaulssin is closed and locked
+D 0 74809 0 2 The north door of Inside the Gate of Chaulssin is closed and locked
+D 0 74818 2 1 The south door of Northern Square of Chaulssin is closed
+D 0 74823 0 1 The north door of Inside a House is closed
+D 0 74828 1 1 The east door of Northwestern Square of Chaulssin is closed
+D 0 74829 3 1 The west door of Inside a House is closed
+D 0 74833 1 1 The east door of Streets of Chaulssin is closed
+D 0 74834 3 1 The west door of Inside a House is closed
+D 0 74836 1 1 The east door of Inside a House is closed
+D 0 74837 1 1 The east door of Streets of Chaulssin is closed
+D 0 74837 3 1 The west door of Streets of Chaulssin is closed
+D 0 74838 3 1 The west door of Inside a House is closed
+D 0 74841 1 1 The east door of Inside a House is closed
+D 0 74842 1 1 The east door of Streets of Chaulssin is closed
+D 0 74842 3 1 The west door of Streets of Chaulssin is closed
+D 0 74843 3 1 The west door of Inside a House is closed
+D 0 74845 1 1 The east door of Inside a House is closed
+D 0 74846 3 1 The west door of Streets of Chaulssin is closed
+D 0 74847 1 1 The east door of Streets of Chaulssin is closed
+D 0 74848 3 1 The west door of Inside a House is closed
+D 0 74850 1 1 The east door of Inside a House is closed
+D 0 74851 1 1 The east door of Streets of Chaulssin is closed
+D 0 74851 3 1 The west door of Streets of Chaulssin is closed
+D 0 74852 3 1 The west door of Inside a House is closed
+D 0 74855 1 1 The east door of Inside a House is closed
+D 0 74856 1 1 The east door of Streets of Chaulssin is closed
+D 0 74856 3 1 The west door of Streets of Chaulssin is closed
+D 0 74857 3 1 The west door of Inside a House is closed
+D 0 74859 1 1 The east door of Inside a House is closed
+D 0 74860 3 1 The west door of Streets of Chaulssin is closed
+D 0 74861 1 1 The east door of Streets of Chaulssin is closed
+D 0 74862 3 1 The west door of Inside a House is closed
+D 0 74864 1 1 The east door of Inside a House is closed
+D 0 74865 1 1 The east door of Streets of Chaulssin is closed
+D 0 74865 3 1 The west door of Streets of Chaulssin is closed
+D 0 74866 3 1 The west door of Inside a House is closed
+D 0 74871 2 1 The south door of Inside a House is closed
+D 0 74877 0 1 The north door of Between Houses in Chaulssin is closed
+D 0 74882 2 2 The south door of Before the House of Hidden Masters is closed and locked
+D 0 74892 2 1 The south door of The House of Hidden Masters is closed
+D 0 74894 0 1 The north door of Outside the House of Hidden Masters is closed
+M 0 74800 1 74808 1 *Load a drow guard
+G 0 74800 0 *A stone key is given to a drow guard
+M 0 74806 50 74810 2 *Load a drow
+M 0 74807 50 74811 2 *Load a zekylen
+M 0 74806 50 74812 2 *Load a drow
+M 0 74807 50 74813 2 *Load a zekylen
+M 0 74806 50 74814 2 *Load a drow
+M 0 74805 10 74814 1 *Load a shadow dragon
+M 0 74807 50 74815 2 *Load a zekylen
+M 0 74807 50 74816 2 *Load a zekylen
+M 0 74805 10 74816 1 *Load a shadow dragon
+M 0 74806 50 74817 2 *Load a drow
+M 0 74807 50 74818 2 *Load a zekylen
+M 0 74806 50 74819 2 *Load a drow
+M 0 74807 50 74820 2 *Load a zekylen
+M 0 74806 50 74821 2 *Load a drow
+M 0 74807 50 74822 2 *Load a zekylen
+M 0 74803 9 74823 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74807 50 74824 2 *Load a zekylen
+M 0 74806 50 74825 2 *Load a drow
+M 0 74805 10 74825 1 *Load a shadow dragon
+M 0 74807 50 74826 2 *Load a zekylen
+M 0 74806 50 74828 2 *Load a drow
+M 0 74801 9 74829 1 *Load a dark bear
+M 0 74802 9 74829 1 *Load a drow sorcerer
+M 0 74806 50 74830 2 *Load a drow
+M 0 74807 50 74832 2 *Load a zekylen
+M 0 74806 50 74833 2 *Load a drow
+M 0 74803 9 74834 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74803 9 74836 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74801 9 74838 1 *Load a dark bear
+M 0 74802 9 74838 1 *Load a drow sorcerer
+M 0 74806 50 74839 2 *Load a drow
+M 0 74801 9 74841 1 *Load a dark bear
+M 0 74802 9 74841 1 *Load a drow sorcerer
+M 0 74807 50 74842 2 *Load a zekylen
+M 0 74801 9 74843 1 *Load a dark bear
+M 0 74802 9 74843 1 *Load a drow sorcerer
+M 0 74807 50 74844 2 *Load a zekylen
+M 0 74803 9 74845 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74806 50 74847 2 *Load a drow
+M 0 74805 10 74847 1 *Load a shadow dragon
+M 0 74803 9 74848 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74806 50 74849 2 *Load a drow
+M 0 74805 10 74849 1 *Load a shadow dragon
+M 0 74803 9 74850 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74806 50 74851 2 *Load a drow
+M 0 74805 10 74851 1 *Load a shadow dragon
+M 0 74801 9 74852 1 *Load a dark bear
+M 0 74802 9 74852 1 *Load a drow sorcerer
+M 0 74806 50 74853 2 *Load a drow
+M 0 74807 50 74854 2 *Load a zekylen
+M 0 74801 9 74855 1 *Load a dark bear
+M 0 74802 9 74855 1 *Load a drow sorcerer
+M 0 74801 9 74857 1 *Load a dark bear
+M 0 74802 9 74857 1 *Load a drow sorcerer
+M 0 74803 9 74859 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74807 50 74860 2 *Load a zekylen
+M 0 74806 50 74861 2 *Load a drow
+M 0 74803 9 74862 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74806 50 74863 2 *Load a drow
+M 0 74803 9 74864 1 *Load a drow assassin
+E 0 74801 0 16 *An onyx-handled dagger is loaded wielded of a drow assassin
+M 0 74806 50 74865 2 *Load a drow
+M 0 74801 9 74866 1 *Load a dark bear
+M 0 74802 9 74866 1 *Load a drow sorcerer
+M 0 74806 50 74867 2 *Load a drow
+M 0 74805 10 74867 1 *Load a shadow dragon
+M 0 74807 50 74868 2 *Load a zekylen
+M 0 74807 50 74870 2 *Load a zekylen
+M 0 74801 9 74871 1 *Load a dark bear
+M 0 74802 9 74871 1 *Load a drow sorcerer
+M 0 74807 50 74872 2 *Load a zekylen
+M 0 74807 50 74874 2 *Load a zekylen
+M 0 74807 50 74875 2 *Load a zekylen
+M 0 74806 50 74876 2 *Load a drow
+M 0 74807 50 74879 2 *Load a zekylen
+M 0 74806 50 74879 2 *Load a drow
+M 0 74806 50 74880 2 *Load a drow
+M 0 74805 10 74880 1 *Load a shadow dragon
+M 0 74807 50 74881 2 *Load a zekylen
+M 0 74807 50 74883 2 *Load a zekylen
+M 0 74805 10 74883 1 *Load a shadow dragon
+M 0 74806 50 74884 2 *Load a drow
+M 0 74804 8 74885 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74886 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74887 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74888 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74808 1 74889 1 *Load the Patron Father of the Jaezred Assassins
+M 0 74804 8 74890 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74891 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74892 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+M 0 74804 8 74893 1 *Load a Jaezred Assassin
+E 0 74802 0 16 *A jagged obsidian blade is loaded wielded of a Jaezred Assassin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74800
+mob echo {8A dark bear roars in fury as it charges you to attack{x
+mob kill $n
+~
+#74801
+mob echo {8A drow sorcerer raises his arms chanting.{x
+if rand 80
+mob cast 'mana blast' $n
+mob cast 'mana blast' $n
+else
+mob cast 'mana blast' $n
+mob cast 'acid blast' $n
+endif
+~
+#74802
+mob remember $n
+~
+#74803
+mob echo {8A drow sorcerer glares at $q and attacks!{x
+mob cast 'mana blast' $q
+~
+#74804
+howl
+~
+#74805
+mob echo {8A dark figure leaps from hiding and attacks you!!{x
+backstab $n
+~
+#74806
+backstab $n
+~
+#74807
+kill $n
+~
+#0
+
+#$

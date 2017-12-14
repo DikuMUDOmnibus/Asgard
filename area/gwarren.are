@@ -1,0 +1,2149 @@
+#AREADATA
+Name Goblin Warrens~
+Builders Ishamael  Nogate~
+VNUMs 74400 74499
+Continent 5
+Mobtier 0
+Credits [  LGD ] Ishamael Goblin Warrens~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74400
+norker goblin~
+a norker~
+A norker crouches here looking for something to steal.
+~
+~
+goblin~
+AT DJc 0 0 0
+190 700 1d1+27500 40d9+100 28d45+350 claw
+-100 -100 -100 -100
+CDI AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 15
+A -1
+M GRALL 74401 10~
+#74401
+varag goblin~
+a varag~
+A varag crouches on all fours ready to strike.
+~
+~
+goblin~
+AS DJc 0 0 0
+190 350 1d1+27500 40d9+100 28d45+400 claw
+-100 -100 -100 -100
+CDI AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 16
+A -1
+M GRALL 74401 10~
+#74402
+goblin hobgoblin warrior hb1~
+a hobgoblin warrior~
+A hobgoblin warrior stands here looking for battle.
+~
+~
+hobgoblin~
+AT DJVc 0 0 0
+190 500 1d1+30000 40d9+100 27d46+300 pound
+-100 -100 -100 -100
+CDFI AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 17
+A -1
+M GRALL 74401 10~
+#74403
+a hobgoblin alchemist~
+a hobgoblin alchemist~
+A hobgoblin alchemist stands here concocting a foul creation.
+~
+~
+hobgoblin~
+AR DJc 0 0 0
+190 400 1d1+25000 1d1+20000 20d45+200 flame
+-100 -100 -100 -100
+ACDI AB BCELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 17
+A -1
+M GRALL 74402 25~
+M FIGHT 74402 25~
+#74404
+large bugbear~
+a large bugbear~
+A large bugbear stands here ready to smash you.
+~
+~
+bugbear~
+AT DJc 0 0 0
+190 700 1d1+30000 40d9+100 29d45+300 pound
+-100 -100 -100 -100
+CDI AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 19
+A -1
+M GRALL 74401 10~
+#74405
+a bugbear sub chief~
+a bugbear sub-chief~
+A bugbear sub-chief stands here organizing a raid.
+~
+~
+bugbear~
+A DJc 0 0 0
+190 350 1d1+40000 40d9+100 30d46+750 pound
+-100 -100 -100 -100
+CDI AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 30
+A -1
+M GRALL 74400 100~
+#74406
+bugbear chieftan~
+a bugbear chieftan~
+A bugbear chief oversees the clan.
+~
+~
+bugbear~
+AFRST DJVce 0 0 0
+190 2000 1d1+75000 40d9+100 750d6+250 pound
+-85 -85 -85 -85
+ACDEFGIK AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 65
+A -1
+M FIGHT 74403 10~
+#74407
+goblin nilbog~
+a nilbog~
+A nilbog stands here practicing a spell.
+~
+~
+goblin~
+A DJc 0 0 0
+190 800 1d1+27500 40d9+100 28d45+250 magic
+-85 -85 -85 -85
+CDI ABDEFGH BELQ KS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 19
+A -1
+M FIGHT 74404 50~
+#74408
+large bugbear~
+a large bugbear~
+A large bugbear stands here ready to smash you.
+~
+~
+bugbear~
+AFT DJVc 0 0 0
+190 700 1d1+20000 40d9+100 29d45+300 pound
+-85 -85 -85 -85
+CDIR AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 19
+A -1
+#74409
+large bugbear~
+a large bugbear~
+A large bugbear stands here ready to smash you.
+~
+~
+bugbear~
+AFT DJVc 0 0 0
+190 700 1d1+20000 40d9+100 29d45+300 pound
+-85 -85 -85 -85
+CDIR AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 19
+A -1
+#74410
+kobold guard~
+a kobold guard~
+A kobold stands here guarding the entrance to the southern tunnel
+~
+~
+kobold~
+ABMT DJVZc 0 0 0
+190 800 1d1+35000 40d9+100 30d50+500 pound
+-100 -100 -100 -100
+CDHIR AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 20
+A -1
+M EXALL 74405 2~
+M DEATH 74406 100~
+M EXALL 74407 1~
+#0
+
+
+
+#OBJECTS
+#74400
+buckler dwarf skin~
+a dwarf-skin buckler~
+A small buckler lies here.~
+dwarf~
+armor 0 AJ
+ABCEF ABCEF ABCEF ABCEF 0
+101 0 250000 P
+A
+13 150
+A
+20 -3
+#74401
+heavy iron banded club~
+a heavy iron-banded club~
+A club lies here ready to split some skulls.~
+wood~
+weapon Y AN
+mace 18 11 pound 0
+101 20 0 P
+A
+18 5
+A
+19 17
+#0
+
+
+
+#ROOMS
+#74400
+In the Side Tunnel~
+The small tunnel leads away from the great cavern heading off into the
+depths.  The foul smell of the goblins intensifies in the small enclosed
+space.  
+~
+0 4 0
+D1
+~
+~
+0 0 74401
+D3
+~
+~
+0 0 71998
+S
+#74401
+In the Side Tunnel~
+The small tunnel is narrow and full of goblin excrement.  The sounds from
+the great cavern to the west echo through the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 74402
+D3
+~
+~
+0 0 74400
+S
+#74402
+In the Side Tunnel~
+The tunnel turns through the underground bedrock as its jagged narrow
+walls pull at your cloak.  The pungent stench of goblins fill the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 74403
+D3
+~
+~
+0 0 74401
+S
+#74403
+In the Side Tunnel~
+The tunnel turns through the underground bedrock as its jagged narrow
+walls pull at your cloak.  The pungent stench of goblins fill the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74402
+D1
+~
+~
+0 0 74404
+S
+#74404
+In the Side Tunnel~
+The tunnel turns through the underground bedrock as its jagged narrow
+walls pull at your cloak.  The pungent stench of goblins fill the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 74405
+D3
+~
+~
+0 0 74403
+S
+#74405
+In the Side Tunnel~
+The tunnel turns as it dips downward further beneath the surface.  The
+air is stale as debris is littered throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74404
+D5
+~
+~
+0 0 74406
+S
+#74406
+In the Side Tunnel~
+The tunnel continues away from the great cavern as it becomes eerily
+silent in the tunnel.  There is a damp feeling in the room as water trickles
+in through a small crack in the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 74407
+D4
+~
+~
+0 0 74405
+S
+#74407
+In the Side Tunnel~
+The dank tunnel continues to turn deep beneath the earth as the stench of
+the goblins still lingers.  The tunnel appears to widen to the west as it
+opens into a larger room.  
+~
+0 0 0
+D0
+~
+~
+0 0 74406
+D3
+~
+~
+0 0 74408
+S
+#74408
+Before the Warrens~
+The tunnel opens up into a larger room as once again dips downward as you
+stand before the entrance to a series of warrens.  The stench of the goblins
+linger in the air as tufts of skin and hair are smeared on the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 74407
+D5
+~
+~
+0 0 74409
+S
+#74409
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74410
+D4
+~
+~
+0 0 74408
+S
+#74410
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74409
+D3
+~
+~
+0 0 74411
+D5
+~
+~
+0 0 74413
+S
+#74411
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74410
+D3
+~
+~
+0 0 74412
+S
+#74412
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74411
+D2
+~
+~
+0 0 74423
+S
+#74413
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74414
+D4
+~
+~
+0 0 74410
+S
+#74414
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74417
+D2
+~
+~
+0 0 74415
+D3
+~
+~
+0 0 74413
+S
+#74415
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74414
+D1
+~
+~
+0 0 74418
+D2
+~
+~
+0 0 74416
+S
+#74416
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74415
+D1
+~
+~
+0 0 74419
+S
+#74417
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74420
+D2
+~
+~
+0 0 74418
+D3
+~
+~
+0 0 74414
+S
+#74418
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74417
+D3
+~
+~
+0 0 74415
+S
+#74419
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74422
+D2
+~
+~
+0 0 74499
+D3
+~
+~
+0 0 74416
+S
+#74420
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74421
+D3
+~
+~
+0 0 74417
+S
+#74421
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74420
+D2
+~
+~
+0 0 74422
+S
+#74422
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74421
+D1
+~
+~
+0 0 74440
+D3
+~
+~
+0 0 74419
+S
+#74423
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74412
+D2
+~
+~
+0 0 74424
+S
+#74424
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74423
+D3
+~
+~
+0 0 74425
+S
+#74425
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74424
+D2
+~
+~
+0 0 74426
+S
+#74426
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74425
+D2
+~
+~
+0 0 74427
+S
+#74427
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74426
+D1
+~
+~
+0 0 74428
+D2
+~
+~
+0 0 74430
+S
+#74428
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74429
+D3
+~
+~
+0 0 74427
+S
+#74429
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74432
+D3
+~
+~
+0 0 74428
+S
+#74430
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74427
+D2
+~
+~
+0 0 74433
+S
+#74431
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74432
+D2
+~
+~
+0 0 74434
+S
+#74432
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74429
+D2
+~
+~
+0 0 74435
+D3
+~
+~
+0 0 74431
+S
+#74433
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74430
+D1
+~
+~
+0 0 74434
+D2
+~
+~
+0 0 74436
+S
+#74434
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74431
+D1
+~
+~
+0 0 74435
+D3
+~
+~
+0 0 74433
+S
+#74435
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74432
+D1
+~
+~
+0 0 74452
+D3
+~
+~
+0 0 74434
+S
+#74436
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74433
+D3
+~
+~
+0 0 74437
+S
+#74437
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74436
+D5
+~
+~
+0 0 74438
+S
+#74438
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74471
+D3
+~
+~
+0 0 74439
+D4
+~
+~
+0 0 74437
+S
+#74439
+Bottleneck in the Warrens~
+The warrens narrow to the point only one can pass at a time.  To the
+south a small dark tunnel leads away from the warrens.  
+~
+0 2052 0
+D1
+~
+~
+0 0 74438
+D2
+~
+~
+0 0 74537
+S
+#74440
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74441
+D3
+~
+~
+0 0 74422
+S
+#74441
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74440
+D5
+~
+~
+0 0 74442
+S
+#74442
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74444
+D4
+~
+~
+0 0 74441
+S
+#74443
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74444
+D2
+~
+~
+0 0 74446
+S
+#74444
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74442
+D1
+~
+~
+0 0 74445
+D3
+~
+~
+0 0 74443
+S
+#74445
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74449
+D3
+~
+~
+0 0 74444
+S
+#74446
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74443
+D1
+~
+~
+0 0 74447
+D2
+~
+~
+0 0 74448
+S
+#74447
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74450
+D3
+~
+~
+0 0 74446
+S
+#74448
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74446
+D1
+~
+~
+0 0 74450
+D2
+~
+~
+0 0 74467
+S
+#74449
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74445
+D2
+~
+~
+0 0 74451
+S
+#74450
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74447
+D1
+~
+~
+0 0 74451
+D3
+~
+~
+0 0 74448
+S
+#74451
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74449
+D3
+~
+~
+0 0 74450
+S
+#74452
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74453
+D3
+~
+~
+0 0 74435
+S
+#74453
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74452
+D5
+~
+~
+0 0 74454
+S
+#74454
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74495
+D4
+~
+~
+0 0 74453
+D5
+~
+~
+0 0 74455
+S
+#74455
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74456
+D4
+~
+~
+0 0 74454
+S
+#74456
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74457
+D3
+~
+~
+0 0 74455
+S
+#74457
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74456
+D2
+~
+~
+0 0 74458
+S
+#74458
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74457
+D1
+~
+~
+0 0 74460
+D2
+~
+~
+0 0 74462
+D3
+~
+~
+0 0 74459
+S
+#74459
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74458
+D2
+~
+~
+0 0 74461
+D3
+~
+~
+0 0 74475
+S
+#74460
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74463
+D3
+~
+~
+0 0 74458
+S
+#74461
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74459
+D2
+~
+~
+0 0 74464
+S
+#74462
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74458
+D1
+~
+~
+0 0 74463
+S
+#74463
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74460
+D1
+~
+~
+0 0 74470
+D2
+~
+~
+0 0 74466
+D3
+~
+~
+0 0 74462
+S
+#74464
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74461
+D1
+~
+~
+0 0 74465
+D2
+~
+~
+0 0 74494
+S
+#74465
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74466
+D3
+~
+~
+0 0 74464
+S
+#74466
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74463
+D1
+~
+~
+0 0 74476
+D3
+~
+~
+0 0 74465
+S
+#74467
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74448
+D5
+~
+~
+0 0 74468
+S
+#74468
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74469
+D4
+~
+~
+0 0 74467
+S
+#74469
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74468
+D2
+~
+~
+0 0 74470
+S
+#74470
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74469
+D3
+~
+~
+0 0 74463
+S
+#74471
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74438
+D5
+~
+~
+0 0 74472
+S
+#74472
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74473
+D4
+~
+~
+0 0 74471
+S
+#74473
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74472
+D5
+~
+~
+0 0 74474
+S
+#74474
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74475
+D4
+~
+~
+0 0 74473
+S
+#74475
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74459
+D3
+~
+~
+0 0 74474
+S
+#74476
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74477
+D3
+~
+~
+0 0 74466
+S
+#74477
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74478
+D3
+~
+~
+0 0 74476
+S
+#74478
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74477
+D5
+~
+~
+0 0 74479
+S
+#74479
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74481
+D4
+~
+~
+0 0 74478
+S
+#74480
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74481
+D2
+~
+~
+0 0 74483
+S
+#74481
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74479
+D1
+~
+~
+0 0 74482
+D3
+~
+~
+0 0 74480
+S
+#74482
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74485
+D3
+~
+~
+0 0 74481
+S
+#74483
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74480
+D2
+~
+~
+0 0 74486
+D3
+~
+~
+0 0 74489
+S
+#74484
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74485
+D2
+~
+~
+0 0 74487
+S
+#74485
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74482
+D2
+~
+~
+0 0 74488
+D3
+~
+~
+0 0 74484
+S
+#74486
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74483
+D1
+~
+~
+0 0 74487
+S
+#74487
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74484
+D1
+~
+~
+0 0 74488
+D3
+~
+~
+0 0 74486
+S
+#74488
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74485
+D3
+~
+~
+0 0 74487
+S
+#74489
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74483
+D3
+~
+~
+0 0 74490
+S
+#74490
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74491
+D1
+~
+~
+0 0 74489
+S
+#74491
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74492
+D2
+~
+~
+0 0 74490
+S
+#74492
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D2
+~
+~
+0 0 74491
+D3
+~
+~
+0 0 74493
+S
+#74493
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74492
+D4
+~
+~
+0 0 74494
+S
+#74494
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74464
+D5
+~
+~
+0 0 74493
+S
+#74495
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D1
+~
+~
+0 0 74496
+D3
+~
+~
+0 0 74454
+S
+#74496
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D3
+~
+~
+0 0 74495
+D4
+~
+~
+0 0 74497
+S
+#74497
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74498
+D5
+~
+~
+0 0 74496
+S
+#74498
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74499
+D2
+~
+~
+0 0 74497
+S
+#74499
+In the Warrens~
+Passageways and tunnels run through the underground creating a large
+labyrinth.  Bits of hair, skin, and blood are smeared on the walls as the
+foul stench of the inhabitants stinks up the whole series of warrens.  
+~
+0 0 0
+D0
+~
+~
+0 0 74419
+D2
+~
+~
+0 0 74498
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74400 50 74401 1 *Load a norker
+M 0 74400 50 74404 2 *Load a norker
+M 0 74400 50 74406 1 *Load a norker
+M 0 74400 50 74407 2 *Load a norker
+M 0 74400 50 74409 2 *Load a norker
+M 0 74400 50 74410 3 *Load a norker
+M 0 74401 30 74410 1 *Load a varag
+M 0 74400 50 74412 2 *Load a norker
+M 0 74400 50 74413 2 *Load a norker
+M 0 74400 50 74414 1 *Load a norker
+M 0 74400 50 74415 2 *Load a norker
+M 0 74401 30 74415 2 *Load a varag
+M 0 74400 50 74416 1 *Load a norker
+M 0 74401 30 74416 1 *Load a varag
+M 0 74401 30 74417 1 *Load a varag
+M 0 74400 50 74418 1 *Load a norker
+M 0 74400 50 74419 3 *Load a norker
+M 0 74400 50 74420 1 *Load a norker
+M 0 74400 50 74421 2 *Load a norker
+M 0 74401 30 74423 1 *Load a varag
+M 0 74400 50 74424 1 *Load a norker
+M 0 74400 50 74425 2 *Load a norker
+M 0 74401 30 74425 1 *Load a varag
+M 0 74400 50 74426 1 *Load a norker
+M 0 74400 50 74427 1 *Load a norker
+M 0 74400 50 74428 1 *Load a norker
+M 0 74400 50 74429 1 *Load a norker
+M 0 74401 30 74429 1 *Load a varag
+M 0 74400 50 74431 2 *Load a norker
+M 0 74401 30 74431 2 *Load a varag
+M 0 74400 50 74432 2 *Load a norker
+M 0 74401 30 74433 1 *Load a varag
+M 0 74400 50 74433 1 *Load a norker
+M 0 74400 50 74434 1 *Load a norker
+M 0 74401 30 74434 1 *Load a varag
+M 0 74400 50 74435 2 *Load a norker
+M 0 74401 30 74435 2 *Load a varag
+M 0 74401 30 74437 2 *Load a varag
+M 0 74410 1 74439 1 *Load a kobold guard
+M 0 74400 50 74440 1 *Load a norker
+M 0 74400 50 74441 2 *Load a norker
+M 0 74402 20 74442 1 *Load a hobgoblin warrior
+M 0 74403 12 74443 1 *Load a hobgoblin alchemist
+M 0 74402 20 74443 2 *Load a hobgoblin warrior
+M 0 74401 30 74444 1 *Load a varag
+M 0 74400 50 74444 1 *Load a norker
+M 0 74403 12 74445 1 *Load a hobgoblin alchemist
+M 0 74402 20 74445 1 *Load a hobgoblin warrior
+M 0 74400 50 74445 1 *Load a norker
+M 0 74400 50 74446 1 *Load a norker
+M 0 74403 12 74447 1 *Load a hobgoblin alchemist
+M 0 74402 20 74447 1 *Load a hobgoblin warrior
+M 0 74403 12 74448 1 *Load a hobgoblin alchemist
+M 0 74402 20 74448 2 *Load a hobgoblin warrior
+M 0 74403 12 74449 1 *Load a hobgoblin alchemist
+M 0 74402 20 74449 1 *Load a hobgoblin warrior
+M 0 74401 30 74449 1 *Load a varag
+M 0 74402 20 74450 2 *Load a hobgoblin warrior
+M 0 74403 12 74451 1 *Load a hobgoblin alchemist
+M 0 74400 50 74451 1 *Load a norker
+M 0 74401 30 74452 1 *Load a varag
+M 0 74402 20 74454 1 *Load a hobgoblin warrior
+M 0 74401 30 74454 2 *Load a varag
+M 0 74402 20 74456 1 *Load a hobgoblin warrior
+M 0 74404 30 74458 1 *Load a large bugbear
+M 0 74403 12 74458 1 *Load a hobgoblin alchemist
+M 0 74407 10 74459 1 *Load a nilbog
+M 0 74407 10 74460 1 *Load a nilbog
+M 0 74404 30 74460 1 *Load a large bugbear
+M 0 74404 30 74461 2 *Load a large bugbear
+M 0 74405 2 74462 1 *Load a bugbear sub-chief
+M 0 74404 30 74462 1 *Load a large bugbear
+M 0 74402 20 74462 1 *Load a hobgoblin warrior
+M 0 74404 30 74463 2 *Load a large bugbear
+M 0 74407 10 74464 1 *Load a nilbog
+M 0 74404 30 74465 2 *Load a large bugbear
+M 0 74407 10 74466 1 *Load a nilbog
+M 0 74404 30 74466 1 *Load a large bugbear
+M 0 74402 20 74466 1 *Load a hobgoblin warrior
+M 0 74403 12 74467 1 *Load a hobgoblin alchemist
+M 0 74402 20 74468 2 *Load a hobgoblin warrior
+M 0 74404 30 74469 1 *Load a large bugbear
+M 0 74403 12 74469 2 *Load a hobgoblin alchemist
+M 0 74402 20 74470 1 *Load a hobgoblin warrior
+M 0 74403 12 74471 1 *Load a hobgoblin alchemist
+M 0 74401 30 74471 1 *Load a varag
+M 0 74403 12 74473 1 *Load a hobgoblin alchemist
+M 0 74401 30 74473 1 *Load a varag
+M 0 74404 30 74475 1 *Load a large bugbear
+M 0 74403 12 74475 1 *Load a hobgoblin alchemist
+M 0 74407 10 74477 1 *Load a nilbog
+M 0 74404 30 74477 2 *Load a large bugbear
+M 0 74402 20 74477 1 *Load a hobgoblin warrior
+M 0 74404 30 74479 1 *Load a large bugbear
+M 0 74404 30 74480 2 *Load a large bugbear
+M 0 74407 10 74481 1 *Load a nilbog
+M 0 74405 2 74481 1 *Load a bugbear sub-chief
+M 0 74404 30 74482 2 *Load a large bugbear
+M 0 74407 10 74483 1 *Load a nilbog
+M 0 74404 30 74483 2 *Load a large bugbear
+M 0 74406 1 74484 1 *Load a bugbear chieftan
+G 0 74401 0 *A heavy iron-banded club is given to a bugbear chieftan
+E 0 74400 0 11 *A dwarf-skin buckler is loaded as a shield of a bugbear chieftan
+M 0 74404 30 74484 1 *Load a large bugbear
+M 0 74407 10 74485 1 *Load a nilbog
+M 0 74404 30 74486 1 *Load a large bugbear
+M 0 74407 10 74487 1 *Load a nilbog
+M 0 74404 30 74487 1 *Load a large bugbear
+M 0 74404 30 74488 1 *Load a large bugbear
+M 0 74407 10 74490 1 *Load a nilbog
+M 0 74404 30 74490 2 *Load a large bugbear
+M 0 74404 30 74492 1 *Load a large bugbear
+M 0 74404 30 74494 1 *Load a large bugbear
+M 0 74401 30 74495 1 *Load a varag
+M 0 74401 30 74496 2 *Load a varag
+M 0 74400 50 74498 1 *Load a norker
+M 0 74401 30 74498 1 *Load a varag
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74400
+bash $n
+if mobhere 74409
+mob echo {YA bugbear sub-chief growls angrily!!{x
+else
+mob mload 74409
+mob echo {YA bugbear sub-chief lets out a battle cry as a bugbear rushes in ready for battle.{x
+endif
+if mobhere 74408
+mob echo {YA bugbear sub-chief growls angrily!!{x
+else
+mob mload 74408
+mob echo {YA bugbear sub-chief lets out a battle cry as a bugbear rushes in ready for battle.{x
+endif
+~
+#74401
+kill $n
+~
+#74402
+mob echo {YA hobgoblin alchemist tosses something odd in your direction!!!{x
+mob cast 'high explosive' $n
+~
+#74403
+mob echo {YA Bugbear Chief glares at $n and roars in anger.{x
+mob remember $n
+mob force $n flee
+if rand 50
+mob echo {YA Bugbear Chief runs off after $n!!{x
+mob goto $q
+mob echo {YA Bugbear Chief charges in chasing after you!!!{x
+kill $q
+else
+mob echo {YA Bugbear Chief turns his attention to the next target!{x
+endif
+~
+#74404
+if rand 85
+mob cast 'fire breath' $n
+mob echo {YA nilbog cackles with glee as large flames engulf you!!{x
+else
+mob cast 'fireball' $n
+mob cast 'burning hands' $n
+mob cast 'flamestrike' $n
+mob cast 'flamestrike' $n
+mob echo {YA nilbog frowns as small flames shoot out towards you.{x
+endif
+~
+#74405
+mob echo {RA kobold guard moves in front of you to block your path!!!{x
+mob kill $n
+~
+#74406
+mob trans $n 74537
+mob mload 74410
+~
+#74407
+mob trans $n 74438
+mob mload 74410
+mob purge self
+~
+#74408
+mob trans $n 74397
+mob mload 74309
+mob purge self
+~
+#74409
+mob trans $n 74525
+mob mload 74309
+~
+#0
+
+#$

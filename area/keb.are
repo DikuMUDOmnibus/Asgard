@@ -1,0 +1,115 @@
+#AREADATA
+Name Sahuagin Kingdom~
+Builders Bree Unlinked~
+VNUMs 47802 48299
+Continent 2
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#47802
+Outskirts of the ruined Kingdom of Sahuagin~
+~
+0 32768 0
+D1
+~
+~
+0 0 47803
+S
+#47803
+.~
+~
+0 0 0
+D2
+~
+~
+0 0 47807
+D3
+~
+~
+0 0 47802
+D4
+~
+~
+0 0 47804
+S
+#47804
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 47805
+D5
+~
+~
+0 0 47803
+S
+#47805
+.~
+~
+0 0 0
+D2
+~
+~
+0 0 47806
+D5
+~
+~
+0 0 47804
+S
+#47806
+.~
+~
+0 0 0
+D0
+~
+~
+0 0 47805
+S
+#47807
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47803
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1672 @@
+#AREADATA
+Name Realis' Area~
+Builders Realis Unlinked~
+VNUMs 2800 2899
+Continent 0
+Mobtier 0
+Credits TODO~
+Security 7
+Flags 0
+End
+
+#MOBILES
+#2800
+Veraft Soldier~
+{rA Veraft Soldier{x~
+{rA Veraft soldier patrols here, keeping a close eye on the base.{x
+~
+~
+fire-giant~
+AT CDVa DO -1000 0
+160 350 1d1+25000 0d0+0 120d2+120 flame
+50 50 50 27
+EI ABH D IM
+stand stand either 50000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+M DEATH 2800 15~
+#2801
+Reward Monster~
+{wA reward Monster{x~
+{WA small monster bounces around here, waiting to be killed by someone as a reward.{x
+~
+~
+human~
+A 0 0 0 0
+3000 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 2801 10~
+#2802
+Veraft Warrant Officer~
+{rA Veraft Warrant Officer{x~
+{rA Veraft warrant officer stands here, blocking all passage forward.{x
+~
+~
+fire-giant~
+ABFT DFJVac DH -1000 0
+175 600 1d1+65000 0d0+0 240d3+50 flame
+100 100 100 65
+0 ABHNS CD IM
+stand stand either 75000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+#2803
+Veraft Master Paladin~
+{rA Veraft Master Paladin{x~
+{rA Veraft master paladin stands here bloacking passage to the depths of the base.{x
+~
+~
+fire-giant~
+ABFT DFJVac DH -1000 0
+175 650 1d1+75000 0d0+0 120d3+75 flame
+100 100 100 65
+0 AHNS CD IM
+stand stand either 75000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+#2805
+Veraft Security Officer~
+{rA Veraft Security Officer{x~
+{rA Veraft security officer stands here, watching the base entrance.{x
+~
+~
+fire-giant~
+ABT DFJLVa DO -1000 0
+165 0 1d1+35000 0d0+0 175d2+120 cleave
+75 75 75 65
+CEFIK ABH D IM
+stand stand either 75000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+M DEATH 2805 15~
+#2807
+Elite Veraft Security Officer~
+{rAn Elite Veraft Security Officer{x~
+{rAn elite Veraft security officer stands here, screening all who enter the base.{x
+~
+~
+fire-giant~
+ABT DFLVac DNO -1000 0
+165 750 1d1+45000 0d0+0 250d2+120 cleave
+90 90 90 75
+CEFIJKN ABH D IM
+stand stand either 101000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+M DEATH 2805 15~
+#2899
+Valaris Quest Special~
+{MV{ma{Dl{Wa{wr{mi{Ms{x~
+{MV{ma{Dl{Wa{wr{mi{Ms{x, stands here, challenging all around her.
+~
+Though a small, slender woman, her strength is world reknowned.  Locks of
+wavy, flowing, auburn hair cascade from her head, past her shoulders. 
+Engaging cyan eyes lock onto her opponents, searching for any weakness she
+may glean.  This woman should not be trifled with unless has the utmost
+confidence in their abilities.  
+~
+human~
+ABRT DFJTVZab CDEH 0 0
+250 750 1d1+550000 1d1+100000 750d3+250 wrath
+75 75 75 150
+CDEFHJKN AB CDM 0
+stand stand female 500000
+AHMV ABCDEFGHIJK medium unknown
+V -1
+A -1
+M DEATH 2899 100~
+M FIGHT 2898 75~
+#0
+
+
+
+#OBJECTS
+#2800
+Dragonfire Ruby~
+{RA Dr{rago{Rnfir{re Ru{Rby{x~
+{rA large ruby shimmers here, the inside of it swirling with fire.{x~
+unknown~
+gem AGY AO
+0 0 0 0 0
+101 2 101000 P
+A
+17 -12
+A
+26 10
+A
+18 7
+A
+19 12
+#2801
+Dragonfire Battleaxe~
+{RDrag{ronfi{Rre Ba{rttl{rea{Rxe{x~
+{rA massive battle lays here, the faint outline of fire enveloping it's blade.{x~
+unknown~
+weapon AG AN
+axe 56 3 cleave AF
+101 22 101000 P
+A
+19 25
+A
+19 13
+#2802
+Warning Sign~
+a Warning Sign~
+{RA large sign is hung to the tunnel wall, screaming "{rREAD ME!{R"{x~
+unknown~
+trash RTY 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+This zone is intended for no less then three legends minimum. The mobs
+contained within should not be taken lightly. You have been warned!
+~
+E
+warning~
+This zone is intended for no less then three legends minimum. The mobs
+contained within should not be taken lightly. You have been warned!
+~
+#2804
+Veraft Officer Whip~
+{RVer{raft {ROff{rice{Rr Wh{rip{x~
+{rA Veraft officer has left his whip coiled up here.{x~
+unknown~
+weapon AFG AN
+whip 7 29 sonic AJ
+101 7 101000 P
+A
+18 3
+A
+19 11
+#2805
+Security Pass~
+{DA Security Pass{x~
+{DA small card looking key lays here.{x~
+unknown~
+key UY A
+0 0 0 0 0
+101 0 0 P
+#2806
+Veraft Paladin Halberd~
+{RVer{raft {RPal{radi{Rn Ha{rlbe{Rrd{x~
+{rA massive halberd lays here, the Veraft Paladin insignia emblazoned on the haft.{x~
+unknown~
+weapon ABG AN
+polearm 112 1 flbite AF
+101 25 101000 P
+A
+18 -8
+A
+19 13
+#2808
+Veraft Soldier Mace~
+{RVera{rft S{Roldi{rer M{Race{x~
+{rA massive mace lays here, the insignia of the Veraft onit.{x~
+unknown~
+weapon ABFGW AN
+mace 75 2 smash FN
+101 15 101000 P
+A
+18 -12
+A
+19 8
+#2890
+Valatian Special~
+{MV{ma{Dl{Wa{wt{Di{ma{Mn{x~
+{mA large, wicked looking kukri lays here, the words "{DValatian{m" engraved on it's blade.{x~
+unknown~
+weapon ABGMORWa AN
+dagger 54 3 wrath EN
+101 0 1000000 P
+A
+18 15
+A
+19 15
+A
+14 110
+#2891
+Garalita Special~
+{GG{ga{Dr{Wa{wl{Di{gt{Ga{x~
+{gA massive, wicked looking shotel lays here, "{DGaralita{g" engraved on it's blade.{x~
+unknown~
+weapon ABGMORWa AN
+sword 54 3 wrath CE
+101 0 1000000 P
+A
+18 15
+A
+19 15
+A
+13 110
+#2892
+Xarxica Special~
+{CX{ca{Dr{Wx{wi{cc{Ca{x~
+{cA massive, wicked looking flanged flail lays here, "{DXarxica{c" engraved on it's haft.{x~
+unknown~
+weapon ABGMORWa AN
+flail 54 3 none EJ
+101 0 1000000 P
+A
+18 15
+A
+19 15
+A
+12 110
+#0
+
+
+
+#ROOMS
+#2800
+{rHalf Blocked Lavatube{x~
+~
+0 65545 0
+D5
+~
+~
+0 0 2801
+S
+#2801
+{rHalf Blocked Lavatube{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2800
+D5
+~
+~
+0 0 2802
+S
+#2802
+{rHalf Blocked Lavatube{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2801
+D5
+~
+~
+0 0 2803
+S
+#2803
+{rHalf Blocked Lavatube{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2804
+D4
+~
+~
+0 0 2802
+S
+#2804
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+3 2805 2807
+D1
+~
+~
+1 0 2806
+D2
+~
+~
+3 0 2803
+D3
+~
+~
+1 0 2805
+S
+#2805
+{rSecurity Room One{x~
+~
+0 0 0
+D1
+~
+~
+1 0 2804
+S
+#2806
+{rSecurity Room Two{x~
+~
+0 0 0
+D3
+~
+~
+1 0 2804
+S
+#2807
+{rSecurity Room Three{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2808
+D2
+~
+~
+3 2805 2804
+S
+#2808
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+3 0 2807
+D5
+~
+~
+0 0 2809
+S
+#2809
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2810
+D4
+~
+~
+0 0 2808
+S
+#2810
+{rHidden Veraft Base Security Hall{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2813
+D1
+~
+~
+3 0 2812
+D2
+~
+~
+0 0 2809
+D3
+~
+~
+3 0 2811
+S
+#2811
+{rHidden Veraft Base Storage{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2810
+S
+#2812
+{rHidden Veraft Base Storage{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2810
+S
+#2813
+{rHidden Veraft Base Security Hall{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2814
+D2
+~
+~
+0 0 2810
+S
+#2814
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2833
+D2
+~
+~
+3 0 2813
+D3
+~
+~
+0 0 2815
+S
+#2815
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2814
+D3
+~
+~
+0 0 2816
+S
+#2816
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2815
+D3
+~
+~
+0 0 2817
+S
+#2817
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2818
+D1
+~
+~
+0 0 2816
+S
+#2818
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2819
+D2
+~
+~
+0 0 2817
+S
+#2819
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2820
+D2
+~
+~
+0 0 2818
+S
+#2820
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2821
+D2
+~
+~
+0 0 2819
+S
+#2821
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2822
+D2
+~
+~
+0 0 2820
+S
+#2822
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2823
+D3
+~
+~
+0 0 2821
+S
+#2823
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2824
+D3
+~
+~
+0 0 2822
+S
+#2824
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+4 0 2834
+D1
+~
+~
+0 0 2825
+D3
+~
+~
+0 0 2823
+S
+#2825
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2826
+D3
+~
+~
+0 0 2824
+S
+#2826
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2827
+D3
+~
+~
+0 0 2825
+S
+#2827
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2828
+D3
+~
+~
+0 0 2826
+S
+#2828
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2827
+D2
+~
+~
+0 0 2829
+S
+#2829
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2828
+D2
+~
+~
+0 0 2830
+S
+#2830
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2829
+D3
+~
+~
+0 0 2831
+S
+#2831
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2830
+D3
+~
+~
+0 0 2832
+S
+#2832
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2831
+D3
+~
+~
+0 0 2833
+S
+#2833
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2832
+D3
+~
+~
+0 0 2814
+S
+#2834
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2835
+D2
+~
+~
+4 0 2824
+S
+#2835
+{rHidden Veraft Base Security Checkpoint{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2836
+S
+#2836
+{rHidden Veraft Base Security Checkpoint{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2837
+S
+#2837
+{rHidden Veraft Base Security Checkpoint{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2838
+S
+#2838
+{rHidden Veraft Base Security Checkpoint{x~
+~
+0 0 0
+D5
+~
+~
+0 0 2839
+S
+#2839
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2840
+S
+#2840
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2839
+D4
+~
+~
+3 0 2841
+S
+#2841
+{rHidden Veraft Base Tower{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2842
+D1
+~
+~
+3 0 2845
+D2
+~
+~
+3 0 2844
+D3
+~
+~
+3 0 2843
+D4
+~
+~
+0 0 2846
+D5
+~
+~
+3 0 2840
+S
+#2842
+{rHidden Veraft Base Captain's Room{x~
+~
+0 0 0
+D2
+~
+~
+3 0 2841
+S
+#2843
+{rHidden Veraft Base Captain's Room{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2841
+S
+#2844
+{rHidden Veraft Base Captain's Room{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2841
+S
+#2845
+{rHidden Veraft Base Captain's Room{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2841
+S
+#2846
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2847
+D5
+~
+~
+0 0 2841
+S
+#2847
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2848
+D2
+~
+~
+0 0 2846
+S
+#2848
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2847
+D3
+~
+~
+0 0 2849
+S
+#2849
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2848
+D3
+~
+~
+0 0 2850
+S
+#2850
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2849
+D2
+~
+~
+0 0 2851
+S
+#2851
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2850
+D2
+~
+~
+0 0 2852
+S
+#2852
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2851
+D4
+~
+~
+3 0 2853
+S
+#2853
+{rHidden Veraft Base General's Room{x~
+~
+0 0 0
+D5
+~
+~
+3 0 2852
+S
+#2854
+{rHidden Veraft Base Transporter Room{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2855
+S
+#2855
+{rHidden Veraft Base Transporter Room{x~
+~
+0 0 0
+D4
+~
+~
+3 0 2856
+D5
+~
+~
+0 0 2854
+S
+#2856
+{rHidden Veraft Base Barracks{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2859
+D1
+~
+~
+1 0 2858
+D3
+~
+~
+1 0 2857
+D5
+~
+~
+3 0 2855
+S
+#2857
+{rHidden Veraft Base Soldiers Barracks{x~
+~
+0 0 0
+D1
+~
+~
+1 0 2856
+S
+#2858
+{rHidden Veraft Base Soldiers Barracks{x~
+~
+0 0 0
+D3
+~
+~
+1 0 2856
+S
+#2859
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2860
+D2
+~
+~
+0 0 2856
+S
+#2860
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2859
+D4
+~
+~
+0 0 2861
+S
+#2861
+{rHidden Veraft Base{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2862
+D5
+~
+~
+0 0 2860
+S
+#2862
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2863
+D5
+~
+~
+0 0 2861
+S
+#2863
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2862
+D1
+~
+~
+0 0 2864
+S
+#2864
+{rHidden Veraft Base{x~
+~
+0 0 0
+D1
+~
+~
+0 0 2865
+D3
+~
+~
+0 0 2863
+S
+#2865
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2866
+D3
+~
+~
+0 0 2864
+S
+#2866
+{rHidden Veraft Base{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2867
+D2
+~
+~
+0 0 2865
+S
+#2867
+{rHidden Veraft Base{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2866
+D4
+~
+~
+3 0 2868
+S
+#2868
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2869
+D5
+~
+~
+3 0 2867
+S
+#2869
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2870
+D2
+~
+~
+0 0 2868
+S
+#2870
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2871
+D2
+~
+~
+0 0 2869
+S
+#2871
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D2
+~
+~
+0 0 2870
+D5
+~
+~
+0 0 2872
+S
+#2872
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2871
+D5
+~
+~
+0 0 2873
+S
+#2873
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2872
+D5
+~
+~
+0 0 2874
+S
+#2874
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2873
+D5
+~
+~
+0 0 2875
+S
+#2875
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2874
+D5
+~
+~
+0 0 2876
+S
+#2876
+{rHidden Veraft Base Secret Section{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2877
+D4
+~
+~
+0 0 2875
+S
+#2877
+{rHidden Veraft Base Prison{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2878
+D1
+~
+~
+3 0 2884
+D2
+~
+~
+3 0 2876
+D3
+~
+~
+3 0 2883
+S
+#2878
+{rHidden Veraft Base Prison{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2879
+D1
+~
+~
+3 0 2886
+D2
+~
+~
+0 0 2877
+D3
+~
+~
+3 0 2885
+S
+#2879
+{rHidden Veraft Base Prison{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2880
+D1
+~
+~
+3 0 2888
+D2
+~
+~
+0 0 2878
+D3
+~
+~
+3 0 2887
+S
+#2880
+{rHidden Veraft Base Prison{x~
+~
+0 0 0
+D0
+~
+~
+0 0 2881
+D1
+~
+~
+3 0 2890
+D2
+~
+~
+0 0 2879
+D3
+~
+~
+3 0 2889
+S
+#2881
+{rHidden Veraft Base Prison{x~
+~
+0 0 0
+D0
+~
+~
+3 0 2882
+D1
+~
+~
+3 0 2893
+D2
+~
+~
+0 0 2880
+D3
+~
+~
+3 0 2892
+S
+#2882
+{ySide of a Mountain{x~
+~
+0 0 0
+D2
+~
+~
+3 0 2881
+D4
+~
+~
+0 0 2894
+S
+#2883
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2877
+S
+#2884
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2877
+S
+#2885
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2878
+S
+#2886
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2878
+S
+#2887
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2879
+S
+#2888
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2879
+S
+#2889
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2880
+S
+#2890
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2880
+S
+#2892
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D1
+~
+~
+3 0 2881
+S
+#2893
+{rHidden Veraft Base Prison Cell{x~
+~
+0 0 0
+D3
+~
+~
+3 0 2881
+S
+#2894
+{ySide of a Mountain{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2895
+D5
+~
+~
+0 0 2882
+S
+#2895
+{ySide of a Mountain{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2896
+D5
+~
+~
+0 0 2894
+S
+#2896
+{ySide of a Mountain{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2897
+D5
+~
+~
+0 0 2895
+S
+#2897
+{ySide of a Mountain{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2898
+D5
+~
+~
+0 0 2896
+S
+#2898
+{ySide of a Mountain{x~
+~
+0 0 0
+D4
+~
+~
+0 0 2899
+D5
+~
+~
+0 0 2897
+S
+#2899
+{ySide of a Mountain{x~
+~
+0 0 0
+D5
+~
+~
+0 0 2898
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2803 0 1 The north door of {rHalf Blocked Lavatube{x is closed
+D 0 2804 0 2 The north door of {rHidden Veraft Base{x is closed and locked
+D 0 2804 1 1 The east door of {rHidden Veraft Base{x is closed
+D 0 2804 2 1 The south door of {rHidden Veraft Base{x is closed
+D 0 2804 3 1 The west door of {rHidden Veraft Base{x is closed
+D 0 2805 1 1 The east door of {rSecurity Room One{x is closed
+D 0 2806 3 1 The west door of {rSecurity Room Two{x is closed
+D 0 2807 0 1 The north door of {rSecurity Room Three{x is closed
+D 0 2807 2 2 The south door of {rSecurity Room Three{x is closed and locked
+D 0 2808 2 1 The south door of {rHidden Veraft Base{x is closed
+D 0 2810 1 2 The east door of {rHidden Veraft Base Security Hall{x is closed and locked
+D 0 2810 3 2 The west door of {rHidden Veraft Base Security Hall{x is closed and locked
+D 0 2811 1 2 The east door of {rHidden Veraft Base Storage{x is closed and locked
+D 0 2812 3 2 The west door of {rHidden Veraft Base Storage{x is closed and locked
+D 0 2813 0 2 The north door of {rHidden Veraft Base Security Hall{x is closed and locked
+D 0 2814 2 2 The south door of {rHidden Veraft Base{x is closed and locked
+D 0 2824 0 2 The north door of {rHidden Veraft Base{x is closed and locked
+D 0 2834 2 2 The south door of {rHidden Veraft Base{x is closed and locked
+D 0 2840 4 1 The up door of {rHidden Veraft Base{x is closed
+D 0 2841 0 1 The north door of {rHidden Veraft Base Tower{x is closed
+D 0 2841 1 1 The east door of {rHidden Veraft Base Tower{x is closed
+D 0 2841 2 1 The south door of {rHidden Veraft Base Tower{x is closed
+D 0 2841 3 1 The west door of {rHidden Veraft Base Tower{x is closed
+D 0 2841 5 1 The down door of {rHidden Veraft Base Tower{x is closed
+D 0 2842 2 1 The south door of {rHidden Veraft Base Captain's Room{x is closed
+D 0 2843 1 1 The east door of {rHidden Veraft Base Captain's Room{x is closed
+D 0 2844 0 1 The north door of {rHidden Veraft Base Captain's Room{x is closed
+D 0 2845 3 1 The west door of {rHidden Veraft Base Captain's Room{x is closed
+D 0 2852 4 1 The up door of {rHidden Veraft Base{x is closed
+D 0 2853 5 1 The down door of {rHidden Veraft Base General's Room{x is closed
+D 0 2855 4 1 The up door of {rHidden Veraft Base Transporter Room{x is closed
+D 0 2856 1 1 The east door of {rHidden Veraft Base Barracks{x is closed
+D 0 2856 3 1 The west door of {rHidden Veraft Base Barracks{x is closed
+D 0 2856 5 1 The down door of {rHidden Veraft Base Barracks{x is closed
+D 0 2857 1 1 The east door of {rHidden Veraft Base Soldiers Barracks{x is closed
+D 0 2858 3 1 The west door of {rHidden Veraft Base Soldiers Barracks{x is closed
+D 0 2867 4 1 The up door of {rHidden Veraft Base{x is closed
+D 0 2868 5 1 The down door of {rHidden Veraft Base Secret Section{x is closed
+D 0 2876 0 1 The north door of {rHidden Veraft Base Secret Section{x is closed
+D 0 2877 1 2 The east door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2877 2 1 The south door of {rHidden Veraft Base Prison{x is closed
+D 0 2877 3 2 The west door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2878 1 2 The east door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2878 3 2 The west door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2879 1 2 The east door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2879 3 2 The west door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2880 1 2 The east door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2880 3 2 The west door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2881 0 1 The north door of {rHidden Veraft Base Prison{x is closed
+D 0 2881 1 2 The east door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2881 3 2 The west door of {rHidden Veraft Base Prison{x is closed and locked
+D 0 2882 2 1 The south door of {ySide of a Mountain{x is closed
+D 0 2883 1 2 The east door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2884 3 2 The west door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2885 1 2 The east door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2886 3 2 The west door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2887 1 2 The east door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2888 3 2 The west door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2889 1 2 The east door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2890 3 2 The west door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2892 1 2 The east door of {rHidden Veraft Base Prison Cell{x is closed and locked
+D 0 2893 3 2 The west door of {rHidden Veraft Base Prison Cell{x is closed and locked
+O 0 2802 0 2800 *A warning sign loaded to {rHalf Blocked Lavatube{x
+M 0 2805 2 2805 2 *Load {rA Veraft Security Officer{x
+E 0 2801 0 16 *{rdrag{ronfi{rre ba{rttl{rea{rxe{x is loaded wielded of {rA Veraft Security Officer{x
+E 0 2805 0 17 *{da security pass{x is loaded held in the hands of {rA Veraft Security Officer{x
+M 0 2805 2 2806 2 *Load {rA Veraft Security Officer{x
+E 0 2801 0 16 *{rdrag{ronfi{rre ba{rttl{rea{rxe{x is loaded wielded of {rA Veraft Security Officer{x
+E 0 2805 0 17 *{da security pass{x is loaded held in the hands of {rA Veraft Security Officer{x
+M 0 2807 1 2807 1 *Load {rAn Elite Veraft Security Officer{x
+E 0 2801 0 16 *{rdrag{ronfi{rre ba{rttl{rea{rxe{x is loaded wielded of {rAn Elite Veraft Security Officer{x
+M 0 2800 20 2808 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2809 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2810 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2813 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2814 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2815 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2816 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2817 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2818 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2819 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2820 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2821 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2822 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2823 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2824 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2825 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2826 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2827 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2828 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2829 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2830 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2831 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2832 20 *Load {rA Veraft Soldier{x
+M 0 2800 20 2833 20 *Load {rA Veraft Soldier{x
+M 0 2802 1 2835 1 *Load {rA Veraft Warrant Officer{x
+E 0 2804 0 16 *{rver{raft {roff{rice{rr wh{rip{x is loaded wielded of {rA Veraft Warrant Officer{x
+M 0 2803 1 2836 1 *Load {rA Veraft Master Paladin{x
+E 0 2806 0 16 *{rver{raft {rpal{radi{rn ha{rlbe{rrd{x is loaded wielded of {rA Veraft Master Paladin{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2800
+mob oload 2808
+~
+#2801
+mob oload 70
+~
+#2805
+mob oload 2800
+~
+#2898
+c 'gas breath'
+c 'gas breath'
+c 'gas breath'
+~
+#2899
+mob oload 2890
+mob oload 2891
+mob oload 2892
+~
+#0
+
+#$

@@ -1,0 +1,1843 @@
+#AREADATA
+Name Tav'erah~
+Builders Ishamael  No_gate Unlinked~
+VNUMs 73400 73499
+Continent 4
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#73400
+Fire Sprite~
+a fire sprite~
+A fire sprite dances about surrounded by flames.
+~
+~
+pixie~
+AS DFJV BD 0 0
+200 750 1d1+30000 0d0+0 27d50+500 flame
+-100 -100 -100 -100
+CEFGHIKU BDHJKNOXY 0 IR
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+F aff T
+V 23
+A -1
+#73401
+a lava flow~
+a lava flow~
+A lava flow blocks the trail.
+~
+~
+human~
+AB 0 0 0 0
+100 -500 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHJKLMNOPQSTXYZ 0 IR
+stand stand none 0
+E 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M EXALL 73400 2~
+M FIGHT 73401 10~
+#73402
+a lava flow~
+a lava flow~
+A lava flow blocks the trail.
+~
+~
+human~
+AB 0 0 0 0
+100 -500 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHJKLMNOPQSTXYZ 0 IR
+stand stand none 0
+E 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M EXALL 73400 1~
+M FIGHT 73401 10~
+#73403
+a lava flow~
+a lava flow~
+A lava flow blocks the trail.
+~
+~
+human~
+AB 0 0 0 0
+100 -500 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHJKLMNOPQSTXYZ 0 IR
+stand stand none 0
+E 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M EXALL 73400 0~
+M FIGHT 73401 10~
+#73404
+a lava flow~
+a lava flow~
+A lava flow blocks the trail.
+~
+~
+human~
+AB 0 0 0 0
+100 -500 1d1+50000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHJKLMNOPQSTXYZ 0 IR
+stand stand none 0
+E 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A -1
+M EXALL 73400 3~
+M FIGHT 73401 10~
+#73405
+young firecat~
+a young firecat~
+A young firecat stalks through the area.
+~
+~
+cat~
+AF FVZac 0 0 0
+205 750 1d1+30000 0d0+0 28d50+750 none
+-100 -100 -100 -100
+DFH BDHJKNOXY 0 IR
+stand stand none 0
+AGV ACDEFHJKQUV medium unknown
+S 1
+V 24
+A -1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#73400
+On the Dock~
+The small dock provides moorings for only a handful of boats, it appears
+very few visitors come to this island.  To the southeast a large active
+volcano dominates the area, back to the west you can barely make out the
+mainland.  
+~
+0 0 5
+D1
+~
+~
+0 0 73401
+S
+#73401
+At the Base of the Volcano~
+Before you stands an active volcano, thick plumes of smoke and ash billow
+from the high up peak.  A rocky trail off to the south and heads up the side
+of the volcano.  To the east a cooled lava flow heads east around the base
+of the volcano.  
+~
+0 4 5
+D1
+~
+~
+0 0 73402
+D2
+~
+~
+0 0 73406
+D3
+~
+~
+0 0 73400
+S
+#73402
+On the Lava Flow~
+The dark rock of the cooled lava flow forms a jagged shoreline.  The
+sound of water lapping on rock and the smell of sulfur fill the area.  The
+flow continues off to the east as the smoking mountain towers above you.  
+~
+0 0 5
+D1
+~
+~
+0 0 73403
+D3
+~
+~
+0 0 73401
+S
+#73403
+On the Lava Flow~
+The cooled lava crunches beneath your feet with every step as the firey
+mountain towers over you to the south.  The flow continues off to the east
+around the volcano and nothing but a blue ocean can been seen out on the
+horizon.  
+~
+0 0 5
+D1
+~
+~
+0 0 73404
+D3
+~
+~
+0 0 73402
+S
+#73404
+On the Lava Flow~
+Heat washes over you seeping through several small fissures in the cooled
+rock.  Sulfur fills your nose giving hints that this flow may only be
+partially cooled.  The ocean to the north appears endless as you see nothing
+but water out to the horizon.  
+~
+0 0 5
+D1
+~
+~
+0 0 73405
+D3
+~
+~
+0 0 73403
+S
+#73405
+On the Edge of the Lava Flow~
+The cooled lava flow ends to the east as a fresh stream of lava runs down
+into the ocean.  The sound of molten hot lava hitting cool water hisses
+loudly as steam rises off the lava stream.  
+~
+0 0 5
+D3
+~
+~
+0 0 73404
+S
+#73406
+Beginning of the Trail ~
+The dirt path winds its way south away from the dock and around the side
+of the volcano.  There is no sign of vegetation and you have a clear line of
+sight up the mountain and back across the ocean to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 73401
+D2
+~
+~
+0 0 73407
+S
+#73407
+On the Rocky Trail~
+The rocky trail continues around the side of the volcanic mountain. 
+Large boulders make for dull scenery on the mountainside and you can barely
+make out a large island across the water to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 73406
+D2
+~
+~
+0 0 73408
+S
+#73408
+On the Rocky Trail~
+The trail continues around the base of the volcano, the steep rocky
+terrain makes it impossible to scale the mountainside.  Thick plumes of
+smoke rise from the top of the mountain casting a gray cloud over the area. 
+~
+0 0 5
+D0
+~
+~
+0 0 73407
+D2
+~
+~
+0 0 73409
+S
+#73409
+Rocky Trail Alongside the Volcano~
+The trail continues around the base of the volcano as you begin to
+notice the heat drifting up from the rock.  Waves gently lap against the
+rocky shoreline as the trail begins to head away from the water.  
+~
+0 0 0
+D0
+~
+~
+0 0 73408
+D2
+~
+~
+0 0 73410
+S
+#73410
+Alongside the Volcano~
+The rocky trail continues to tail away from the jagged shoreline and
+begins to gradually climb the smoking volcano.  You can see to the south
+that the barren trail slowly wraps its way around the volcano.  
+~
+0 0 5
+D0
+~
+~
+0 0 73409
+D2
+~
+~
+0 0 73411
+S
+#73411
+On the Slopes of the Volcano~
+The trail begins to wind its way up the side of the volcano, gradually
+scaling the mountain of fire.  Heat radiates from the rocky eastern slope of
+the trail as flakes of ash flutter and float around you.  
+~
+0 0 5
+D0
+~
+~
+0 0 73410
+D2
+~
+~
+0 0 73412
+S
+#73412
+Volcanic Trail~
+The trail steepens as it gradually makes its way up the side of the
+volcano, several fissures vent hot gasses and noxious sulfur.  To the east
+of the trail the mountainside is incredibly steep and several large boulders
+mark the terrain.  
+~
+0 0 5
+D0
+~
+~
+0 0 73411
+D2
+~
+~
+0 0 73413
+S
+#73413
+Climbing the Trail~
+The trail continues, winding gradually up the volcanic slope.  Dark flows
+of cooled lava overrun the trail providing a reminder of the activity of the
+volcano.  
+~
+0 0 5
+D0
+~
+~
+0 0 73412
+D2
+~
+~
+0 0 73414
+S
+#73414
+Climbing the trail~
+The trail steepens as you continue the difficult climb towards the
+summit.  The steep slope makes it impossible to stray from the trail.  
+~
+0 0 5
+D0
+~
+~
+0 0 73413
+D2
+~
+~
+0 0 73415
+S
+#73415
+Crossing a Lava Flow~
+A small stream of lava oozes across the trail as the smell of sulfur
+surrounds and waves of heat wash over you.  The footing is precarious as you
+must carefully bypass the molten hot magma.  
+~
+0 0 5
+D0
+~
+~
+0 0 73414
+D2
+~
+~
+0 0 73416
+S
+#73416
+Climbing the Western Slopes~
+Blasts of hot air vent from small fissures in the rock face as the smell
+of sulfur fills the air.  The trail cuts further up the slope leading you
+towards the summit, the ocean to the west seems a distant drop below.  
+~
+0 0 5
+D0
+~
+~
+0 0 73415
+D2
+~
+~
+0 0 73417
+S
+#73417
+Continuing up the Western Slope~
+The trail continues to wind its way around the slopes of the volcano, the
+mountain obscuring your view of the dock to the north.  Steam spouts out of
+cracks in the ground washing over you with an intense heat.  
+~
+0 0 5
+D0
+~
+~
+0 0 73416
+D2
+~
+~
+0 0 73418
+S
+#73418
+Climbing the Volcano~
+The trail winds its way around the western face as realize you are now
+approaching the southern slopes.  The gradient increases as you are now a
+quarter of the way to the summit.  
+~
+0 0 5
+D0
+~
+~
+0 0 73417
+D2
+~
+~
+0 0 73419
+S
+#73419
+Crossing Molten Lava~
+A large lava flow nearly overruns the trail save for a few large boulders
+that provide stepping stones.  Sweat pours off you as waves of heat wash off
+the fiery magma.  
+~
+0 0 5
+D0
+~
+~
+0 0 73418
+D2
+~
+~
+0 0 73420
+S
+#73420
+Climbing the Volcanic Slope~
+The rocky trail continues up the southern slopes away from the lava flow
+to the north.  Several loose stones skip off the rocks nearby and plummet
+down the side of the volcano.  
+~
+0 0 5
+D0
+~
+~
+0 0 73419
+D1
+~
+~
+0 0 73421
+S
+#73421
+On the Southern Face~
+The southern face is significantly steeper and appears more treacherous
+as you can spot several stream of lava overtaking the trail ahead.  At the
+summit above the volcano continues to belch smoke and ash skyward.  
+~
+0 0 5
+D1
+~
+~
+0 0 73422
+D3
+~
+~
+0 0 73420
+S
+#73422
+Southern Face of the Volcano~
+The trail continues along the southern face twisting its way up the
+mountain side.  Flakes of gray ash float as the acrid smell of smoke and
+sulfur fill the area.  
+~
+0 0 5
+D1
+~
+~
+0 0 73423
+D3
+~
+~
+0 0 73421
+S
+#73423
+Crossing a Lava Flow~
+Slow moving lava overtakes the trail with very few stepping stones
+bypassing the flow.  You notice one of the rocks has what appears to be a
+clawed footprint burned into the stone.  
+~
+0 0 5
+D1
+~
+~
+0 0 73424
+D3
+~
+~
+0 0 73422
+S
+#73424
+Climbing the Volcano~
+The trail continues to wind its way around the southern face as you
+slowly make your way towards the summit.  Several overhangs on the slope
+obscure the view towards the summit.  
+~
+0 0 5
+D1
+~
+~
+0 0 73425
+D3
+~
+~
+0 0 73423
+S
+#73425
+Around the Geyser~
+The trail flattens avoiding a large steam geyser, as gray hunks of ash
+float through air as the acrid smell of smoke and sulfur surround you.  The
+heat of the volcano can be felt through the rock as you may be close to the
+source of a magma vent.  
+~
+0 0 5
+D1
+~
+~
+0 0 73426
+D3
+~
+~
+0 0 73424
+S
+#73426
+Crossing the Lava Flow~
+Molten rock oozes over the trail descending slowly down the mountainside
+into the sea far below.  The footing is treacherous and each step is met
+with a searing heat from the volcano.  
+~
+0 0 5
+D1
+~
+~
+0 0 73427
+D3
+~
+~
+0 0 73425
+S
+#73427
+On the Steep Trail~
+The trail continues to wind its way up towards the summit of the volcano
+as you approach the eastern slope.  An unbearable heat fills the air as lava
+boils out of several vents and trickles across the trail.  
+~
+0 0 5
+D1
+~
+~
+0 0 73428
+D3
+~
+~
+0 0 73426
+S
+#73428
+On the Eastern Slope~
+The trail turns up the eastern slope as you are nearly halfway to the
+summit.  The ash falls thickly on this side of the mountain obscuring your
+view.  
+~
+0 0 5
+D0
+~
+~
+0 0 73429
+D3
+~
+~
+0 0 73427
+S
+#73429
+Walking through the Ash~
+The snow like ash continues to all across the trail as you make your way
+up the eastern slope.  Faint claw marks can be made out on the mountainside
+climbing up the steep face toward the summit.  
+~
+0 0 5
+D0
+~
+~
+0 0 73430
+D2
+~
+~
+0 0 73428
+S
+#73430
+Climbing the Eastern Face~
+Pieces of flaming ash and the acrid smell of smoke cause your eyes to
+water making travel along the trail difficult.  The rocky terrain steepens
+as you continue to climb the eastern face.  
+~
+0 0 5
+D0
+~
+~
+0 0 73431
+D2
+~
+~
+0 0 73429
+S
+#73431
+Before a Lava Flow~
+Large gray clumps rain down around you as steam vents send them swirling
+through the air.  The path ahead is treacherous as a stream of fast moving
+lava pours down the trail.  
+~
+0 0 5
+D0
+~
+~
+0 0 73432
+D2
+~
+~
+0 0 73430
+S
+#73432
+Ascending the Volcano~
+The rocky trail wraps itself around the volcano as you head up the
+eastern face towards the summit.  Several large boulders obscure the slope
+around you making for dangerous ambush points.  
+~
+0 0 5
+D0
+~
+~
+0 0 73433
+D2
+~
+~
+0 0 73431
+S
+#73433
+Volcanic Path~
+Heat rises off the mountain in a palpable haze.  Clumps of ash float
+down, several still burning pieces still burning as you continue towards the
+summit.  
+~
+0 0 5
+D0
+~
+~
+0 0 73434
+D2
+~
+~
+0 0 73432
+S
+#73434
+Walking on the Trail~
+The trail steeps again as you climb towards the summit as the ash
+continues to fall around you.  A slow moving lava flow oozes out of a
+fissure below you and heads down the mountainside.  
+~
+0 0 5
+D0
+~
+~
+0 0 73435
+D2
+~
+~
+0 0 73433
+S
+#73435
+On the Volcanic Slope~
+The fall of ash lessens as you continue around the eastern face of the
+volcano.  The putrid smell of sulfur fills the air as you are surrounded by
+waves of heat.  
+~
+0 0 5
+D0
+~
+~
+0 0 73436
+D2
+~
+~
+0 0 73434
+S
+#73436
+Uneven Ground~
+The fall of ash has subsided and visibility improves as you begin to
+approach the north face of the volcano.  The rocky slope appears to buckler
+as if ready to belch a large quantity of magma.  
+~
+0 0 5
+D0
+~
+~
+0 0 73437
+D2
+~
+~
+0 0 73435
+S
+#73437
+Slow Moving Lava Flow~
+Molten rock oozes over the trail descending slowly down the mountainside
+into the sea far below.  The footing is treacherous and each step is met
+with a searing heat from the volcano.  
+~
+0 0 5
+D0
+~
+~
+0 0 73438
+D2
+~
+~
+0 0 73436
+S
+#73438
+On the Volcanic Mountainside~
+Heat oozes throughout the area as you continue up the trail.  The
+volcanic mountain side is far from inviting as every step is treacherous.  
+~
+0 0 5
+D0
+~
+~
+0 0 73439
+D2
+~
+~
+0 0 73437
+S
+#73439
+Climbing the Northern Face~
+The trail continues to wind its way toward the northern face as you
+slowly make your way towards the summit.  Several overhangs on the slope
+obscure the view towards the summit.  
+~
+0 0 5
+D0
+~
+~
+0 0 73440
+D2
+~
+~
+0 0 73438
+S
+#73440
+Crossing a Lava Stream~
+The trail turns up the northern slope as you continue towards the summit.
+Lava flows freely from the mountain below you running down into the sea.  
+~
+0 0 5
+D2
+~
+~
+0 0 73439
+D3
+~
+~
+0 0 73441
+S
+#73441
+On the Fiery Mountainside~
+A large lava flow nearly overruns the trail save for a few large boulders
+that provide stepping stones.  Sweat pours off you as waves of heat wash off
+the fiery magma.  
+~
+0 0 5
+D1
+~
+~
+0 0 73440
+D3
+~
+~
+0 0 73442
+S
+#73442
+Between the Vents~
+The trail continues around the northern face bypassing several vents that
+spout bursts of steam.  The smell of smoke is stronger here as you are
+roughly three quarters of the way to the summit.  
+~
+0 0 5
+D1
+~
+~
+0 0 73441
+D3
+~
+~
+0 0 73443
+S
+#73443
+Steepening Trail~
+The trail rapidly makes its way up the northern face towards peak of the
+volcano.  Each footstep crunches as you walk across recently cooled lava.  
+~
+0 0 5
+D1
+~
+~
+0 0 73442
+D3
+~
+~
+0 0 73444
+S
+#73444
+Unstable Trail~
+The ground bubbles around you as magma tries to ooze through the dense
+rock.  The trail continues around the northern face as you can once again
+spot the small dock at the base of the mountain.  
+~
+0 0 5
+D1
+~
+~
+0 0 73443
+D3
+~
+~
+0 0 73445
+S
+#73445
+On the Western Slopes~
+The trail twists around towards the western slopes as you spot a small
+trail winding up the mountain far below.  The heat grows significantly
+stronger as you begin your final ascent and approach the volcanic rim.  
+~
+0 0 5
+D1
+~
+~
+0 0 73444
+D3
+~
+~
+0 0 73446
+S
+#73446
+Climbing Towards the Summit~
+The trail turns up the western face of the volcano as you move closer to
+the summit.  The thick ash filled smoke blots out the sun above as it
+bellows from the volcano.  
+~
+0 0 5
+D1
+~
+~
+0 0 73445
+D2
+~
+~
+0 0 73447
+S
+#73447
+On the Steep Trail~
+The trail steeps as you begin the final climb towards the summit.  Far
+below you spot the path that began the journey up the mountainside.  
+~
+0 0 5
+D0
+~
+~
+0 0 73446
+D2
+~
+~
+0 0 73448
+S
+#73448
+Crossing a Lava Flow~
+A large lava flow nearly overruns the trail save for a few large boulders
+that provide stepping stones.  Sweat pours off you as waves of heat wash off
+the fiery magma.  
+~
+0 0 5
+D0
+~
+~
+0 0 73447
+D2
+~
+~
+0 0 73449
+S
+#73449
+Nearing the Summit~
+The trail climbs its way up the western face rapidly approaching the
+summit and volcanic rim.  Farther out to the west you can see the faint
+outline of the mainland across the sea.  
+~
+0 0 5
+D0
+~
+~
+0 0 73448
+D2
+~
+~
+0 0 73450
+S
+#73450
+Between the Fissures~
+The trail narrows as you step between two large fissures in the
+mountainside.  The heat radiating from beneath the rock engulfs you making
+traveling difficult.  
+~
+0 0 5
+D0
+~
+~
+0 0 73449
+D2
+~
+~
+0 0 73451
+S
+#73451
+Approaching the Summit~
+The twists along the western slope as the volcanic rim loom above you. 
+The thick smoke bellows from the mouth of the volcano above blotting out the
+sun.  
+~
+0 0 5
+D0
+~
+~
+0 0 73450
+D2
+~
+~
+0 0 73452
+S
+#73452
+Between the Vents~
+The trail continues around the western face bypassing several vents that
+spout bursts of steam.  The smell of smoke is stronger here as you are
+nearly to the summit 
+~
+0 0 5
+D0
+~
+~
+0 0 73451
+D2
+~
+~
+0 0 73453
+S
+#73453
+Lava Flow on the Southern Face~
+Lava spills over the rim above flowing freely down the mountainside.  The
+trail winds around the mountain as you approach the southern face for one
+final climb.  
+~
+0 0 5
+D0
+~
+~
+0 0 73452
+D2
+~
+~
+0 0 73454
+S
+#73454
+At the Volcanic Rim~
+The air is thick with smoke and vision is obscured as the heat from the
+volcano consumes you.  You can almost peer into the volcano as you are
+nearing the rim.  
+~
+0 0 5
+D0
+~
+~
+0 0 73453
+D2
+~
+~
+0 0 73455
+S
+#73455
+Before the Volcanic Rim~
+The summit stands before you as you gaze across the rim of the volcano. 
+The heat is nearly unbearable as the molten fire of the volcano is now
+visible far below.  
+~
+0 0 5
+D0
+~
+~
+0 0 73454
+D1
+~
+~
+0 0 73456
+S
+#73456
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D1
+~
+~
+0 0 73457
+D3
+~
+~
+0 0 73455
+S
+#73457
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D1
+~
+~
+0 0 73458
+D3
+~
+~
+0 0 73456
+S
+#73458
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D1
+~
+~
+0 0 73459
+D3
+~
+~
+0 0 73457
+S
+#73459
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73460
+D3
+~
+~
+0 0 73458
+S
+#73460
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73461
+D2
+~
+~
+0 0 73459
+S
+#73461
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73462
+D2
+~
+~
+0 0 73460
+S
+#73462
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73463
+D2
+~
+~
+0 0 73461
+S
+#73463
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73464
+D2
+~
+~
+0 0 73462
+S
+#73464
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73465
+D2
+~
+~
+0 0 73463
+S
+#73465
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D2
+~
+~
+0 0 73464
+D3
+~
+~
+0 0 73467
+S
+#73466
+FIRE ROOM!!!!~
+~
+0 4 5
+S
+#73467
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D1
+~
+~
+0 0 73465
+D3
+~
+~
+0 0 73468
+S
+#73468
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D1
+~
+~
+0 0 73467
+D2
+~
+~
+0 0 73469
+S
+#73469
+On the Volcanic Rim~
+The uneven rim winds its way around the mouth of the volcano.  The thick
+smoke and oppressive heat make passage slow around the rim slow and tedious.
+~
+0 0 5
+D0
+~
+~
+0 0 73468
+D2
+~
+~
+0 0 73470
+S
+#73470
+Before a Rock Staircase~
+The uneven rim ends abruptly as lava spills over the edge and speeds its
+way down the mountain.  A rough cut staircase leads down the inside of the
+volcano and into the mouth of fire.  
+~
+0 4 5
+D0
+~
+~
+0 0 73469
+D5
+~
+~
+0 0 73471
+S
+#73471
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73474
+D1
+~
+~
+0 0 73472
+D2
+~
+~
+0 0 73475
+D3
+~
+~
+0 0 73473
+D4
+~
+~
+0 0 73470
+D5
+~
+~
+0 0 73476
+S
+#73472
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D3
+~
+~
+0 0 73471
+S
+#73473
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D1
+~
+~
+0 0 73471
+S
+#73474
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D2
+~
+~
+0 0 73471
+S
+#73475
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73471
+S
+#73476
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73484
+D1
+~
+~
+0 0 73482
+D2
+~
+~
+0 0 73480
+D3
+~
+~
+0 0 73478
+D4
+~
+~
+0 0 73471
+D5
+~
+~
+0 0 73488
+S
+#73477
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D1
+~
+~
+0 0 73484
+D2
+~
+~
+0 0 73478
+S
+#73478
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73477
+D1
+~
+~
+0 0 73476
+D2
+~
+~
+0 0 73479
+S
+#73479
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73478
+D1
+~
+~
+0 0 73480
+S
+#73480
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73476
+D1
+~
+~
+0 0 73481
+D3
+~
+~
+0 0 73479
+S
+#73481
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73482
+D3
+~
+~
+0 0 73480
+S
+#73482
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73483
+D2
+~
+~
+0 0 73481
+D3
+~
+~
+0 0 73476
+S
+#73483
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D2
+~
+~
+0 0 73482
+D3
+~
+~
+0 0 73484
+S
+#73484
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D1
+~
+~
+0 0 73483
+D2
+~
+~
+0 0 73476
+D3
+~
+~
+0 0 73477
+S
+#73485
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73488
+D1
+~
+~
+0 0 73491
+D2
+~
+~
+0 0 73493
+D3
+~
+~
+0 0 73490
+S
+#73487
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D1
+~
+~
+0 0 73488
+D2
+~
+~
+0 0 73490
+S
+#73488
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D1
+~
+~
+0 0 73489
+D2
+~
+~
+0 0 73485
+D3
+~
+~
+0 0 73487
+D4
+~
+~
+0 0 73476
+S
+#73489
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 73491
+D3
+~
+~
+0 0 73488
+S
+#73490
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73487
+D1
+~
+~
+0 0 73485
+D2
+~
+~
+0 0 73492
+S
+#73491
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73489
+D2
+~
+~
+0 0 73494
+D3
+~
+~
+0 0 73485
+S
+#73492
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73490
+D1
+~
+~
+0 0 73493
+D2
+~
+~
+0 0 73495
+S
+#73493
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73485
+D1
+~
+~
+0 0 73494
+D2
+~
+~
+0 0 73496
+D3
+~
+~
+0 0 73492
+S
+#73494
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73491
+D2
+~
+~
+0 0 73497
+D3
+~
+~
+0 0 73493
+S
+#73495
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73492
+D1
+~
+~
+0 0 73496
+S
+#73496
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73493
+D1
+~
+~
+0 0 73497
+D2
+~
+~
+0 0 73498
+D3
+~
+~
+0 0 73495
+S
+#73497
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73494
+D3
+~
+~
+0 0 73496
+S
+#73498
+In the Fiery Cavern~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73496
+D2
+~
+~
+0 0 73499
+S
+#73499
+Great Chamber of Fire~
+Flames rise around you as the lava rapidly releases energy throughout the
+cavern.  You nearly melt with each step as the intense heat fills the
+cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 73498
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 73400 50 73403 2 *Load a fire sprite
+M 0 73400 50 73405 2 *Load a fire sprite
+M 0 73400 50 73406 2 *Load a fire sprite
+M 0 73400 50 73408 2 *Load a fire sprite
+M 0 73400 50 73410 2 *Load a fire sprite
+M 0 73400 50 73413 2 *Load a fire sprite
+M 0 73400 50 73414 2 *Load a fire sprite
+M 0 73401 4 73415 1 *Load a lava flow
+M 0 73400 50 73416 2 *Load a fire sprite
+M 0 73401 4 73419 1 *Load a lava flow
+M 0 73400 50 73419 2 *Load a fire sprite
+M 0 73400 50 73420 2 *Load a fire sprite
+M 0 73400 50 73422 2 *Load a fire sprite
+M 0 73402 2 73423 1 *Load a lava flow
+M 0 73400 50 73424 2 *Load a fire sprite
+M 0 73402 2 73426 1 *Load a lava flow
+M 0 73400 50 73426 2 *Load a fire sprite
+M 0 73400 50 73428 2 *Load a fire sprite
+M 0 73400 50 73430 2 *Load a fire sprite
+M 0 73403 2 73431 1 *Load a lava flow
+M 0 73400 50 73432 2 *Load a fire sprite
+M 0 73400 50 73435 2 *Load a fire sprite
+M 0 73403 2 73437 1 *Load a lava flow
+M 0 73400 50 73437 2 *Load a fire sprite
+M 0 73400 50 73438 2 *Load a fire sprite
+M 0 73404 1 73440 1 *Load a lava flow
+M 0 73400 50 73440 2 *Load a fire sprite
+M 0 73400 50 73442 2 *Load a fire sprite
+M 0 73400 50 73443 2 *Load a fire sprite
+M 0 73400 50 73444 2 *Load a fire sprite
+M 0 73400 50 73446 2 *Load a fire sprite
+M 0 73400 50 73447 2 *Load a fire sprite
+M 0 73401 4 73448 1 *Load a lava flow
+M 0 73400 50 73449 2 *Load a fire sprite
+M 0 73400 50 73451 2 *Load a fire sprite
+M 0 73401 4 73453 1 *Load a lava flow
+M 0 73400 50 73453 2 *Load a fire sprite
+M 0 73400 50 73456 2 *Load a fire sprite
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#73400
+mob echo {rThe Lava Flow blocks your path!!!!{x
+kill $n
+~
+#73401
+if rand 55
+if mobhere 73405
+echo {x
+else
+mob echo {RA young firecat leaps from hiding and ambushes you!!!{x
+mob mload 73405
+endif
+else
+endif
+~
+#0
+
+#$

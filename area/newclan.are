@@ -1,0 +1,1868 @@
+#AREADATA
+Name New Clan Area~
+Builders Noquest  Nolookup~
+VNUMs 60100 70000
+Continent 1
+Mobtier 0
+Credits [------] ----    New Clan Area~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#60100
+journeyman anunnaki~
+{8T{whe {@Jo{^ur{6n{2e{6y{^m{@an{0~
+{8T{whe {@Jo{^urn{6e{2e{6y{^m{@an{0 is here, looking {@O{^M{6N{2ICI{6E{^N{@T{0.
+~
+The {6|{!Ar{8m{1a{8g{1e{8d{!on{6| {wC{8lan {wM{8ason {0is here, at his workbench.
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60101
+ancient anunnaki~
+{wAn {^A{6n{2cient{0~
+{wA {^C{6o{2njurer{0 is here, showing you visions of many worlds.
+~
+~
+human~
+ABRV 0 0 0 0
+75 150 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60102
+temple guard anunnaki~
+{8T{0he {@Te{^mp{6l{2e {6G{^ua{@rd{0~
+{8T{0he {@Te{^mp{6l{2e {6G{^ua{@rd{0 is here, protecting the Temple of {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0.
+~
+~
+human~
+ABV 0 0 0 0
+100 200 20000d1+50000 1d1+0 25d25+450 punch
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60103
+hermit anunnaki~
+{wThe {^H{6e{2rmit{0~
+A {^l{6o{2ner{0 is here, being one with nature.
+~
+~
+human~
+ABJV 0 0 0 0
+75 150 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60104
+armagedon clan healer~
+{wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wH{Dealer{x~
+{wThe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60105
+armagedon clan shopkeep~
+{wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x~
+{wThe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{w pushes a trolley full of goodies around.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60106
+technologist anunnaki~
+{wThe {^T{6e{2chnologist{0~
+{wA {^m{6a{2stermind{0 is here, engineering amazing objects.
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60107
+elder anunnaki~
+{8T{whe {@E{^l{2de{6r{0~
+{8T{whe {@E{^l{2de{6r{0 is greeting you, looking as old as {^t{6i{2m{@e{0 itself.
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60108
+chemist anunnaki~
+{8A {@C{6h{2emist{0~
+{8A{wn {@al{6i{2en{0 is hunched over here, pouring the contents of one vial into another{0.
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60150
+greed clan mason~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dason{x~
+{wThe {x{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dason{w stands in the corner mixing cement.{x
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60151
+greed clan trainer~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wT{Drainer{x~
+{wThe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wT{Drainer{w stands here, whip in hand.{x
+~
+~
+human~
+ABJV 0 0 0 0
+133 266 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60152
+greed clan blacksmith~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wB{Dlacksmith{x~
+{wThe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wB{Dlacksmith{w hammers away at a red-hot piece of steel.{x
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60153
+greed clan mage~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dage{x~
+{wThe {x{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dage{w shoots fireballs at the wall.{x
+~
+~
+human~
+ABRV 0 0 0 0
+75 150 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60154
+greed clan shopkeep~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{x~
+{wThe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{w pushes a trolley full of goodies around.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60155
+greed clan healer~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dealer{x~
+{wThe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60156
+greed clan tanner~
+{wthe {G${gG{wr{Ge{we{gd{G${x {wC{Dlan {wT{Danner{x~
+{wThe {G${gG{wr{Ge{we{gd{G${x {wC{Dlan {wT{Danner {wworks hard preserving hides.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60157
+greed questor ~
+{7The {@${2G{7r{@e{7e{2d{@$ {7Q{8uestor{x~
+{7The {@${2G{7r{@e{7e{2d{@$ {7Q{8uest {7M{8aster {7tries to look cool by not giving out quests.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60158
+greed clan pet~
+{wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wP{Det{x~
+{wThe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wP{Det{w tries to look inconspicuous in the corner of the room.{x
+~
+~
+human~
+AI U H 0 0
+105 210 500d1+50000 5000d1+0 1d1+500 magic
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A -1
+#60200
+gisli clan guard yggdrasill~
+{WG{8isli{x, {WC{8lan {WG{8uard{x~
+{8Gisli, The guardian of {W(Y{8ggdrasill{W){x
+~
+~
+human~
+ABV 0 0 0 0
+100 200 20000d1+0 1d1+0 25d25+0 punch
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60201
+gunnar clan mason yggdrasill~
+{WG{8unnar{x {WC{8lan {WM{8ason{x~
+{WG{8unnar, {8is here tending to the {W(Y{8ggdrasill{w){x
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60202
+scotty silent merchant guardian~
+{WS{Dcotty, the {WS{Dilent {WM{Derchant{x~
+{WS{Dcotty silently awaits your business{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60203
+guardian clan blacksmith~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wB{Dlacksmith{x~
+{wThe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wB{Dlacksmith{w hammers away at a red-hot piece of steel.{x
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60204
+guardian clan healer~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wH{Dealer{x~
+{wThe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60205
+guardian clan mage~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wM{Dage{x~
+{wThe {x{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wM{Dage{w shoots fireballs at the wall.{x
+~
+~
+human~
+ABRV 0 0 0 0
+75 150 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60206
+guardian clan trainer~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wT{Drainer{x~
+{wThe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wT{Drainer{w stands here, whip in hand.{x
+~
+~
+human~
+ABJV 0 0 0 0
+106 212 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60207
+guardian clan quest master~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wQ{Duest {wM{Daster{x~
+{wThe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wQ{Duest {wM{Daster{w tries to look cool by not giving out quests
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60208
+guardian clan pet~
+{wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wP{Det{x~
+{wThe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wP{Det{w tries to look inconspicuous in the corner of the room.{x
+~
+~
+human~
+AI T 0 0 0
+106 212 500d1+16000 5000d1+0 1d1+420 typo
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60250
+auschwitz clan guard~
+{wthe{x {x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wG{Duard{x~
+{wThe {x{x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wG{Duard{w stands to attention.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 200 20000d1+50000 1d1+0 25d25+71 punch
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60251
+auschwitz clan mason~
+{wthe{x {x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wM{Dason{x~
+{wThe {x{x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wM{Dason{w stands in the corner mixing cement.{x
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60252
+council clan mage~
+{wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wM{Dage{x~
+{wThe {x{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wM{Dage{w shoots fireballs at the wall.{x
+~
+~
+human~
+ABRV 0 0 0 0
+100 200 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60253
+council clan trainer~
+{wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wT{Drainer{x~
+{wThe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wT{Drainer{w stands here, whip in hand.{x
+~
+~
+human~
+ABJV 0 0 0 0
+100 200 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60254
+council clan shopkeep~
+{wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x~
+{wThe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{w pushes a trolley full of goodies around.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60255
+council clan blacksmith~
+{wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wB{Dlacksmith{x~
+{wThe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wB{Dlacksmith{w hammers away at a red-hot piece of steel.{x
+~
+~
+human~
+ABV 0 0 0 0
+50 100 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60256
+council clan healer~
+{wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wH{Dealer{x~
+{wThe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60257
+order council ~
+{b]{8O{wr{Wd{we{8r of the Co{wu{Wn{wc{8il{b[{x~
+{b]{8O{wr{Wd{we{8r of the Co{wu{Wn{wc{8il{b[ {8reigns here.{x
+~
+~
+human~
+AI 0 0 0 0
+83 166 500d1+22000 5000d1+0 1d1+291 wrath
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60258
+macgruber council~
+{8Ma{wcGrub{8er{x~
+{8Ma{wcGrub{8er is here, ripping throats.
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60300
+bamf clan mason~
+{wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dason{x~
+{wThe {x{D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dason{w stands in the corner mixing cement.{x
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60301
+bamf clan mage~
+{wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dage{x~
+{wThe {x{D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dage{w shoots fireballs at the wall.{x
+~
+~
+human~
+ABRV 0 0 0 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60302
+bamf clan evil priest~
+{wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {RE{rvil {wP{Driest{x~
+{wThe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {RE{rvil {wP{Driest{w stands in a pool of shadows.{x
+~
+~
+human~
+ABQVX 0 0 -1000 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60350
+honor clan mason ~
+the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wM{8ason{x~
+The {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wM{8ason{x stands in the corner mixing cement.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60351
+honor clan shopkeep ~
+the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hopkeep{x~
+The {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hopkeep{x pushes a trolley full of goodies around.
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60352
+honor clan blacksmith ~
+the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wB{8lacksmith{x~
+The {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wB{8lacksmith{x hammers away at a red-hot piece of steel.
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#60353
+honor clan healer~
+{wthe{x {8={3={7[{8>>{1H{#o{1n{#o{1r{8>> {wC{Dlan {wH{Dealer{x~
+{wThe{x {8={3={7[{8>>{1H{#o{1n{#o{1r{8>> {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A 0
+#0
+
+
+
+#OBJECTS
+#60100
+mirror portal~
+a foggy mirror, in it written by hand 'Temporary fix"~
+Just enter it.~
+unknown~
+portal 0 0
+0 H 0 BCGHIJL 0
+0 0 0 P
+#60101
+portal reality  anunnaki~
+{@A po{2rtal to {6rea{2lity.{0 ~
+{@A po{2rtal to {6rea{2lity.{0 ~
+unknown~
+portal R 0
+0 0 B BCGHIJL 0
+0 0 0 P
+#60102
+recreation anunnaki~
+{@//{^Re{6c{2r{6ea{2t{6i{^on{@\\{0~
+{@//{^Re{6c{2r{6ea{2t{6i{^on{@\\{0 is here, picking up the pieces.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+15 5 5000 P
+A
+18 15
+A
+17 -26
+A
+20 -8
+A
+13 125
+A
+19 35
+A
+28 5
+A
+26 5
+#60103
+devastation anunnaki~
+{@//{^De{6v{2a{6sta{2t{6i{^on{@\\{0~
+{@//{^De{6v{2a{6sta{2t{6i{^on{@\\{0 is here, devouring everything.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+15 5 5000 P
+A
+5 5
+A
+18 35
+A
+20 -8
+A
+19 35
+A
+13 250
+A
+17 -30
+A
+28 5
+A
+26 5
+A
+3 5
+A
+1 5
+A
+4 5
+A
+2 5
+#60104
+vision blackwater park anunnaki~
+{6A{0 {@vision{0 {6of B{8lackwater {@P{8ark{@.{0~
+{6A{0 {@vision{0 {6of B{8lackwater {@P{8ark{@.{0~
+unknown~
+portal R 0
+0 0 B ABEFIJKNP 0
+0 0 0 P
+#60105
+vision kingdoms anunnaki~
+{6A{0 {@vision{0 {6of K{^ingdoms{@.{0~
+{6A{0 {@vision{0 {6of K{^ingdoms{@.{0~
+unknown~
+portal R 0
+0 0 B HKO 0
+0 0 0 P
+#60106
+anunnaki attack scroll ~
+{wA{8n{0 {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0 {wA{8ttack{0 {wS{8croll{0~
+{wA{8n{0 {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0 {wA{8ttack{0 {wS{8croll{0 is here, with strange radiating symbols.~
+unknown~
+scroll 0 A
+30 'prismatic spray' 'reserved' 'reserved' 'reserved'
+15 1 5000 P
+#60107
+anunnaki offensive potion ~
+{@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0 {wO{8ffensive{0 {wP{8otion{0~
+An {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0 {wO{8ffensive{0 {wP{8otion{0 lies here, waiting to be used.~
+unknown~
+potion 0 AO
+115 'haste' 'giant strength' 'bless' 'reserved'
+15 5 5000 P
+#60150
+greed~
+{G${g${w${G${w${g${G~
+{G${g${w${G${w${g${G shimmers here.~
+unknown~
+armor 0 AV
+0 0 0 0 0
+15 5 5000 P
+A
+28 5
+A
+20 -8
+A
+26 5
+A
+17 -30
+A
+18 35
+A
+19 35
+A
+13 250
+A
+14 125
+#60151
+greed portal flyingmountain~
+{G${gG{wr{Ge{we{gd{G$ {dC{Dlan {dP{Dortal{x~
+Portal to Flying Mountain~
+unknown~
+portal R 0
+0 0 B BEFHIJKMN 0
+0 0 0 P
+#60152
+greed portal plordsiceberg~
+{G${gG{wr{Ge{we{gd{G$ {dC{Dlan {dP{Dortal{x~
+Portal to Iceberg~
+unknown~
+portal R 0
+0 0 B ACGHIJKMN 0
+0 0 0 P
+#60153
+greed gold chain ~
+{@${2G{7r{@e{7e{2d{@$ {#Gold {2C{7h{@a{7i{2n{x~
+Armor belonging to {G${gG{wr{Ge{we{gd{G$ is waiting to take shape.~
+unknown~
+armor 0 AC
+0 0 0 0 0
+15 5 5000 P
+A
+20 -8
+A
+28 5
+A
+26 5
+A
+13 250
+A
+17 -30
+A
+18 35
+A
+19 35
+A
+5 2
+A
+4 2
+A
+3 2
+#60154
+greed portal kingdoms~
+{G${gG{wr{Ge{we{gd{G$ {dC{Dlan {dP{Dortal{x~
+Portal to Kingdoms~
+unknown~
+portal R 0
+0 0 B HKO 0
+0 0 0 P
+#60155
+portal bwp greed~
+Portal to BWP~
+Portal to Blackwater Park~
+unknown~
+portal R 0
+0 0 B ABEFIJKNP 0
+0 0 0 P
+#60156
+greed gold anklet ~
+{@${2G{7r{@e{7e{2d{@$ {#Gold {2A{7n{@kl{7e{2t{x~
+Armor belonging to {G${gG{wr{Ge{we{gd{G$ is waiting to take shape.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+15 5 5000 P
+A
+28 5
+A
+13 250
+A
+20 -8
+A
+19 35
+A
+18 35
+A
+17 -30
+A
+26 5
+#60200
+guardian ankleguards ~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn<{x {WA{Dn{wk{Wl{De{wg{Wu{Da{wr{Wd{Ds{x~
+>Guardian< Ankleguards lie here waiting for their rightful owner.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+15 5 5000 P
+A
+20 -8
+A
+26 5
+A
+17 -30
+A
+18 35
+A
+19 35
+A
+13 250
+#60201
+guardian portal midgaard~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {dC{Dlan {dP{Dortal{x~
+A Portal To Midgaard Floats Here.~
+unknown~
+portal R 0
+0 0 B BCGHIJL 0
+0 0 0 P
+#60202
+guardian portal blackwater~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {dC{Dlan {dP{Dortal{x~
+A Portal To Blackwater Floats Here.~
+unknown~
+portal R 0
+0 0 B ABEFIJKNP 0
+0 0 0 P
+#60203
+guardian portal kingdoms~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {dC{Dlan {dP{Dortal{x~
+A Portal To Kingdoms Floats Here.~
+unknown~
+portal R 0
+0 0 B HKO 0
+0 0 0 P
+#60204
+guardian wand~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {dW{Dand{x~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< clan wand lies here.~
+unknown~
+wand 0 AO
+30 5 5 'resurrect' 0
+15 5 5000 P
+#60205
+guardian protection ~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {DP{wr{Wo{wt{De{wc{Wt{Di{wo{Wn{x~
+Armor belonging to {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< is waiting to take shape.~
+unknown~
+armor 0 AC
+0 0 0 0 0
+15 5 5000 P
+A
+18 35
+A
+26 5
+A
+20 -8
+A
+17 -30
+A
+19 35
+A
+13 250
+#60206
+guardian light~
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wL{Dight{x~
+A light belonging to {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< is here.~
+unknown~
+light 0 A
+0 0 CDEF 0 0
+0 15 5000 P
+A
+13 250
+A
+17 -30
+A
+18 35
+A
+19 35
+A
+20 -8
+#60250
+council portal kingdoms ~
+council portal kingdoms~
+{WP{Dor{Wt{Wal {wto {DKi{Wn{Dgd{Wo{Dms{x~
+unknown~
+portal R 0
+0 0 B HKO 0
+0 0 0 P
+#60251
+binds council ~
+{8Bi{wn{Wd{8s of the {B]{8Co{wu{Wn{wc{8il{B[{x~
+The MIGHTY {8Bi{wn{Wd{8s of the {B]{8Co{wu{Wn{wc{8il{B[{x is lying here on the floor...~
+unknown~
+armor 0 AB
+0 0 0 0 0
+15 5 5000 P
+A
+18 35
+A
+20 -8
+A
+17 -30
+A
+19 35
+A
+9 20
+A
+13 250
+A
+2 5
+A
+26 5
+#60252
+mortem council~
+{B]{DM{Wo{Drt{We{DM{B[{x~
+Armor belonging to {X{B]{8Co{wu{Wn{wc{8il{B[ is waiting to take shape.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+15 5 5000 P
+A
+26 5
+A
+13 250
+A
+9 20
+A
+17 -30
+A
+19 35
+A
+18 35
+A
+20 -8
+#60253
+chilling sofa council~
+Chilling Sofa~
+Chilling Sofa~
+unknown~
+furniture R 0
+BC FIJ BEHK CFG CFG
+0 0 0 P
+#60254
+portal council bwp ~
+portal council bwp~
+{WP{Dor{Wt{Wal {wto {DBl{Wac{Dk{WWa{Wt{Der{x~
+unknown~
+portal R 0
+0 0 B ABEFIJKNP 0
+0 0 0 P
+#60255
+fountain youth council ~
+fountain youth council~
+{WF{wou{Wn{wtai{Wn {wof {WY{wou{Wt{wh{x~
+unknown~
+fountain R 0
+-1 -1 'milk' 0 0
+0 0 0 P
+#60256
+stench your demise council~
+{b]{8Th{we {8St{we{Wn{8ch of {8Yo{wu{8r De{wm{Wi{ws{8e{b[{x~
+{b]{8Th{we {8St{we{Wn{8ch of {8Yo{wu{8r De{wm{Wi{ws{8e{b[{x~
+unknown~
+scroll 0 A
+101 'heat metal' 'dispel magic' 'faerie fire' 'reserved'
+15 1 5000 P
+#60257
+oblivion council~
+{b]{8O{Wb{wl{8iv{wi{Wo{8n{b[{x~
+Your oblivion lies before you.~
+unknown~
+scroll A A
+101 'acid rain' 'acid breath' 'acid blast' 'reserved'
+15 1 5000 P
+#60258
+your destruction council~
+{B]{8Yo{wu{8r D{we{8stru{yc{8ti{wo{8n{B[{x~
+THIS IS YOUR DESTRUCTION!~
+unknown~
+wand 0 AO
+30 0 0 'reserved' 0
+15 5 5000 P
+#60259
+council light~
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wL{Dight{x~
+A light belonging to {X{B]{8Co{wu{Wn{wc{8il{B[ is here.~
+unknown~
+light 0 A
+0 0 AC 0 0
+0 15 5000 P
+A
+9 5
+#60260
+grip council ~
+{8Gr{wi{8p of the {B]{8Co{wu{Wn{wc{8il{B[{x~
+{8The {B]{8Co{wu{Wn{wc{8il{B[ {8is here, trying to get their grip on you.{x~
+unknown~
+armor 0 AH
+0 0 0 0 0
+15 5 5000 P
+A
+18 35
+A
+19 35
+A
+13 100
+A
+17 -30
+A
+20 -8
+#60350
+honor bindes  ~
+={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {rB{Yin{rd{Yes{x ~
+={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {rB{Yin{rd{Yes{x~
+unknown~
+armor 0 AC
+0 0 0 0 0
+15 5 5000 P
+#60351
+honor shackles ~
+={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {rSh{Yack{rles{x~
+={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {rSh{Yack{rles{x~
+unknown~
+armor 0 AT
+0 0 0 0 0
+15 5 5000 P
+A
+13 97
+A
+17 -30
+#0
+
+
+
+#ROOMS
+#70000
+Clan Pet Room~
+If you are here, you shouldn't be.
+~
+0 573708 0
+S
+#60100
+{^E{6num{2a {^E{6li{2s{0~
+You come to, realizing you aren't where you once were. You are surrounded by strange alien
+{^e{6n{2titi{6e{^s{0. These foreign beings seem to be intelligent beyond belief. They look at you with a mixture of
+intrigue and skepticism. You get the feeling that some of these {^e{6n{2titi{6e{^s{0 that are staring at you have
+known you since before you developed this identity, like you were acquaintances since the beginning of
+{^t{6i{2m{@e{0.
+     The new world you are on is nothing like the Earthly realm that you are used to. The lands of
+this place are {8solid black{0, and the night never seems to end. As you look out into the sky, you realize
+that you can see every planet, star, and galaxy in it's {@p{#r{$i{%m{^or{%d{$i{#a{@l{0 form. The atmosphere is thin, and your
+breaths become shallow. There are multiple exits leading off to the above-ground courtyard. Down
+leads into the Temple of the {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0. . .
+~
+0 12 0
+D0
+~
+~
+0 0 60105
+D1
+~
+~
+0 0 60102
+D2
+~
+~
+0 0 60106
+D3
+~
+~
+0 0 60101
+D4
+~
+~
+0 0 18076
+D5
+~
+~
+0 0 60103
+S
+#60101
+{wThe Gateways Beside the {@T{^e{2mple{0~
+In the western courtyard, {2p{6o{2r{6t{2a{6l{2s{0 surround the edges of the area. These
+portals vibrate with colors of {^b{6l{^u{6e{0 and {@g{2r{@e{2e{@n{0. As you peer into each one,
+you see distant lands. They arc back and forth in between each other with {3el{We{#ctric{Wi{3ty{0.
+You look around as you here mysterious chanting coming from the center of the crowd. Scanning the
+courtyard, you see an old, powerful {6c{2o{6njurer{0. She is chanting in an odd tongue, and this is
+keeping the {2p{6o{2r{6t{2a{6l{2s{0 in place. She is still communicating with the crowd, but she
+eyes you as you enter the group.
+~
+0 12 0
+D1
+~
+~
+0 0 60100
+S
+#60102
+{wA Field East of the {@T{^e{2mple{0~
+The courtyard turns into a field of {#golden{0, {@green{0, and {Wwhite{0 plants growing in
+the {8black{0 dirt. The field reacts with you, and every other organism. You catch glances of
+unintelligent alien life running though the plants across the ground.
+   In the middle of the dense fauna, a hermit sits speaking telepathically with the alien life. The
+Earthian equivalent of birds, rodents, and small mammals gather around him with a curious intent. The
+alien life becomes weary but stays in place as you approach.
+~
+0 12 0
+D3
+~
+~
+0 0 60100
+S
+#60103
+{wThe {^M{6ys{2t{6ical Entr{2a{6nc{^e {wChamber{0~
+This is the good shrine of {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c|{x.
+~
+0 12 0
+D4
+~
+~
+0 0 60100
+D5
+~
+~
+0 0 60104
+S
+#60104
+{wThe {@T{^e{2mple {wSquare of the {@//{^A{6n{2u{6nn{2a{6k{^i{@\\{0~
+This is the shop of {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c|{x.
+~
+0 12 0
+D4
+~
+~
+0 0 60103
+S
+#60105
+{wA Building North of the {@T{^e{2mple{0~
+As you enter a building, you see a good portion of {8t{wech{8n{wology{0 that you will never
+comprehend. These inventions are millions, if not billions, of years ahead of that cell phone you're
+using. However, you are fascinated with how in tune this civilization is with themselves, nature, and
+their technology. They have {@a{^s{6c{2en{6d{^e{@d{0 to a higher existence, one that is
+inconceivable for the modern man.
+   One of the individuals in here takes notice in your interest and calls you over. The
+{^m{6a{2stermind{0 is happy to show off his inventions and possessions to any passerby. The use of
+these inventions range from a networking system of beacons at all edges of the
+{@u{#n{$i{%ve{$r{#s{@e{0, to a force distributor that will hold matter together during extreme
+conditions.
+~
+0 12 0
+D2
+~
+~
+0 0 60100
+S
+#60106
+{wThe Courtyard South of the {@T{^e{2mple{0~
+Here in the courtyard, you see different, almost {2u{^n{2real{0 individuals bustling around.
+There seems to be only one caste here, but you can tell that many proficiencies exist within the
+community. While there seems to be a spoken language, it seems as the smarter aliens are
+communicating through {%t{8e{%l{8e{%p{8a{%t{Wh{8y{0. As you hear an {!e{8x{!p{8l{!o{8s{!i{8o{!n{0,
+you see smoke bellowing out from over the crowd.
+The loud {!e{8x{!p{8l{!o{8s{!i{8o{!n{0 doesn't bother anyone, except you. As you peer
+through the crowd, you try to find the source of the loud noise. You make your way through these weird
+beings, and end up staring at one of these aliens that is covered in {8soot{0.
+~
+0 12 0
+D0
+~
+~
+0 0 60100
+S
+#60150
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dall{x~
+This is the clan hall of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D0
+~
+~
+0 0 60157
+D1
+~
+~
+0 0 60151
+D2
+~
+~
+0 0 60154
+D3
+~
+~
+0 0 60152
+D4
+~
+~
+0 0 60153
+D5
+~
+~
+0 0 3503
+S
+#60151
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dmithy{x~
+This is the smithy of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D3
+~
+~
+0 0 60150
+S
+#60152
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wT{Drainer's {wR{Doom{x~
+This is the trainer's room of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D1
+~
+~
+0 0 60150
+D3
+~
+~
+0 0 60156
+S
+#60153
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wW{Dorkshop{x~
+This is the mage's workshop of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D4
+~
+~
+0 0 60155
+D5
+~
+~
+0 0 60150
+S
+#60154
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhop{x~
+This is the shop of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D0
+~
+~
+0 0 60150
+S
+#60155
+$Greed$ Evil Shrine~
+This is the evil shrine of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D5
+~
+~
+0 0 60153
+S
+#60156
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wT{Dannery{x~
+This is the tannery of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 12 0
+D1
+~
+~
+0 0 60152
+S
+#60157
+{G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dtable{x~
+This is the stable of {G${gG{wr{Ge{we{gd{G${x.
+~
+0 4108 0
+D2
+~
+~
+0 0 60150
+S
+#60200
+{w>{DG{Wu{wa{Dr{Wd{wi{Da{Wn{ws{D<{x Room of Defense.~
+{WYou stand before a gigantic tree reaching out across all the Nine worlds of Asgard.{x
+{WThe {W(Y{8ggdrasills{W){x {Wbeauty are can not be described with words, there is something unusual about this tree.{x
+{WIt seems to have a golden glow to it. As you look closer at the thick branches above, you notice its full of life.
+{WBirds and other critters seem to feel at home here. Living in peace and quiet.{x
+{WFrom what you've gathered so far this is {rNOT{x {Wa regular tree.{x
+~
+0 524300 0
+D4
+~
+~
+0 0 60201
+D5
+~
+~
+0 0 600
+S
+#60201
+{WG{Duardian {WC{Dlan {WS{Dhop{x~
+This is the Loot shop, Scotty will buy and sell just about anything you might need.
+~
+0 12 0
+D0
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60203
+D5
+~
+~
+0 0 60200
+S
+#60202
+Guardian Clan Smithy~
+This is the smithy room of the Guardian.
+~
+0 12 0
+D0
+~
+~
+0 0 60204
+D2
+~
+~
+0 0 60201
+S
+#60203
+{w>{DG{Wu{wa{Dr{Wd{wi{Da{Wn{ws{D<{x {WS{Dhrine of {WH{Dealth{x~
+This is the Shrine of healing and relaxation. The faithfull cleric stands here in service.
+~
+0 12 0
+D0
+~
+~
+0 0 60201
+S
+#60204
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wW{Dorkshop{x~
+This is the mage's workshop of {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w<{x.
+~
+0 12 0
+D2
+~
+~
+0 0 60202
+D3
+~
+~
+0 0 60205
+S
+#60205
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wT{Drainer's {wR{Doom{x~
+This is the trainer's room of {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w<{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60206
+D1
+~
+~
+0 0 60204
+S
+#60206
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wS{Dtable{x~
+This is the stable of {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w<{x.
+~
+0 4108 0
+D2
+~
+~
+0 0 60205
+S
+#60250
+{8Co{wu{Wn{wc{8il{B{x's {DR{Wecall{x~
+{8The members of the {b]{8Co{wu{Wn{wc{8il{b[ {8gather here. 
+~
+0 12 0
+D0
+~
+~
+0 0 60251
+D1
+~
+~
+0 0 60255
+D4
+~
+~
+0 0 1481
+D5
+~
+~
+0 0 60252
+S
+#60251
+{x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wS{Dmithy{x~
+This is the smithy of {x{B]{8Au{wsc{Wh{wwi{8tz{B[{x.
+~
+0 12 0
+D2
+~
+~
+0 0 60250
+D5
+~
+~
+0 0 60254
+S
+#60252
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wW{Dorkshop{x~
+This is the mage's workshop of {X{B]{8Co{wu{Wn{wc{8il{B[{x.
+~
+0 12 0
+D1
+~
+~
+0 0 60253
+D3
+~
+~
+0 0 60256
+D4
+~
+~
+0 0 60250
+S
+#60253
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wT{Drainer's {wR{Doom{x~
+This is the trainer's room of {X{B]{8Co{wu{Wn{wc{8il{B[{x.
+~
+0 12 0
+D3
+~
+~
+0 0 60252
+S
+#60254
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhop{x~
+This is the shop of {X{B]{8Co{wu{Wn{wc{8il{B[{x.
+~
+0 12 0
+D4
+~
+~
+0 0 60251
+S
+#60255
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {RE{rvil {wS{Dhrine{x~
+This is the evil shrine of {X{B]{8Co{wu{Wn{wc{8il{B[{x.
+~
+0 12 0
+D3
+~
+~
+0 0 60250
+S
+#60256
+{X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dtable{x~
+This is the stable of {X{B]{8Co{wu{Wn{wc{8il{B[{x.
+~
+0 4108 0
+D1
+~
+~
+0 0 60252
+S
+#60300
+{DCo{wu{Wn{wc{Dil{w's {DR{Wecall{x~
+{x
+~
+0 12 0
+D4
+~
+~
+0 0 18098
+D5
+~
+~
+0 0 60301
+S
+#60301
+The Courtyard South of the {GT{Ce{gmple{x~
+This is the mage's workshop of {D-{w-{D>{R BAMF {D<{w-{D-{x.
+~
+0 12 0
+D2
+~
+~
+0 0 60302
+D4
+~
+~
+0 0 60300
+S
+#60302
+{w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< C{Dlan {wT{Drainer's {wR{Doom{x~
+This is the evil shrine of {D-{w-{D>{R BAMF {D<{w-{D-{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60301
+S
+#60350
+{x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>>{w C{8lan {wH{8all{x~
+You since a room displayed by distinguished soldiers.
+Shining their armor and weapons to represent.
+The soldiers are proud members of {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>>.
+~
+0 12 0
+D0
+~
+~
+0 0 60353
+D4
+~
+~
+0 0 60351
+D5
+~
+~
+0 0 3001
+S
+#60351
+{x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hop{x~
+The local shop of {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>>.
+~
+0 12 0
+D4
+~
+~
+0 0 60352
+D5
+~
+~
+0 0 60350
+S
+#60352
+{x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8mithy{x~
+This is the smithy of ({RH{Yo{Rn{Yo{Rr{x){x.
+~
+0 12 0
+D5
+~
+~
+0 0 60351
+S
+#60353
+{8={3={7[{8>>{1H{#o{1n{#o{1r{8>> {wC{Dlan {WG{wood {wS{Dhrine{x~
+This is the good shrine of {8={3={7[{8>>{1H{#o{1n{#o{1r{8>>{x.
+~
+0 12 0
+D2
+~
+~
+0 0 60350
+S
+#0
+
+
+
+#SPECIALS
+M 60101 spec_cast_mage Load to: {wAn {^A{6n{2cient{0
+M 60104 spec_cast_clan_adept Load to: {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wH{Dealer{x
+M 60106 spec_smith Load to: {wThe {^T{6e{2chnologist{0
+M 60107 spec_questmaster Load to: {8T{whe {@E{^l{2de{6r{0
+M 60108 spec_dog_pee Load to: {8A {@C{6h{2emist{0
+M 60152 spec_smith Load to: {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wB{Dlacksmith{x
+M 60153 spec_cast_mage Load to: {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dage{x
+M 60155 spec_cast_clan_adept Load to: {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dealer{x
+M 60157 spec_questmaster Load to: {7The {@${2G{7r{@e{7e{2d{@$ {7Q{8uestor{x
+M 60203 spec_smith Load to: {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wB{Dlacksmith{x
+M 60204 spec_cast_clan_adept Load to: {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wH{Dealer{x
+M 60205 spec_cast_mage Load to: {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wM{Dage{x
+M 60207 spec_questmaster Load to: {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wQ{Duest {wM{Daster{x
+M 60252 spec_cast_mage Load to: {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wM{Dage{x
+M 60255 spec_smith Load to: {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wB{Dlacksmith{x
+M 60256 spec_cast_clan_adept Load to: {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wH{Dealer{x
+M 60258 spec_questmaster Load to: {8Ma{wcGrub{8er{x
+M 60301 spec_cast_mage Load to: {wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dage{x
+M 60302 spec_cast_cleric Load to: {wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {RE{rvil {wP{Driest{x
+M 60352 spec_smith Load to: the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wB{8lacksmith{x
+M 60353 spec_cast_clan_adept Load to: {wthe{x {8={3={7[{8>>{1H{#o{1n{#o{1r{8>> {wC{Dlan {wH{Dealer{x
+S
+
+
+
+#RESETS
+M 0 60257 1 70000 1 *Load {b]{8O{wr{Wd{we{8r of the Co{wu{Wn{wc{8il{b[{x
+M 0 60208 1 70000 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wP{Det{x
+M 0 60158 1 70000 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wP{Det{x
+M 0 60100 1 60100 1 *Load {8T{whe {@Jo{^ur{6n{2e{6y{^m{@an{0
+M 0 60102 1 60100 1 *Load {8T{0he {@Te{^mp{6l{2e {6G{^ua{@rd{0
+O 0 60101 0 60100 *{@a po{2rtal to {6rea{2lity.{0  loaded to {^E{6num{2a {^E{6li{2s{0
+M 0 60107 1 60100 1 *Load {8T{whe {@E{^l{2de{6r{0
+M 0 60101 1 60101 1 *Load {wAn {^A{6n{2cient{0
+O 0 60104 0 60101 *{6a{0 {@vision{0 {6of b{8lackwater {@p{8ark{@.{0 loaded to {wThe Gateways Beside the {@T{^e{2mple{0
+O 0 60105 0 60101 *{6a{0 {@vision{0 {6of k{^ingdoms{@.{0 loaded to {wThe Gateways Beside the {@T{^e{2mple{0
+M 0 60103 1 60102 1 *Load {wThe {^H{6e{2rmit{0
+M 0 60104 1 60103 1 *Load {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wH{Dealer{x
+M 0 60105 1 60104 1 *Load {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x
+G 0 60102 0 *{@//{^re{6c{2r{6ea{2t{6i{^on{@\\{0 is given to {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x
+G 0 60103 0 *{@//{^de{6v{2a{6sta{2t{6i{^on{@\\{0 is given to {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x
+G 0 60106 0 *{wa{8n{0 {@//{^a{6n{2u{6nn{2a{6k{^i{@\\{0 {wa{8ttack{0 {ws{8croll{0 is given to {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x
+G 0 60107 0 *{@//{^a{6n{2u{6nn{2a{6k{^i{@\\{0 {wo{8ffensive{0 {wp{8otion{0 is given to {wthe{x {c|{D{c{RAr{Dm{ra{Dg{re{Dd{Ron{c{D{c| {wC{Dlan {wS{Dhopkeep{x
+M 0 60106 1 60105 1 *Load {wThe {^T{6e{2chnologist{0
+M 0 60108 1 60106 1 *Load {8A {@C{6h{2emist{0
+M 0 60150 1 60150 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dason{x
+O 0 60151 0 60150 *{g${gg{wr{ge{we{gd{g$ {dc{dlan {dp{dortal{x loaded to {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dall{x
+O 0 60152 0 60150 *{g${gg{wr{ge{we{gd{g$ {dc{dlan {dp{dortal{x loaded to {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dall{x
+O 0 60154 0 60150 *{g${gg{wr{ge{we{gd{g$ {dc{dlan {dp{dortal{x loaded to {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dall{x
+O 0 60155 0 60150 *Portal to bwp loaded to {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dall{x
+M 0 60157 1 60150 1 *Load {7The {@${2G{7r{@e{7e{2d{@$ {7Q{8uestor{x
+M 0 60152 1 60151 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wB{Dlacksmith{x
+M 0 60151 1 60152 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wT{Drainer{x
+M 0 60153 1 60153 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wM{Dage{x
+M 0 60154 1 60154 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{x
+G 0 60150 0 *{g${g${w${g${w${g${g is given to {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{x
+G 0 60153 0 *{@${2g{7r{@e{7e{2d{@$ {#gold {2c{7h{@a{7i{2n{x is given to {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{x
+G 0 60156 0 *{@${2g{7r{@e{7e{2d{@$ {#gold {2a{7n{@kl{7e{2t{x is given to {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wS{Dhopkeep{x
+M 0 60155 1 60155 1 *Load {wthe{x {G${gG{wr{Ge{we{gd{G$ {wC{Dlan {wH{Dealer{x
+M 0 60156 1 60156 1 *Load {wthe {G${gG{wr{Ge{we{gd{G${x {wC{Dlan {wT{Danner{x
+M 0 60200 1 60200 1 *Load {WG{8isli{x, {WC{8lan {WG{8uard{x
+M 0 60201 1 60200 1 *Load {WG{8unnar{x {WC{8lan {WM{8ason{x
+M 0 60207 1 60200 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wQ{Duest {wM{Daster{x
+M 0 60202 1 60201 1 *Load {WS{Dcotty, the {WS{Dilent {WM{Derchant{x
+G 0 60200 0 *{w>{dg{wu{wa{dr{wd{wi{da{wn<{x {wa{dn{wk{wl{de{wg{wu{da{wr{wd{ds{x is given to {WS{Dcotty, the {WS{Dilent {WM{Derchant{x
+G 0 60204 0 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {dw{dand{x is given to {WS{Dcotty, the {WS{Dilent {WM{Derchant{x
+G 0 60205 0 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {dp{wr{wo{wt{de{wc{wt{di{wo{wn{x is given to {WS{Dcotty, the {WS{Dilent {WM{Derchant{x
+G 0 60206 0 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {wl{dight{x is given to {WS{Dcotty, the {WS{Dilent {WM{Derchant{x
+M 0 60203 1 60202 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wB{Dlacksmith{x
+M 0 60204 1 60203 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wH{Dealer{x
+O 0 60201 0 60203 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {dc{dlan {dp{dortal{x loaded to {w>{DG{Wu{wa{Dr{Wd{wi{Da{Wn{ws{D<{x {WS{Dhrine of {WH{Dealth{x
+O 0 60202 0 60203 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {dc{dlan {dp{dortal{x loaded to {w>{DG{Wu{wa{Dr{Wd{wi{Da{Wn{ws{D<{x {WS{Dhrine of {WH{Dealth{x
+O 0 60203 0 60203 *{w>{dg{wu{wa{dr{wd{wi{da{wn{w< {dc{dlan {dp{dortal{x loaded to {w>{DG{Wu{wa{Dr{Wd{wi{Da{Wn{ws{D<{x {WS{Dhrine of {WH{Dealth{x
+M 0 60205 1 60204 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wM{Dage{x
+M 0 60206 1 60205 1 *Load {wthe{x {w>{DG{wu{Wa{Dr{wd{Wi{Da{wn{w< {wC{Dlan {wT{Drainer{x
+M 0 60250 1 60250 1 *Load {wthe{x {x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wG{Duard{x
+M 0 60251 1 60250 1 *Load {wthe{x {x{B]{8Au{wsc{Wh{wwi{8tz{B[ {wC{Dlan {wM{Dason{x
+O 0 60250 0 60250 *Council portal kingdoms loaded to {8Co{wu{Wn{wc{8il{B{x's {DR{Wecall{x
+O 0 60253 0 60250 *Chilling sofa loaded to {8Co{wu{Wn{wc{8il{B{x's {DR{Wecall{x
+O 0 60254 0 60250 *Portal council bwp loaded to {8Co{wu{Wn{wc{8il{B{x's {DR{Wecall{x
+O 0 60255 0 60250 *Fountain youth council loaded to {8Co{wu{Wn{wc{8il{B{x's {DR{Wecall{x
+M 0 60258 1 60250 1 *Load {8Ma{wcGrub{8er{x
+M 0 60255 1 60251 1 *Load {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wB{Dlacksmith{x
+M 0 60252 1 60252 1 *Load {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wM{Dage{x
+M 0 60253 1 60253 1 *Load {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wT{Drainer{x
+M 0 60254 1 60254 1 *Load {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60251 0 *{8bi{wn{wd{8s of the {b]{8co{wu{wn{wc{8il{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60252 0 *{b]{dm{wo{drt{we{dm{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60256 0 *{b]{8th{we {8st{we{wn{8ch of {8yo{wu{8r de{wm{wi{ws{8e{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60257 0 *{b]{8o{wb{wl{8iv{wi{wo{8n{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60258 0 *{b]{8yo{wu{8r d{we{8stru{yc{8ti{wo{8n{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60259 0 *{x{b]{8co{wu{wn{wc{8il{b[ {wl{dight{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+G 0 60260 0 *{8gr{wi{8p of the {b]{8co{wu{wn{wc{8il{b[{x is given to {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wS{Dhopkeep{x
+M 0 60256 1 60255 1 *Load {wthe{x {X{B]{8Co{wu{Wn{wc{8il{B[ {wC{Dlan {wH{Dealer{x
+M 0 60300 1 60300 1 *Load {wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dason{x
+M 0 60301 1 60301 1 *Load {wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {wM{Dage{x
+M 0 60302 1 60302 1 *Load {wthe{x {D-{w-{D>{R BAMF {D<{w-{D- {wC{Dlan {RE{rvil {wP{Driest{x
+M 0 60350 1 60350 1 *Load the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wM{8ason{x
+M 0 60351 1 60351 1 *Load the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hopkeep{x
+G 0 60350 0 *={y={w[{x>>{rh{yo{rn{yo{rr{x>> {rb{yin{rd{yes{x  is given to the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hopkeep{x
+G 0 60351 0 *={y={w[{x>>{rh{yo{rn{yo{rr{x>> {rsh{yack{rles{x is given to the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wS{8hopkeep{x
+M 0 60352 1 60352 1 *Load the {x={y={W[{x>>{rH{Yo{rn{Yo{rr{x>> {wC{8lan {wB{8lacksmith{x
+M 0 60353 1 60353 1 *Load {wthe{x {8={3={7[{8>>{1H{#o{1n{#o{1r{8>> {wC{Dlan {wH{Dealer{x
+S
+
+
+
+#SHOPS
+60101 3 2 0 0 0 100 100 7 18
+60105 5 9 33 10 8 100 100 1 23
+60106 9 0 0 0 0 100 100 7 18
+60108 17 10 0 0 0 100 100 7 18
+60152 9 0 0 0 0 100 100 7 18
+60153 3 2 0 0 0 100 100 7 18
+60154 5 9 33 10 8 100 100 1 23
+60156 23 0 0 0 0 100 100 1 23
+60202 5 9 33 10 8 100 100 1 23
+60203 9 0 0 0 0 100 100 7 18
+60205 3 2 0 0 0 100 100 7 18
+60252 3 2 0 0 0 100 100 7 18
+60254 5 9 33 10 8 100 100 1 23
+60255 9 0 0 0 0 100 100 7 18
+60301 3 2 0 0 0 100 100 7 18
+60351 5 9 33 10 8 100 100 1 23
+60352 9 0 0 0 0 100 100 7 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

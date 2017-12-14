@@ -1,0 +1,1100 @@
+#AREADATA
+Name Harbingers of Death~
+Builders Ishamael~
+VNUMs 71000 71099
+Continent 3
+Mobtier 0
+Credits [  ??? ] Ishamael Harbingers of Death~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#71000
+cloaked figure~
+a cloaked figure~
+A darkly clad figure stands here radiating death.
+~
+~
+human~
+ABVc DFJZ 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DELAY 71000 100~
+#71001
+Jaih~
+Jaih~
+A tall man in a hooded cloak stands here.
+~
+~
+human~
+ARS DFJTVc 0 -1000 0
+200 500 1d1+75000 110d10+100 750d3+100 bite
+-100 -85 -85 -85
+ADEFGHK AIJ ABCDEMZ HK
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 40
+A -1
+M HPCNT 71004 12~
+M FIGHT 71003 25~
+M ACT 71001 you are needed elsewhere~
+M DEATH 71005 100~
+M GRALL 71002 50~
+#71002
+Korsik~
+Korsik~
+A gruff looking hunter stands here, blending masterfully into the forest.
+~
+~
+human~
+ARST DFJTVc 0 -1000 0
+200 500 1d1+75000 110d10+100 750d3+100 bite
+-100 -85 -85 -85
+ADEFGHK AJ ABCDEMZ IT
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 40
+A -1
+M FIGHT 71010 25~
+M HPCNT 71011 12~
+M ACT 71009 protect the forest!~
+M DEATH 71012 100~
+M GRALL 71008 50~
+#71003
+Razhak~
+Razhak~
+A grim eyed man stand here, searching for his next victim.
+~
+~
+human~
+ARST DFJTVc 0 -1000 0
+200 500 1d1+100000 110d10+100 750d3+100 bite
+-100 -85 -85 -85
+ADEFGHK AIJ ABCDEMZ C
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 40
+A -1
+M DEATH 71020 100~
+M ACT 71018 death to all~
+M GRALL 71019 50~
+#71004
+Hotoke~
+Hotoke~
+A bony man clothed in black stands here surrounded in a globe of fire.
+~
+~
+human~
+ARST DFJTVc D -1000 0
+200 500 1d1+50000 110d10+100 750d3+100 bite
+-100 -85 -85 -85
+ADEFGHK A ABCEMZ D
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 40
+A -1
+M FIGHT 71015 10~
+M ACT 71013 you have been summoned~
+M DEATH 71017 100~
+M HPCNT 71014 15~
+M GRALL 71016 50~
+#71005
+Ipkin~
+Ipkin~
+A withered old man stands here hunched over.
+~
+~
+human~
+ARST DFJTVc 0 -1000 0
+200 500 1d1+50000 110d10+100 750d3+100 bite
+-100 -85 -85 -85
+ADEFGHK A ABCEMZ D
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 40
+A -1
+M ACT 71021 age is just a number~
+M DEATH 71024 100~
+M HPCNT 71023 15~
+M GRALL 71022 50~
+#71006
+Taghz~
+Taghz~
+Taghz stands here ready to buy your uniques.
+~
+~
+human~
+Aa DFJZ 0 0 0
+140 0 1d1+500000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V -1
+A -1
+M GIVE 71035 902~
+M GIVE 71035 900~
+M GIVE 71035 898~
+M GIVE 71035 894~
+M GIVE 71034 895~
+M GIVE 71034 879~
+M GIVE 71034 876~
+M GIVE 71034 872~
+M GIVE 71033 896~
+M GIVE 71033 882~
+M GIVE 71033 877~
+M GIVE 71033 875~
+M GIVE 71032 888~
+M GIVE 71032 899~
+M GIVE 71032 880~
+M GIVE 71032 870~
+M GIVE 71032 855~
+M GIVE 71031 889~
+M GIVE 71031 885~
+M GIVE 71031 897~
+M GIVE 71031 881~
+M GIVE 71031 862~
+M GIVE 71031 861~
+M GIVE 71030 886~
+M GIVE 71030 899~
+M GIVE 71030 883~
+M GIVE 71030 871~
+M GIVE 71030 863~
+M GIVE 71030 859~
+M GIVE 71030 851~
+M GIVE 71029 891~
+M GIVE 71029 903~
+M GIVE 71029 865~
+M GIVE 71029 860~
+M GIVE 71029 854~
+M GIVE 71029 852~
+M GIVE 71029 850~
+M GIVE 71028 887~
+M GIVE 71028 901~
+M GIVE 71028 874~
+M GIVE 71028 873~
+M GIVE 71028 866~
+M GIVE 71028 864~
+M GIVE 71028 857~
+M GIVE 71027 892~
+M GIVE 71027 884~
+M GIVE 71027 878~
+M GIVE 71027 868~
+M GIVE 71027 867~
+M GIVE 71027 853~
+M GIVE 71026 890~
+M GIVE 71026 893~
+M GIVE 71026 869~
+M GIVE 71026 856~
+M GIVE 71027 905~
+M ACT 71036 pigs get slaughtered~
+#71007
+ninja babble nb1~
+{*NINJA BABBLE{X~
+{x
+~
+~
+human~
+AS DEQTVZabce 0 0 0
+250 5000 1d1+10000 0d0+0 25d25+1000 none
+-100 -100 -100 -100
+ABEFGHIJK AB 0 0
+stand stand none 100000
+Z AHPUV huge unknown
+F for AHMV
+F par BCDEFGIJK
+V 30
+A -1
+M GRALL 71037 75~
+M DEATH 71040 100~
+M ACT 71042 ninja vanish~
+M FIGHT 71038 25~
+#71008
+cloaked figure~
+a cloaked figure~
+A darkly clad figure stands here radiating death.
+~
+~
+human~
+ABVc DFJZ 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DELAY 71041 100~
+#71009
+BIG FUCKING BABBLE nb2~
+{RBIG FUCKING BABBLE{x~
+A {RBIG FUCKING BABBLE{x stands here ready to crush your face.
+~
+~
+human~
+AT DETVZabce 0 0 0
+250 5000 1d1+15000 0d0+0 20d30+3000 none
+-100 -100 -100 -100
+ACEGHIJ AB 0 0
+stand stand none 100000
+Z AHPUV huge unknown
+F for AHMV
+F par BCDEFGIJK
+S 1
+V 25
+A -1
+M GRALL 71046 100~
+M ACT 71043 fucking huge~
+M FIGHT 71044 50~
+M DEATH 71045 100~
+#71010
+multi colored babble nb3~
+{8a m{Wul{Yti{B-c{^ol{Ror{yed{x {8b{Wa{Yb{Bb{^l{Re{y!{x~
+WTF?! {8a m{Wul{Yti{B-c{^ol{Ror{yed{x {8b{Wa{Yb{Bb{^l{Re{y!{x stands here!!!!
+~
+~
+human~
+A DETVZabce 0 0 0
+250 0 1d1+30000 0d0+0 18d25+2500 none
+-150 -150 -150 -150
+ACEGHIJ 0 0 0
+stand stand none 0
+Z 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 20
+A -1
+M DEATH 71047 100~
+M ACT 71048 taste~
+M GRALL 71046 100~
+#71011
+fat turkey thank1~
+a fat turkey~
+A fat turkey waddles here.
+~
+~
+human~
+A 0 0 0 0
+250 0 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 50
+A -1
+M DEATH 71049 100~
+#71012
+gobbling turkey thank2~
+a gobbling turkey~
+A gobbling turkey stands here making a lot of noise
+~
+~
+human~
+A 0 0 0 0
+300 0 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 20
+A -1
+M DEATH 71050 100~
+#71014
+thanksgiving turkey thank4~
+{Ya thanksgiving turkey{x~
+{YA Thanksgiving Turkey stands here gobbling!!!!{x
+~
+~
+human~
+A 0 0 0 0
+179 0 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A -1
+M DEATH 71052 100~
+M ACT 71051 gobble gobble gobble~
+#71015
+thanksgiving turkey thank3~
+{Ya thanksgiving turkey{x~
+{YA Thanksgiving Turkey stands here gobbling!!!!{x
+~
+~
+human~
+A 0 0 0 0
+179 0 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A -1
+M DEATH 71052 100~
+M ACT 71051 happy thanksgiving~
+#71016
+thanksgiving turkey thank5~
+{Ya thanksgiving turkey{x~
+{YA Thanksgiving Turkey stands here gobbling!!!!{x
+~
+~
+human~
+A 0 0 0 0
+179 0 1d1+1000 0d0+0 1d1+1000 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A -1
+M DEATH 71052 100~
+M ACT 71051 turkey yum~
+#0
+
+
+
+#OBJECTS
+#71000
+serrated galant dagger~
+a serrated galant dagger~
+A long slender dagger lies here.~
+steel~
+weapon TY AN
+dagger 2 107 stab AEH
+101 5 200000 P
+#71001
+essence of shadows~
+{DE{Ws{Dsence of {DS{Wha{Ddows{x~
+A dark presence floats here.~
+darkness~
+armor AGY AQ
+BD BD BD BD 0
+101 2 10000 P
+A
+2 2
+A
+19 10
+A
+18 18
+A
+14 100
+#71002
+earring silver tarnished~
+{wa ta{Wrni{wshed {Wsil{wver {Wear{wring{x~
+A dirty silver earring lies here.~
+unknown~
+jewelry Y AS
+0 0 0 0 0
+101 1 200000 P
+A
+18 16
+A
+19 12
+A
+2 1
+A
+14 100
+A
+17 -15
+#71003
+sleeves shadows~
+{DS{Wl{weeves of {WS{wh{Difting S{wh{Wadows{x~
+A dark cloth lies here on the ground.~
+cloth~
+armor Y AI
+CD CD CD CD 0
+101 2 200000 P
+A
+19 10
+A
+18 19
+A
+2 2
+A
+14 125
+#71004
+enormous battle axe gurt~
+an enormous battle axe~
+An axe lies on the ground sparking and putting a feeling of static in the air.~
+steel~
+weapon PTY AN
+axe 16 12 cleave E
+101 2 200000 P
+#71005
+essence forest~
+{gEss{yenc{ge {yof t{ghe {yFor{gest{x~
+A magical presence is here.~
+unknown~
+armor AGY AQ
+BE BE BE BE 0
+101 1 200000 P
+A
+26 3
+A
+19 15
+A
+13 100
+A
+18 5
+#71006
+glass leaf earrings~
+{CG{cl{wass {GL{ge{Waf {WE{Garr{gings{x~
+A glass earring lies here collecting dust.~
+glass~
+jewelry Y AS
+0 0 0 0 0
+101 0 200000 P
+A
+19 14
+A
+13 75
+A
+17 -20
+A
+26 4
+#71007
+ancient oaken guards arm~
+{yAn{Wci{wen{Yt O{yake{Dn G{wua{Drds{x~
+A set of arm guards lies here.~
+wood~
+armor Y AI
+ACE ACE ACE ACE 0
+101 1 200000 P
+A
+26 3
+A
+19 17
+A
+13 100
+A
+18 6
+#71008
+enormous battle axe gurt~
+an enormous battle axe~
+An axe lies on the ground sparking and putting a feeling of static in the air.~
+steel~
+weapon TY AN
+axe 11 20 cleave EF
+101 2 200000 P
+A
+18 -10
+A
+19 10
+#71009
+gleaming broadsword sword~
+a gleaming broadsword~
+A shining broadsword lies on the ground, obviously well-tended.~
+steel~
+weapon ATY AN
+sword 18 11 slash EG
+101 15 200000 P
+A
+18 5
+A
+19 8
+#71010
+essence power~
+{rEss{Ren{rce {Rof {rPo{Rwe{rr{x~
+A magical presence is here.~
+unknown~
+armor AGY AQ
+BC BC BC BC 0
+101 1 200000 P
+A
+18 13
+A
+13 50
+A
+19 20
+#71011
+bloody dragon tooth~
+{Ra Bl{roo{Rdy {GDr{gag{Gon {WT{woo{Wth{x~
+A tooth lies here.~
+glass~
+jewelry Y AS
+0 0 0 0 0
+101 0 200000 P
+A
+19 18
+A
+13 25
+A
+18 14
+A
+17 -5
+#71013
+steel spiked sleeves~
+{8St{wee{8l Sp{wik{8ed {wSl{8eev{wes{x~
+A set of arm guards lies here.~
+wood~
+armor Y AI
+D D D D 0
+101 1 200000 P
+A
+13 25
+A
+18 15
+A
+19 20
+#71014
+gnarled wooden staff~
+a gnarled wooden staff~
+A twisted branch lies here collecting dust.~
+wood~
+weapon ABPY AN
+exotic 10 20 thwack AE
+101 2 200000 P
+#71015
+crystal ball~
+{6a C{^rysta{6l B{^al{6l{x~
+A magical presence is here.~
+unknown~
+armor AGY AQ
+ACE ACE ACE ACE 0
+101 1 200000 P
+A
+28 7
+A
+20 -4
+A
+12 200
+#71016
+spectral ear earring~
+{CS{cpe{Cctr{ca{Cl {GE{gar{Gri{gng{x~
+A glass earring lies here collecting dust.~
+glass~
+jewelry Y AS
+0 0 0 0 0
+101 0 200000 P
+A
+12 150
+A
+17 -25
+A
+28 8
+A
+20 -3
+#71017
+vambraces illusion~
+{^V{8amb{7rac{8es {7of {^I{8ll{7us{8io{^n{x~
+A set of arm guards lies here.~
+wood~
+armor Y AI
+ACDE ACDE ACDE ACDE 0
+101 1 200000 P
+A
+28 8
+A
+20 -4
+A
+12 225
+#71018
+gnarled wooden staff~
+a gnarled wooden staff~
+A twisted branch lies here collecting dust.~
+wood~
+weapon ABY AN
+exotic 10 19 thwack F
+101 2 200000 P
+A
+20 -4
+A
+28 10
+A
+12 200
+#71019
+blackened dagger~
+{*a blackened dagger{x~
+A dark dagger lies on the ground.~
+unknown~
+weapon 0 AN
+dagger 4 52 drain EN
+101 0 0 P
+A
+19 5
+A
+18 10
+A
+9 10
+#71020
+banshee wail~
+{DB{Wanshee's {DW{Wail{x~
+A magical presence is here.~
+unknown~
+armor AGY AQ
+CE CE CE CE 0
+101 1 200000 P
+A
+18 5
+A
+19 5
+A
+9 20
+A
+13 100
+A
+12 100
+#71021
+bronze earring~
+{yBro{Ynz{ye {YEa{yrri{Yng{x~
+A small earring lies here collecting dust.~
+glass~
+jewelry Y AS
+0 0 0 0 0
+101 0 200000 P
+A
+18 6
+A
+19 6
+A
+12 100
+A
+13 100
+A
+9 20
+A
+17 -15
+#71023
+ancient armbands~
+{wA{rn{Wc{Ri{8e{wn{Rt {wA{rr{Wm{Rb{8a{wn{Rd{ws{x~
+A set of arm guards lies here.~
+wood~
+armor Y AI
+ACE ACE ACE ACE 0
+101 1 200000 P
+A
+9 25
+A
+19 5
+A
+18 5
+A
+13 50
+A
+12 50
+#71025
+silver sai~
+{WSi{wlv{Wer S{wa{Wi{x~
+A silver sai lies here.~
+unknown~
+weapon P AN
+dagger 20 10 stab ABCEGHJN
+102 0 0 P
+#0
+
+
+
+#ROOMS
+#71000
+Room of Death~
+Probably not a good idea to be here.
+~
+0 4 0
+S
+#71001
+Babble-ish-ous~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 71000 spec_questmaster Load to: a cloaked figure
+M 71008 spec_questmaster Load to: a cloaked figure
+S
+
+
+
+#RESETS
+M 0 71000 1 71000 1 *Load a cloaked figure
+M 0 71001 1 71000 1 *Load Jaih
+E 0 71000 0 16 *A serrated galant dagger is loaded wielded of Jaih
+M 0 71002 1 71000 1 *Load Korsik
+E 0 71004 0 16 *An enormous battle axe is loaded wielded of Korsik
+M 0 71004 1 71000 1 *Load Hotoke
+E 0 71014 0 16 *A gnarled wooden staff is loaded wielded of Hotoke
+M 0 71003 1 71000 1 *Load Razhak
+E 0 71009 0 16 *A gleaming broadsword is loaded wielded of Razhak
+M 0 71005 1 71000 1 *Load Ipkin
+E 0 71019 0 16 *{*a blackened dagger{x is loaded wielded of Ipkin
+M 0 71006 1 71000 1 *Load Taghz
+M 0 71008 1 71001 1 *Load a cloaked figure
+M 0 71007 1 71001 1 *Load {*NINJA BABBLE{X
+E 0 71025 0 16 *{wsi{wlv{wer s{wa{wi{x is loaded wielded of {*NINJA BABBLE{X
+M 0 71009 1 71001 1 *Load {RBIG FUCKING BABBLE{x
+M 0 71010 1 71001 1 *Load {8a m{Wul{Yti{B-c{^ol{Ror{yed{x {8b{Wa{Yb{Bb{^l{Re{y!{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#71000
+mob at Jaih say You are needed elsewhere.
+mob at Korsik say Protect the forest!
+mob at Hotoke say You have been summoned
+mob at razhak say death to all
+mob at ipkin say age is just a number
+mob at taghz say pigs get slaughtered
+mob delay 50
+~
+#71001
+mob echo Jaih backs out of combat and disappears into the shadows.
+mob goto 71000
+mob cast teleport
+~
+#71002
+if level $n >= 90
+strangle $n
+kill $n
+backstab $n
+else
+say Run along little one....
+endif
+~
+#71003
+circle
+~
+#71004
+if rand 85
+say Live to fight another day...
+echo Jaih steps into the shadows and disappeares.
+mob goto 71000
+mob cast teleport
+endif
+~
+#71005
+if rand 25 
+mob oload 71001
+endif
+if rand 50
+mob oload 71002
+endif
+if rand 75
+mob oload 71003
+endif
+~
+#71006
+mob oload 71002
+~
+#71007
+mob oload 71003
+~
+#71008
+if level $n >= 90
+ambush $n
+kill $n
+else
+say Run along little one....
+endif
+~
+#71009
+mob echo Korsik steps into the forest and vanishes.
+mob goto 71000
+mob cast teleport
+~
+#71010
+twirl
+~
+#71011
+if rand 85
+say Live to fight another day
+echo Korsik steps into the forest and disappears.
+mob goto 71000
+mob cast teleport
+endif
+~
+#71012
+mob oload 71008
+if rand 25
+mob oload 71005
+endif
+if rand 50
+mob oload 71006
+endif
+if rand 75
+mob oload 71007
+endif
+~
+#71013
+mob echo Hotoke steps into a flash of light and vanishes!
+mob got 71000
+mob cast teleport
+~
+#71014
+if rand 80
+say Live to fight another day
+echo Hotoke steps into a flash of light and is gone!!
+mob goto 71000
+mob cast teleport
+endif
+~
+#71015
+mob cast 'acid blast' $n
+mob cast 'faerie fire' $n
+mob cast 'slow' $n
+~
+#71016
+if level $n >= 90
+kill $n
+else
+say Run along little one.....
+endif
+~
+#71017
+mob oload 71018
+if rand 25
+mob oload 71015
+endif
+if rand 50
+mob oload 71016
+endif
+if rand 75
+mob oload 71017
+endif
+~
+#71018
+mob echo Razhak storms off searching for the next fight.
+mob goto 71000
+mob cast teleport
+~
+#71019
+if level $n >= 90
+dirt $n
+kill $n
+else
+say Run along little one....
+endif
+~
+#71020
+if rand 25
+mob oload 71010
+endif
+if rand 50
+mob oload 71011
+endif
+if rand 75
+mob oload 71013
+endif
+~
+#71021
+mob echo Ipkin cackles as he disappears into the shadows.
+mob goto 71000
+mob cast teleport
+~
+#71022
+if level $n > 90
+kill $n
+else
+say Run along little one....
+endif
+~
+#71023
+if rand 80
+say Ive made it this long, I will not die now!!!
+echo Ipkin vanishes in a blurr!
+mob goto 71000
+mob cast teleport
+endif
+~
+#71024
+if rand 25
+mob oload 71020
+endif
+if rand 50
+mob oload 71021
+endif
+if rand 75
+mob oload 71023
+endif
+~
+#71025
+~
+#71026
+mob award $n 150 qps
+~
+#71027
+mob award $n 200 qps
+~
+#71028
+mob award $n 250 qps
+~
+#71029
+mob award $n 300 qps
+~
+#71030
+mob award $n 350 qps
+~
+#71031
+mob award $n 400 qps
+~
+#71032
+mob award $n 450 qps
+~
+#71033
+mob award $n 500 qps
+~
+#71034
+mob award $n 550 qps
+~
+#71035
+mob award $n 600 qps
+~
+#71036
+mob echo Taghz wanders off looking for new inventory to buy.
+mob goto 71000
+mob cast teleport
+~
+#71037
+if level $n >= 100
+backstab $n
+else
+endif
+~
+#71038
+mob delay 20
+say VANISH!
+mob goto 71001
+mob cast teleport
+~
+#71039
+say NINJA VANISH!!!
+mob goto 71001
+mob cast teleport
+~
+#71040
+mob gecho {Y$n {chas {rkilled {ca {DNINJA BABBLE{c!{x
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#71041
+mob at nb1 say ninja vanish
+mob at nb2 say fucking huge
+mob at nb3 say taste the rainbow
+mob delay 30
+~
+#71042
+mob zecho You suddenly feel safer.
+mob echo A dark portal opens and suddenly closes.
+mob goto 71001
+mob cast teleport
+~
+#71043
+mob zecho You suddenly feel safer.
+mob echo A portal opens and a big fucking babble storms through.
+mob goto 71001
+mob cast teleport
+~
+#71044
+mob remember $i
+mob echo {RBFB{x socks $n on the back of the head!!!
+mob damage $q 2000 2000 lethal
+mob echo $n screams in pain as they take {R[2000]{x damage.  {RFUCKING OUCH!!!{x
+mob forget
+~
+#71045
+mob gecho {Y$n {chas {rkilled {ca {RBIG FUCKING BABBLE{c!{x
+mob oload 50
+mob oload 50
+mob oload 50
+~
+#71046
+if level $n >= 100
+kill $n
+else
+endif
+~
+#71047
+if rand 75
+mob call 31
+mob award $n 3500 exp group
+endif
+if rand 75
+mob call 29
+endif
+if rand 75
+mob call 34
+endif
+if rand 75
+mob call 38
+endif
+if rand 75
+mob call 32
+endif
+if rand 75
+mob call 40
+endif
+if rand 75
+mob call 41
+endif
+mob oload 50
+mob gecho {YSomeone has killed a {8a m{Wul{Yti{B-c{^ol{Ror{yed {8b{Wa{Yb{Bb{^l{Re{y!{x
+~
+#71048
+mob zecho You suddenly feel safer.
+mob echo A portal opens and a babble walks though.
+mob goto 71001
+mob cast teleport
+~
+#71049
+mob gecho {YA TURKEY HAS BEEN SLAUGHTERED!!!{x
+mob oload 50
+mob award $n 5000 exp group
+~
+#71050
+mob gecho {YA TURKEY HAS BEEN SLAUGHTERED!!!!!{x
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#71051
+mob echo {YThe turkey dashes off in fear!!!{x
+mob goto 71001
+mob cast teleport
+mob zecho {YA TURKEY GOBBLES LOUDLY!!!{X
+~
+#71052
+mob echo {YA 2nd turkey runs out of the woods!!!{x
+if rand 50
+mob mload 71011
+else
+mob mload 71012
+endif
+~
+#0
+
+#$

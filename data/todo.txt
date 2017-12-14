@@ -1,0 +1,8 @@
+[{wWayyne      {B] {yJun 11: {wMob_Progs
+[{wWayyne      {B] {yJun 11: {wDouble check mob stats
+[{wWayyne      {B] {yJun 11: {wPick a place to link area
+[{wFesdor      {B] {yDec 15: {wnokill flag for mobs
+[{wFesdor      {B] {yDec 15: {wAdd "owner" field to items
+[{wWayyne      {B] {yDec 15: {wOwner Stuff Today
+[{wNico        {B] {yJan  2: {wadd kill lad
+[{wNico        {B] {yJan  2: {wlook into blend

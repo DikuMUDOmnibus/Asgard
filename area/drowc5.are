@@ -1,0 +1,2470 @@
+#AREADATA
+Name City of Dark Blades~
+Builders Ishamael Nogate~
+VNUMs 75100 75199
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael City of Dark Blades~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#75100
+drow gate guard figure~
+a drow guard~
+A darkly cloaked figure stands here guarding the gate to the city.
+~
+~
+elf~
+AB JVe 0 0 0
+250 2000 1d1+35000 0d0+0 875d2+400 slash
+-100 -100 -100 -100
+FHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 5
+#75101
+drow slaver~
+a drow slaver~
+A slaver stands here looking for his next victim.
+~
+~
+elf~
+ART DJc 0 0 0
+205 750 1d1+30000 1d1+15000 37d50+450 slap
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 38
+A 5
+M GRALL 75102 15~
+#75102
+drow slaver~
+a drow slaver~
+A drow stands here leading his prize capture through the square.
+~
+~
+elf~
+ART DJc 0 0 0
+205 750 1d1+30000 1d1+15000 37d50+450 slap
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 38
+A 5
+M GRALL 75102 15~
+#75103
+dwarf lord slave~
+an enslaved dwarf lord~
+A dwarf lord stands her being lead about in chains.
+~
+~
+dwarf~
+ART DJc 0 0 0
+205 750 1d1+32500 1d1+15000 37d45+600 pound
+-100 -100 -100 -100
+CDI ABQ BEL S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 37
+A 5
+M GRALL 75102 15~
+#75104
+fair skinned elf slave~
+an elven slave~
+A fair skinned elf is lead through the square by his captors.
+~
+~
+elf~
+ART DJc 0 0 0
+205 750 1d1+32500 1d1+15000 38d45+500 pierce
+-100 -100 -100 -100
+CDI ABQ BEL 0
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 38
+A 5
+M GRALL 75102 15~
+#75105
+drow elf dark skinned~
+a drow~
+A dark skinned elf walks through the square.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 40d50+400 slice
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 38
+A 5
+M GRALL 75102 15~
+#75106
+a drow warrior~
+a drow warrior~
+A silver haired elf moves through the motions practicing his weapon forms.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 40d50+400 slash
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 39
+A 6
+M GRALL 75102 15~
+#75107
+drow blademaster~
+a drow blademaster~
+A dark skinned elf twirls his blades about in a flurry of motion
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+32500 1d1+50000 40d50+600 slice
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 6
+#75108
+drow fighter~
+a drow fighter~
+A dark skinned elf flows through the motions of blocking attacks.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 40d50+400 slash
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 39
+A 6
+M GRALL 75102 15~
+#75109
+dwarven weaponsmith slave~
+an enslaved dwarven weaponsmith~
+A shacked dwarf labors about forging a new weapon.
+~
+~
+dwarf~
+ABRT DJc 0 0 0
+205 750 1d1+32500 1d1+15000 25d45+300 pound
+-100 -100 -100 -100
+CDI ABQ BEL S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 39
+A 6
+M FIGHT 75100 100~
+#75110
+drow blademaster~
+a drow blademaster~
+A dark skinned elf twirls his blades about in a flurry of motion
+~
+~
+elf~
+AFR JV 0 0 0
+235 2000 1d1+32500 1d1+50000 40d50+600 slice
+-100 -100 -100 -100
+C B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 6
+#75111
+drow blademaster~
+a drow blademaster~
+A drow blademaster walks about testing out the newly forged blades.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+32500 1d1+50000 40d50+600 slice
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 6
+M GRALL 75102 15~
+#75112
+drow judicator lloth champion~
+a drow judicator~
+A champion of Lloth walks through the house.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+32500 1d1+50000 40d50+600 divine
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 4
+M FIGHT 75101 100~
+M GRALL 75102 15~
+#75113
+drow swordsman house thaeyalla~
+a drow swordsman~
+A swordsman of House Thaeyalla walks through the hall.
+~
+~
+elf~
+AR JV 0 0 0
+240 2000 1d1+32500 1d1+50000 40d50+600 slice
+-100 -100 -100 -100
+C B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 6
+M GRALL 75102 15~
+#75114
+father blades thaeyalla master drow~
+Adinvyryrd zt'Belaun~
+The Patron Father of House Thaeyalla stands here overseeing the house.
+~
+~
+dragon~
+ABFT FJTc 0 0 0
+250 2000 1d1+100000 0d0+0 750d5+200 slash
+-120 -120 -120 -120
+ACD 0 BEH FI
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#75115
+drow judicator lloth champion~
+a drow judicator~
+A champion of Lloth walks through the house.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+32500 1d1+50000 40d50+600 divine
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 40
+A 4
+M FIGHT 75101 100~
+M GRALL 75102 15~
+#0
+
+
+
+#OBJECTS
+#75100
+a jade hilted stiletto~
+a jade-hilted stiletto~
+A small jade dagger sits here.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+#0
+
+
+
+#ROOMS
+#75100
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 74902
+D2
+~
+~
+0 0 75101
+S
+#75101
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75100
+D2
+~
+~
+0 0 75102
+S
+#75102
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75101
+D3
+~
+~
+0 0 75103
+S
+#75103
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 75102
+D2
+~
+~
+0 0 75104
+S
+#75104
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75103
+D2
+~
+~
+0 0 75105
+S
+#75105
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75104
+D3
+~
+~
+0 0 75106
+S
+#75106
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 75105
+D2
+~
+~
+0 0 75107
+S
+#75107
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 75106
+D3
+~
+~
+0 0 75108
+S
+#75108
+Entering a Great Cavern~
+The tunnel opens to a wide cavern as a small city stands before you.  In
+the cavern the sound of clanging metal echoes around the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 75107
+D2
+~
+~
+0 0 75109
+S
+#75109
+Before the Gates of Waethe Hlammachar~
+Before you stands the city of dark blades as a large gate blocks your
+path.  The gate appears to be made up of swords and daggers welded together
+by a master weaponsmith.  
+~
+0 0 0
+D0
+~
+~
+0 0 75108
+D2
+~
+~
+4 75100 75110
+S
+#75110
+Inside the Gate of Waethe Hlammachar~
+The gate opens to a large open square to the south as guard posts sit on
+either side of the large entryway.  The sound of metal on metal echoes
+throughout the city as it is evident there is some sword play taking place. 
+~
+0 0 0
+D0
+~
+~
+4 75100 75109
+D2
+~
+~
+0 0 75112
+S
+#75111
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D1
+~
+~
+0 0 75112
+D2
+~
+~
+0 0 75114
+S
+#75112
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75110
+D1
+~
+~
+0 0 75113
+D2
+~
+~
+0 0 75115
+D3
+~
+~
+0 0 75111
+S
+#75113
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D2
+~
+~
+0 0 75116
+D3
+~
+~
+0 0 75112
+S
+#75114
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75111
+D1
+~
+~
+0 0 75115
+D2
+~
+~
+0 0 75118
+S
+#75115
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75112
+D1
+~
+~
+0 0 75116
+D2
+~
+~
+0 0 75119
+D3
+~
+~
+0 0 75114
+S
+#75116
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75113
+D2
+~
+~
+0 0 75120
+D3
+~
+~
+0 0 75115
+S
+#75117
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D1
+~
+~
+0 0 75118
+D2
+~
+~
+0 0 75122
+S
+#75118
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75114
+D1
+~
+~
+0 0 75119
+D2
+~
+~
+0 0 75123
+D3
+~
+~
+0 0 75117
+S
+#75119
+Square of Waethe Hlammachar~
+A large platform is erected in the center of the square as several
+slavers stand showing off their latest prize.  A small crowd is gathered
+around the platform closely watching the proceedings.  
+~
+0 0 0
+D0
+~
+~
+0 0 75115
+D1
+~
+~
+0 0 75120
+D2
+~
+~
+0 0 75124
+D3
+~
+~
+0 0 75118
+S
+#75120
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75116
+D1
+~
+~
+0 0 75121
+D2
+~
+~
+0 0 75125
+D3
+~
+~
+0 0 75119
+S
+#75121
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D2
+~
+~
+0 0 75126
+D3
+~
+~
+0 0 75120
+S
+#75122
+Square of Waethe Hlammachar~
+The activity of the square subsides as the slavers seem to ignore this
+area.  A large staircase to the west leads up to a large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 75117
+D1
+~
+~
+0 0 75123
+D2
+~
+~
+0 0 75127
+D3
+~
+~
+0 0 75142
+S
+#75123
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75118
+D1
+~
+~
+0 0 75124
+D2
+~
+~
+0 0 75128
+D3
+~
+~
+0 0 75122
+S
+#75124
+Square of Waethe Hlammachar~
+A large platform is erected in the center of the square as several
+slavers stand showing off their latest prize.  A small crowd is gathered
+around the platform closely watching the proceedings.  
+~
+0 0 0
+D0
+~
+~
+0 0 75119
+D1
+~
+~
+0 0 75125
+D2
+~
+~
+0 0 75129
+D3
+~
+~
+0 0 75123
+S
+#75125
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75120
+D1
+~
+~
+0 0 75126
+D2
+~
+~
+0 0 75130
+D3
+~
+~
+0 0 75124
+S
+#75126
+Square of Waethe Hlammachar~
+The slavers avoid this part of the square as several well armored drow
+move off into the practice yard to the east.  Business is conducted as usual
+back in the main part of the square to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 75121
+D1
+~
+~
+0 0 75157
+D2
+~
+~
+0 0 75131
+D3
+~
+~
+0 0 75125
+S
+#75127
+Square of Waethe Hlammachar~
+The activity of the square subsides as the slavers seem to ignore this
+area.  A large staircase to the west leads up to a large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 75122
+D1
+~
+~
+0 0 75128
+D2
+~
+~
+0 0 75132
+D3
+~
+~
+0 0 75143
+S
+#75128
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75123
+D1
+~
+~
+0 0 75129
+D2
+~
+~
+0 0 75133
+D3
+~
+~
+0 0 75127
+S
+#75129
+Square of Waethe Hlammachar~
+A large platform is erected in the center of the square as several
+slavers stand showing off their latest prize.  A small crowd is gathered
+around the platform closely watching the proceedings.  
+~
+0 0 0
+D0
+~
+~
+0 0 75124
+D1
+~
+~
+0 0 75130
+D2
+~
+~
+0 0 75134
+D3
+~
+~
+0 0 75128
+S
+#75130
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75125
+D1
+~
+~
+0 0 75131
+D2
+~
+~
+0 0 75135
+D3
+~
+~
+0 0 75129
+S
+#75131
+Square of Waethe Hlammachar~
+The slavers avoid this part of the square as several well armored drow
+move off into the practice yard to the east.  Business is conducted as usual
+back in the main part of the square to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 75126
+D1
+~
+~
+0 0 75159
+D2
+~
+~
+0 0 75136
+D3
+~
+~
+0 0 75130
+S
+#75132
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75127
+D1
+~
+~
+0 0 75133
+S
+#75133
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75128
+D1
+~
+~
+0 0 75134
+D2
+~
+~
+0 0 75137
+D3
+~
+~
+0 0 75132
+S
+#75134
+Square of Waethe Hlammachar~
+A large platform is erected in the center of the square as several
+slavers stand showing off their latest prize.  A small crowd is gathered
+around the platform closely watching the proceedings.  
+~
+0 0 0
+D0
+~
+~
+0 0 75129
+D1
+~
+~
+0 0 75135
+D2
+~
+~
+0 0 75138
+D3
+~
+~
+0 0 75133
+S
+#75135
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75130
+D1
+~
+~
+0 0 75136
+D2
+~
+~
+0 0 75139
+D3
+~
+~
+0 0 75134
+S
+#75136
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75131
+D3
+~
+~
+0 0 75135
+S
+#75137
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75133
+D1
+~
+~
+0 0 75138
+D2
+~
+~
+0 0 75140
+S
+#75138
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75134
+D1
+~
+~
+0 0 75139
+D2
+~
+~
+0 0 75141
+D3
+~
+~
+0 0 75137
+S
+#75139
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75135
+D2
+~
+~
+0 0 75199
+D3
+~
+~
+0 0 75138
+S
+#75140
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75137
+D1
+~
+~
+0 0 75141
+S
+#75141
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75138
+D1
+~
+~
+0 0 75199
+D2
+~
+~
+0 0 75174
+D3
+~
+~
+0 0 75140
+S
+#75142
+Staircase to the House of Swords~
+The wide staircases leads away from the main square up towards the large
+house.  Intricately made pieces of metal are interwoven in the design of the
+house as loud clanging of metal on metal echoes around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 75122
+D2
+~
+~
+0 0 75143
+D3
+~
+~
+0 0 75144
+S
+#75143
+Staircase to the House of Swords~
+The wide staircases leads away from the main square up towards the large
+house.  Intricately made pieces of metal are interwoven in the design of the
+house as loud clanging of metal on metal echoes around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75142
+D1
+~
+~
+0 0 75127
+D3
+~
+~
+0 0 75145
+S
+#75144
+Before the House of Swords~
+As you approach the house you notice the metal work is made up of
+partially forged swords.  A large set of double doors block entrance to the
+house as a pair of of crossed swords hang from each door.  
+~
+0 0 0
+D1
+~
+~
+0 0 75142
+D2
+~
+~
+0 0 75145
+D3
+~
+~
+1 0 75147
+S
+#75145
+Before the House of Swords~
+As you approach the house you notice the metal work is made up of
+partially forged swords.  A large set of double doors block entrance to the
+house as a pair of of crossed swords hang from each door.  
+~
+0 0 0
+D0
+~
+~
+0 0 75144
+D1
+~
+~
+0 0 75143
+D3
+~
+~
+1 0 75148
+S
+#75146
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D2
+~
+~
+0 0 75147
+D3
+~
+~
+0 0 75150
+S
+#75147
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75146
+D1
+~
+~
+1 0 75144
+D2
+~
+~
+0 0 75148
+D3
+~
+~
+0 0 75151
+S
+#75148
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75147
+D1
+~
+~
+1 0 75145
+D2
+~
+~
+0 0 75149
+D3
+~
+~
+0 0 75152
+S
+#75149
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75148
+D3
+~
+~
+0 0 75153
+S
+#75150
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 75146
+D2
+~
+~
+0 0 75151
+D3
+~
+~
+0 0 75154
+S
+#75151
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75150
+D1
+~
+~
+0 0 75147
+D2
+~
+~
+0 0 75152
+D3
+~
+~
+0 0 75155
+S
+#75152
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75151
+D1
+~
+~
+0 0 75148
+D2
+~
+~
+0 0 75153
+D3
+~
+~
+0 0 75156
+S
+#75153
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75152
+D1
+~
+~
+0 0 75149
+D3
+~
+~
+0 0 75158
+S
+#75154
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 75150
+D2
+~
+~
+0 0 75155
+S
+#75155
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75154
+D1
+~
+~
+0 0 75151
+D2
+~
+~
+0 0 75156
+S
+#75156
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75155
+D1
+~
+~
+0 0 75152
+D2
+~
+~
+0 0 75158
+S
+#75157
+Path to the Practice Yard~
+The path leads away from the main square of the city towards a large
+practice yard.  The clanging of metal on metal rings out to the east as you
+can hear an instructor shouting instructions to the participants.  
+~
+0 0 0
+D1
+~
+~
+0 0 75160
+D2
+~
+~
+0 0 75159
+D3
+~
+~
+0 0 75126
+S
+#75158
+Inside the House of Swords~
+A wave of heat radiates from the back of the house as several shackled
+dwarves move about working on forging blades for their masters.  Ornate
+blades hang from the wall, trophies from conquered kings of the surface
+realms.  Several drow move about testing newly forged blades as the clang of
+metal on metal sounds around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 75156
+D1
+~
+~
+0 0 75153
+S
+#75159
+Path to the Practice Yard~
+The path leads away from the main square of the city towards a large
+practice yard.  The clanging of metal on metal rings out to the east as you
+can hear an instructor shouting instructions to the participants.  
+~
+0 0 0
+D0
+~
+~
+0 0 75157
+D1
+~
+~
+0 0 75161
+D3
+~
+~
+0 0 75131
+S
+#75160
+Path to the Practice Yard~
+The path leads away from the main square of the city towards a large
+practice yard.  The clanging of metal on metal rings out to the east as you
+can hear an instructor shouting instructions to the participants.  
+~
+0 0 0
+D1
+~
+~
+1 0 75163
+D2
+~
+~
+0 0 75161
+D3
+~
+~
+0 0 75157
+S
+#75161
+Path to the Practice Yard~
+The path leads away from the main square of the city towards a large
+practice yard.  The clanging of metal on metal rings out to the east as you
+can hear an instructor shouting instructions to the participants.  
+~
+0 0 0
+D0
+~
+~
+0 0 75160
+D1
+~
+~
+1 0 75164
+D3
+~
+~
+0 0 75159
+S
+#75162
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D1
+~
+~
+0 0 75166
+D2
+~
+~
+0 0 75163
+S
+#75163
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75162
+D1
+~
+~
+0 0 75167
+D2
+~
+~
+0 0 75164
+D3
+~
+~
+1 0 75160
+S
+#75164
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75163
+D1
+~
+~
+0 0 75168
+D2
+~
+~
+0 0 75165
+D3
+~
+~
+1 0 75161
+S
+#75165
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75164
+D1
+~
+~
+0 0 75169
+S
+#75166
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D1
+~
+~
+0 0 75170
+D2
+~
+~
+0 0 75167
+D3
+~
+~
+0 0 75162
+S
+#75167
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75166
+D1
+~
+~
+0 0 75171
+D2
+~
+~
+0 0 75168
+D3
+~
+~
+0 0 75163
+S
+#75168
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75167
+D1
+~
+~
+0 0 75172
+D2
+~
+~
+0 0 75169
+D3
+~
+~
+0 0 75164
+S
+#75169
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75168
+D1
+~
+~
+0 0 75173
+D3
+~
+~
+0 0 75165
+S
+#75170
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D2
+~
+~
+0 0 75171
+D3
+~
+~
+0 0 75166
+S
+#75171
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75170
+D2
+~
+~
+0 0 75172
+D3
+~
+~
+0 0 75167
+S
+#75172
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75171
+D2
+~
+~
+0 0 75173
+D3
+~
+~
+0 0 75168
+S
+#75173
+In the Practice Yard~
+There is activity all around the yard as drow face off honing their
+skills with a blade.  Several small groups are lead by battle leaders as
+they go through the paces of combat.  
+~
+0 0 0
+D0
+~
+~
+0 0 75172
+D3
+~
+~
+0 0 75169
+S
+#75174
+Path Away from the Square~
+The narrow path leads away from the square towards a large building that
+dominates the southern part of the great cavern.  The buzz of activity from
+the square to the north drowns out all other sounds in the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 75141
+D2
+~
+~
+0 0 75175
+S
+#75175
+Before the House of Thaeyalla~
+The path to the house is lined with swords stabbed halfway into the
+ground as it approaches the door to the great house.  An obvious warning
+sign to outsides who approach the house, displaying that the house of
+Thaeyalla has great skill with blades.  
+~
+0 0 0
+D0
+~
+~
+0 0 75174
+D2
+~
+~
+1 0 75177
+S
+#75176
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D1
+~
+~
+0 0 75177
+D2
+~
+~
+0 0 75179
+S
+#75177
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+1 0 75175
+D1
+~
+~
+0 0 75178
+D2
+~
+~
+0 0 75180
+D3
+~
+~
+0 0 75176
+S
+#75178
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D2
+~
+~
+0 0 75181
+D3
+~
+~
+0 0 75177
+S
+#75179
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75176
+D1
+~
+~
+0 0 75180
+D2
+~
+~
+0 0 75183
+S
+#75180
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75177
+D1
+~
+~
+0 0 75181
+D2
+~
+~
+0 0 75184
+D3
+~
+~
+0 0 75179
+S
+#75181
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75178
+D2
+~
+~
+0 0 75185
+D3
+~
+~
+0 0 75180
+S
+#75182
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D1
+~
+~
+0 0 75183
+D2
+~
+~
+0 0 75188
+S
+#75183
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75179
+D1
+~
+~
+0 0 75184
+D2
+~
+~
+0 0 75189
+D3
+~
+~
+0 0 75182
+S
+#75184
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75180
+D1
+~
+~
+0 0 75185
+D2
+~
+~
+0 0 75190
+D3
+~
+~
+0 0 75183
+S
+#75185
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75181
+D1
+~
+~
+0 0 75186
+D2
+~
+~
+0 0 75191
+D3
+~
+~
+0 0 75184
+S
+#75186
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D2
+~
+~
+0 0 75192
+D3
+~
+~
+0 0 75185
+S
+#75188
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75182
+D1
+~
+~
+0 0 75189
+S
+#75189
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75183
+D1
+~
+~
+0 0 75190
+D2
+~
+~
+0 0 75193
+D3
+~
+~
+0 0 75188
+S
+#75190
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75184
+D1
+~
+~
+0 0 75191
+D2
+~
+~
+0 0 75194
+D3
+~
+~
+0 0 75189
+S
+#75191
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75185
+D1
+~
+~
+0 0 75192
+D2
+~
+~
+0 0 75195
+D3
+~
+~
+0 0 75190
+S
+#75192
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75186
+D3
+~
+~
+0 0 75191
+S
+#75193
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75189
+D1
+~
+~
+0 0 75194
+D2
+~
+~
+0 0 75196
+S
+#75194
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75190
+D1
+~
+~
+0 0 75195
+D2
+~
+~
+0 0 75197
+D3
+~
+~
+0 0 75193
+S
+#75195
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75191
+D2
+~
+~
+0 0 75198
+D3
+~
+~
+0 0 75194
+S
+#75196
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75193
+D1
+~
+~
+0 0 75197
+S
+#75197
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75194
+D1
+~
+~
+0 0 75198
+D3
+~
+~
+0 0 75196
+S
+#75198
+Inside the House of Thaeyalla~
+Trophies of conquered kings are displayed throughout the great house as
+tapestries hang from the wall depicting the houses love of swords and
+devotion to Lloth.  Many of those employed by the house have the physique of
+battle ready warriors as they walk about performing their duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 75195
+D3
+~
+~
+0 0 75197
+S
+#75199
+Square of Waethe Hlammachar~
+Drow move about the square freely as those of other races are lead about
+in shackles.  Several slavers stand off to the side eyeing up the crowd
+looking for their next victim as free non-drow are fair game.  
+~
+0 0 0
+D0
+~
+~
+0 0 75139
+D3
+~
+~
+0 0 75141
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 75109 2 2 The south door of Before the Gates of Waethe Hlammachar is closed and locked
+D 0 75110 0 2 The north door of Inside the Gate of Waethe Hlammachar is closed and locked
+D 0 75144 3 1 The west door of Before the House of Swords is closed
+D 0 75145 3 1 The west door of Before the House of Swords is closed
+D 0 75147 1 1 The east door of Inside the House of Swords is closed
+D 0 75148 1 1 The east door of Inside the House of Swords is closed
+D 0 75160 1 1 The east door of Path to the Practice Yard is closed
+D 0 75161 1 1 The east door of Path to the Practice Yard is closed
+D 0 75163 3 1 The west door of In the Practice Yard is closed
+D 0 75164 3 1 The west door of In the Practice Yard is closed
+D 0 75175 2 1 The south door of Before the House of Thaeyalla is closed
+D 0 75177 0 1 The north door of Inside the House of Thaeyalla is closed
+M 0 75100 1 75109 1 *Load a drow guard
+G 0 75100 0 *A jade-hilted stiletto is given to a drow guard
+M 0 75101 10 75111 1 *Load a drow slaver
+M 0 75104 10 75112 1 *Load an elven slave
+M 0 75102 20 75112 2 *Load a drow slaver
+M 0 75104 10 75113 1 *Load an elven slave
+M 0 75103 10 75113 1 *Load an enslaved dwarf lord
+M 0 75102 20 75113 2 *Load a drow slaver
+M 0 75104 10 75114 1 *Load an elven slave
+M 0 75103 10 75115 1 *Load an enslaved dwarf lord
+M 0 75103 10 75116 1 *Load an enslaved dwarf lord
+M 0 75101 10 75116 1 *Load a drow slaver
+M 0 75104 10 75117 1 *Load an elven slave
+M 0 75104 10 75118 1 *Load an elven slave
+M 0 75103 10 75118 1 *Load an enslaved dwarf lord
+M 0 75101 10 75118 1 *Load a drow slaver
+M 0 75104 10 75119 1 *Load an elven slave
+M 0 75102 20 75119 2 *Load a drow slaver
+M 0 75105 10 75120 1 *Load a drow
+M 0 75102 20 75120 2 *Load a drow slaver
+M 0 75101 10 75120 1 *Load a drow slaver
+M 0 75105 10 75121 1 *Load a drow
+M 0 75101 10 75121 1 *Load a drow slaver
+M 0 75103 10 75124 1 *Load an enslaved dwarf lord
+M 0 75102 20 75124 2 *Load a drow slaver
+M 0 75105 10 75125 1 *Load a drow
+M 0 75105 10 75125 1 *Load a drow
+M 0 75104 10 75125 1 *Load an elven slave
+M 0 75104 10 75125 1 *Load an elven slave
+M 0 75105 10 75126 1 *Load a drow
+M 0 75102 20 75127 2 *Load a drow slaver
+M 0 75104 10 75128 1 *Load an elven slave
+M 0 75101 10 75128 1 *Load a drow slaver
+M 0 75102 20 75129 2 *Load a drow slaver
+M 0 75101 10 75129 1 *Load a drow slaver
+M 0 75104 10 75130 1 *Load an elven slave
+M 0 75102 20 75130 2 *Load a drow slaver
+M 0 75101 10 75130 1 *Load a drow slaver
+M 0 75102 20 75132 2 *Load a drow slaver
+M 0 75105 10 75133 1 *Load a drow
+M 0 75102 20 75134 2 *Load a drow slaver
+M 0 75105 10 75135 1 *Load a drow
+M 0 75103 10 75135 1 *Load an enslaved dwarf lord
+M 0 75103 10 75137 1 *Load an enslaved dwarf lord
+M 0 75102 20 75138 2 *Load a drow slaver
+M 0 75105 10 75140 1 *Load a drow
+M 0 75103 10 75140 1 *Load an enslaved dwarf lord
+M 0 75105 10 75141 1 *Load a drow
+M 0 75109 4 75146 1 *Load an enslaved dwarven weaponsmith
+M 0 75111 10 75147 2 *Load a drow blademaster
+M 0 75111 10 75148 2 *Load a drow blademaster
+M 0 75109 4 75149 1 *Load an enslaved dwarven weaponsmith
+M 0 75111 10 75150 2 *Load a drow blademaster
+M 0 75111 10 75153 2 *Load a drow blademaster
+M 0 75109 4 75154 1 *Load an enslaved dwarven weaponsmith
+M 0 75111 10 75155 2 *Load a drow blademaster
+M 0 75111 10 75156 2 *Load a drow blademaster
+M 0 75109 4 75158 1 *Load an enslaved dwarven weaponsmith
+M 0 75106 12 75162 2 *Load a drow warrior
+M 0 75108 10 75163 2 *Load a drow fighter
+M 0 75106 12 75164 2 *Load a drow warrior
+M 0 75108 10 75165 2 *Load a drow fighter
+M 0 75107 4 75166 1 *Load a drow blademaster
+M 0 75108 10 75167 2 *Load a drow fighter
+M 0 75106 12 75167 2 *Load a drow warrior
+M 0 75108 10 75168 2 *Load a drow fighter
+M 0 75107 4 75168 1 *Load a drow blademaster
+M 0 75106 12 75169 2 *Load a drow warrior
+M 0 75107 4 75170 1 *Load a drow blademaster
+M 0 75106 12 75170 2 *Load a drow warrior
+M 0 75108 10 75171 2 *Load a drow fighter
+M 0 75106 12 75172 2 *Load a drow warrior
+M 0 75107 4 75173 1 *Load a drow blademaster
+M 0 75112 12 75176 1 *Load a drow judicator
+M 0 75112 12 75178 1 *Load a drow judicator
+M 0 75115 8 75179 2 *Load a drow judicator
+M 0 75113 12 75180 1 *Load a drow swordsman
+M 0 75115 8 75181 2 *Load a drow judicator
+M 0 75113 12 75182 2 *Load a drow swordsman
+M 0 75113 12 75183 1 *Load a drow swordsman
+M 0 75112 12 75184 1 *Load a drow judicator
+M 0 75113 12 75185 1 *Load a drow swordsman
+M 0 75112 12 75186 1 *Load a drow judicator
+M 0 75112 12 75188 1 *Load a drow judicator
+M 0 75113 12 75189 1 *Load a drow swordsman
+M 0 75112 12 75190 1 *Load a drow judicator
+M 0 75113 12 75191 1 *Load a drow swordsman
+M 0 75113 12 75192 2 *Load a drow swordsman
+M 0 75115 8 75193 2 *Load a drow judicator
+M 0 75113 12 75194 1 *Load a drow swordsman
+M 0 75115 8 75195 2 *Load a drow judicator
+M 0 75112 12 75196 1 *Load a drow judicator
+M 0 75114 1 75197 1 *Load Adinvyryrd zt'Belaun
+M 0 75112 12 75198 1 *Load a drow judicator
+M 0 75105 10 75199 1 *Load a drow
+M 0 75103 10 75199 1 *Load an enslaved dwarf lord
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#75100
+if mobhere 75110
+else
+if rand 80
+mob echo {wA drow notices you attacking the weaponsmith and rushes in!!{x
+mob mload 75110
+endif
+endif
+~
+#75101
+mob cast 'demonfire' $n
+~
+#75102
+kill $n
+~
+#0
+
+#$

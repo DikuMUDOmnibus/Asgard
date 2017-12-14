@@ -1,0 +1,6561 @@
+#AREADATA
+Name Clanhall Area~
+Builders Unlinked   Skahld Noquest~
+VNUMs 20000 20999
+Continent 1
+Credits {3[{1------{3]{0 Skahld     {5Clan Halls{0~
+Security 7
+Flags 0
+End
+
+#MOBILES
+#20000
+banshi guard ragnarok~
+Ragnarok, the {!B{7.a{8.n{!.s{7.h{8.i{0 clan guard.~
+Ragnarok, the {!B{7.a{8.n{!.s{7.h{8.i{0 clan guard falls from the ceiling, katanas drawn.
+~
+Generic Description.
+~
+human~
+ABG DJZ 0 0 0
+100 100 50000d1+1 0d0+0 25d25+0 punch
+-10 -10 -10 -10
+W AB 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20001
+banshi mason garuff~
+Garuff, {!B{7.a{8.n{!.s{7.h{8.i{0's mason.~
+Garuff, {!B{7.a{8.n{!.s{7.h{8.i{0's trusted mason, stands here hunched over the anvil.
+~
+Generic Description.
+~
+human~
+ABG 0 0 0 0
+25 0 0d0+1 0d0+0 1d1+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20002
+blacksmith valen banshi~
+Valen, blacksmith of {!B{7.a{8.n{!.s{7.h{8.i{0~
+Valen, blacksmith of {!B{7.a{8.n{!.s{7.h{8.i{0, is here tempering steel.
+~
+Generic Description.
+~
+human~
+ABG 0 0 0 0
+75 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20003
+trainer Mitsurugi~
+Mitsurugi, the {!B{7.a{8.n{!.s{7.h{8.i{0 trainer.~
+Mitsurugi, the {!B{7.a{8.n{!.s{7.h{8.i{0 trainer is here practicing with his pupils. 
+~
+Generic Description.
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+0 100d1+0 0d0+0 pound
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20004
+zalzamarr acolyte mage banshi~
+Zalzamarr, {!B{7.a{8.n{!.s{7.h{8.i{0's mage~
+Zalzamarr, {!B{7.a{8.n{!.s{7.h{8.i{0's hooded acolyte stands here, a magical aura surrounds his being.
+~
+Generic Description.
+~
+human~
+ABG 0 0 1000 0
+75 0 1d1+0 100d1+0 0d0+0 punch
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20005
+trigdar shopkeeper shop keeper banshi~
+Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0~
+Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0., stares at you with shifty eyes.
+~
+Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0., stares at you with shifty eyes.
+~
+human~
+AB DJZ 0 0 0
+25 0 1d1+100 1d1+100 1d1+100 punch
+0 0 0 0
+0 BCD 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20050
+squire clan guard~
+The {#-{7S{$q{&ui{$r{7e{#-{0 Clan Guard~
+The {#-{7S{$q{&ui{$r{7e{#-{0 Clan Guard stands here staring down at you.
+~
+A tall brute, definatly well trained in the art of combat
+is staring you down.  As you look at him you can tell he
+knows what he is doing.
+~
+human~
+ABEST Vc 0 0 0
+150 150 1d1+40000 1d1+30000 25d25+375 smash
+-80 -80 -80 -80
+AFHKW AB 0 0
+stand stand none 0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+M GRALL 20000 100~
+#20051
+zokusai banshi questmaster quest master~
+{&.Z{!.o{*.k{&.u{7.s{!.a{&.i.{0 the Quest Master~
+{&.Z{!.o{*.k{7.u{!.s{&.a.i.{0 floats here, spewing out knowledge.
+~
+{0The wisdom of {&.B{!.a{*.n{7.s{!.h{&.i.{0 floats here, spewing out knowledge.
+~
+human~
+ABG 0 0 0 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 90000
+AHMV ABCDEFGHIJK medium unknown
+#20052
+divine priest shaorin banshi~
+Shaorin, divine priest of {&.B{!.a{*.n{7.s{!.h{&.i{0.~
+Shaorin, divine priest of {&.B{!.a{*.n{7.s{!.h{&.i{0., welcomes you.
+~
+A small woman clad in white robes stands here chanting benedictions.
+~
+human~
+ABQZ DJZ 0 1000 0
+60 0 100d1+0 100d1+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20083
+unused~
+unused mob~
+Blank
+~
+~
+human~
+ABGT DJV 0 0 0
+175 100 1d1+49999 1d1+3000 10d20+400 slash
+-40 -40 -40 -60
+BEFHJK B 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK medium unknown
+#20084
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20085
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20086
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20087
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20088
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20100
+storm mason small dragon~
+A small {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Dragon~
+A small {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Dragon is here resting.
+~
+~
+dragon~
+AG JT 0 0 0
+25 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#20101
+magician~
+the {&-{8^S{7T{&O{7R{8M^{&-{0's top Magician~
+The {&-{8^S{7T{&O{7R{8M^{&-{0's top Magician is lounging here.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 100d100+100 1000d1000+1000 1d100+100 magic
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20102
+storm trainer~
+the {&-{8^S{7T{&O{7R{8M^{&-{0's Trainer~
+The {&-{8^S{7T{&O{7R{8M^{&-{0's Trainer is here.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 100d100+100 1000d1000+1000 1d100+100 magic
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20103
+khasinth storm blacksmith smith~
+{&-{8^S{7T{&O{7R{8M^{&-{0 smith and shop master~
+Khasinth, the {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x smith, tends counter here.
+~
+He's big, he's bad and he can make correct change.
+~
+human~
+AB DJZ 0 0 0
+25 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20104
+-^STORM^- clan guard~
+the {&-{8^S{7T{&O{7R{8M^{&-{0 Clan Guard~
+The {&-{8^S{7T{&O{7R{8M^{&-{0 Clan Guard stands here staring down at you.
+~
+A tall brute, definatly well trained in the art of combat
+is staring you down.  As you look at him you can tell he
+knows what he is doing.
+~
+human~
+ABEST DFJVZc 0 0 0
+150 150 1d1+40000 1d1+30000 25d25+375 smash
+-80 -80 -80 -80
+AFHKW AB 0 0
+stand stand none 0
+HMV 0 medium unknown
+F for A
+F par ABCDEFGHIJK
+M GRALL 20000 100~
+#20105
+quest master storm~
+the {&-{8^S{7T{&O{7R{8M^{&-{0 Quest Master~
+The {&-{8^S{7T{&O{7R{8M^{&-{0 Quest Master is here buffing his nails.
+~
+The Quest Master of the {&-{8^S{7T{&O{7R{8M^{&-{0 is a rugged looking bastard of a man.
+~
+dragon~
+AB JT 0 0 0
+200 5000 5000d5000+500000 5000d5000+500000 5000d5000+500000 wrath
+-200 -200 -200 -200
+0 ABCDEFGHIJKLMNOPQRSTXYZ BEH FI
+stand stand male 1000000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#20106
+storm vohdahk priest~
+{*V{7o{&h{7d{8a{7h{8k{0~
+{*V{7o{&h{7d{8a{7h{8k{0 is here being {*E{7v{&i{8L{0.
+~
+{*V{7o{&h{7d{8a{7h{8k{0 is the supreme in state of the art {8E{7V{!i{8L{0 Technology!
+~
+dragon~
+ABQX DJTZ 0 -1000 0
+30 0 100d1+0 100d1+0 0d0+0 magic
+0 0 0 0
+0 ABCD BEH FI
+stand stand female 0
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#20107
+magician~
+the {&-{8^S{7T{&O{7R{8M^{&-{0 second Magician~
+The {&-{8^S{7T{&O{7R{8M^{&-{0 second Magician is working here.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 100d100+100 1000d1000+1000 1d100+100 magic
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20150
+unused~
+unused mob~
+{DBo{Rr{rgor{Ro{Dth{x stands here, ready to crush your skull.
+~
+An absolutely gargantuan and brutish fellow towers over you, an enormous
+and battered axe hefted over his left shoulder.  Borgoroth is sworn to
+protect the hall of conquest, and he doesn't plan on breaking any promises. 
+~
+storm-giant~
+ABT DFJVZ CDE 0 0
+100 100 50000d1+0 0d0+0 25d25+35 wrath
+0 0 0 0
+CHW ABEMNOQS CDHIJKPRT 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+F imm J
+F vul P
+M GRALL 20000 100~
+#20151
+unused~
+unused mob~
+{RT{rh{Re {D*{W-{DCo{Rn{rqu{Re{Dst{W-{D* {RM{ra{Dso{Rn{R is working on a stone wall.{x
+~
+~
+human~
+AG 0 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20152
+unused~
+unused mob~
+{RK{ri{Dn{rt{Ro{x is here, working on a piece of armor.{x
+~
+~
+human~
+AB DFJZ 0 0 0
+100 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20153
+unused~
+unused mob~
+{DMo{rrl{Dek{x is here, muttering an incantation.{x
+~
+~
+human~
+ABR 0 0 0 0
+100 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20154
+conquest trainer~
+unused mob~
+{8The Co{!n{1qu{!e{8st {1Tr{!a{8i{!n{1er{D stands here . . . training{x
+~
+~
+human~
+AGJ 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20155
+elritch conquest priest~
+unused mob~
+{DE{Rlr{ri{Rtc{Dh{x stands here, tending the altar.
+~
+~
+human~
+ABX DFJZ 0 -1000 0
+100 0 1d1+1 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20156
+porli brewer conquest~
+unused mob~
+{DP{Ro{rrli{x stands here, checking on a vat of ale.
+~
+Portly Porli brews a batch.
+~
+human~
+AB DFJZ 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20157
+parle conquest baker~
+unused mob~
+{rP{Rarl{De{x stands here, kneading some dough.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20158
+conquest priest~
+unused mob~
+{!C{8h{1ee{8c{!h{8, {8Co{!n{1qu{!e{8st {8P{!r{1ie{!s{8t{0 is here, puffing a fat 'j'{x
+~
+~
+human~
+ABQZ 0 0 0 0
+30 0 100d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ACDFGHIJK medium unknown
+F par BE
+#20200
+bob guard inimicus~
+{CB{Wo{CB{x~
+{CB{Wo{CB {ct{Ch{ce {CI{cn{wi{cm{wi{cc{Wu{Cs {WG{cu{Ca{Wr{wd{x is here, protecting the hall.
+~
+~
+human~
+AB DFZ 0 0 0
+100 100 10000d1+0 0d0+0 25d25+0 punch
+0 0 0 0
+W AB 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20201
+rache inimicus mason~
+{CR{Wa{cc{Wh{Ce{x~
+{CR{Wa{cc{Wh{Ce{x is here, slaving away on a new room for the hall.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20202
+Basic Trainer~
+Basic Trainer~
+Mitsurugi, {!B{7.a{8.n{!.s{7.h{8.i{0 trainer is here praticing with his pupils.
+~
+~
+human~
+AB 0 0 0 0
+30 100 1d1+1 0d0+0 0d0+0 punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20203
+Coercius shopkeeper gypsy audentia~
+unused mob~
+{3C{7o{&e{#rc{&i{7u{3s{x  the Gypsy chants in the back of the room fashioning incantations into some of the most incredible armaments you have ever seen.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABHLQ 0 0
+stand stand male 999999999
+AHMV ABCDEFGHIJK medium unknown
+#20204
+high priest kvasir audentia good~
+unused mob~
+The High Priest of {&K{#v{&a{#s{&i{#r{x is here, chanting quietly.
+~
+~
+human~
+ABQRZ 0 0 1000 0
+30 0 100d1+0 100d1+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20205
+disciple modi trainer audentia~
+unused mob~
+A disciple of {8M{!o{8d{!i{x is here, training new recruits.
+~
+~
+human~
+AB 0 0 0 0
+100 0 1d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20206
+Nathral Mage Wizard Angel audentia~
+unused mob~
+{8N{1a{!t{*h{!r{1a{8l{x the fallen angel is here pacing, awaiting a rematch with his brother.
+~
+~
+human~
+ABG CDEFGJZ 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20207
+audentia questmaster master~
+unused mob~
+{W The {YA{wu{yd{we{Yn{wt{yi{Ya {YQ{wu{ye{ws{Yt M{wa{yst{we{Yr{x {Wis here issuing quest.{x
+~
+~
+elf~
+AB J 0 0 0
+30 50 1d1+100 0d0+0 1d1+1 punch
+0 0 0 0
+0 ABHJQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20250
+namaste guard codex~
+{8Na{$ma{&s{8t{4e{0~
+{8Na{$ma{&s{8t{4e{0 stands, making this place our own.
+~
+{8Na{$ma{&s{8t{4e{0 stands, making this place his own.
+~
+human~
+AB DFJZ 0 0 0
+100 150 50000d1+0 1d1+30000 25d25+0 punch
+-80 -80 -80 -80
+H AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20251
+Mason of The Chosen~
+unused mob~
+The Mason of The {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{X is walking around here.
+~
+~
+human~
+ABG 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20252
+storm smith shopkeeper~
+unused mob~
+Rache, Storm's whipping boy is here.
+~
+~
+human~
+AB DFJZ 0 0 0
+50 0 1d1+10000000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 20000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20253
+Rahl mage~
+unused mob~
+{DR{wah{Dl{x the Great mage or the Vast Hordes, stares at you knowingly.
+~
+~
+human~
+AB 0 0 0 0
+100 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20254
+revenant codex shop keeper shopkeeper~
+{$R{&e{8v{$e{&n{$a{8nt{0 is inside your head.~
+{$R{&e{8v{$e{&n{$a{8nt{0 is inside your head.
+~
+{$R{&e{8v{$e{&n{$a{8nt{0 is inside your head.
+~
+human~
+AB DJZ 0 0 0
+25 0 1d1+100 1d1+100 1d1+100 punch
+0 0 0 0
+0 BCD 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20255
+mowgli codex blacksmith smith~
+{8M{&o{&w{$g{&l{8i {$the {8C{&o{$d{&e{8x {$Blacksmit{8h{0~
+{8M{&o{&w{$g{&l{8i {$the {8C{&o{$d{&e{8x {$Blacksmit{8h{0
+~
+{8M{&o{&w{$g{&l{8i {$the {8C{&o{$d{&e{8x {$Blacksmit{8h{0
+~
+hill-giant~
+ABT 0 0 1000 0
+25 75 1d1+20000 10d100+1000 1d1+0 punch
+0 0 0 0
+0 ABCDQ 0 C
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20256
+inimicus pet green enshrouded figure~
+unused mob~
+{ga {Ggr{gee{Gn en{gsh{Gr{go{Gu{gded fig{Gure {gstands here.{x
+~
+~
+human~
+AIST DFJTUVZ 0 0 0
+100 200 10000d1+0 0d0+0 40d40+40 fury
+-50 -50 -50 -50
+CDEFGHK 0 CDGO 0
+stand stand male 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20257
+train trainer khaz~
+unused mob~
+{DK{wh{Wa{Dz{x stands here, whipping the others in to shape.
+~
+Ophiuchus is known as the serpent holder.  He is mythical healer and
+ancient medical man.  His fame is such that there is a constellation
+representing Ophiuchus shows him grasping a serpent, which is spread across
+the body of Ophiuchus.  
+~
+human~
+ABJ DFJZ 0 0 0
+130 0 1d1+10 1d1+1000000 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20258
+inimicus shopkeeper elrech~
+unused mob~
+Elrech is here, buying and selling all sorts of things.
+~
+~
+human~
+AB DEJ 0 0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20270
+kvasir mage vanir~
+unused mob~
+Kvasir is here, brought to life by the Vanir.
+~
+~
+human~
+ABR 0 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20271
+vanir priest~
+unused mob~
+The Vanir Priest is here to heal your wounds.
+~
+~
+human~
+ABZ 0 0 1000 0
+30 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20272
+tyr vanir trainer~
+unused mob~
+Tyr stands here, swinging his sword deftly with his one good hand.
+~
+~
+human~
+ABJ 0 0 0 0
+75 30 1d1+1000 0d0+0 1d1+1 fury
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20300
+smithy conformist~
+unused mob~
+{2T{!h{8e {!C{1o{2n{1f{!o{2r{1m{1i{2s{1t{0 has dug his own grave.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20301
+shopkeeper recreant~
+unused mob~
+{2R{6e{!c{2r{1e{6a{2n{!t{0 steps back into the pit.
+~
+~
+human~
+AB 0 0 0 0
+25 5000 5000d5000+500000 0d0+0 5000d5000+500000 wrath
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20302
+mason architect~
+unused mob~
+{wA{8n {6A{8rc{wh{Wi{8t{^e{wc{8t B{^u{gr{wn{8s {wy{Wo{8u {Wo{6u{8t {wo{8f {wh{8is {8M{^i{wn{8d{x.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 slash
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20303
+trainer abigail williams~
+unused mob~
+{1A{8b{6i{8g{&a{^i{8l W{^i{7l{8l{6i{8am{1s{0 feels the darkness pressing.
+~
+~
+human~
+ABG 0 0 0 0
+180 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20304
+girl glass mage~
+unused mob~
+{^A {wG{Wi{wr{8l {wo{Wf {wG{8l{^a{rs{8s {6w{^e{We{6p{ws h{8ere{x, {wS{8he {^S{Wcr{8e{wam{^s {RM{ru{gr{rd{Re{gr{r!{x 
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20305
+green monster~
+unused mob~
+{&t{8he {@Gr{2e{@e{2n {8M{@o{2ns{@te{2r{0 is charging forward, crushing everything in its path.
+~
+~
+human~
+ABG CDEFGJZ 0 0 0
+100 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20306
+clanguard guard impaler~
+unused mob~
+{wT{8he {^Im{Wp{8a{Wl{^er{x is out for blood.
+~
+~
+human~
+ABT 0 0 0 0
+100 100 50000d1+0 0d0+0 25d25+0 punch
+0 0 0 0
+CHJW ABE 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20307
+priest father lies~
+unused mob~
+{7The F{&a{8th{^e{8r {6o{^f {8L{7i{^e{8s{0 preaches sacrilege.
+~
+~
+human~
+ABZ DFJZ 0 1000 0
+30 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20308
+coroner healer iniquity~
+unused mob~
+{8T{^h{8e{0 {^C{wo{^r{8o{^n{we{^r{0 is here performing an autopsy.
+~
+~
+human~
+ABa 0 0 0 0
+180 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDHIKLMNQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20309
+pet corpse rotting iniquity~
+unused mob~
+{1A {!Ro{2t{1t{!i{1ng {1C{2o{!r{1p{2s{1e{0 sits here, cold and still.
+~
+~
+human~
+AIT UV E 0 0
+101 202 5000d1+1 100d100+100 40d40+40 drain
+-50 -50 -50 -50
+CD 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#20310
+pet corpse rotting iniquity~
+unused mob~
+{1A {!Ro{2t{1t{!i{1ng {1C{2o{!r{1p{2s{1e{0 stars blankly at you.
+~
+~
+human~
+AI UV E 0 0
+100 202 5000d1+1 0d0+0 40d40+40 drain
+-50 -50 -50 -50
+CD 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#20350
+avengers clan guard jentari~
+unused mob~
+{DJ{wen{Wt{war{Di{w, {DG{wua{Wrd{wia{Dn of the {DA{wve{Wng{wer{Ds{w, stands here watching the entrance.{x
+~
+~
+human~
+AB DFJZ 0 0 0
+100 100 20000d1+0 0d0+0 25d25+50 slash
+0 0 0 0
+HW AB 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 20000 100~
+#20352
+avengers mob trainer~
+unused mob~
+The Avengers Mob Trainer stands here.
+~
+~
+human~
+AG 0 0 0 0
+30 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20400
+Adiuvo Mason general~
+The {b-->A{Bdiuv{bo<--{x Mason~
+The {b-->A{Bdiuv{bo<--{x Mason is here working.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20401
+adivuo blacksmith~
+{b-->A{Bdiuv{bo<--{x Blacksmith~
+The {b-->A{Bdiuv{bo<--{x Blacksmith is hammering away.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#20402
+Adiuvo shopkeeper clan shop store~
+{b-->A{Bdiuv{bo<--{x Shopkeeper~
+The {b-->A{Bdiuv{bo<--{x Shopkeeper is working his stores.
+~
+~
+human~
+AB 0 0 0 0
+25 5000 1d1+1 0d0+0 1d1+1 punch
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20403
+trainer adiuvo~
+Trainer of {b-->A{Bdiuv{bo<--{x~
+Trainer of {b-->A{Bdiuv{bo<--{x is here working.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+1 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20404
+mage clan adiuvo~
+{b-->{bA{Bdiuv{bo{b<--{B Mage{x~
+{BThe {b-->{bA{Bdiuv{bo{b<--{B Mage {bis here mastering spells{x
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20405
+priest adiuvo~
+{b-->A{Bdiuv{bo<--{B Priest{x~
+{b-->A{Bdiuv{bo<--{B Priest stands praising his god.{x
+~
+~
+human~
+ABZ 0 0 1000 0
+30 0 1d1+5000 20000d200+39 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20409
+no name~
+unused mob~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20449
+idavoll saskia trainer~
+unused mob~
+Idavoll is here, training the members of {B*{G[{W<{gS{wa{Dsk{wi{ga{W>{G]{B*{w.{x
+~
+~
+human~
+ABJ 0 0 0 0
+75 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20450
+saskia clan guard~
+unused mob~
+The {$*{@[{&<{2s{7a{8s{8k{7i{2a{&>{@]{$*{x Clan guard stands here watching for intruders.
+~
+~
+human~
+AB DEFJVZc CDE 0 0
+150 150 1d1+40000 1d1+1000 25d25+100 smash
+-70 -70 -70 -70
+AEHKW AB 0 0
+stand stand none 0
+AM 0 medium unknown
+F for HV
+F par ABCDEFGHIJK
+M GRALL 20000 100~
+#20451
+saskia blacksmith~
+unused mob~
+The {$*{@[{&<{2s{7a{8s{8k{7i{2a{&>{@]{$*{x Blacksmith stands here forming another peice of armor.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+100 0d0+0 0d0+0 none
+-20 -20 -20 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20452
+medwyn saskia mage~
+unused mob~
+Medwyn the sorcerer is here, practicing the arcane.
+~
+~
+human~
+AR 0 0 0 0
+75 175 1d1+20000 10d10+5000 10d10+175 none
+-30 -30 -30 -45
+0 AB 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20453
+saskia mason~
+unused mob~
+The {$*{@[{&<{2s{0a{8sk{0i{2a{8>{@]{$*{x Mason wanders around patching holes.
+~
+~
+human~
+AGT 0 0 0 0
+150 125 1d1+100 1d1+100 1d1+100 punch
+-30 -30 -30 -26
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20454
+saskia priest~
+unused mob~
+The {$*{@[{&<{2s{0a{8sk{0i{2a{8>{@]{$*{x Priest stands here carefully watching you.
+~
+~
+human~
+ABQZ 0 H 1000 0
+30 150 1d1+20000 10d100+1000 5d10+150 fury
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20455
+Medwyn Jr saskia mage~
+unused mob~
+Medwyn Jr. the sorcerer is here, practicing the arcane.
+~
+~
+human~
+AR 0 0 0 0
+75 0 1d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20500
+trainer chosen sage francis~
+unused mob~
+Sage Francis is here, yelling into a megaphone.
+~
+Upon examining Sage Francis you see that he is different, in a different way.
+~
+human~
+ABG 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20501
+Shopkeeper chosen shop dude~
+unused mob~
+A shopkeeper needs a better Description.
+~
+~
+human~
+AB 0 0 0 0
+25 5000 5000d5000+500000 0d0+0 5000d5000+500000 wrath
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20502
+priest chosen ~
+unused mob~
+A Priest with a crappy description.
+~
+~
+human~
+ABZ 0 0 -1000 0
+30 0 1d1+5000 20000d200+39 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20503
+Mason of The Chosen~
+unused mob~
+The Mason of The {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{X is walking around here.
+~
+~
+human~
+ABG 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20504
+blacksmith chosen~
+unused mob~
+The Chosen Blacksmith is here, hammering things.
+~
+~
+human~
+AB 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#20505
+Mage of the chosen~
+unused mob~
+The Mage of The {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{X is here dancing fire across his fingertips.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20506
+prismatic behemoth pet chosen~
+unused mob~
+{D A GIANT beast is here, dragging his claws.{x
+~
+~
+hill-giant~
+AILT TUV 0 0 0
+100 200 1d1+10000 500d1+1 40d40+40 wrath
+-50 -50 -50 -50
+CDHJ A 0 0
+stand stand male 0
+AGHMVW ABCDEFGHIJKP tiny unknown
+F vul C
+#20507
+mage chosen second~
+unused mob~
+The Second Mage of the {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{x is here assisting his master.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20545
+saskia brewer~
+unused mob~
+The {$*{@[{&<{2S{0a{*sk{0i{2a{&>{@]{$*{x Brewer sits on a table drinking... something.
+~
+~
+elf~
+AB CDEFGJ 0 0 0
+101 50 1d1+0 0d0+0 25d25+0 pound
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20546
+saskia baker~
+unused mob~
+The {$*{@[{&<{2S{0a{*sk{0i{2a{&>{@]{$*{x Baker wanders around muttering to himself.
+~
+~
+human~
+AB CDEFG 0 0 0
+101 50 1d1+0 0d0+0 25d25+0 pound
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20547
+saskia shopkeeper lucretia~
+unused mob~
+Lucretia is here, buying things from anyone who will sell them!
+~
+~
+human~
+AB DEJ 0 0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20548
+vinanti saskia questmaster~
+unused mob~
+A wise sage stands here awaiting your request.
+~
+~
+human~
+AB 0 0 0 0
+101 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20549
+althea healer saskia~
+unused mob~
+Althea is here healing the injured.
+~
+~
+human~
+ABLa 0 0 0 0
+30 180 10000d1+0 0d0+0 25d25+0 none
+0 0 0 0
+0 ABQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20550
+misfits blacksmith~
+unused mob~
+{DA M{wisf{Di{rt {RB{rla{Dc{wksm{Di{rt{Rh {Dis here, keeping busy.{x
+~
+~
+human~
+ABR 0 0 0 0
+25 0 25000d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20551
+misfits clan guard~
+unused mob~
+The {!M{1isfit's{X {DC{wlan{X {DG{wuard{x is here.
+~
+~
+human~
+AB DFJZ 0 0 0
+100 100 20000d1+0 1d1+500 25d25+0 pound
+0 0 0 0
+HW AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20552
+mason misfits~
+unused mob~
+The mason of The Misfits is working on the hall.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20553
+dame~
+unused mob~
+Dameon is here cleaning up the room.
+~
+~
+human~
+AB DEJ 0 0 0
+150 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20554
+alissa saskia mage~
+unused mob~
+Alissa looks up from her work and snarls.
+~
+~
+human~
+ABR 0 0 0 0
+75 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20555
+armarza saskia mage~
+unused mob~
+Armarza stands quietly in the corner.
+~
+~
+elf~
+ABR J 0 0 0
+75 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 B 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20556
+storm clan guard~
+unused mob~
+The {DG{wu{Wa{wr{Dd{wi{Wa{wn{X {Do{wf{X {Wt{Dh{we{X {DS{wT{WO{wR{DM{x is here, defending his brothers.
+~
+~
+bullywug~
+ABG DFJTZb 0 -1000 0
+100 100 20000d1+0 0d0+0 25d25+75 slash
+0 0 0 0
+FHIRW AB EH 0
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#20557
+silverwolves clan guard~
+unused mob~
+The {CS{Dilver{CW{Dolves{x' Clan Guard stands here, protecting his clan.
+~
+~
+centaur~
+ABGT 0 0 0 0
+100 95 20000d1+0 0d0+0 25d25+25 slash
+-60 -60 -60 -60
+HW AB 0 0
+stand stand male 0
+AHMNV ABCDEFGHIJK medium unknown
+#20559
+guard profit clanguard~
+unused mob~
+The Profit Clan guard stands here.
+~
+~
+human~
+ABG DFJZ 0 0 0
+100 100 20000d1+1 0d0+0 25d25+0 slash
+-95 -95 -95 -95
+HIW AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20560
+Profit Blacksmith~
+unused mob~
+The Profit Blacksmith is here, selling his wares.
+~
+~
+human~
+ABG DFJZ 0 0 0
+0 0 1d1+500 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20563
+profit priest~
+unused mob~
+The Profit clan priest is here, blessing people.
+~
+~
+human~
+ABZ 0 0 1000 0
+30 0 1d1+1 20000d200+39 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20564
+pedro profit pimp pet~
+unused mob~
+Pedro, the pimp of profit is here.
+~
+~
+water fowl~
+AIMQRST CDFGUV CDE 0 0
+100 200 10000d1+0 0d0+0 40d40+40 slap
+-50 -50 -50 -50
+CEFGHIJKL 0 CDE 0
+stand stand male 0
+AGW ACDEFHKP giant unknown
+F aff Tb
+F res R
+#20565
+misfit priest~
+unused mob~
+{DA dark, m{wis{Df{ri{Rt {Dpriest stands in the center of the room.{x
+~
+~
+human~
+ABX 0 0 -1000 0
+30 0 1d3+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20600
+Mason Fredrik Wolf pack wolfpack~
+unused mob~
+{6F{7r{^e{6d{^r{7i{6k{x, the mason of the {7\{6W{7o{^l{6f{7/\{6P{^a{7c{6k{7/{x is here.
+~
+~
+human~
+AG 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20601
+snoopy wolfpack trainer~
+unused mob~
+{&S{7n{8Oo{7P{&y{x, the {6W{7o{^l{6fP{^a{7c{6k{x Mutt is here smelling horribly
+~
+~
+human~
+ABG 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20602
+woodstock wolfpack smithy blacksmith~
+unused mob~
+{#W{3o{#O{3d{8S{7t{8O{7c{8K{x, the {6W{7o{^l{6fP{^a{7c{6k{x Smithy is here rocking out making armor.
+~
+~
+human~
+AB 0 0 0 0
+50 0 1d1+1 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#20603
+trick wolfpack mage clan~
+unused mob~
+{%T{^r{7i{%C{^K{x, the {6W{7o{^l{6fP{^a{7c{6k{x Mage is here being a trick.{x
+~
+~
+human~
+ABG 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20604
+wolfpack Frank shop dude~
+unused mob~
+{^S{#wee{^t {$D{&add{$y {@F{8ran{@k{x the {6W{7o{^l{6fP{^a{7c{6k{x Shopkeep is here flexing.
+~
+~
+human~
+AB 0 0 0 0
+50 5000 5000d5000+500000 0d0+0 5000d5000+500000 wrath
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20605
+wolfpack clan priest bubba~
+unused mob~
+{DB{bub{Bba{x, your local {cW{wo{Cl{cf{cP{Ca{wc{ck {WPr{Die{Wst{x is standing here looking for fresh wounds.
+~
+~
+human~
+ABZ 0 0 -1000 0
+50 0 1d1+5000 20000d200+39 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20700
+clan guard shinigami mitserougi~
+unused mob~
+{mM{Ditserougi{x is here brandishing a katana.
+~
+~
+human~
+ABT 0 0 0 0
+100 100 50000d1+0 0d0+0 25d25+0 punch
+0 0 0 0
+HW AB D 0
+stand stand male 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20701
+mason shinigami clan~
+unused mob~
+{g.{G:{DS{ch{Ci{mn{Mi{cg{Ca{cm{Di{G:{g.{x Mason is here.
+~
+~
+human~
+ABG 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20702
+aurora healer divine|order~
+{BA{6u{gro{^r{Ba{x~
+{BA{6u{gro{^r{Ba {6is here{x, {wS{Whi{wm{Wm{wer{Wi{wn{Wg {6slightly{x.
+~
+{BA{6u{gro{^r{Ba{x, the clan healer, is here administering her special "Happy Ending Healing Skills."
+~
+human~
+ABGQa 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDLQ 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20703
+skillmaster divine|order master trainer~
+Skillmaster of the {&D{^i{&vi{^n{&e|O{^rd{&er{0~
+The Skillmaster of the {&D{^i{&vi{^n{&e|O{^rd{&er{0 meditates here.
+~
+~
+human~
+AB 0 0 0 0
+75 0 1d50000+50000 0d0+0 1d1+1 slash
+0 0 0 0
+0 ABCDQ 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#20704
+Takmaster~
+Task Master of {&D{^i{&vi{^n{&e|O{^rd{&er{0~
+The Task Master is here doling out Quests.
+~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 Task Master is a leather bound master of order. Dressed
+in Black Leather from head to toe and wearing a ball gag you often have a
+problem understanding just what he's telling you. Armed with a black bullwhip
+he expects to be obeyed.
+c shield
+~
+elf~
+AB J 0 0 0
+25 5000 5000d5000+500000 0d0+0 5000d5000+500000 wrath
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20705
+divine|order evil priest~
+the {&D{^i{&vi{^n{&e|O{^rd{&er{0 evil priest~
+A {&D{^i{&vi{^n{&e|O{^rd{&er{0 priest is here being evil.
+~
+{0This {&D{^i{&vi{^n{&e|O{^rd{&er{0 scum is here, tending his shrine and being evil. You
+notice that he seems to resemble the man in the tapestries quite a bit.
+~
+human~
+ABX 0 0 -1000 0
+30 0 100d100+100 100d100+100 1d1+1 divine
+0 0 0 0
+0 ABCD 0 0
+stand stand male 9999
+AHMV ABCDEFGHIJK medium unknown
+#20725
+sorceror of the divine|order~
+the {6S{wo{Wr{^c{6e{Wr{wo{6r{x of the Divine|Order~
+The {6S{wo{Wr{^c{6e{Wr{wo{6r{x is here, wand in hand.
+~
+A aura of protection surrounds the sorceror.
+~
+human~
+AB 0 0 0 0
+75 0 0d0+1 100d1+0 1d1+1 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20727
+divine order blacksmith smith~
+the {&D{^i{&vi{^n{&e|O{^rd{&er{0 smith~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 smith is here hard at work.
+~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 smith is a wisp of a man. He is sporting a fancy mullet
+and apparently prefers to work in seven inch heeled boots. How very strange.
+~
+human~
+AB 0 0 0 0
+25 0 0d0+1 0d0+0 1d1+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20728
+divine|order clan guard ennui~
+{6En{wnu{Wi{x~
+{6En{wnu{Wi{x is here, breathing malice.
+~
+The warrior of the Divine|Order stands guard slouched against the marble wall. Malice fills the room.
+~
+human~
+AB 0 0 0 0
+100 150 50000d1+0 1d1+30000 25d25+375 smash
+-80 -80 -80 -80
+W AB 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20729
+mason divine order~
+the {&D{^i{&vi{^n{&e|O{^rd{&er{0 mason~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 mason is here eyeballing the walls.
+~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 mason, Billy-Bing-Bob, stands here eyeballing the walls of
+the clan hall. Sporting a fabulous cashmere sweater he cuts a striking figure
+with his stylish pink mohawk and heeled sandals.
+~
+human~
+ABG 0 0 0 0
+25 0 0d0+1 0d0+0 1d1+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20730
+manifest shopkeeper keep~
+the {&D{^i{&vi{^n{&e|O{^rd{&er{0 shop keeper~
+The sassy {&D{^i{&vi{^n{&e|O{^rd{&er{0 shop keep is here tending counter.
+~
+The clan shop keeper is dressed in fishnets and twenty inch stilettos. He's
+very proud of his handlebar moustache and constantly plays with it as he
+watches you.
+~
+human~
+ABG DJZ 0 0 0
+25 0 1d1+100 0d0+0 1d1+100 punch
+0 0 0 0
+0 ABCD 0 0
+stand stand male 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20800
+golem~
+unused mob~
+{!G{1o{8le{!m{x is here, coughing and spewing.
+~
+A grey skinned man, small, yet hard as stone.  Golem is the sworn
+guardian of the conquest lair.  Crossing paths with him is not for the faint
+of heart.  
+~
+human~
+ABT 0 CDE 0 0
+100 100 32000d1+1 0d0+0 25d25+0 punch
+-28 -28 -28 -20
+CDFJKW AB D 0
+stand stand male 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20801
+pablo conquest mason~
+unused mob~
+{!P{1ab{8l{1o{x rests in the corner, sleeping off another hangover.
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+0 slap
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20802
+kai trainer conquest~
+unused mob~
+{RK{Yai{x is here, watching carefully.
+~
+~
+human~
+AB 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20803
+fred conquest shopkeep clan~
+unused mob~
+{!F{8r{1ed{x is here. slaning the chronic.
+~
+{!F{8r{1ed{x wears a trenchoat that looks as though it is made of pockets.
+~
+human~
+AB 0 0 0 0
+25 5000 5000d5000+500000 0d0+0 5000d5000+500000 wrath
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20804
+gnarr blacksmith conquest~
+unused mob~
+{RG{rn{Da{rr{Rr{x is here, chewing on some scrap iron.
+~
+A wild figure, {RG{rn{Da{rr{Rr{x looks like what used to be a human,
+but is completely covered in burn scars and filth.
+~
+human~
+AB 0 0 0 0
+25 0 1d1+1 0d0+0 1d1+1 slash
+0 0 0 0
+0 AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#20805
+mage conquest cheech~
+unused mob~
+{!C{8h{1ee{8c{!h{x is here, hitting tha bong.
+~
+~
+human~
+ABG 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20806
+priest conquest chong~
+unused mob~
+{!C{8h{1on{8g{x is here, puffin a j
+~
+~
+human~
+ABZ 0 0 1000 0
+30 0 1d1+5000 20000d200+39 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20807
+mage2 conquest jean luc picard~
+unused mob~
+{RJ{rean {RL{ruc {RP{ricard{x is here, commanding the trekkies.
+~
+~
+human~
+ABG 0 0 0 0
+30 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20808
+lard ass questor~
+unused mob~
+Lardass sits on his fat ass, ordering you around.
+~
+~
+elf~
+AB J 0 0 0
+30 50 1d1+100 0d0+0 1d1+1 punch
+0 0 0 0
+0 ABHJQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20809
+contracted mercenary~
+unused mob~
+A mercenary is here, following his client.
+~
+This mercenary bears the mark of {D*{W-{DCo{Rn{rqu{Re{Dst{W-{D*{x
+~
+human~
+AIST DFJTUVZb 0 0 0
+101 200 4000d1+0 5000d1+1 40d40+40 frbite
+0 0 0 0
+CDEJNT AK 0 0
+stand stand either 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20900
+storm clan guard~
+unused mob~
+An {DE{wnforce{Dr {Dof the {w-{DS{wT{WO{wR{DM{w-{x is here standing guard.
+~
+~
+human~
+ABT 0 0 0 0
+0 0 50000d1+0 0d0+0 25d25+0 punch
+0 0 0 0
+HW 0 D 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#20901
+wolfriders pet wolf~
+a {8Wolf{0~
+A huge and viscious looking {8Wolf{0 is here.
+~
+~
+wolf~
+A Z 0 0 0
+65 130 1d1+2000 0d0+0 40d40+40 bite
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 0
+AGV ACDEFJKQV medium unknown
+F off FH
+#20902
+benevolent priest wolfriders~
+benevolent {6({8Wol{7frid{8ers{6){0 priest~
+The {6({8Wol{7frid{8ers{6){0 Priest of Benevolence is here.
+~
+~
+human~
+ABG 0 0 0 0
+30 0 1d50000+0 1d50000+0 1d50000+50000 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20903
+mob mage wolfriders~
+{6({8Wol{7frid{8ers{6){0 mage~
+The {6({8Wol{7frid{8ers{6){0 Clan Mage is napping here.
+~
+~
+human~
+ABG 0 0 0 0
+75 0 1d50000+0 1d50000+0 1d50000+50000 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20904
+mob trainer wolfriders~
+{6({8Wol{7frid{8ers{6){0 mob trainer~
+The {6({8Wol{7frid{8ers{6){0 mob trainer is here whipping wolves.
+~
+~
+human~
+ABG 0 0 0 0
+65 0 1d50000+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20905
+wolfriders mason~
+the {6({8Wol{7frid{8ers{6){0 clan Mason~
+The {6({8Wol{7frid{8ers{6){0 clan mason is here reviewing blue prints.
+~
+~
+human~
+ABG 0 0 0 0
+25 0 1d50000+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20906
+wolfriders smith blacksmith~
+the {6({8Wol{7frid{8ers{6){0 clan Smith~
+The {6({8Wol{7frid{8ers{6){0 clan smith is here.
+~
+~
+human~
+ABG 0 0 0 0
+25 0 1d50000+0 0d0+0 100d100+100 none
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#20907
+wolfriders shopkeeper keep~
+the {6({8Wol{7frid{8ers{6){0 shopkeeper~
+The {6({8Wol{7frid{8ers{6){0 Shopkeeper displays his wares here.
+~
+~
+human~
+ABG 0 0 0 0
+30 0 1d1+50000 1d1+50000 1d1+40000 punch
+0 0 0 0
+0 ABCDQ 0 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#20986
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20987
+basic shopkeeper~
+Basic Shopkeeper~
+(no long description)
+~
+~
+human~
+AB DFJZ 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20988
+basic tanner~
+Basic Tanner~
+(no long description)
+~
+~
+human~
+AB DFJZ 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20989
+basic questmaster~
+Basic Questmaster~
+(no long description)
+~
+~
+human~
+AB DFJZ 0 0 0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20990
+basic good priest~
+Basic Good Priest~
+(no long description)
+~
+~
+human~
+ABZ DEFJZ 0 1000 0
+30 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20991
+basic evil priest~
+Basic Evil Priest~
+(no long description)
+~
+~
+human~
+ABZ DEFJZ 0 -1000 0
+30 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20992
+basic mason~
+Basic Mason~
+(no long description)
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20993
+Basic Trainer~
+Basic Trainer~
+Mitsurugi, {!B{7.a{8.n{!.s{7.h{8.i{0 trainer is here praticing with his pupils.
+~
+~
+human~
+AB 0 0 0 0
+30 100 1d1+1 0d0+0 0d0+0 punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20994
+basic mage~
+Basic Mage~
+(no long description)
+~
+~
+human~
+ABR 0 0 0 0
+30 0 1d1+1 0d0+0 0d0+0 magic
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20995
+basic healer~
+Basic Healer~
+(no long description)
+~
+~
+human~
+ABa 0 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20996
+basic guard~
+Basic Guard~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20997
+basic brewer~
+Basic Brewer~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20998
+basic baker~
+Basic Baker~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#20999
+basic smith~
+Basic Smith~
+Null
+~
+~
+human~
+AB DEFZ 0 0 0
+25 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#20000
+dragon familiar~
+unused object~
+A small Dragon familiar lies discarded.~
+Dragon~
+armor ABCEGUf AQ
+0 0 0 0 0
+1 0 100000000 P
+#20001
+portal midgaard~
+a portal to Midgaard~
+A portal to Midgaard hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJL 0
+0 999999999 0 P
+#20002
+portal kingdoms~
+a portal to Kingdoms~
+A portal to Kingdoms hovers here.~
+unknown~
+portal R 0
+0 0 AB ACDEGKO 0
+0 999999999 0 P
+#20003
+portal one-eye one eye~
+a portal to One-Eye~
+A portal to One-Eye hovers here.~
+unknown~
+portal R 0
+0 0 AB ABCDFGIJKMN 0
+0 999999999 0 P
+#20004
+portal cutter~
+a portal to Cutter~
+A portal to Cutter hovers here.~
+unknown~
+portal R 0
+0 H AB 0 0
+1 0 0 P
+#20005
+portal mizzenmast~
+a portal to Mizzenmast~
+A portal to Mizzenmast hovers here.~
+unknown~
+portal R 0
+0 0 AB ABCDEHIJKMN 0
+0 999999999 0 P
+#20006
+portal lord vulture~
+a portal to Lord Vulture~
+A portal to Lord Vulture hovers here.~
+unknown~
+portal OR 0
+0 0 0 ACDEFHIJKMN 0
+0 999999999 0 P
+#20007
+ashikubi anklet banshi~
+{7.A.{&s.{!h.{*i.{7k.{!u.{&b.{7i.{0~
+An anklet of some sort lies here abandoned.~
+bone~
+armor Se AT
+0 0 0 0 0
+1 0 5000 P
+F
+A 0 0 J
+F
+A 0 0 T
+F
+A 0 0 D
+F
+A 0 0 F
+A
+4 5
+A
+3 5
+A
+5 5
+A
+1 5
+A
+2 5
+A
+17 -15
+A
+18 15
+A
+26 5
+A
+20 -5
+F
+A 0 0 U
+A
+13 125
+A
+19 15
+A
+17 -15
+A
+12 125
+A
+28 5
+F
+A 0 0 L
+#20008
+mimikazari earring banshi~
+{W.M{w.i{r.m{R.i{8.k{R.a{r.z{R.a{w.r{W.i.{x~
+Something small glints at you from the dirt.~
+bone~
+armor Se AS
+0 0 0 0 0
+1 0 5000 P
+A
+17 -15
+A
+12 125
+A
+20 -5
+A
+13 125
+A
+19 15
+A
+17 -15
+A
+28 5
+A
+26 5
+A
+18 15
+#20009
+wrist bracer akutsume banshi~
+{w.A.{Wk.{Ru.{Dt.{Ws.{Ru.{wm.{We.{0~
+Something sparkley on the ground catches your eye.~
+bone~
+armor e AM
+0 0 0 0 0
+1 0 5000 P
+A
+19 15
+A
+18 15
+A
+17 -15
+A
+17 -15
+A
+13 125
+A
+26 5
+A
+20 -5
+#20010
+glowing eyes banshi back~
+{7.{&G{1.{!l{8.{*o{7.{&w{1.{!i{7.{7n{8.{*g{7. .{&E{1.{!y{8.{*e{7.{&s.{0~
+Something vaguely eye shaped stares up at you from the ground.~
+unknown~
+armor e AX
+0 0 0 0 0
+1 1 5000 P
+A
+18 15
+A
+19 15
+A
+13 125
+A
+17 -15
+A
+17 -15
+#20100
+fury storm anklet~
+fury of the {&-{8^S{7T{&O{7R{8M^{&-{0~
+An anklet radiating power has been carelessly discarded here.~
+unknown~
+armor e AT
+0 0 0 0 0
+1 1 5000 P
+F
+A 0 0 T
+A
+13 125
+A
+18 15
+A
+19 15
+A
+20 -5
+F
+A 0 0 U
+A
+17 -15
+A
+28 5
+A
+26 5
+A
+3 5
+A
+4 5
+A
+2 5
+A
+17 -15
+A
+9 5
+A
+12 125
+A
+1 5
+#20101
+portal midgaard~
+a portal to Midgaard~
+A portal to Midgaard hovers here.~
+unknown~
+portal R 0
+0 0 0 BDEGHIJL 0
+1 0 5000 P
+#20102
+portal cutter~
+a portal to Cutter~
+A portal to Cutter hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJKMN 0
+0 0 0 P
+#20103
+portal tiny wizard~
+a portal to the Tiny Wizard~
+A portal to the Tiny Wizard hovers here.~
+unknown~
+portal R 0
+0 0 0 AFHJMO 0
+1 0 0 P
+#20104
+portal wennigo~
+a portal to Wennigo~
+A portal to Wennigo hovers here.~
+unknown~
+portal 0 0
+0 0 AB ABCDFIJKNP 0
+0 0 0 P
+#20105
+portal fort~
+a portal to the Fort~
+A portal to the Fort hovers here.~
+unknown~
+portal R 0
+0 0 0 BDEGIKM 0
+1 0 5000 P
+#20106
+portal oversized lipopod~
+portal to Oversized Lipopod~
+A portal to Oversized Lipopod hovers here.~
+unknown~
+portal R 0
+0 0 0 BFHIKMN 0
+1 0 5000 P
+#20107
+storm surge~
+surge of the {&-{8^S{7T{&O{7R{8M^{&-{0~
+Something strange writhes and surges about here on the ground.~
+unknown~
+armor e AX
+0 0 0 0 0
+1 0 5000 P
+F
+A 0 0 F
+F
+A 0 0 L
+F
+A 0 0 D
+A
+28 5
+A
+26 5
+A
+20 -5
+A
+9 5
+A
+17 -15
+A
+17 -15
+A
+13 125
+A
+12 125
+A
+18 15
+A
+19 15
+#20108
+portal one-eye~
+portal to One-Eye~
+A portal to One-Eye hovers here.~
+unknown~
+portal Re 0
+0 0 0 ACDFGIJKMN 0
+1 0 5000 P
+#20109
+portal mizzenmast~
+portal to Mizzenmast~
+A portal to Mizzenmast hovers here.~
+unknown~
+portal Re 0
+0 0 0 ABCDEHIJKMN 0
+1 0 5000 P
+#20110
+portal Redbeard~
+portal to Redbeard~
+A portal to Redbeard hovers here.~
+unknown~
+portal Re 0
+0 0 0 ADHIJKMN 0
+1 999999999 5000 P
+#20111
+portal Lord Vulture~
+portal to Lord Vulture~
+A portal to Lord Vulture hovers here.~
+unknown~
+portal Re 0
+0 0 0 ACDEFHIJKMN 0
+1 0 5000 P
+#20150
+portal midgaard~
+unused object~
+A portal to Midgaard floats here.~
+unknown~
+portal A 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20151
+bloodstained spurs conquest~
+unused object~
+A pair of spurs covered in dried blood lie here.~
+unknown~
+armor S AT
+0 0 0 0 0
+1 0 5000 P
+A
+20 -5
+A
+19 15
+F
+A 3 5 U
+A
+1 5
+A
+2 5
+A
+18 15
+A
+13 125
+A
+17 -15
+A
+28 4
+A
+26 5
+A
+4 5
+A
+5 5
+F
+A 0 101 T
+#20152
+bracer conquerors conquest~
+unused object~
+A blood red ruby fashioned into an earring has been left here.~
+unknown~
+armor S AM
+0 0 0 0 0
+1 0 5000 P
+A
+28 4
+A
+2 1
+A
+18 15
+A
+13 125
+A
+19 15
+A
+17 -15
+A
+26 5
+A
+20 -5
+#20153
+portal kingdoms~
+unused object~
+A portal to Kingdoms~
+unknown~
+portal R 0
+0 0 AB ACDEGKO 0
+0 0 0 P
+#20154
+fountain milk~
+unused object~
+A tall red fountain stands here, milk pouring forth.~
+unknown~
+fountain R 0
+-1 -1 'milk' 0 0
+0 0 0 P
+#20155
+conquest patch conquerors~
+unused object~
+A patch lies here, eminating death and destruction.~
+unknown~
+armor 0 AW
+0 0 0 0 0
+1 1 5000 P
+A
+26 5
+A
+28 4
+A
+18 15
+A
+13 125
+A
+19 15
+A
+17 -15
+#20157
+severed head enemy conquest~
+unused object~
+The lifeless head of one of {DCo{Rn{rqu{Re{Dst{x's enemies lies here in a pool of drying blood.~
+unknown~
+armor 0 AO
+0 0 0 0 0
+1 0 5000 P
+A
+19 15
+A
+13 125
+A
+17 -15
+#20158
+portal ocean passage~
+unused object~
+A portal to Ocean Passage~
+unknown~
+portal R 0
+0 0 B ABCEFGIKN 0
+0 0 0 P
+#20159
+portal sahuagin bridge~
+unused object~
+A portal to Sahuagin Bridge~
+unknown~
+portal R 0
+0 0 B ABDFNP 0
+0 0 0 P
+#20160
+couch conquest~
+unused object~
+A large red couch sits here, beaten and decrepid after years of use.~
+unknown~
+furniture R 0
+BC FIJ BEHK EHI EHI
+0 5000 0 P
+#20161
+portal ivalice tv dragonball~
+unused object~
+{!A{8 12" {0television sits in the corner, playing looped episodes of {!Dragon Ball {#Z{x~
+unknown~
+portal R 0
+0 0 AB ABGHIO 0
+1 0 0 P
+#20162
+exit satan~
+unused object~
+{0[{!{zEXIT{0]{x~
+unknown~
+portal R 0
+0 0 AB CDFGHLN 0
+1 0 0 P
+#20163
+portal fanatic~
+unused object~
+{0A {!HUGE {!d{1ra{8go{!n{8-{1b{!o{8ne{0 bong rests in the corner, so recently used its still {8sm{0o{8king{0.{8,{0.{8-{0'{8``{x~
+unknown~
+portal AR 0
+0 0 AB ACDEJKLO 0
+1 0 0 P
+#20200
+midgaard portal~
+unused object~
+A portal to Midgaard floats here.~
+unknown~
+portal 0 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20201
+thor blessing audentia agility anklet~
+unused object~
+{#T{3ho{#r{3'{#s{x {7B{&lessing{x {3of {3[{1^{#A{7u{3d{7e{#n{7t{3i{#a{7n{1^{3]{x {3A{#gility{3 is here, pusating with electricity.{x~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+#20202
+yakuza portal midgaard~
+a portal to Midgaard~
+A portal to Midgaard hovers here.~
+unknown~
+portal R 0
+0 0 AB ACDEGIJL 0
+0 0 0 P
+#20203
+portal blackwater water park~
+unused object~
+{3This room shines with a holy {#light{x.~
+unknown~
+portal R 0
+0 0 AB AEFIJKNP 0
+0 0 0 P
+#20204
+portal city despair~
+unused object~
+A portal to City of Despair hovers here.~
+unknown~
+portal R 0
+0 0 AB ABCEIJKMNO 0
+0 0 0 P
+#20205
+clan light flare audentia~
+unused object~
+The The {y[{r^{YA{wu{yd{we{Yn{wt{yi{Ya{wn{r^{y] {YF{yl{Wa{yr{Ye{x lights your path.~
+unknown~
+light AB A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+15 15 5000 P
+A
+20 -5
+A
+9 5
+A
+26 5
+A
+17 -15
+A
+19 15
+A
+18 15
+A
+12 125
+A
+13 125
+#20206
+aura thor float audentia~
+unused object~
+The {yA{Yu{yr{Ya of {yT{Yh{yo{Yr{x floats here.~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+1 0 5000 P
+#20207
+fortress portal~
+unused object~
+A portal to Sahuagin Fortress floats here.~
+unknown~
+portal R 0
+0 0 AB BCGIKM 0
+0 0 0 P
+#20208
+portal kingdoms~
+unused object~
+A portal to Kingdoms floats here.~
+unknown~
+portal R 0
+0 0 AB ACDEFHIKO 0
+0 0 0 P
+#20220
+portal cutter~
+unused object~
+A portal to Cutter hovers here.~
+unknown~
+portal 0 0
+0 0 AB BDEGHIJKMN 0
+0 0 0 P
+#20221
+portal lord vulture~
+unused object~
+A portal to Lord Vulture hovers here.~
+unknown~
+portal 0 0
+0 ACDEHIJKLMNOPQRSTUVWXYZabcdef B ACDEFHIJKMN 0
+0 0 0 P
+#20222
+portal mizzenmast~
+unused object~
+A portal to Mizzenmast hovers here.~
+unknown~
+portal 0 0
+0 0 AB ABCDEHIJKMN 0
+0 0 0 P
+#20223
+portal red beard~
+unused object~
+A portal to Redbeard hovers here.~
+unknown~
+portal 0 0
+0 0 AB ADHIJKMN 0
+0 0 0 P
+#20224
+portal one eye~
+unused object~
+A portal to One-eye hovers here.~
+unknown~
+portal 0 0
+0 0 AB ACDFGIJKMN 0
+0 0 0 P
+#20247
+raging fury storm rage~
+unused object~
+A raging bolt of lightning is here flashing angrily.~
+unknown~
+light A A
+0 0 CEFH 0 0
+1 15 5000 P
+#20248
+portal midgaard~
+unused object~
+A portal to midgaard hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJL 0
+0 0 0 P
+#20249
+protection storm wrist ~
+unused object~
+A very strong looking bracer lies here.~
+unknown~
+armor S AM
+0 0 0 0 0
+1 0 5000 P
+A
+18 15
+A
+19 15
+A
+17 -15
+A
+13 125
+A
+20 -5
+A
+9 5
+#20250
+portal midgaard codex somewhere other reality~
+{$Som{8ew{&h{8e{$r{8e {&O{$th{8er {$T{8ha{&n {$R{&e{8a{&l{$i{&t{8y{0~
+{$Som{8ew{&h{8e{$r{8e {&O{$th{8er {$T{8ha{&n {$R{&e{8a{&l{$i{&t{8y{0.~
+unknown~
+portal Re 0
+0 0 0 ADFGHIJL 0
+0 0 5000 P
+#20251
+name codex id anklet~
+{8C{&o{$d{&e{8x{0 {$I{8d{0~
+{8C{&o{$d{&e{8x{0 {$I{8d{0 glints up at you from the ground.~
+unknown~
+armor e AT
+0 0 0 0 0
+1 0 5000 P
+A
+17 -15
+A
+17 -15
+A
+18 15
+A
+19 15
+A
+13 125
+#20252
+gleipnir vanir bonds fetters~
+unused object~
+The fabled fetters that bound the Fenris wolf lie here, pulsing with magical energy.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 1 5000 P
+#20253
+portal ocean passage~
+unused object~
+A portal to Ocean Passage hovers here.~
+unknown~
+portal 0 0
+0 0 AB EFJKMN 0
+1 0 0 P
+#20254
+portal sahuagin bridge~
+unused object~
+A portal to Sahuagin Bridge hovers here.~
+unknown~
+portal R 0
+0 0 B BDFNP 0
+0 0 0 P
+#20255
+glowing valkyrie vanir light~
+unused object~
+A gleaming valkyrie lies on the ground here.~
+unknown~
+light 0 A
+0 0 CFG 0 0
+1 15 5000 P
+A
+17 -15
+A
+19 15
+A
+26 5
+A
+13 125
+A
+18 15
+A
+20 -4
+#20300
+portal midgaard~
+unused object~
+A portal to Midgaard hovers here.~
+unknown~
+portal 0 0
+0 0 AB EFGHIJL 0
+1 0 0 P
+#20301
+iniquity clan ankle restraints~
+unused object~
+{CRe{Dst{wr{Wa{Din{Cts {wo{Df {C_|{DIn{Ci{Wqu{Ci{Dty{C|_{x~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 1 5000 P
+A
+20 -5
+A
+28 4
+A
+18 15
+A
+13 125
+A
+17 -15
+A
+19 15
+A
+1 1
+A
+12 5
+A
+5 2
+A
+2 3
+A
+9 5
+#20302
+wretched casket~
+unused object~
+{6A{0 {8W{^r{8e{6tc{8h{7e{8d{0 {8Ca{6sk{7e{8t{0~
+unknown~
+furniture R 0
+BC FIJ FIL CFG CFG
+0 0 0 P
+#20303
+no name~
+unused object~
+T~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#20304
+portal to Kingdoms~
+unused object~
+A portal to Kingdoms hovers here.~
+unknown~
+portal 0 0
+0 0 AB ACDEGKO 0
+1 0 0 P
+#20305
+ashes innocent black water park~
+unused object~
+{DA{ds{rhe{ds of t{Dhe {CI{Wn{dn{Ro{dce{Wn{Dt{x~
+unknown~
+portal R 0
+0 0 AB AFIJKNP 0
+1 0 0 P
+#20306
+portal underdark~
+unused object~
+A portal to Underdark hovers here.~
+unknown~
+portal 0 0
+0 0 AB DFHO 0
+1 0 0 P
+#20307
+portal sahuagin~
+unused object~
+A portal to Sahuagin Bridge hovers here.~
+unknown~
+portal 0 0
+0 0 AB BDFNP 0
+1 0 0 P
+#20308
+cracks marble~
+unused object~
+{wA {8C{wr{Wa{8c{wk {Wi{wn t{Wh{8e {wM{Wa{8r{wb{Wl{we{x~
+unknown~
+portal R 0
+0 0 AB ACFILM 0
+1 0 0 P
+#20309
+carnivorous forest~
+unused object~
+{GC{Rar{gn{Ri{gv{Go{Rr{go{Ru{Gs {GF{Ro{gr{Re{Gs{gt{x~
+unknown~
+portal R 0
+0 0 AB ABDEFJKMN 0
+1 0 0 P
+#20310
+iniquity trust ring~
+unused object~
+Lost in trust hovers here.~
+unknown~
+armor 0 AB
+0 0 0 0 0
+1 1 5000 P
+A
+17 -15
+A
+18 15
+A
+19 15
+A
+13 125
+A
+26 5
+F
+A 0 0 U
+A
+2 5
+#20311
+mark sacrilege iniquity~
+unused object~
+You feel the power of sacrilege.~
+unknown~
+armor 0 AW
+0 0 0 0 0
+1 1 5000 P
+A
+17 -15
+A
+18 15
+A
+19 15
+A
+26 5
+A
+13 125
+#20312
+pathology existence ~
+unused object~
+{wP{Wa{^t{6h{wo{Wl{wo{6g{wy o{8f {wE{8x{6i{Ws{wt{^e{wn{8c{6e{x~
+unknown~
+portal R 0
+0 0 AB AFHJMO 0
+1 0 0 P
+#20400
+midgaard portal~
+a portal to Midgaard~
+A portal to Midgaard floats here.~
+unknown~
+portal 0 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20401
+rainbow staff adiuvo~
+the {Br{Ga{Yi{Mn{Cb{Ro{Dw {xstaff of {b-->A{Bdiuv{bo<--{x~
+The rainbow staff of {b-->A{Bdiuv{bo<--{x lies here.~
+oldstyle~
+light G A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 80 500 P
+A
+3 2
+A
+19 5
+A
+18 5
+A
+12 25
+A
+13 75
+A
+4 2
+#20402
+spectacles wire rimmed adiuvo~
+a pair of wire rimmed spectacles of {b-->A{Bdiuv{bo<--{x~
+A small pair of wire rimmed spectacles of {b-->A{Bdiuv{bo<--{x rests here.~
+oldstyle~
+armor G AR
+BD BD BD BD 0
+1 1 500 P
+F
+A 0 0 L
+F
+A 0 0 Z
+F
+A 0 0 E
+F
+A 0 0 J
+F
+A 0 0 D
+F
+A 0 0 F
+A
+19 5
+A
+18 5
+A
+13 75
+A
+5 2
+A
+4 2
+A
+3 3
+E
+spectacles wire rimmed~
+They'll make you look smart.
+~
+#20403
+translucent robe adiuvo~
+{cT{Cran{cs{Wl{cu{Ccen{ct {DR{rob{De{x of {b-->A{Bdiuv{bo<--{x~
+A semi-transparent robe of {b-->A{Bdiuv{bo<--{x lies on the floor.~
+air~
+armor I AK
+BD BD BD BD A
+1 1 500 P
+A
+3 2
+A
+19 5
+A
+18 5
+F
+A 0 0 U
+A
+5 2
+A
+13 75
+#20404
+ring earth adiuvo~
+the e{ya{Dr{yt{xh ring of {b-->A{Bdiuv{bo<--{x~
+A dark ring of {b-->A{Bdiuv{bo<-- {xwhich seems to absorb all the light around it lies here.~
+oldstyle~
+armor I AB
+AC AC AC AC 0
+1 1 500 P
+A
+12 25
+A
+18 5
+A
+19 5
+A
+13 75
+A
+3 2
+A
+4 2
+#20405
+raven T shirt T-shirt leveling bar grill adiuvo~
+a {DRaven{x Bar and Grill, leveling T-Shirt of {b-->A{Bdiuv{bo<--{x~
+A pile of black clothe of {b-->A{Bdiuv{bo<--{x lies here.~
+leather~
+armor 0 AD
+BD BD BD BD 0
+1 50 500 P
+A
+18 5
+A
+19 5
+A
+13 75
+A
+2 2
+A
+1 2
+A
+3 2
+A
+4 2
+A
+5 2
+#20406
+backpack pack back adiuvo~
+a backpack of {b-->A{Bdiuv{bo<--{x~
+A backpack of {b-->A{Bdiuv{bo<--{x stands upright here.~
+oldstyle~
+container RY AX
+350 A 0 100 10
+1 20 5000 P
+A
+17 -3
+A
+3 2
+A
+18 5
+A
+19 5
+#20407
+red moss adiuvo~
+red moss of {b-->A{Bdiuv{bo<--{x~
+Some red moss of {b-->A{Bdiuv{bo<--{x lies on the ground.~
+wood~
+pill I A
+50 'cure critical' 'cure critical' 'giant strength' 'haste'
+1 10 100 P
+#20408
+dirty root adiuvo~
+a dirty root of {b-->A{Bdiuv{bo<--{x~
+A dirty root of {b-->A{Bdiuv{bo<--{x lies on the ground.~
+wood~
+pill I A
+50 'armor' '' 'stone skin' 'shield'
+1 20 100 P
+#20409
+ring seashell adiuvo~
+a seashell ring of {b-->A{Bdiuv{bo<--{x~
+A small seashell of {b-->A{Bdiuv{bo<--{x has been left here.~
+oldstyle~
+boat G AB
+0 0 0 0 0
+1 20 500 P
+A
+17 -10
+A
+5 2
+A
+3 2
+A
+18 5
+A
+19 5
+#20410
+masamune sword adiuvo~
+a masamune of {b-->A{Bdiuv{bo<--{x~
+A very long sword of {b-->A{Bdiuv{bo<--{x is stuck in the ground here.~
+iron~
+weapon 0 AN
+sword 8 6 slash 0
+10 20 10000 P
+A
+19 15
+A
+18 5
+#20411
+Platina Dagger Adiuvo~
+a {Dplatina{x dagger of {b-->A{Bdiuv{bo<--{x~
+A dagger of {b-->A{Bdiuv{bo<--{x with a platinum blade is on the ground.~
+metal~
+weapon 0 AN
+dagger 8 6 slash 0
+10 5 10000 P
+A
+18 15
+A
+19 5
+#20412
+clan adiuvo freedom faith~
+unused object~
+{b-->F{Bre{bed{Dom {wof {DFa{Bit{bh<--{x lies discarded.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+#20413
+earring adiuvo sapphire truth~
+unused object~
+A set of {b-->A{Bdiuv{bo<--{x earring lies discarded.~
+unknown~
+armor 0 AS
+0 0 0 0 0
+1 0 5000 P
+#20414
+fortress portal~
+a portal to Sahuagin Fortress~
+A portal to Sahuagin Fortress floats here.~
+unknown~
+portal R 0
+0 0 AB ABDFIKM 0
+0 0 0 P
+#20415
+portal kingdoms~
+a portal to Kingdoms~
+A portal to Kingdoms floats here.~
+unknown~
+portal R 0
+0 0 AB BCHKO 0
+0 0 0 P
+#20416
+rejuvinating spring sauna~
+unused object~
+A spring bubbles up from the ground, begging to be slept in.~
+unknown~
+furniture R 0
+BC FIJ CFIL CEFGHI CEFGHI
+0 0 0 P
+#20450
+portal crack~
+unused object~
+You see a large crack in the marble wall.~
+unknown~
+portal 0 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20451
+saskia badge protection~
+unused object~
+A badge of Saskia lies here.~
+unknown~
+armor Y AU
+0 0 0 0 0
+1 0 5000 P
+#20452
+saskia twinkling anklet dgerowqx~
+unused object~
+A shining anklet lies here.~
+unknown~
+armor Ye AT
+0 0 0 0 0
+1 0 5000 P
+A
+19 15
+A
+13 125
+A
+2 5
+#20453
+saskia tainted whispers~
+unused object~
+A pair of earrings, tainted with corruption lie here.~
+unknown~
+armor Ye AS
+0 0 0 0 0
+1 0 5000 P
+#20454
+portal kingdoms~
+unused object~
+A portal to Kingdoms hovers here.~
+unknown~
+portal 0 0
+0 0 AB BCHKO 0
+0 0 0 P
+#20455
+aurora lightning saskia~
+unused object~
+{gA{wu{Dr{Go{Dr{wa{&'{gs {GL{Di{gg{wh{Gt{Dn{gi{wn{Gg{x sits here.~
+lightstuff~
+light Y A
+0 0 CFG 0 0
+1 15 5000 P
+#20456
+saskia healing sauna~
+unused object~
+The {$*{@{&{2S{7a{8s{8k{7i{2a{&{@{$* {3H{#ea{7l{#in{#g {6S{^a{7u{^n{6a{x ~
+unknown~
+furniture GR 0
+BC FIJ CFIL DFGHIJ DFGHIJ
+0 0 0 P
+#20500
+war travellers chosen anklet~
+unused object~
+{yW{Ya{yr {DT{cra{Cv{ce{Dll{ce{Cr{Ds{x~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+A
+17 -15
+A
+18 15
+A
+19 15
+A
+13 125
+A
+26 5
+A
+28 4
+A
+2 5
+A
+1 5
+A
+4 5
+A
+3 5
+A
+5 5
+A
+20 -5
+A
+12 125
+A
+14 150
+#20501
+white noise chosen~
+unused object~
+{DWh{Wi{Dte{x {cN{Co{Wi{Cs{ce{X lies here on the ground, pulsing.~
+unknown~
+armor 0 AS
+0 0 0 0 0
+1 0 5000 P
+A
+20 -5
+A
+12 125
+F
+A 0 0 J
+A
+26 5
+F
+A 0 0 T
+A
+13 125
+A
+17 -15
+A
+18 15
+A
+19 15
+F
+A 0 0 L
+F
+A 0 0 U
+F
+A 0 0 D
+F
+A 0 0 F
+A
+28 4
+A
+14 150
+#20502
+chosen portal midgard~
+unused object~
+A portal to midgaard hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJL 0
+0 0 0 P
+#20503
+Faith chosen religion patch~
+unused object~
+{wF{ra{Wi{rt{wh in {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{x lies here.~
+unknown~
+armor 0 AV
+0 0 0 0 0
+1 0 5000 P
+A
+20 -5
+A
+12 125
+A
+26 5
+A
+19 15
+A
+18 15
+A
+13 125
+A
+17 -15
+A
+28 4
+A
+14 150
+#20504
+chest chosen glowing crest~
+unused object~
+{DG{Wl{Go{gw{Gi{Wn{Dg {DC{cr{Ce{cs{Dt of {y::{Y*{DC{yh{Yo{Ds{ye{Dn{Y*{y::{x lies discarded.~
+unknown~
+armor 0 AW
+0 0 0 0 0
+1 0 5000 P
+A
+20 -5
+A
+26 5
+A
+28 4
+A
+12 125
+A
+19 15
+A
+18 15
+A
+17 -15
+A
+13 125
+A
+14 150
+#20550
+midgaard portal~
+unused object~
+A portal to Midgaard floats here.~
+unknown~
+portal 0 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20551
+dead~
+unused object~
+{RAn anklet with a tiny charm lies on the ground.{x~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+A
+12 60
+A
+18 15
+A
+19 15
+A
+13 125
+#20552
+portal kingdoms~
+unused object~
+A portal to Kingdoms floats here.~
+unknown~
+portal OR 0
+0 0 AB BCHKO 0
+0 0 0 P
+#20553
+portal cutter~
+unused object~
+A portal to Cutter hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJKMN 0
+0 0 0 P
+#20554
+portal lord vulture~
+unused object~
+A portal to Lord Vulture hovers here.~
+unknown~
+portal OR 0
+0 0 AB ACDEFHIJKMN 0
+0 0 0 P
+#20555
+portal one eye~
+unused object~
+A portal to One-eye hovers here.~
+unknown~
+portal 0 0
+0 0 AB ACDFGIJKMN 0
+0 0 0 P
+#20556
+portal mizzenmast~
+unused object~
+A portal to Mizzenmast hovers here.~
+unknown~
+portal OR 0
+0 0 AB ABCDEHIJKMN 0
+0 0 0 P
+#20557
+portal red beard~
+unused object~
+A portal to Redbeard hovers here.~
+unknown~
+portal OR 0
+0 0 AB ADHIJKMN 0
+0 0 0 P
+#20558
+portal lord mourning~
+unused object~
+A portal to Lord Mourning hovers here.~
+unknown~
+portal OR 0
+0 0 AB AFLMN 0
+0 0 0 P
+#20559
+fortress portal~
+unused object~
+A portal to Sahuagin Fortress floats here.~
+unknown~
+portal R 0
+0 0 AB BDFIKM 0
+0 0 0 P
+#20560
+portal lodoss~
+unused object~
+A portal to Lodoss hovers here.~
+unknown~
+portal R 0
+0 0 AB BFHJMO 0
+0 0 0 P
+#20561
+portal cave weeds chapel~
+unused object~
+A portal to The Chapel(cave weeds) hovers here.~
+unknown~
+portal R 0
+0 0 AB CEFGIKL 0
+0 0 0 P
+#20562
+portal turtle crystalmir lake~
+unused object~
+A portal to Crystalmir Lake(Turtle Dragon) hovers here.~
+unknown~
+portal R 0
+0 0 AB CDEGIJKN 0
+0 0 0 P
+#20563
+portal githyanki astral plane~
+unused object~
+A portal to the Astral Plane(Githyanki) hovers here.~
+unknown~
+portal R 0
+0 0 AB BCGJKLM 0
+0 0 0 P
+#20565
+chosen fountain dr pepper~
+unused object~
+A beautiful marble fountain stands here spouting Dr. Pepper.~
+unknown~
+fountain R 0
+0 0 'dr pepper' 0 0
+0 0 0 P
+#20600
+midgaard portal~
+unused object~
+{&({8_{&[{!Mi{&dg{8aa{!rd's Re{&qu{8ie{!m{&]{8_{&){x~
+unknown~
+portal 0 0
+0 0 AB BCGHIJL 0
+0 0 0 P
+#20601
+anklet reverence~
+unused object~
+{RAn{Wkl{Det{Rs {wof {!=[{&Revere{*nce{!>{x lie here discarded.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+A
+12 100
+A
+26 5
+A
+13 125
+A
+19 15
+A
+18 15
+A
+17 -15
+#20605
+portal kingdoms requiem~
+unused object~
+{&({8_{&[{!Ki{&ng{8do{!m's Re{&qu{8ie{!m{&]{8_{&){x~
+unknown~
+portal R 0
+0 0 AB ACDEGKO 0
+1 0 0 P
+#20650
+blood stained crystal shard clan anklet shinigami~
+unused object~
+A {rB{Rl{Do{Do{Dd {ws{Dt{Wain{De{wd {cc{Dr{Cy{Ds{Ct{ca{Cl{x-{bs{Bh{Da{Br{bd{x is lying here.~
+onyx~
+armor ABSYe AT
+0 0 0 0 0
+1 1 5000 P
+A
+13 125
+A
+12 125
+A
+26 5
+A
+28 5
+A
+19 15
+A
+18 15
+A
+4 5
+A
+3 5
+A
+9 5
+A
+17 -15
+A
+2 5
+F
+A 0 0 U
+F
+A 0 0 T
+F
+A 0 0 D
+F
+A 0 0 F
+F
+A 0 0 L
+A
+1 5
+A
+5 5
+#20651
+crystal chakra extension shinigami wrist~
+unused object~
+{xA {cr{Da{wd{Wi{wa{Dt{ci{Dn{wg {cc{Dr{Cy{Ds{Ct{ca{Cl{x carelessly discarded.~
+unknown~
+armor 0 AM
+0 0 0 0 0
+1 1 5000 P
+A
+18 15
+A
+13 125
+A
+19 15
+A
+26 5
+A
+2 5
+A
+17 -15
+#20700
+portal midgaard~
+unused object~
+A portal to Midgaard hovers here.~
+unknown~
+portal 0 0
+0 0 AB BDEGHIJL 0
+1 0 0 P
+#20701
+Kyuubi clan anklet~
+unused object~
+{r:{D*{r:{cK{Dy{Cu{Du{cb{Ci{r:{D*{r:{x Anklet lies discarded.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+A
+3 5
+A
+4 5
+F
+A 0 0 T
+A
+9 5
+F
+A 0 0 U
+A
+20 -5
+A
+17 -15
+A
+19 15
+A
+18 15
+A
+13 125
+A
+26 5
+#20702
+kyuubi wristguard~
+unused object~
+{r:{D*{r:{cK{Dy{Cu{Du{cb{Ci{r:{D*{r:{x Wristguard{x~
+unknown~
+armor 0 AM
+0 0 0 0 0
+1 0 5000 P
+A
+20 -5
+A
+13 125
+A
+19 15
+A
+17 -15
+A
+18 15
+#20703
+pool chakra~
+unused object~
+A pool of chakra has been sunk into the floor, pulsing with energy.~
+unknown~
+furniture R 0
+BC DEGJ CFIL BGHI BGHI
+0 0 0 P
+#20704
+fountain milk~
+unused object~
+A fountain of the finest aquamarine stands here, milk flowing down its sides.~
+unknown~
+fountain R 0
+-1 -1 'milk' 0 0
+0 0 0 P
+#20705
+exit portal kingdoms~
+unused object~
+{0[{!{zEXIT{0]{x~
+unknown~
+portal R 0
+0 0 AB ACDEGKO 0
+1 0 0 P
+#20721
+ice box divine order~
+{WI{^c{we {^B{wo{Wx{x ~
+The {WI{^c{we {^B{wo{Wx{x  is here.~
+unknown~
+furniture 0 0
+BC FIJ BEHKN DFGHIJ DFGHIJ
+0 0 0 P
+#20722
+fountain midnight swim divine|order~
+a midnight swim~
+A midnight swim is in your future.~
+unknown~
+fountain 0 0
+0 0 'absinthe' 0 0
+0 0 0 P
+#20723
+divine restraint order manacle~
+{&D{^i{&vi{6n{&e R{6e{&str{^a{&i{^n{&t{0~
+A manacle of some sort has been left here.~
+unknown~
+armor e AT
+0 0 0 0 0
+1 0 5000 P
+A
+26 5
+A
+19 15
+A
+17 -15
+A
+17 -15
+A
+13 125
+A
+18 15
+#20726
+divine bondage order bracer~
+{&D{^i{&vi{6n{&e B{^o{&nd{^a{&ge{0~
+A bracer of some sort has been discarded and left here.~
+unknown~
+armor e AM
+0 0 0 0 0
+1 0 5000 P
+A
+26 4
+A
+20 -5
+A
+17 -15
+A
+13 125
+A
+19 15
+A
+18 15
+F
+A 0 0 U
+A
+17 -15
+A
+2 5
+A
+14 150
+#20728
+a gluttonous haze portal divine|order~
+{8A {wG{Wl{^u{Wt{wt{^o{wn{Wo{^u{ws {YH{ya{6z{ye{x~
+{8A {wG{Wl{^u{Wt{wt{^o{wn{Wo{^u{ws {YH{ya{6z{ye{x is here.~
+unknown~
+portal 0 0
+0 0 0 BFHIKMN 0
+0 0 0 P
+#20729
+portal product of cleaning ~
+{8P{wr{Wo{6d{wu{Wc{8t {wo{8f th{we {^C{8l{we{Wa{6ns{wi{8n{^g{x~
+The {8P{wr{Wo{6d{wu{Wc{8t {wo{8f th{we {^C{8l{we{Wa{6ns{wi{8n{^g{x is here.~
+unknown~
+portal 0 0
+0 0 0 AFHJMO 0
+0 0 0 P
+#20730
+portal midgaard~
+the portal of Midgaard~
+The portal of Midgaard hovers here.~
+unknown~
+portal R 0
+0 0 0 BCDFGHIJL 0
+0 0 0 P
+#20731
+portal divine|order pool black water~
+{8A pool of {wB{8l{wa{yc{Yk {yWa{wt{8e{wr{x.~
+{8A pool of {wB{8l{wa{yc{Yk {yWa{wt{8e{wr{x.~
+unknown~
+portal R 0
+0 0 0 AEFIJKNP 0
+0 0 0 P
+#20732
+A Crack Within the Marble~
+{8A {^C{Wr{^a{Wc{^k {8within the {WM{^a{Wr{^b{Wl{^e{x~
+{8A {^C{Wr{^a{Wc{^k {8within the {WM{^a{Wr{^b{Wl{^e{x~
+unknown~
+portal R 0
+0 0 0 BCDEIKMNP 0
+0 0 0 P
+#20733
+A New Era of Corruption~
+{8A {^N{6e{ww {6E{Wr{wa {8of {^C{8o{^r{6r{8u{6p{^t{8io{^n{x~
+{8A {^N{6e{ww {6E{Wr{wa {8of {^C{8o{^r{6r{8u{6p{^t{8io{^n{x~
+unknown~
+portal RTYef 0
+0 0 0 ABCDFHJKMN 0
+0 0 0 P
+#20800
+portal midgaard~
+unused object~
+A portal to midgaard hovers here.~
+unknown~
+portal R 0
+0 0 AB BDEGHIJL 0
+0 0 0 P
+#20801
+shackles conquest clan anklet~
+unused object~
+Bloodstained iron shackles lie here.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 0 5000 P
+A
+17 -15
+A
+18 15
+A
+13 125
+A
+20 -5
+A
+26 5
+A
+5 5
+A
+2 5
+A
+3 5
+A
+19 15
+#20802
+studs conquest earring~
+unused object~
+{!a pair of bloody earrings lie here.{x~
+unknown~
+armor 0 AS
+0 0 0 0 0
+1 0 5000 P
+A
+17 -15
+A
+19 15
+A
+18 15
+A
+26 5
+A
+13 125
+F
+A 0 0 U
+#20803
+big red couch conquest~
+unused object~
+{!an ancient red couch is here.{x~
+unknown~
+furniture 0 0
+BC FIJ BEHKN EHI EHI
+1 0 0 P
+#20804
+kingdoms red dragon bong~
+unused object~
+{RR{re{Rd {GD{gra{Gg{gon {GB{gon{GG{x~
+unknown~
+portal R 0
+0 0 AB BDEIKO 0
+0 0 0 P
+#20805
+skykingdoms tv television beaten ~
+unused object~
+{wA {GB{geaten {wdown {RT{relevision {wplays looped episodes of {YDBZ{R!!{x~
+unknown~
+portal R 0
+0 0 AB ADFIJLMP 0
+0 0 0 P
+#20806
+fortress fountain gold~
+unused object~
+{WA {wFo{Wun{wtain {CF{cille{Cd with {Yg{yol{Yd and {WR{wi{Wch{we{Ws{x~
+unknown~
+portal R 0
+0 0 AB ABFIKM 0
+0 0 0 P
+#20807
+foul stench victory conquest~
+unused object~
+A foul stench eminates from a small ball of energy.  It smells like the crushed souls of your enemies.~
+unknown~
+armor 0 AQ
+0 0 0 0 0
+1 0 5000 P
+A
+26 5
+A
+17 -15
+A
+18 15
+A
+19 15
+A
+13 125
+#20808
+exit~
+unused object~
+{y[{z{REXIT{y]{x~
+unknown~
+portal R 0
+0 0 AB BCDFIKO 0
+0 0 0 P
+#20809
+plateau~
+unused object~
+{GP{glatea{Gu{x~
+unknown~
+portal R 0
+0 0 AB ABCGJKO 0
+0 0 0 P
+#20810
+fanatical boobies~
+unused object~
+{RF{ra{8n{ra{Rt{ri{8c{ra{Rl{x~
+unknown~
+portal R 0
+0 0 AB BDEJKLO 0
+0 0 0 P
+#20811
+bridge~
+unused object~
+{GB{Yr{Gi{Yd{Gg{YE{x~
+unknown~
+portal R 0
+0 0 AB ABDFNP 0
+0 0 0 P
+#20812
+vagina~
+unused object~
+{RV{ra{ygi{rn{Ra{x~
+unknown~
+portal R 0
+0 0 AB ABCEFGIKN 0
+0 0 0 P
+#20900
+chest squire patch~
+{wC{Whe{Bst {wPa{Btc{Wh {Dof {wS{Bq{Wui{Br{we{x~
+The {wC{Whe{Bst {wPa{Btc{Wh {Dof {wS{Bq{Wui{Br{we{x lies in the dirt.~
+unknown~
+armor 0 AW
+0 0 0 0 0
+1 0 5000 P
+A
+12 75
+A
+13 75
+A
+18 10
+A
+19 10
+A
+14 20
+A
+17 -15
+#20901
+wolfriders earring~
+{6({8Wol{7frid{8ers{6){0 {6Ea{8r{7ri{8n{6g{0~
+An earring lies here abandoned in the dirt.~
+unknown~
+armor 0 AS
+0 0 0 0 0
+1 20 5000 P
+F
+A 0 0 D
+F
+A 0 0 L
+F
+A 0 0 T
+A
+13 125
+A
+19 15
+A
+18 15
+A
+26 5
+A
+28 5
+F
+A 0 0 U
+A
+17 -15
+A
+17 -15
+F
+A 0 0 F
+#20902
+portal lelk~
+a portal to Lelk~
+A portal to Lelk hovers here.~
+unknown~
+portal R 0
+0 0 0 AEFIJKNP 0
+1 20 0 P
+#20903
+portal lodoss~
+a portal to Lord Vulture~
+A portal to Lord Vulture hovers here.~
+unknown~
+portal R 0
+0 0 AB ACDEFHIJKMN 0
+0 0 0 P
+#20904
+portal cutter~
+a portal to Cutter~
+A portal to Cutter hovers here.~
+unknown~
+portal R 0
+0 0 0 DEGHIJKMN 0
+0 0 0 P
+#20905
+portal sahuagin fort~
+a portal to the Fort~
+A portal to the Fort hovers here.~
+unknown~
+portal R 0
+0 0 0 ABFIKM 0
+0 0 0 P
+#20906
+portal forest of illusion~
+a portal to the Forest of Illusion~
+A portal to the Forest of Illusion hovers here.~
+unknown~
+portal R 0
+0 0 0 ACDFHIJKMO 0
+0 0 0 P
+#20907
+wolfriders anklet~
+{6({8Wol{7frid{8ers{6){0 {6An{8k{&l{8e{6t{0~
+An anklet lies here abandoned on the ground.~
+unknown~
+armor 0 AT
+0 0 0 0 0
+1 20 5000 P
+A
+19 15
+A
+18 15
+A
+17 -15
+A
+17 -15
+A
+13 125
+A
+28 5
+A
+5 2
+A
+26 5
+#20908
+portal midgaard~
+a portal to Midgaard~
+A portal to Midgaard hovers here.~
+unknown~
+portal R 0
+0 0 0 ABCDEFHIJL 0
+0 0 0 P
+#20909
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#20910
+fury of the storm~
+unused object~
+The Fury of the {w-{W[{DS{wt{Wo{wr{Dm{W]{x-{X is pulsating with hate here.~
+unknown~
+armor ASY AT
+0 0 0 0 0
+1 0 500 P
+A
+14 150
+A
+13 125
+A
+12 125
+A
+26 5
+A
+18 15
+A
+19 15
+A
+17 -15
+A
+9 5
+A
+20 -5
+A
+2 5
+A
+3 5
+#20911
+anger of the storm~
+unused object~
+The Anger of the {w-{W[{DS{wT{WO{wR{DM{W]{w-{X is lying here.~
+unknown~
+armor 0 AC
+0 0 0 0 0
+1 0 500 P
+A
+1 5
+A
+4 5
+A
+17 -15
+A
+9 5
+A
+19 15
+A
+18 15
+A
+26 5
+A
+13 125
+A
+12 125
+A
+28 5
+A
+20 -5
+#20912
+Calm before the storm~
+unused object~
+Calm before the {w-{W[{DS{wT{WO{wR{DM{W]{w-{X is lying here.~
+unknown~
+armor 0 AM
+0 0 0 0 0
+1 0 500 P
+A
+14 150
+A
+2 5
+A
+12 125
+A
+13 125
+A
+28 4
+A
+26 5
+A
+20 -5
+A
+9 5
+A
+17 -15
+A
+18 15
+A
+19 15
+F
+A 0 0 Z
+F
+A 0 0 U
+F
+A 0 0 T
+F
+A 0 0 L
+F
+A 0 0 F
+F
+A 0 0 D
+F
+A 0 0 J
+#20913
+Participation Iquest Ribbon Distorted Illusions~
+a {GD{gi{Gs{gt{Go{gr{Gt{ge{Gd {gI{Gl{gl{Gu{gs{Gi{go{Gn{gs {RI{rq{Ru{re{Rs{rt {RP{ra{Rr{rt{Ri{rc{Ri{rp{Ra{rt{Ri{ro{Rn {YR{yi{Yb{yb{Yo{yn{X~
+A {GD{gi{Gs{gt{Go{gr{Gt{ge{Gd {gI{Gl{gl{Gu{gs{Gi{go{Gn{gs {RI{rq{Ru{re{Rs{rt {RP{ra{Rr{rt{Ri{rc{Ri{rp{Ra{rt{Ri{X lies here, radiating pure, evervescent energy.~
+glass~
+treasure AIOTYd A
+0 0 0 0 0
+0 0 0 P
+#20997
+pill quest white~
+a {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0~
+A {^s{$h{^i{$m{^m{$e{^r{$i{^n{$g{0 {&white {@p{2il{@l{0 has been dropped here.~
+jelly~
+pill AGTY A
+1 'quest pill' '' '' ''
+0 1 2 P
+#20998
+diamond blue gem~
+a {Bblue diamond{x~
+A {Bblue diamond{x catches and reflects the lighting.~
+gem~
+treasure W AO
+0 0 0 0 0
+0 1 7500000 P
+A
+13 40
+#20999
+cubic zirconium gem~
+a cubic zirconium~
+A cubic zirconium catches and reflects the lighting.~
+gem~
+treasure W AO
+0 0 0 0 0
+0 1 750000 P
+A
+13 40
+#0
+
+
+
+#ROOMS
+#20500
+unused~
+~
+0 1048580 1
+S
+#20501
+unused~
+~
+0 4 0
+S
+#20502
+unused~
+~
+0 4 0
+S
+#20503
+unused~
+~
+0 4 0
+S
+#20504
+unused~
+~
+0 4 0
+S
+#20505
+unused~
+~
+0 4 0
+S
+#20506
+unused~
+~
+0 4 0
+S
+#20507
+unused~
+~
+0 4100 0
+S
+#20508
+unused~
+~
+0 4 0
+S
+#20520
+Unused~
+~
+0 4 0
+S
+#20521
+Unused~
+~
+0 4 0
+S
+#20522
+Unused~
+~
+0 4 0
+S
+#20550
+unused~
+~
+0 4 0
+S
+#20551
+unused~
+~
+0 4 0
+S
+#20552
+unused~
+~
+0 4 0
+S
+#20553
+unused~
+~
+0 4 0
+S
+#20600
+unused~
+~
+0 4 0
+S
+#20601
+unused~
+~
+0 4 0
+S
+#20602
+unused~
+~
+0 4 0
+S
+#20603
+unused~
+~
+0 4 0
+S
+#20604
+unused~
+~
+0 4 0
+S
+#20605
+unused~
+~
+0 4 0
+S
+#20606
+unused~
+~
+0 4 0
+S
+#20650
+unused~
+~
+0 4 0
+S
+#20651
+unused~
+~
+0 4 0
+S
+#20652
+unused~
+~
+0 4 0
+S
+#20653
+unused~
+~
+0 4 0
+S
+#20654
+unused~
+~
+0 4 0
+S
+#20655
+unused~
+~
+0 4 0
+S
+#20700
+unused~
+~
+0 524292 0
+M 500 H 500
+S
+#20701
+unused~
+~
+0 4 0
+S
+#20702
+unused~
+~
+0 4 0
+S
+#20703
+unused~
+~
+0 4 0
+S
+#20704
+unused~
+~
+0 4 0
+S
+#20705
+unused~
+~
+0 4 0
+S
+#20706
+unused~
+~
+0 4 0
+S
+#20707
+unused~
+~
+0 4 0
+S
+#20708
+unused~
+~
+0 4 0
+S
+#20709
+unused~
+~
+0 4 0
+S
+#20710
+unused~
+~
+0 4 0
+S
+#20711
+unused~
+~
+0 4 0
+S
+#20712
+unused~
+~
+0 4 0
+S
+#20713
+unused~
+~
+0 4 0
+S
+#20714
+unused~
+~
+0 4 0
+S
+#20715
+unused~
+~
+0 4 0
+S
+#20716
+unused~
+~
+0 4 0
+S
+#20717
+unused~
+~
+0 4 0
+S
+#20718
+unused~
+~
+0 4 0
+S
+#20719
+unused~
+~
+0 4 0
+S
+#20720
+unused~
+~
+0 4 0
+S
+#20721
+unused~
+~
+0 4 0
+S
+#20722
+unused~
+~
+0 4 0
+S
+#20723
+unused~
+~
+0 4 0
+S
+#20724
+Temple of the Divine|Order~
+Upon arrival you feel a wave of the Cleansing. Hallways open up the room to the east and west. A sense
+of righteousness rises from below.
+~
+0 8 0
+D4
+~
+~
+0 0 20726
+M 600 H 600
+S
+#20725
+Study of the Divine|Order~
+This room is stark and bleak and appears to be used at a minimum. The Divine|Order mage
+must be lazy.
+~
+0 8 0
+D0
+~
+~
+0 0 20728
+S
+#20726
+Armory of the Divine|Order~
+Used and bloody armor and weapons line each wall of the room. The equipment has been torn away from the
+Cleansed. Fractured frames and scattered flesh adorn the floor.
+~
+0 8 0
+D4
+~
+~
+0 0 20728
+D5
+~
+~
+0 0 20724
+S
+#20727
+{&D{^i{&vi{^n{&e|O{^rd{&er{0 Smithy and Forge~
+The {&D{^i{&vi{^n{&e|O{^rd{&er{0 Smithy is a filthy stinking room full of smithing gear and what
+note. Watch your step.
+~
+0 8 0
+D5
+~
+~
+0 0 20728
+S
+#20728
+{&D{^i{&vi{^n{&e|O{^rd{&er{0 Entrance Hall~
+Marble lines the Hall of the Divine|Order. Veins of Hope are spread throughout the marble. Rays of light
+pour from within the corpses of filth. 
+~
+0 8 0
+E
+list~
+{@***{0 {&D{^i{&vi{^n{&e|O{^rd{&er{0 {^Purchased Mobs{0
+  30 Evil Priest
+{0  75 Mage
+  25 Smith
+ 100 Clan Guard; The Watcher
+  25 Mason
+  30 Shop Keeper
+{0  25 Quest Master
+{0  75 Mob Trainer
+{0 100 Aurora Clan Healer
+ 
+{!***{0 04/13/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following upgrades:
+  10 Cubics: Clan Hall Relocation
+{0  50 Cubics: +50 HP to Clan Anklet (+70HP Current Total)
+ 
+{!***{0 04/14/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  1 Cubic: Clan Hall Relocation after BAWN Slaughter
+ 
+{!***{0 04/15/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+ 100 Cubics: Clan Quest Master purchased & installed.
+ 
+{!***{0 04/19/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  30 Cubics: Mob Trainer (starts 30th Level)
+  50 Cubics: Mob Trainer +25 Levels (now 55th Level)
+ 
+{!***{0 04/20/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  40 Cubics: Mob Trainer +20 Levels (75th Level)
+  60 Cubics: Clan Mage +30 Levels (60th Level)
+ 
+{!***{0 04/21/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  30 Cubics: +15 Levels Clan Mage (now 75th)
+  40 Cubics: Portal to Lodoss (Airian to specify exact room)
+ 
+{!***{0 05/03/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  10 Cubics: Clan Hall Relocation
+ 
+{!***{0 05/08/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  10 Cubics: Clan Hall Relocation
+ 
+{!***{0 05/09/2010 {&D{^i{&vi{^n{&e|O{^rd{&e{^r{0 purchased the following:
+  25 Cubics: Clan Fountain
+  25 Cubics: Clan Sauna
+ 175 Cubics: Clan Healer
+ 480 Cubics: +800 Regen to Clan Suana
+ 
+{!***{0 05/11/2010 {&D{^i{&vi{^n{&e|O{^rd{&e{^r{0 purchased the following:
+  20 Cubics: Portal of Despair Destination Altered
+ 
+{!***{0 05/13/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  50 Cubics: +5 Dex to Clan Wrist/Bondage (Dex Maxed)
+  55 Cubics: +55 HP to Clan Anklet/Restraint (HP Maxed +125)
+ 150 Cubics: +150 Moves to Clan Wrist/Bondage (Moves Maxed +150)
+ 
+{!***{0 05/14/2010 {&D{^i{&vi{^n{&e|O{^rd{&e{^r{0 purchased the following:
+  10 Cubics: Clan Hall Relocation
+ 
+{!***{0 05/20/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  40 Cubics: Clan Portal
+ 
+{!***{0 05/24/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  60 Cubics: +100 Heal/Mana Regen added to Clan Furniture/Sauna (Sauna Maxed +1000)
+  75 Cubics: +50 Heal/Mana Regen added to Clan Room (Current Totall +50 HP/Mana Regen)
+ 
+{!***{0 06/01/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+{0   0 Cubics: Adjustment to Room Heal Rate per Help File (Initial Start 100)
+ 225 Cubics: +150 to Room Regneration HP/Mana (Current Total +300 HP/Mana)
+ 
+{!***{0 06/03/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  150 Cubics: 2x Room Regen, +100, (New Total +400 Room Regen)
+ 
+{!***{0 06/07/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  300 Cubics: +200 to Room HP/Mana Regen (Maxed +600)
+ 
+{!***{0 06/08/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  40 Cubics: Clan Portal
+ 
+{!***{0 06/09/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  75 Cubics: +15 HR to Clan Anklet (HR Maxed +15)
+  40 Cubics: Clan Portal
+ 
+{!***{0 06/10/2010 {&D{^i{&vi{^n{&e|O{^rd{&er{0 purchased the following:
+  50 Cubics: +5 Regen to Clan Anklet (Regen Maxed +5)
+~
+D1
+~
+~
+0 0 20730
+D2
+~
+~
+0 0 20725
+D3
+~
+~
+0 0 20729
+D5
+~
+~
+0 0 20726
+S
+#20729
+{&D{^i{&vi{^n{&e|O{^rd{&er{0 Training Hall~
+Blood lines the floors of the hallway continuing to the west, it has been spilled to bring
+forth a Cleansing. Shrieks can be heard echoing throughout the hall. A feint rotting smell
+lingers from beneath the floorboards.
+~
+0 8 0
+D1
+~
+~
+0 0 20728
+S
+#20730
+{&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals~
+The various portals of the Divine|Order line the walls of the room. Radiation creeps from each portal.
+Entering one could be Treacherous.
+~
+0 8 0
+D3
+~
+~
+0 0 20728
+S
+#20800
+unused~
+~
+0 8452 0
+S
+#20801
+unused~
+~
+0 8196 0
+S
+#20802
+unused~
+~
+0 532484 0
+E
+dwarf~
+ToDo List
+1. Conquor all of asgard!
+2. Take no prisoners.
+3. Get a kilo of awesome chronic.
+4. Get 8 bottls of hard liquor.
+5. Get 3 cases of beer.
+6. Dont forget to grab papers!
+~
+S
+#20803
+unused~
+~
+0 8196 0
+S
+#20804
+unused~
+~
+0 8196 0
+S
+#20805
+unused~
+look
+~
+0 8196 0
+S
+#20806
+unused~
+~
+0 12548 0
+S
+#20807
+unused~
+~
+0 557060 0
+S
+#20900
+unused~
+~
+0 4 0
+S
+#20901
+unused~
+~
+0 4 0
+S
+#20902
+{y-={wB{Wlade{wM{Wasters{y=-{x Hall~
+You find yourself in a room adorned with various axes, swords and other
+bladed weapons.  Each weapon shines brightly as the light hits them.  
+~
+0 8 0
+E
+list~
+{@***{0 {6({8Wol{7frid{8ers{6){0 Purchased Mobs & Levels
+  25th Black Smith
+{0  75th Level Mage
+{0  75th Mob Trainer
+  25th Mason
+  30th Shop Keeper
+{0  65th Clan Pet - a {8Wolf{0
+ 
+{1***{0 04-12-2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  35 Cubics: Mage Workshop
+ 100 Cubics: Clan Mage (30th Level)
+  40 Cubics: Good Shrine (No Priest Yet)
+ 
+{!***{0 04/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+{0 120 Cubics: Fly added to Clan Earring
+{0  50 Cubics: +10 Levels to Mob Trainer (75th Level)
+{0  90 Cubics: +35 Levels Clan Mage (75th Level)
+{0  40 Cubics: Portal to Lelk
+ 
+{!***{0 04/22/2010 {6({8Wol{7frid{8ers{6){0 purchased the following Upgrades:
+  40 Cubics: Clan Portal to Lord Vulture
+  40 Cubics: Clan Portal to Cutter
+  40 Cubics: Clan Portal to Sahuagin Fort
+  40 Cubics: Clan Portal to Forest of Illusion
+ 
+{!***{0 04/30/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+ 220 Cubics: Detect Invisibility added to Clan Earring
+  40 Cubics: Farsight added to Clan Earring
+ 
+{!***{0 06/08/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  30 Cubics: Clan Stable for Pets
+  30 Cubics: Clan Pet 30th Level - a {8Wolf{0
+  35 Cubics: +35 Levels to Clan Pet (Now 65th)
+ 195 Cubics: Pet DamRoll maxed (40d40+40)
+~
+E
+list~
+{@*** {6({8Wol{7frid{8ers{6){0 {^Purchased Mob List{0
+  25  Mason
+  30  Good Priest
+{0  75  Mage
+{0  75  Trainer
+  25  Smith
+{0  30  Shop Keeper
+ 
+{!***{0 04-08-10 Clan Upgraded:
+  +80 HP to Clan Earrings (HP Maxed)
+  Purchased Mob Trainer & Leveld him +10 Levels, 40th Level
+ 
+{!***{0 04-13-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 125 Cubics: Purchased Good Priest
+  50 Cubics: +5 Regeneration added to Clan Anklets (Regen Maxed)
+  30 Cubics: +3 Mana Regeneration added to Clan Anklets (+3 current total)
+ 
+{!***{0 04-14-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  20 Cubics: +2 Mana Regeneration added to Clan Anklets (+5 ManaRegen maxed)
+  20 Cubics: +10 Levels to Mob Trainer (50th Level)
+ 120 Cubics: Passdoor added to Clan Anklet
+ 
+{!***{0 04-30-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05-03-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 120 Cubics: +120 HP to Clan Anklet (HP Maxed +125)
+  40 Cubics: +4 Mana Regeneration to Clan Anklet (Current Total +4)
+ 
+{!***{0 05/05/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  10 Cubics: +1 ManaRegen to Clan Anklet (+5 Maxed)
+  20 Cubics: +2 Constitution to Clan Anklet (+2 Current Total)
+  50 Cubics: +5 Regeneration to Clan Anklet (+5 Maxed)
+ 
+{!***{0 05/25/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 220 Cubics: Detect Motion added to Clan Earring
+~
+D1
+~
+~
+0 0 20903
+D3
+~
+~
+0 0 20904
+S
+#20903
+{y-={wQ{Wuest{wM{Waster's{y=-{x Keep~
+Entering the room you are greeted by a frail old man sitting in a rocking
+chair gently rocking back and forth while reading a book.  An unlimited
+number of bookshelves blanket the walls containing a limitless number of
+books.  
+~
+0 8 0
+D3
+~
+~
+0 0 20902
+S
+#20904
+{y-={wB{Wrutus' {wB{Wargains{y=-{x~
+Walking into the room you see a man standing behind a counter waiting
+impatiently for his shift to end.  Behind him lies a shelf with different
+items scattered about.  
+~
+0 8 0
+D1
+~
+~
+0 0 20902
+S
+#20905
+{6({8Wol{7rid{8ers{6) {0Mason's Office~
+The office is littered with blue prints and drafting tools of all sorts. Unless you're an
+architect or mason there's not much of interest here.
+~
+0 8 0
+D3
+~
+~
+0 0 20907
+S
+#20906
+{6({8Wol{7rid{8ers{6) {0Smithy and Forge~
+Heat, fumes, anvils, bellows and hammers; all the items normally associated with a
+smith and/or forge fill this room. It smells delicious.
+~
+0 8 0
+D1
+~
+~
+0 0 20907
+S
+#20907
+{6({8Wol{7frid{8ers{6){0 Hallway~
+This hall is rather sparse and poorly lighted. Shadows dance up and down it's surfaces as
+you progress it's length.
+~
+0 8 0
+D1
+~
+~
+0 0 20905
+D2
+~
+~
+0 0 20908
+D3
+~
+~
+0 0 20906
+M 0 H 0
+S
+#20908
+{6({8Wol{7frid{8ers{6){0 Stables~
+The {6({8Wol{7frid{8ers{6){0 Stables is built to house it's wolf pack and
+nothing more. Type "{&LIST{0" to see available {6({8Wol{7frid{8ers{6){0 pets.
+~
+0 4104 0
+E
+list~
+{@***{0 {6({8Wol{7frid{8ers{6){0 Purchased Mobs & Levels
+  25th Black Smith
+{0  75th Level Mage
+{0  75th Mob Trainer
+  25th Mason
+  30th Shop Keeper
+{0  65th Clan Pet - a {8Wolf{0
+ 
+{1***{0 04-12-2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  35 Cubics: Mage Workshop
+ 100 Cubics: Clan Mage (30th Level)
+  40 Cubics: Good Shrine (No Priest Yet)
+ 
+{!***{0 04/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+{0 120 Cubics: Fly added to Clan Earring
+{0  50 Cubics: +10 Levels to Mob Trainer (75th Level)
+{0  90 Cubics: +35 Levels Clan Mage (75th Level)
+{0  40 Cubics: Portal to Lelk
+ 
+{!***{0 04/22/2010 {6({8Wol{7frid{8ers{6){0 purchased the following Upgrades:
+  40 Cubics: Clan Portal to Lord Vulture
+  40 Cubics: Clan Portal to Cutter
+  40 Cubics: Clan Portal to Sahuagin Fort
+  40 Cubics: Clan Portal to Forest of Illusion
+ 
+{!***{0 04/30/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+ 220 Cubics: Detect Invisibility added to Clan Earring
+  40 Cubics: Farsight added to Clan Earring
+ 
+{!***{0 06/08/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  30 Cubics: Clan Stable for Pets
+  30 Cubics: Clan Pet 30th Level - a {8Wolf{0
+  35 Cubics: +35 Levels to Clan Pet (Now 65th)
+ 195 Cubics: Pet DamRoll maxed (40d40+40)
+~
+E
+list~
+{@*** {6({8Wol{7frid{8ers{6){0 {^Purchased Mob List{0
+  25  Mason
+  30  Good Priest
+{0  75  Mage
+{0  75  Trainer
+  25  Smith
+{0  30  Shop Keeper
+ 
+{!***{0 04-08-10 Clan Upgraded:
+  +80 HP to Clan Earrings (HP Maxed)
+  Purchased Mob Trainer & Leveld him +10 Levels, 40th Level
+ 
+{!***{0 04-13-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 125 Cubics: Purchased Good Priest
+  50 Cubics: +5 Regeneration added to Clan Anklets (Regen Maxed)
+  30 Cubics: +3 Mana Regeneration added to Clan Anklets (+3 current total)
+ 
+{!***{0 04-14-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  20 Cubics: +2 Mana Regeneration added to Clan Anklets (+5 ManaRegen maxed)
+  20 Cubics: +10 Levels to Mob Trainer (50th Level)
+ 120 Cubics: Passdoor added to Clan Anklet
+ 
+{!***{0 04-30-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05-03-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 120 Cubics: +120 HP to Clan Anklet (HP Maxed +125)
+  40 Cubics: +4 Mana Regeneration to Clan Anklet (Current Total +4)
+ 
+{!***{0 05/05/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  10 Cubics: +1 ManaRegen to Clan Anklet (+5 Maxed)
+  20 Cubics: +2 Constitution to Clan Anklet (+2 Current Total)
+  50 Cubics: +5 Regeneration to Clan Anklet (+5 Maxed)
+ 
+{!***{0 05/25/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 220 Cubics: Detect Motion added to Clan Earring
+~
+D0
+~
+~
+0 0 20907
+S
+#20909
+{6({8Wol{7frid{8ers{6){0 Stables~
+The {6({8Wol{7frid{8ers{6){0 Stables is built to house it's wolf pack and
+nothing more.
+~
+0 12 0
+E
+list~
+{@***{0 {6({8Wol{7frid{8ers{6){0 Purchased Mobs & Levels
+  25th Black Smith
+{0  75th Level Mage
+{0  75th Mob Trainer
+  25th Mason
+  30th Shop Keeper
+{0  65th Clan Pet - a {8Wolf{0
+ 
+{1***{0 04-12-2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  35 Cubics: Mage Workshop
+ 100 Cubics: Clan Mage (30th Level)
+  40 Cubics: Good Shrine (No Priest Yet)
+ 
+{!***{0 04/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+{0 120 Cubics: Fly added to Clan Earring
+{0  50 Cubics: +10 Levels to Mob Trainer (75th Level)
+{0  90 Cubics: +35 Levels Clan Mage (75th Level)
+{0  40 Cubics: Portal to Lelk
+ 
+{!***{0 04/22/2010 {6({8Wol{7frid{8ers{6){0 purchased the following Upgrades:
+  40 Cubics: Clan Portal to Lord Vulture
+  40 Cubics: Clan Portal to Cutter
+  40 Cubics: Clan Portal to Sahuagin Fort
+  40 Cubics: Clan Portal to Forest of Illusion
+ 
+{!***{0 04/30/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05/19/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+ 220 Cubics: Detect Invisibility added to Clan Earring
+  40 Cubics: Farsight added to Clan Earring
+ 
+{!***{0 06/08/2010 {6({8Wol{7frid{8ers{6){0 Purchased the following Upgrades:
+  30 Cubics: Clan Stable for Pets
+  30 Cubics: Clan Pet 30th Level - a {8Wolf{0
+  35 Cubics: +35 Levels to Clan Pet (Now 65th)
+ 195 Cubics: Pet DamRoll maxed (40d40+40)
+~
+E
+list~
+{@*** {6({8Wol{7frid{8ers{6){0 {^Purchased Mob List{0
+  25  Mason
+  30  Good Priest
+{0  75  Mage
+{0  75  Trainer
+  25  Smith
+{0  30  Shop Keeper
+ 
+{!***{0 04-08-10 Clan Upgraded:
+  +80 HP to Clan Earrings (HP Maxed)
+  Purchased Mob Trainer & Leveld him +10 Levels, 40th Level
+ 
+{!***{0 04-13-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 125 Cubics: Purchased Good Priest
+  50 Cubics: +5 Regeneration added to Clan Anklets (Regen Maxed)
+  30 Cubics: +3 Mana Regeneration added to Clan Anklets (+3 current total)
+ 
+{!***{0 04-14-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  20 Cubics: +2 Mana Regeneration added to Clan Anklets (+5 ManaRegen maxed)
+  20 Cubics: +10 Levels to Mob Trainer (50th Level)
+ 120 Cubics: Passdoor added to Clan Anklet
+ 
+{!***{0 04-30-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  25 Cubics: Created Clan Anklet
+  75 Cubics: +15 Hit Roll to Clan Anklet (Maxed at +15HR)
+  75 Cubics: +15 Dam Roll to Clan Anklet (Maxed at +15DR)
+ 120 Cubics: -15 Armor Class to Clan Anklet (Maxed at -15AC)
+   5 Cubics: +5 HP to Clan Anklet (Current Total +5)
+ 
+{!***{0 05-03-2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 120 Cubics: +120 HP to Clan Anklet (HP Maxed +125)
+  40 Cubics: +4 Mana Regeneration to Clan Anklet (Current Total +4)
+ 
+{!***{0 05/05/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+  10 Cubics: +1 ManaRegen to Clan Anklet (+5 Maxed)
+  20 Cubics: +2 Constitution to Clan Anklet (+2 Current Total)
+  50 Cubics: +5 Regeneration to Clan Anklet (+5 Maxed)
+ 
+{!***{0 05/25/2010 {6({8Wol{7frid{8ers{6){0 Clan Upgraded:
+ 220 Cubics: Detect Motion added to Clan Earring
+~
+S
+#20000
+{!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall~
+Tapestrys and the dim lighting strike your senses first, the stench of
+fresh spi lled blood second.  Two poorly lit hallways extend in opposite
+directions, an eerie feeling creeps creeps up your spine as if someone, or
+thing, is watching you, lurking, waiting.  
+~
+0 8 0
+E
+list~
+{@***{0 Purchased Clan Mobs & Levels:
+75th Level - Xane the Smith
+100th Level - Kouken the Clan Guard
+30th Level - Zokusai the Questmaster
+75th Level - Zladamir the Mage #1
+25th Level - Trigdar the Shopkeep
+25th Level - Sekkou the Mason
+80th Level - Kogamaru the Mob Trainer
+60th Level - Shaorin the Good Priest
+ 
+{1***{0 04/10/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 purchased the following:
+{!-----{0 Clan Smith +50 Levels (75th Level Smith)
+{!-----{0 Clan Anklet & Earring given "Non-Metal" Flags
+ 
+{!***{0 04/27/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 purchased the following:
+  50 Cubics: +5 Dexterity to Clan Anklets (Dex Bonus Maxed)
+ 
+{!***{0 04/28/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 purchased the following:
+  50 Cubics: +5 Strength to Clan Anklets (Str Bonus Maxed)
+  50 Cubics: +5 Constitution to Clan Anklets (Con Bonus Maxed)
+  50 Cubics: +5 Intelligence to Clan Anklets (Int Bonus Maxed)
+  50 Cubics: +5 Wisdom to Clan Anklets (Wis Bonus Maxed)
+ 
+{1***{0 04/30/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 requested the following:
+   0 Cubics: Moved Detect_Invis/Motion from Clan Earring to Anklet (No Charge - 1 Time)
+ 
+{!*** 05/03/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 purchased the following:
+  25 Cubics: Created Clan Wrist Equipment
+  75 Cubics: +15 HR to Clan Wrist EQ (HR Maxed)
+  75 Cubics: +15 DR to Clan Wrist EQ (DR Maxed)
+ 125 Cubics: +125 HP to Clan Wrist EQ (HP Maxed)
+  50 Cubics: +5 Regeneration to Clan Wrist EQ (Regeneration Maxed)
+ 200 Cubics: -5 Saves to Clan Wrist EQ (Saves Maxed)
+ 120 Cubics: -15 AC to Clan Wrist EQ (AC Maxed)
+ 
+{!***{0 05/15/2010 {&.B{!.a{8.n{&.s{!.h{&.i.{0 purchased the following:
+  40 Cubics: Farsight to Clan Anklet
+ 
+{!***{0 05/20/2010 purchased the following:
+  10 Cubics: Hall Relocation
+ 120 Cubics: Fly added to Clan Anklet
+  60 Cubics: Infravision added to Clan Anklet
+  25 Cubics: Clan Back EQ Created : Glowing Eyes
+ 
+{!***{0 05/24/2010 {7.{&B{1.{!a{8.n{7.{&s{1.{!h{7.{&i{7.{0 purchased the following:
+ 125 Cubics: +125 HP to Clan Back EQ (HP Maxed +125)
+ 120 Cubics: -15 AC Added to Clan Back EQ (AC Maxed -15)
+  75 Cubics: +15 DamRoll to Clan Back EQ (HR Maxed +15)
+  75 Cubics: +15 HitRoll to Clan Back EQ (DR Maxed +15)
+~
+D1
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20001
+S
+#20001
+{!B{7.a{8.n{!.s{7.h{8.i{0 Supply Closet~
+Weapons and armor, heavy and light weight, mail and leather, are stored
+here.  The same stench, tapestries and dim lightning remain...  Including
+the feeling of discomfort.  A check-out list lies on the desk in the corner.
+~
+0 12 0
+E
+sign~
+{WWelcome to the {w-{W={b({DShadow{b){W={w-{x  {WOur goals are simple.{x
+ 
+{G* {WWe support the {w-{W={b({DShadow{b){W={w-{x {Wbrethren.{x
+{G* {WWe strive to ensure that the {w-{W={b({DShadow{b){W={w-{W grows and thrives.{x
+{G* {WWe maintain a tight knit society and only assist outsiders
+{x  {Wwhen it is profitable, or desirable to us.{x
+ 
+ 
+{x            {CLong live the {w-{W={b({DShadow{b){W={w-{x
+~
+D1
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20004
+S
+#20002
+{!B{7.a{8.n{!.s{7.h{8.i{0 Iron Forge~
+Embers fly as a hammer collides with hot steel and the anvil at the far
+side of the room.  The heat of the kiln radiating throughout the room
+causing you to prespire.  The sweat on the back of your neck adding to the
+eerie feeling.  You become paranoid looking over your shoulder frequently.  
+~
+0 8 0
+D1
+~
+~
+0 0 20003
+D3
+~
+~
+0 0 20000
+S
+#20003
+{!B{7.a{8.n{!.s{7.h{8.i{0 Smithy Room~
+All kind of weapons and armor are being made here glistening, even in the
+dim light.  A dwarf stands here awaiting your selection.  
+~
+0 12 0
+D3
+~
+~
+0 0 20002
+S
+#20004
+{!B{7.a{8.n{!.s{7.h{8.i{0 Magic Workshop~
+As you enter you see several glowing incantations drawn on the floor. 
+Acolytes are standing around the circle chanting in an indecipherable
+tongue.  The magical power in the room is almost too much for you.  
+~
+0 12 0
+D1
+~
+~
+0 0 20001
+S
+#20005
+unused~
+A makeshift item counter and various assortments of accessories and the like. A 
+shifty looking man pops out from under the counter and waits for you to make your 
+selection.
+~
+0 12 0
+S
+#20006
+unused~
+A line of torches hug the walls of the room, you feel a state of tranquility wash
+over you. Taking another step in you see an old woman in a white robe reading a
+book in front of a large altar. Looking up and taking notice she welcomes you with
+open arms and a faint smile.
+~
+0 4 0
+S
+#20007
+unused~
+As you slip behind a bookcase and enter the room you feel as though you
+never went anywhere.  The floor littered with the same seals and bookcases
+tower around you.  You ponder your sanity as another hooded figure
+approaches.  
+~
+0 12 0
+S
+#20008
+Unused~
+~
+0 4 0
+S
+#20010
+unused~
+~
+0 4 0
+S
+#20011
+unused~
+~
+0 4 0
+S
+#20012
+unused~
+~
+0 4 0
+S
+#20050
+{#-{7S{$q{&ui{$r{7e{#-{0 Clan Hall~
+~
+0 12 0
+S
+#20051
+unused~
+~
+0 4 0
+S
+#20052
+unused~
+~
+0 4 0
+S
+#20053
+unused~
+~
+0 4 0
+S
+#20054
+unused~
+~
+0 4 0
+S
+#20055
+unused~
+~
+0 4 0
+S
+#20100
+{&-{8^S{7T{&O{7R{8M^{&-{0 Entrance Hall~
+~
+0 8 0
+E
+list~
+{!*** {&-{8^S{7T{&O{7R{8M^{&-{0 {^Purchased Mob List{0
+  25th - Mason; Small {&-{8^S{7T{&O{7R{8M^{&-{0 Dragon
+  75th - Mob Trainer; {&-{8^S{7T{&O{7R{8M^{&-{0 Trainer
+  25th - Blacksmith / ShopKeeper; Khasinth
+{0  25th - Quest Master of the {&-{8^S{7T{&O{7R{8M^{&-{0
+{0  75th - Mage; {&-{8S{7T{&O{7R{8M^{&-{0's top Magician
+{0  75th - 2nd Mage; {&-{8^S{7T{&O{7R{8M^{&-{0 Second Magician
+{0  30th - {8V{7o{&h{7d{8a{7h{8k{0; Evil Priest
+ 
+{@***{0 04/12/10 {&-{8S{7T{&O{7R{8M^{&-{0 Purchased the following Upgrades:
+{0  100 Cubics: Purchased Clan Mage
+{0   90 Cubics: Upgraded Clan Mage to 75th Level
+ 
+{@***{0 04/16/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following Upgrades:
+  40 Cubics: Portal to Tiny Wizard
+  40 Cubics: Portal to Wennigo
+ 
+{@***{0 04/19/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+{0  40 Cubics: Portal to Cutter
+ 
+{@***{0 04/21/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+  40 Cubics: Portal to Fort
+ 
+{@***{0 04/25/2010 {&-{8^S{&T{7O{&R{*M^{&-{0 Purchased the following upgrades:
+  40 Cubics: Portal to Oversized Lipopod Feller
+   1 Cubics: Clan Hall Relocation
+ 
+{@***{0 04/26/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+ 100 Cubics: Clan Quest Master
+ 
+{@***{0 05/03/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+  40 Cubics: Room - Evil Shrine for Evil Priest
+ 125 Cubics: Evil Priest for Evil Shrine - {8V{7o{&h{7d{8a{7h{8k{0
+  30 Cubics: +3 Mana Regen to Clan Anklet (Current Total +3)
+ 
+{@***{0 05/05/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+ 120 Cubics: Pass Door added to Clan Anklet
+ 
+{@***{0 05/07/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+ 120 Cubics: Fly added to Clan Anklet
+ 
+{@***{0 05/09/2010 {&-{8^S{&T{7O{&R{8M^{&-{0 Purchased the following upgrades:
+{0  50 Cubics: +5 Dex to Clan Anklet (Dex Maxed)
+  50 Cubics: +5 Intelligence to Clan Anklet (Int Maxed)
+  50 Cubics: +5 Wisdom to Clan Anlklet (Wis Maxed)
+  20 Cubics: +3 Mana Regeneration to Clan Anklet (Now +5 Maxed)
+  50 Cubics: +5 Regeneration to Clan Anklet (Regen Maxed)
+ 
+{@***{0 05/10/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+ 125 Cubics: +125 Mana to Clan Anklet (Mana Maxed)
+  25 Cubics: +5 Age to Clan Anklet (Age Maxed +5)
+ 
+{@***{0 05/13/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+  50 Cubics: +5 Str to Clan Anklet (Str Maxed)
+  25 Cubics: Clan Back EQ Create "surge of the {&-{8^S{7T{&O{7R{8M^{&-{0"
+ 120 Cubics: -15 AC to Clan Back EQ (AC Maxed -15)
+  40 Cubics: +40 HP to Clan Back EQ (+40HP Current Total)
+ 
+{@***{0 05/14/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following upgrades:
+{0  85 Cubics: +85 HP to Clan Back (HP Maxed +125)
+{0 125 Cubics: +125 Mana to Clan Back (Mana Maxed +125)
+{0  75 Cubics: +15 HR Clan Back (Back Maxed +15)
+{0  75 Cubics: +15 DR Clan Back (Back Maxed +15)
+{0  15 Cubics: +3 Age Clan Back (Current Total +3)
+ 
+{@***{0 05/15/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+{0  10 Cubics: +2 Age Clan Back (Age Maxed +5)
+{0 200 Cubics: -5 Saves Clan Back (Saves Maxed -5)
+{0  50 Cubics: +5 Regeneration Clan Back (Regen Maxed +5)
+{0  10 Cubics: +1 Manaregeneration Clan Back (Current Total +1 ManReg)
+ 
+{@***{0 05/20/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+{0  40 Cubics: +4 Mana Regeneration to Clan Back EQ (ManReg Maxed +5)
+ 220 Cubics: Detect Invisibility added to Clan Back EQ
+{0  7th - 2nd Mage; {&-{8^S{7T{&O{7R{8M^{&-{0 second Magician
+  60 Cubics: Farsight added to Clan Back EQ
+ 
+{@***{0 05/24/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+  220 Cubics: Detect Motion added to Clan Back EQ
+ 
+{@***{0 05/30/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+   35 Cubics: 2nd Mage's Workshop
+  100 Cubics: 2nd Mage (Starting 35th Level)
+   90 Cubics: +45 Levels 2nd Mage (Now 75th Level)
+ 
+{@***{0 06/02/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+  40 Cubics: Clan Portal
+  40 Cubics: Clan Portal
+  40 Cubics: Clan Portal
+  40 Cubics: Clan Portal
+  75 Cubics: Room Regeneration Initial Purchase (HP/Mana +100)
+ 150 Cubics: Room Regen x2, (Current Total HP/Mana +200)
+ 
+{@***{0 06/07/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+ 150 Cubics: Room Regen x2, (Current Total HP/Mana +300)
+ 
+{@***{0 06/10/2010 {&-{8^S{7T{&O{7R{8M^{&-{0 Purchased the following:
+ 300 Cubics: Room Regen x2, (Current Total HP/Mana +500)
+~
+D0
+~
+~
+0 0 20101
+D1
+~
+~
+0 0 20103
+D3
+~
+~
+0 0 20102
+D5
+~
+~
+0 0 20104
+S
+#20101
+{W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall~
+The portal room of {c-{DS{wtor{Dm{c-{x
+~
+0 8 0
+D2
+~
+~
+0 0 20100
+D3
+~
+~
+0 0 20105
+M 500 H 500
+S
+#20102
+{&-{8^S{7T{&O{7R{8M^{&-{0 Magician's Hall~
+~
+0 8 0
+D1
+~
+~
+0 0 20100
+D5
+~
+~
+0 0 20106
+S
+#20103
+{W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Smithy & Gear Shoppe~
+The smithy is fired up and running in the back while the front end is littered
+with various goods in different states of display.
+~
+0 8 0
+D3
+~
+~
+0 0 20100
+S
+#20104
+{&-{8^S{7T{&O{7R{8M^{&-{0 Training Hall~
+~
+0 8 0
+D4
+~
+~
+0 0 20100
+S
+#20105
+{&-{8^S{7T{&O{7R{8M^{&-{0 {8Ba{7s{&t{7io{8n of D{7ar{&k{7ne{8ss{0~
+Various symbols of {8d{7ar{&k{7ne{8ss{0 and evil decorate the floor, the walls and the ceiling
+of this chamber. You have a feeling that bad things happen here.
+~
+0 8 0
+D1
+~
+~
+0 0 20101
+S
+#20106
+{&-{8^S{7T{&O{7R{8M^{&-{0 Auxillary Magic Resevoir~
+~
+0 8 0
+D4
+~
+~
+0 0 20102
+S
+#20120
+unused~
+~
+0 4 0
+S
+#20142
+unused~
+~
+0 4 0
+S
+#20150
+unused~
+The grand hall of conquest features {Rscarlet{x banners of the finest
+silk hanging against {Dblack{x slate walls.  Portals of a {Ddeep {rcrimson{x
+color are set into the eastern wall, each one with a {Ygold{x frame and
+nameplate describing their destination.  A tall fountain hewn from red
+marble dominates the center of the room, pure {Wwhite {wmilk{x spilling
+forth and cascading down its sides.  Large sets of double doors made of
+ancient teak wood lead in all directions, and a staircase in the southwest
+corner of the room leads up and down.  
+~
+0 4 0
+S
+#20151
+unused~
+A large swealtering heat flows out the room from the giant {RFo{rr{Rge{x
+that is set into the northern wall.  There is a line of numerous
+{Dbl{wa{Wcks{wmi{Dth{x tools hung from the ceiling.  In the middle of the
+room rests a massive {Danvil{x that has {RK{ri{Dn{rt{Ro{x's hammer resting
+offset of it.  
+~
+0 8196 0
+S
+#20152
+unused~
+Countless books line the numerous bookshelves of the massive study, with
+topics on almost every subject matter thinkable.  The table in the center of
+the room holds a few items of vauge importance to its occupant, and a candle
+lighting up the room.  The floor is covered in {DS{Wt{wo{Wn{De{x like material, with
+spots of candle wax all over it.  
+~
+0 8196 0
+S
+#20153
+unused~
+Thousands of red candles bathe the crimson walls of this room in a warm,
+flickering glow.  An altar stands in the middle of the room, maroon cushions
+for kneeling surrounding it on all sides.  Two incense burners sit on either
+side of the altar, thin wisps of smoke drifting slowly towards the ceiling. 
+~
+0 8196 0
+S
+#20154
+unused~
+~
+0 8196 0
+S
+#20155
+unused~
+Rows of clean wooden countertops stretch across the center of this room,
+with various sizes and shapes of ovens lining the walls.  A set of
+implements from large knives to stout rolling pins hang from the counters at
+regular intervals, suggesting a number of workstations.  Many of these
+workstations are in use as the conquest bakers make bread and pills for the
+soldiers.  
+~
+0 532484 0
+S
+#20156
+unused~
+~
+0 8196 0
+S
+#20200
+{CI{cn{Wi{cm{Wi{cc{Wu{Cs c{Whillin{Cg {GS{gp{Go{gt{x~
+{8           _,.
+        ,` -.)
+       ( _/-\\-.
+      /,|`--._,-^|            ,
+      \_| |`-._/||          ,'|
+        |  `-, / |         /  /
+        |     || |        /  /
+         `r-._||/   __   /  /
+    __,-<_     )`-/  `./  /
+    '  \   `---'   \   /  / _______________________
+        |           |./  / {8You shalt honour the{0    |
+        /           //  /  {8chain of command{0        |
+    \_/' \         |/  / {8You shalt move in secret,{0 |
+    |    |   _,^-'/  / {8exist in shadow and attack{0  |
+    |    , ``  (\/  /_ {8in packs. Thou shalt hold{0   |
+      \,.->._    \X-=/^ {8thine bretheren in high{0    |
+      (  /   `-._//^`  {8regard and treat them with{0  |
+       `Y-.____(__}  {8honour. You shalt protect the{0 |
+        |     (__)  {8honour of the clan and uphold{0  |
+              ()    {8its dark beliefs.{0              |
+        {8You Are a {RK{riller{8, and you are born to {RK{rI{RLL!{0|
+       ____________________________________________|
+~
+0 8 0
+E
+list~
+{8-{#y{2a{#k{2u{#Z{2a{8-{0 {yClan Mob List{0
+
+
+{@*** 04-12-2010{0 {8-{#y{2a{#k{2u{#Z{2a{8-{0 Clan Created : 200 Cubics Paid
+~
+D0
+~
+~
+0 0 20201
+D5
+~
+~
+0 0 20202
+S
+#20201
+{Wt{ch{CE M{Wa{Cl{cl{x~
+Looting, plundering, killing...  It's a usual task for Inimicus.  They
+cannot complete a mission without the proper equiepment, so when the
+Inimicus members are planning a mission, their mall with secret stashes is
+always consulted.  Choosing the necessary equipment for a mission is not an
+easy task for everyone.  That's why the mall is a great asset to Inimicus.  
+~
+0 8 0
+D2
+~
+~
+0 0 20200
+S
+#20202
+{Cp{WlaN{Cnin{WG r{co{Co{WM{x~
+(
+           )           )        (                   )
+          (                       )      )            .---.
+      )              (     .-""-.       (        (   /     \
+     ( .-""-.  (      )   / _  _ \        )       )  |() ()|
+      / _  _ \   )        |(_\/_)|  .---.   (        (_ 0 _)
+      |(_)(_)|  ( .---.   (_ /\ _) /     \    .-""-.  |xxx|
+      (_ /\ _)   /     \   |v==v|  |<\ />|   / _  _ \ '---'
+       |wwww|    |(\ /)|(  '-..-'  (_ A _)   |/_)(_\|
+       '-..-'    (_ o _)  )  .---.  |===|    (_ /\ _)
+                  |===|  (  /     \ '---'     |mmmm|
+                  '---'     |(\ /)|           '-..-'
+                            (_ V _)
+                             |"""|
+                             '---'
+~
+0 8 0
+D4
+~
+~
+0 0 20200
+S
+#20203
+unused~
+~
+0 4 0
+S
+#20204
+unused~
+~
+0 4 0
+S
+#20205
+unused~
+~
+0 524292 0
+S
+#20206
+unused~
+~
+0 4 0
+S
+#20207
+unused~
+~
+0 4 0
+S
+#20221
+unused~
+~
+0 4 0
+S
+#20250
+{4-{&+{8C{&o{$d{&e{8x{&+{4-{0 {8Ha{$l{8l{0~
+In the moment, your eyes have failed you. As greatness surrounds you, your knees collapse.
+The {8C{&o{$d{&e{8x{0 Hall is filled with a sense of desolation, great desolation.
+Knees collapsing, you bow in its aura.
+You try to run, and fall to your knees in failed attempts to collect your thoughts.
+In a sense of loss, an isle of non-existance. 
+Here nothing is real, not you.
+~
+0 8 0
+E
+list~
+{&***** {4-{&+{8C{&o{$d{&e{8x{&+{4-{0 Clan Upgrade Log {&*****{0
+ 
+{!---{@Mobiles{0 (Level Mob)
+{0 25th Black Smith - {8M{&o{&w{$g{&l{8i{0
+ 25th Shop Keeper - {$R{&e{8v{$e{&n{$a{8nt{0
+100th Clan Guard - {8Na{$ma{&s{8t{4e{0
+ 
+{!---{@General Upgrades{0
+{!***{0 05/19/2010 {4-{&+{8C{&o{$d{&e{8x{&+{4-{0 Clan purchased the following:
+ 200 Cubics: {4-{&+{8C{&o{$d{&e{8x{&+{4-{0 Clan Creation (3 Rooms, 1 Portal Mid)
+  75 Cubics: Clan Guard
+  10 Cubics: Shop Keeper Room
+  50 Cubics: Shop Keeper
+  10 Cubics: Extra Clan Hall Room - Hallway
+  75 Cubics: Room - Clan Smithy
+ 100 Cubics: Clan Blacksmith
+  25 Cubics: Creation Clan Anklet - {8C{&o{$d{&e{8x{0 {$I{8d{0
+ 120 Cubics: -15 AC to Clan Anklet (AC Maxed)
+  75 Cubics: +15 Hit Roll to Clan Anklet (HR Maxed +15)
+  75 Cubics: +15 Dam Roll to Clan Anklet (DR Maxed +15)
+ 
+{!***{0 05/25/2010 {4-{&+{8C{&o{$d{&e{8x{&+{4-{0 purchased the following:
+  125 Cubics: +125 HP added to Clan Anklet (HP Maxed +125)
+~
+D0
+~
+~
+0 0 20251
+D3
+~
+~
+0 0 20252
+M 0 H 0
+S
+#20251
+{8Di{$s{&e{$n{8ga{&g{8e{0~
+Disengage from reality.
+~
+0 8 0
+D2
+~
+~
+0 0 20250
+S
+#20252
+{$T{8r{&a{8n{$sf{8e{&r{$r{8in{&g {$Ci{8r{&c{$l{&e{0~
+Transferring our thoughts into one.
+~
+0 8 0
+D1
+~
+~
+0 0 20250
+D3
+~
+~
+0 0 20253
+S
+#20253
+{$T{8r{&a{8n{$sf{8e{&r{$r{8in{&g {$Ci{8r{&c{$l{&e{0~
+Transferring our thoughts into one.
+~
+0 8 0
+D0
+~
+~
+0 0 20254
+D1
+~
+~
+0 0 20252
+D2
+~
+~
+0 0 20255
+S
+#20254
+{8Insid{$e {8You{$r {8Hea{$d{0~
+Inside your head Revenant has your soul. You will perish.
+~
+0 8 0
+D2
+~
+~
+0 0 20253
+S
+#20255
+{8C{&o{$d{&e{8x {$Smith{8y{0~
+You hold hold the key to my casket
+No more questions, just the thought of fulfillment
+Sleep burns my {$eye{8s{0
+Now forced to grasp a world of infinity
+The notion is revealed
+Swimming in my mind my callus shell
+A reminder of what I've become.
+~
+0 8 0
+D0
+~
+~
+0 0 20253
+S
+#20256
+unused~
+~
+0 8196 0
+S
+#20257
+unused~
+~
+0 4 0
+S
+#20258
+unused~
+~
+0 4 0
+S
+#20259
+unused~
+~
+0 4 0
+S
+#20300
+unused~
+The clock on the wall reads 11:16.  Here, hope does not exist for you,
+your faith will fail.  No god, no religion, just maggots feeding on your
+skin.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20305
+D1
+~
+~
+0 0 20306
+D3
+~
+~
+0 0 20301
+S
+#20301
+unused~
+They smell the decrepit stench of your demise.
+~
+0 0 0
+D1
+~
+~
+0 0 20300
+D3
+~
+~
+0 0 20302
+S
+#20302
+unused~
+They smell the decrepit stench of your demise.
+~
+0 0 0
+D0
+~
+~
+0 0 20303
+D1
+~
+~
+0 0 20301
+D2
+~
+~
+0 0 20304
+S
+#20303
+unused~
+Your heart cannot be still as your lungs collapse in on themselves at the
+sight of the conformist.  
+~
+0 0 0
+D2
+~
+~
+0 0 20302
+S
+#20304
+unused~
+The bloody armor of past soldiers of god surrounds you.  You hear the
+whispers of {8In{^i{&qu{^i{8ty{0 torture your mind until all faith is gone. 
+~
+0 0 0
+D0
+~
+~
+0 0 20302
+D5
+~
+~
+0 0 20308
+S
+#20305
+unused~
+The place intended for your torture.  Prepare to burn, prepare to suffer.
+You'll never make it out alive.  Your pathetic life flashes before your
+eyes.  For ever word you've spilled, on every line you'll fucking choke,
+THIS IS PUNISHMENT!  
+~
+0 524292 0
+D2
+~
+~
+0 0 20300
+S
+#20306
+unused~
+As the light is extinguished Grounds rumble with an endless rising fiend.
+With eternal suffering now infesting.  A rising abyss shadows what was once
+alive.  Hell has ascended to the earth by mortal hands.  The father of lies
+is preaching the word of sacrilege, these words bring truth to what is
+foretold.  
+~
+0 0 0
+D2
+~
+~
+0 0 20307
+D3
+~
+~
+0 0 20300
+S
+#20307
+unused~
+Your system contracts as you walk into the morgue.  Soon you find your
+face blank, dilated eyes, pale white skin.  You try to breathe, holding on
+to faith like it would help you anyway.  Delusions and paranoia are setting
+in.  Now the songs of the dead will be eternally chanted.  By these words,
+you're now one with them all.  
+ 
+And now you rot...
+~
+0 524548 0
+D0
+~
+~
+0 0 20306
+S
+#20308
+unused~
+You step through a cellar door into a place once called Hell.  You cannot
+close your eyes, you can't turn away.  Forever you will view life in a new
+perspective.  Through the cracks in the floorboards, the can hear you
+screaming.  The end is here.  
+~
+0 528384 0
+D4
+~
+~
+0 0 20304
+S
+#20309
+unused~
+~
+0 4 0
+S
+#20310
+unused~
+~
+0 4 0
+S
+#20350
+unused~
+~
+0 4 0
+S
+#20351
+unused~
+~
+0 4 0
+S
+#20352
+unused~
+~
+0 4 0
+S
+#20400
+{4-->Adiuvo<--{0 Main Hall~
+~
+0 8 0
+D0
+~
+~
+0 0 20404
+D1
+~
+~
+0 0 20401
+D2
+~
+~
+0 0 20405
+D3
+~
+~
+0 0 20406
+D4
+~
+~
+0 0 20402
+M 600 H 600
+S
+#20401
+{4-->Adiuvo<--{0 Mage's Workshop~
+~
+0 8 0
+D3
+~
+~
+0 0 20400
+S
+#20402
+{4-->Adiuvo<--{0 Shrine~
+~
+0 8 0
+D5
+~
+~
+0 0 20400
+S
+#20403
+unused~
+~
+0 4 0
+S
+#20404
+{4-->Adiuvo<--{0 Smithy and Forge~
+~
+0 8 0
+D2
+~
+~
+0 0 20400
+S
+#20405
+{4-->Adiuvo<--{0 Ye Olde Shoppe~
+~
+0 8 0
+D0
+~
+~
+0 0 20400
+S
+#20406
+{4-->Adiuvo<--{0 Mason's Drafting Room~
+~
+0 0 0
+D1
+~
+~
+0 0 20400
+S
+#20409
+unused~
+~
+0 4 0
+S
+#20449
+unused~
+~
+0 4 0
+S
+#20450
+unused~
+~
+0 12 0
+S
+#20451
+unused~
+~
+0 12 0
+S
+#20452
+unused~
+~
+0 12 3
+M 600 H 600
+S
+#20453
+unused~
+~
+0 12 0
+S
+#20454
+unused~
+~
+0 4 0
+S
+#20455
+unused~
+~
+0 4 0
+S
+#20456
+unused~
+~
+0 4 0
+S
+#20457
+unused~
+~
+0 4 0
+S
+#20458
+unused~
+~
+0 4 0
+E
+plaque~
+The portals are as follows:
+Dragon Tower - Leads to the second floor hallway.
+Ivalice - Leads to the mandalia plains.
+Sahuagin Fortress - Leads to the secret room.
+Mizzenmast - Leads to Mizzenmast, the Third Pirate Lord.
+Lord Vulture - Leads to Lord Vulture, the Fourth Pirate Lord.
+Cutter - Leads to Cutter, the Fifth Pirate Lord.
+Kingdoms - Leads to the crossroads.
+Lord Mourning - Leads to Lord Mourning, the Sixth Pirate Lord.
+One-eye - Leads to One-eye, the First Pirate Lord.
+Redbeard - Leads to Redbeard, the Second Pirate Lord.
+Sahuagin Bridge - Leads to the guard's station.
+Fanatic's Tower - Leads to the twelfth story of Fanatic's Tower.
+Hell - Leads to the hall of the damned.
+Githyanki Keep - Leads to githyanki keep.
+Saltmarsh - Leads to sea cave.
+~
+S
+#20459
+unused~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 20548 spec_questmaster Load to: unused mob
+M 20702 spec_cast_adept Load to: {BA{6u{gro{^r{Ba{x
+M 20704 spec_questmaster Load to: Task Master of {&D{^i{&vi{^n{&e|O{^rd{&er{0
+M 20808 spec_questmaster Load to: unused mob
+M 20989 spec_questmaster Load to: Basic Questmaster
+M 20051 spec_questmaster Load to: {&.Z{!.o{*.k{&.u{7.s{!.a{&.i.{0 the Quest Master
+M 20105 spec_questmaster Load to: the {&-{8^S{7T{&O{7R{8M^{&-{0 Quest Master
+M 20207 spec_questmaster Load to: unused mob
+M 20305 spec_questmaster Load to: unused mob
+S
+
+
+
+#RESETS
+M 0 20705 1 20724 1 *Load the {&D{^i{&vi{^n{&e|O{^rd{&er{0 evil priest
+O 0 20722 0 20724 *A midnight swim loaded to Temple of the Divine|Order
+M 0 20702 1 20724 1 *Load {BA{6u{gro{^r{Ba{x
+O 0 20721 0 20724 *{wi{^c{we {^b{wo{wx{x  loaded to Temple of the Divine|Order
+M 0 20725 1 20725 1 *Load the {6S{wo{Wr{^c{6e{Wr{wo{6r{x of the Divine|Order
+M 0 20730 1 20726 1 *Load the {&D{^i{&vi{^n{&e|O{^rd{&er{0 shop keeper
+G 0 20726 0 *{&d{^i{&vi{6n{&e b{^o{&nd{^a{&ge{0 is given to the {&D{^i{&vi{^n{&e|O{^rd{&er{0 shop keeper
+G 0 20723 0 *{&d{^i{&vi{6n{&e r{6e{&str{^a{&i{^n{&t{0 is given to the {&D{^i{&vi{^n{&e|O{^rd{&er{0 shop keeper
+M 0 20727 1 20727 1 *Load the {&D{^i{&vi{^n{&e|O{^rd{&er{0 smith
+M 0 20729 1 20727 1 *Load the {&D{^i{&vi{^n{&e|O{^rd{&er{0 mason
+M 0 20728 1 20728 1 *Load {6En{wnu{Wi{x
+M 0 20703 1 20729 1 *Load Skillmaster of the {&D{^i{&vi{^n{&e|O{^rd{&er{0
+O 0 20730 0 20730 *The portal of midgaard loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+O 0 20731 0 20730 *{8a pool of {wb{8l{wa{yc{yk {ywa{wt{8e{wr{x. loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+M 0 20704 1 20730 1 *Load Task Master of {&D{^i{&vi{^n{&e|O{^rd{&er{0
+O 0 20729 0 20730 *{8p{wr{wo{6d{wu{wc{8t {wo{8f th{we {^c{8l{we{wa{6ns{wi{8n{^g{x loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+O 0 20728 0 20730 *{8a {wg{wl{^u{wt{wt{^o{wn{wo{^u{ws {yh{ya{6z{ye{x loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+O 0 20732 0 20730 *{8a {^c{wr{^a{wc{^k {8within the {wm{^a{wr{^b{wl{^e{x loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+O 0 20733 0 20730 *{8a {^n{6e{ww {6e{wr{wa {8of {^c{8o{^r{6r{8u{6p{^t{8io{^n{x loaded to {&D{^i{&vi{^n{&e|O{^rd{&er{0 Hall of Portals
+M 0 20905 1 20905 1 *Load the {6({8Wol{7frid{8ers{6){0 clan Mason
+M 0 20904 1 20905 1 *Load {6({8Wol{7frid{8ers{6){0 mob trainer
+M 0 20906 1 20906 1 *Load the {6({8Wol{7frid{8ers{6){0 clan Smith
+M 0 20907 1 20907 1 *Load the {6({8Wol{7frid{8ers{6){0 shopkeeper
+G 0 20901 0 *{6({8wol{7frid{8ers{6){0 {6ea{8r{7ri{8n{6g{0 is given to the {6({8Wol{7frid{8ers{6){0 shopkeeper
+G 0 20907 0 *{6({8wol{7frid{8ers{6){0 {6an{8k{&l{8e{6t{0 is given to the {6({8Wol{7frid{8ers{6){0 shopkeeper
+M 0 20901 1 20909 10 *Load a {8Wolf{0
+M 0 20001 1 20000 1 *Load Garuff, {!B{7.a{8.n{!.s{7.h{8.i{0's mason.
+M 0 20000 1 20000 1 *Load Ragnarok, the {!B{7.a{8.n{!.s{7.h{8.i{0 clan guard.
+O 0 20001 0 20000 *A portal to midgaard loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+O 0 20005 0 20000 *A portal to mizzenmast loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+O 0 20002 0 20000 *A portal to kingdoms loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+O 0 20003 0 20000 *A portal to one-eye loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+O 0 20110 0 20000 *Portal to redbeard loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+O 0 20006 0 20000 *A portal to lord vulture loaded to {!B{7.a{8.n{!.s{7.h{8.i{0 Clan Hall
+M 0 20003 1 20001 1 *Load Mitsurugi, the {!B{7.a{8.n{!.s{7.h{8.i{0 trainer.
+M 0 20001 1 20002 1 *Load Garuff, {!B{7.a{8.n{!.s{7.h{8.i{0's mason.
+M 0 20001 1 20002 1 *Load Garuff, {!B{7.a{8.n{!.s{7.h{8.i{0's mason.
+M 0 20002 1 20003 1 *Load Valen, blacksmith of {!B{7.a{8.n{!.s{7.h{8.i{0
+M 0 20004 1 20004 1 *Load Zalzamarr, {!B{7.a{8.n{!.s{7.h{8.i{0's mage
+M 0 20005 1 20005 1 *Load Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0
+G 0 20007 0 *{7.a.{&s.{!h.{*i.{7k.{!u.{&b.{7i.{0 is given to Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0
+G 0 20008 0 *{w.m{w.i{r.m{r.i{8.k{r.a{r.z{r.a{w.r{w.i.{x is given to Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0
+G 0 20009 0 *{w.a.{wk.{ru.{dt.{ws.{ru.{wm.{we.{0 is given to Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0
+G 0 20010 0 *{7.{&g{1.{!l{8.{*o{7.{&w{1.{!i{7.{7n{8.{*g{7. .{&e{1.{!y{8.{*e{7.{&s.{0 is given to Trigdar, item merchant of {&.B{!.a{*.n{7.s{!.h{&.i{0
+M 0 20052 1 20006 1 *Load Shaorin, divine priest of {&.B{!.a{*.n{7.s{!.h{&.i{0.
+O 0 20150 0 20050 *Unused object loaded to {#-{7S{$q{&ui{$r{7e{#-{0 Clan Hall
+M 0 20050 1 20050 1 *Load The {#-{7S{$q{&ui{$r{7e{#-{0 Clan Guard
+M 0 20100 1 20100 1 *Load A small {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Dragon
+O 0 20101 0 20101 *A portal to midgaard loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20103 0 20101 *A portal to the tiny wizard loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20104 0 20101 *A portal to wennigo loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20102 0 20101 *A portal to cutter loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20105 0 20101 *A portal to the fort loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+M 0 20105 1 20101 1 *Load the {&-{8^S{7T{&O{7R{8M^{&-{0 Quest Master
+O 0 20106 0 20101 *Portal to oversized lipopod loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20108 0 20101 *Portal to one-eye loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20109 0 20101 *Portal to mizzenmast loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20110 0 20101 *Portal to redbeard loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+O 0 20111 0 20101 *Portal to lord vulture loaded to {W-{D^{W{DS{wT{WO{wR{DM{D^{W-{x Portal Hall
+M 0 20101 1 20102 1 *Load the {&-{8^S{7T{&O{7R{8M^{&-{0's top Magician
+M 0 20103 1 20103 1 *Load {&-{8^S{7T{&O{7R{8M^{&-{0 smith and shop master
+G 0 20100 0 *Fury of the {&-{8^s{7t{&o{7r{8m^{&-{0 is given to {&-{8^S{7T{&O{7R{8M^{&-{0 smith and shop master
+G 0 20107 0 *Surge of the {&-{8^s{7t{&o{7r{8m^{&-{0 is given to {&-{8^S{7T{&O{7R{8M^{&-{0 smith and shop master
+M 0 20102 1 20104 1 *Load the {&-{8^S{7T{&O{7R{8M^{&-{0's Trainer
+G 0 20202 0 *A portal to midgaard is given to the {&-{8^S{7T{&O{7R{8M^{&-{0's Trainer
+M 0 20106 1 20105 1 *Load {*V{7o{&h{7d{8a{7h{8k{0
+M 0 20107 1 20106 1 *Load the {&-{8^S{7T{&O{7R{8M^{&-{0 second Magician
+M 0 20201 1 20200 1 *Load {CR{Wa{cc{Wh{Ce{x
+M 0 20200 1 20200 1 *Load {CB{Wo{CB{x
+O 0 20908 0 20202 *A portal to midgaard loaded to {Cp{WlaN{Cnin{WG r{co{Co{WM{x
+M 0 20250 1 20250 1 *Load {8Na{$ma{&s{8t{4e{0
+O 0 20250 0 20251 *{$som{8ew{&h{8e{$r{8e {&o{$th{8er {$t{8ha{&n {$r{&e{8a{&l{$i{&t{8y{0 loaded to {8Di{$s{&e{$n{8ga{&g{8e{0
+M 0 20254 1 20254 1 *Load {$R{&e{8v{$e{&n{$a{8nt{0 is inside your head.
+G 0 20251 0 *{8c{&o{$d{&e{8x{0 {$i{8d{0 is given to {$R{&e{8v{$e{&n{$a{8nt{0 is inside your head.
+M 0 20255 1 20255 1 *Load {8M{&o{&w{$g{&l{8i {$the {8C{&o{$d{&e{8x {$Blacksmit{8h{0
+M 0 20547 1 20450 1 *Load unused mob
+S
+
+
+
+#SHOPS
+20500 0 0 0 0 0 100 100 7 18
+20501 9 0 0 0 0 100 100 7 18
+20545 0 0 0 0 0 100 100 0 23
+20547 9 5 33 32 8 100 100 0 23
+20550 0 0 0 0 0 100 100 8 20
+20553 9 5 33 32 8 100 100 0 23
+20560 1 9 0 0 0 100 100 0 23
+20604 9 0 0 0 0 100 100 7 18
+20730 1 9 5 8 33 100 100 0 23
+20803 5 9 33 0 0 100 100 0 23
+20907 9 5 33 8 1 100 100 0 23
+20987 0 0 0 0 0 100 100 7 18
+20988 23 0 0 0 0 100 100 7 18
+20999 9 0 0 0 0 100 100 7 18
+20005 5 9 33 8 1 100 100 0 23
+20103 1 9 5 8 33 100 100 0 23
+20152 9 0 3 0 0 100 100 7 18
+20156 0 17 10 0 0 100 100 0 23
+20157 26 19 0 0 0 100 100 0 23
+20203 9 5 32 8 0 100 100 0 23
+20252 9 1 5 0 0 100 100 0 24
+20254 9 5 33 8 1 100 100 0 23
+20258 5 9 10 33 32 100 100 7 18
+20301 0 0 0 0 0 100 100 5 18
+20303 0 0 0 0 0 100 100 0 23
+20402 9 33 5 8 1 100 100 0 23
+20451 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#20000
+if mobhere yklipoo
+mob force first say Ugh, brothers, we are not welcome in this hall.  We will be waiting at the kingdoms crossroads.
+mob transfer first 17542
+mob transfer second 17542
+mob transfer third 17542
+mob echo The sages vanish!
+endif
+~
+#20001
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#20200
+if carries $n 20007
+say Ah, you bear the mark of a leader of the pack.
+say You may pass.
+mob echoat $n The bouncer ushers you through the curtains into the leaders lounge . . .
+mob trans $n 20204
+else
+say You must have your card to enter.
+endif
+~
+#20300
+if clan $n chosen
+bow $n
+say You are truely welcomed here.
+else 
+say You are most definatly not welcomed here $n, please leave now.
+mob echoat $n The {b:{y*{b:{yC{Yh{Do{ws{Ye{yn{b:{y*{b:{x Clan Guard hits you hard in the chest and knocks you back several feet.
+mob echoaround $n The {b:{y*{b:{yC{Yh{Do{ws{Ye{yn{b:{y*{b:{x Clan Guard hits $n hard in the chest and knocks $m back several feet.
+mob trans $n 7705
+endif
+~
+#20450
+close down
+if clan $n saskia
+open down
+if name $n Claudia
+say Greetings Claudia, Leader of Saskia.
+bow claudia
+else
+if name $n Dravin
+say Greetings Dravin, Vice Leader of Saskia.
+bow dravin
+else
+if name $t Hellstorm
+say Greetings Hellstorm, Elite Captain of Saskia.
+bow hellstorm
+else
+if name $n Alexandra
+say Greetings Alexandra, Soldier of Saskia.
+bow alexandra
+else
+if name $n Arduwyn
+say Greetings Arduwyn, Recruit of Saskia.
+else
+else
+say $n, Your violence is not needed here.
+mob echoat $n $I snaps his fingers at you and you are enveloped in a black cloud.
+mob echoaround $n $I snaps $l fingers and $n is enveloped in a black cloud and is gone.
+mob trans $n 22030
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#20451
+if wears $n dgerowqx
+say You are truely welcome here $n.
+bow $n
+else
+say You are not welcome in here $n!!
+close down
+mob echoat $n $I spins you around and grabs you tightly and throws your ass up the stairs like you weighed nothing.
+mob echoaround $n $I spins $n around and grabs $n tightly and throws their ass up the stairs like they weighed nothing.
+mob trans $n 22030
+endif
+~
+#20452
+if name $n makote
+slap makote
+else
+yawn
+endif
+~
+#0
+
+#$

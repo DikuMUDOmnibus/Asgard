@@ -1,0 +1,2318 @@
+#AREADATA
+Name City of Shimmering Webs~
+Builders Nogate Ishamael~
+VNUMs 74900 74999
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael City of Shimmering Webs~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74900
+drow necromancer ~
+a drow necromancer~
+A withered drow stands here practicing the dark arts.
+~
+~
+elf~
+ABR J 0 0 0
+235 0 1d1+22500 1d1+50000 1d1+1 none
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 36
+A 0
+M GRALL 74900 100~
+M ACT 74902 groan~
+M FIGHT 74903 100~
+#74901
+skeletal spider~
+a skeletal spider~
+A large skeletal spider stands here.
+~
+~
+centipede~
+ABF VZc 0 0 0
+235 2000 1d1+35000 0d0+0 450d4+250 bite
+-150 -150 -150 -150
+DEHO 0 EFI E
+stand stand none 0
+ABGOV ABCDEFHJKUV medium unknown
+S 1
+V 34
+A 4
+M DEATH 74901 100~
+#74902
+drow arachnemancer~
+a drow arachnemancer~
+A drow stands here covered in spider webs.
+~
+~
+elf~
+ABFR J 0 0 0
+235 2000 1d1+22500 1d1+50000 450d4+100 slash
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 36
+A 3
+M EXALL 74904 0~
+M EXALL 74904 2~
+#74903
+drow elf dark skinned~
+a drow~
+A silver haired elf climbs on the shimmering webs.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 32d50+250 none
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 33
+A 4
+M GRALL 74905 10~
+#74904
+giant whip spider~
+a giant whip spider~
+A large spider crawls on the webbing.
+~
+~
+centipede~
+AF JTZ 0 0 0
+230 2500 1d1+35000 0d0+0 31d50+250 drain
+-150 -150 -150 -150
+N 0 BFHI E
+stand stand none 0
+ABGHOZ ACDEFGHIJKPQUVX medium unknown
+S 1
+V 36
+A 0
+M GRALL 74905 10~
+#74905
+a giant false spider~
+a giant false spider~
+A giant false spider climbs through the webbing.
+~
+~
+centipede~
+A JTVZ 0 0 0
+235 2000 1d1+32500 0d0+0 32d50+250 claw
+-75 -75 -75 -75
+0 0 BFHI E
+stand stand none 500000
+ABGHOZ ACDEFGHIJKPQUVX medium unknown
+S 1
+V 33
+A 4
+M GRALL 74905 10~
+#74906
+were bat werebat~
+a werebat~
+A large bat flies through the cavern avoiding the spider webs.
+~
+~
+bat~
+A JTVZ 0 0 0
+235 2000 1d1+32500 0d0+0 32d50+250 bite
+-75 -75 -75 -75
+FH 0 BFHI ES
+stand stand none 500000
+ABGHOVZ ACDEFGHIJKPQUVX medium unknown
+S 1
+V 33
+A 4
+M GRALL 74905 10~
+#74907
+drow gate guard figure~
+a drow guard~
+A darkly cloaked figure stands here guarding the gate to the city.
+~
+~
+elf~
+AB JVe 0 0 0
+250 2000 1d1+35000 0d0+0 800d2+200 slash
+-100 -100 -100 -100
+FHK B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 30
+A 5
+#74908
+duergar dark dwarf mercenary~
+a duergar mercenary~
+A duergar mercenary wanders here looking for work.
+~
+~
+dwarf~
+ART DJc 0 0 0
+205 750 1d1+27500 1d1+15000 29d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F res L
+S 1
+V 30
+A -1
+M GRALL 74905 10~
+#74909
+minotaur slave~
+a minotaur slave~
+A shackled minotaur stands here being led about by slavers.
+~
+~
+minotaur~
+ART DJc 0 0 0
+205 750 1d1+27500 1d1+15000 29d45+500 pound
+-100 -100 -100 -100
+CDI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUVW medium unknown
+S 1
+V 30
+A -1
+M GRALL 74905 10~
+#74910
+servant house melarn drow~
+a servant of house melarn~
+A servant of the house moves about attending to his duties.
+~
+~
+elf~
+AR JV 0 0 0
+235 2000 1d1+30000 1d1+50000 33d50+350 slice
+-100 -100 -100 -100
+0 B 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 35
+A 4
+M GRALL 74905 10~
+#74911
+Halisstra Melarn drow matron mother~
+Halisstra Melarn~
+The Matron Mother of House Melarn stands here.
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+75000 0d0+0 750d5+200 slash
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#74912
+Qarlynd Melarn wizard drow~
+Qarlynd Melarn~
+The wizard of House Melarn stands here casting spells
+~
+~
+elf~
+ABFT FJTc 0 0 0
+250 2000 1d1+75000 0d0+0 750d5+200 slash
+-120 -120 -120 -120
+ACD B BEH 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJKPQUVX medium unknown
+S 1
+V 75
+A 5
+#0
+
+
+
+#OBJECTS
+#74900
+a webbed key~
+a webbed key~
+A stone key sits here.~
+unknown~
+key 0 A
+0 0 0 0 0
+101 0 0 P
+#0
+
+
+
+#ROOMS
+#74900
+On a Dark Ledge~
+Another small ledge provides a resting place as you head down towards the
+floor of the expanse.  Overhead a series of stalagmites hang down from the
+ceiling above.  To the west the ledge runs into the wall of the cliff as a
+small tunnel heads off through the rock.  
+~
+0 0 0
+D1
+~
+~
+0 0 74803
+D3
+~
+~
+0 0 74901
+S
+#74901
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 74900
+D3
+~
+~
+0 0 74902
+S
+#74902
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 74901
+D2
+~
+~
+0 0 75100
+D3
+~
+~
+0 0 74903
+S
+#74903
+In the Dark Tunnel~
+The dark tunnel travels through the underground rock continuing through
+the darkness.  The sound of each step echoes around the tunnel as you walk
+through the rock corridor.  The tunnel opens to a large cavern to the west. 
+~
+0 0 0
+D0
+~
+~
+0 0 75000
+D1
+~
+~
+0 0 74902
+D3
+~
+~
+0 0 74904
+S
+#74904
+Entrance to a Great Cavern~
+The tunnel opens to a great underground cavern as a large city stands
+before you.  In the darkness to the west you catch a glimpse of glimmering
+webs woven throughout the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 74903
+D3
+~
+~
+0 0 74905
+S
+#74905
+Before the Gates of Ched Nasad~
+A large shimmering web acts as the gates to the city as spider webs hang
+off the stalactites of the cavern.  The shimmering webs provide a low level
+illumination through the vast cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 74904
+D3
+~
+~
+4 74900 74907
+S
+#74906
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D2
+~
+~
+0 0 74907
+D3
+~
+~
+0 0 74909
+S
+#74907
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D0
+~
+~
+0 0 74906
+D1
+~
+~
+4 74900 74905
+D2
+~
+~
+0 0 74908
+D3
+~
+~
+0 0 74910
+S
+#74908
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D0
+~
+~
+0 0 74907
+D3
+~
+~
+0 0 74911
+S
+#74909
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D1
+~
+~
+0 0 74906
+D2
+~
+~
+0 0 74910
+D3
+~
+~
+0 0 74913
+S
+#74910
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D0
+~
+~
+0 0 74909
+D1
+~
+~
+0 0 74907
+D2
+~
+~
+0 0 74911
+D3
+~
+~
+0 0 74914
+S
+#74911
+Market Square of Ched Nasad~
+Inside the gates a bustle of activity takes place as slavers move about
+square offering freshly captured slaves.  Several mercenaries wander about
+looking for a new quest to fill their pockets with gold.  
+~
+0 0 0
+D0
+~
+~
+0 0 74910
+D1
+~
+~
+0 0 74908
+D3
+~
+~
+0 0 74915
+S
+#74912
+Eastern Square of Ched Nasad~
+The floor of the square slopes up sharply to the west as you see the
+cocoon like houses of the city.  Throughout the cavern the webs shimmer and
+sparkle making it appear as though diamonds are imbedded high up in the
+walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 74913
+D3
+~
+~
+0 0 74917
+S
+#74913
+Eastern Square of Ched Nasad~
+The floor of the square slopes up sharply to the west as you see the
+cocoon like houses of the city.  Throughout the cavern the webs shimmer and
+sparkle making it appear as though diamonds are imbedded high up in the
+walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74912
+D1
+~
+~
+0 0 74909
+D2
+~
+~
+0 0 74914
+D3
+~
+~
+0 0 74918
+S
+#74914
+Eastern Square of Ched Nasad~
+The floor of the square slopes up sharply to the west as you see the
+cocoon like houses of the city.  Throughout the cavern the webs shimmer and
+sparkle making it appear as though diamonds are imbedded high up in the
+walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74913
+D1
+~
+~
+0 0 74910
+D2
+~
+~
+0 0 74915
+D3
+~
+~
+0 0 74919
+S
+#74915
+Eastern Square of Ched Nasad~
+The floor of the square slopes up sharply to the west as you see the
+cocoon like houses of the city.  Throughout the cavern the webs shimmer and
+sparkle making it appear as though diamonds are imbedded high up in the
+walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74914
+D1
+~
+~
+0 0 74911
+D2
+~
+~
+0 0 74916
+D3
+~
+~
+0 0 74920
+S
+#74916
+Eastern Square of Ched Nasad~
+The floor of the square slopes up sharply to the west as you see the
+cocoon like houses of the city.  Throughout the cavern the webs shimmer and
+sparkle making it appear as though diamonds are imbedded high up in the
+walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 74915
+D3
+~
+~
+0 0 74921
+S
+#74917
+Eastern Square of Ched Nasad~
+The sharp sloping rock floor of the square ends to the west as a great
+chasm opens before you.  Thick woven strands of spider webs bridge the gap
+across the chasm as the cocoon like houses sit on the interwoven webs
+themselves.  
+~
+0 0 0
+D1
+~
+~
+0 0 74912
+D2
+~
+~
+0 0 74918
+D3
+~
+~
+0 0 74923
+S
+#74918
+Eastern Square of Ched Nasad~
+The sharp sloping rock floor of the square ends to the west as a great
+chasm opens before you.  Thick woven strands of spider webs bridge the gap
+across the chasm as the cocoon like houses sit on the interwoven webs
+themselves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74917
+D1
+~
+~
+0 0 74913
+D2
+~
+~
+0 0 74919
+D3
+~
+~
+0 0 74924
+S
+#74919
+Eastern Square of Ched Nasad~
+The sharp sloping rock floor of the square ends to the west as a great
+chasm opens before you.  Thick woven strands of spider webs bridge the gap
+across the chasm as the cocoon like houses sit on the interwoven webs
+themselves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74918
+D1
+~
+~
+0 0 74914
+D2
+~
+~
+0 0 74920
+D3
+~
+~
+0 0 74925
+S
+#74920
+Eastern Square of Ched Nasad~
+The sharp sloping rock floor of the square ends to the west as a great
+chasm opens before you.  Thick woven strands of spider webs bridge the gap
+across the chasm as the cocoon like houses sit on the interwoven webs
+themselves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74919
+D1
+~
+~
+0 0 74915
+D2
+~
+~
+0 0 74921
+D3
+~
+~
+0 0 74926
+S
+#74921
+Eastern Square of Ched Nasad~
+The sharp sloping rock floor of the square ends to the west as a great
+chasm opens before you.  Thick woven strands of spider webs bridge the gap
+across the chasm as the cocoon like houses sit on the interwoven webs
+themselves.  
+~
+0 0 0
+D0
+~
+~
+0 0 74920
+D1
+~
+~
+0 0 74916
+D3
+~
+~
+0 0 74927
+S
+#74922
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D2
+~
+~
+0 0 74923
+D3
+~
+~
+0 0 74929
+S
+#74923
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74922
+D1
+~
+~
+0 0 74917
+D2
+~
+~
+0 0 74924
+S
+#74924
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74923
+D1
+~
+~
+0 0 74918
+D2
+~
+~
+0 0 74925
+D3
+~
+~
+0 0 74931
+S
+#74925
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74924
+D1
+~
+~
+0 0 74919
+D2
+~
+~
+0 0 74926
+S
+#74926
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74925
+D1
+~
+~
+0 0 74920
+D2
+~
+~
+0 0 74927
+D3
+~
+~
+0 0 74933
+S
+#74927
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74926
+D1
+~
+~
+0 0 74921
+D2
+~
+~
+0 0 74928
+S
+#74928
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74927
+D3
+~
+~
+0 0 74935
+S
+#74929
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74922
+D2
+~
+~
+1 0 74930
+D3
+~
+~
+0 0 74936
+S
+#74930
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D0
+~
+~
+1 0 74929
+S
+#74931
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74924
+D2
+~
+~
+1 0 74932
+D3
+~
+~
+0 0 74938
+S
+#74932
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D0
+~
+~
+1 0 74931
+S
+#74933
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74926
+D2
+~
+~
+1 0 74934
+D3
+~
+~
+0 0 74940
+S
+#74934
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D0
+~
+~
+1 0 74933
+S
+#74935
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74928
+D3
+~
+~
+0 0 74942
+S
+#74936
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.
+~
+0 0 0
+D1
+~
+~
+0 0 74929
+D3
+~
+~
+0 0 74943
+S
+#74937
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D2
+~
+~
+1 0 74938
+S
+#74938
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74937
+D1
+~
+~
+0 0 74931
+D3
+~
+~
+0 0 74945
+S
+#74939
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D2
+~
+~
+1 0 74940
+S
+#74940
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74939
+D1
+~
+~
+0 0 74933
+D3
+~
+~
+0 0 74947
+S
+#74941
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D2
+~
+~
+1 0 74942
+S
+#74942
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74941
+D1
+~
+~
+0 0 74935
+D3
+~
+~
+0 0 74949
+S
+#74943
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74936
+D2
+~
+~
+1 0 74944
+D3
+~
+~
+0 0 74950
+S
+#74944
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D0
+~
+~
+1 0 74943
+S
+#74945
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74938
+D2
+~
+~
+1 0 74946
+D3
+~
+~
+0 0 74952
+S
+#74946
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D0
+~
+~
+1 0 74945
+S
+#74947
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74940
+D2
+~
+~
+1 0 74948
+D3
+~
+~
+0 0 74954
+S
+#74948
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D0
+~
+~
+1 0 74947
+S
+#74949
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74942
+D3
+~
+~
+0 0 74956
+S
+#74950
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.
+~
+0 0 0
+D1
+~
+~
+0 0 74943
+D3
+~
+~
+0 0 74957
+S
+#74951
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D2
+~
+~
+1 0 74952
+S
+#74952
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74951
+D1
+~
+~
+0 0 74945
+D3
+~
+~
+0 0 74959
+S
+#74953
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D2
+~
+~
+1 0 74954
+S
+#74954
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74953
+D1
+~
+~
+0 0 74947
+D3
+~
+~
+0 0 74961
+S
+#74955
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D2
+~
+~
+1 0 74956
+S
+#74956
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the north on the shimmering web.
+~
+0 0 0
+D0
+~
+~
+1 0 74955
+D1
+~
+~
+0 0 74949
+D3
+~
+~
+0 0 74963
+S
+#74957
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74950
+D2
+~
+~
+1 0 74958
+D3
+~
+~
+0 0 74964
+S
+#74958
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs stick to you as your walk through
+the door as they are hanging throughout the home.  
+~
+0 0 0
+D0
+~
+~
+1 0 74957
+S
+#74959
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74952
+D2
+~
+~
+1 0 74960
+D3
+~
+~
+0 0 74966
+S
+#74960
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D0
+~
+~
+1 0 74959
+S
+#74961
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74954
+D2
+~
+~
+1 0 74962
+D3
+~
+~
+0 0 74968
+S
+#74962
+Inside the Cocoon~
+The natural cocoon structure serves as a housing structure for the
+inhabitants of Ched Nasad.  Spider webs hang throughout the cocoon, a large
+skeleton dangles in the webbing.  
+~
+0 0 0
+D0
+~
+~
+1 0 74961
+S
+#74963
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  A cocoon like
+house sits to the south on the shimmering web.  
+~
+0 0 0
+D1
+~
+~
+0 0 74956
+D3
+~
+~
+0 0 74970
+S
+#74964
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D1
+~
+~
+0 0 74957
+D2
+~
+~
+0 0 74965
+S
+#74965
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74964
+D2
+~
+~
+0 0 74966
+D3
+~
+~
+0 0 74971
+S
+#74966
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74965
+D1
+~
+~
+0 0 74959
+D2
+~
+~
+0 0 74967
+D3
+~
+~
+0 0 74972
+S
+#74967
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74966
+D2
+~
+~
+0 0 74968
+D3
+~
+~
+0 0 74973
+S
+#74968
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74967
+D1
+~
+~
+0 0 74961
+D2
+~
+~
+0 0 74969
+D3
+~
+~
+0 0 74974
+S
+#74969
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74968
+D2
+~
+~
+0 0 74970
+D3
+~
+~
+0 0 74975
+S
+#74970
+On the Woven Webs of Ched Nasad~
+The interwoven webs are taught and do not flex as you walk through the
+city, the strands shimmering with every step.  The upward slope of the web
+makes it difficult to stand upright as you wander about.  
+~
+0 0 0
+D0
+~
+~
+0 0 74969
+D1
+~
+~
+0 0 74963
+S
+#74971
+Western Square of Ched Nasad~
+The web ends connecting to a sharply sloped rock floor.  Back to the east
+the shimmering of spider webs lights up the cavern as a large structure
+looms to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 74965
+D2
+~
+~
+0 0 74972
+D3
+~
+~
+0 0 74976
+S
+#74972
+Western Square of Ched Nasad~
+The web ends connecting to a sharply sloped rock floor.  Back to the east
+the shimmering of spider webs lights up the cavern as a large structure
+looms to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74971
+D1
+~
+~
+0 0 74966
+D2
+~
+~
+0 0 74973
+D3
+~
+~
+0 0 74977
+S
+#74973
+Western Square of Ched Nasad~
+The web ends connecting to a sharply sloped rock floor.  Back to the east
+the shimmering of spider webs lights up the cavern as a large structure
+looms to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74972
+D1
+~
+~
+0 0 74967
+D2
+~
+~
+0 0 74974
+D3
+~
+~
+0 0 74978
+S
+#74974
+Western Square of Ched Nasad~
+The web ends connecting to a sharply sloped rock floor.  Back to the east
+the shimmering of spider webs lights up the cavern as a large structure
+looms to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74973
+D1
+~
+~
+0 0 74968
+D2
+~
+~
+0 0 74975
+D3
+~
+~
+0 0 74979
+S
+#74975
+Western Square of Ched Nasad~
+The web ends connecting to a sharply sloped rock floor.  Back to the east
+the shimmering of spider webs lights up the cavern as a large structure
+looms to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74974
+D1
+~
+~
+0 0 74969
+D3
+~
+~
+0 0 74980
+S
+#74976
+Western Square of Ched Nasad~
+A large dark structure looms to the west as the webs sparkle and shimmer
+in the cavern to the east.  The rocky floor is to steep to continue on to
+the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 74971
+D2
+~
+~
+0 0 74977
+S
+#74977
+Western Square of Ched Nasad~
+A large staircase leads up to the large web covered house.  The large
+cavern shimmers as your light reflects off of the webs.  
+~
+0 0 0
+D0
+~
+~
+0 0 74976
+D1
+~
+~
+0 0 74972
+D2
+~
+~
+0 0 74978
+D3
+~
+~
+0 0 74981
+S
+#74978
+Western Square of Ched Nasad~
+A large staircase leads up to the large web covered house.  The large
+cavern shimmers as your light reflects off of the webs.  
+~
+0 0 0
+D0
+~
+~
+0 0 74977
+D1
+~
+~
+0 0 74973
+D2
+~
+~
+0 0 74979
+D3
+~
+~
+0 0 74982
+S
+#74979
+Western Square of Ched Nasad~
+A large staircase leads up to the large web covered house.  The large
+cavern shimmers as your light reflects off of the webs.  
+~
+0 0 0
+D0
+~
+~
+0 0 74978
+D1
+~
+~
+0 0 74974
+D2
+~
+~
+0 0 74980
+D3
+~
+~
+0 0 74983
+S
+#74980
+Western Square of Ched Nasad~
+A large dark structure looms to the west as the webs sparkle and shimmer
+in the cavern to the east.  The rocky floor is to steep to continue on to
+the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 74979
+D1
+~
+~
+0 0 74975
+S
+#74981
+Staircase to House Melarn~
+The wide staircase leads to the large door of House Melarn.  Spider webs
+are abundant across the stairs and hanging from the eaves of the great
+house.  
+~
+0 0 0
+D1
+~
+~
+0 0 74977
+D2
+~
+~
+0 0 74982
+D3
+~
+~
+1 0 74986
+S
+#74982
+Staircase to House Melarn~
+The wide staircase leads to the large door of House Melarn.  Spider webs
+are abundant across the stairs and hanging from the eaves of the great
+house.  
+~
+0 0 0
+D0
+~
+~
+0 0 74981
+D1
+~
+~
+0 0 74978
+D2
+~
+~
+0 0 74983
+D3
+~
+~
+1 0 74987
+S
+#74983
+Staircase to House Melarn~
+The wide staircase leads to the large door of House Melarn.  Spider webs
+are abundant across the stairs and hanging from the eaves of the great
+house.  
+~
+0 0 0
+D0
+~
+~
+0 0 74982
+D1
+~
+~
+0 0 74979
+D3
+~
+~
+1 0 74988
+S
+#74984
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D2
+~
+~
+0 0 74985
+D3
+~
+~
+0 0 74991
+S
+#74985
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74984
+D2
+~
+~
+0 0 74986
+D3
+~
+~
+0 0 74992
+S
+#74986
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74985
+D1
+~
+~
+1 0 74981
+D2
+~
+~
+0 0 74987
+D3
+~
+~
+0 0 74993
+S
+#74987
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74986
+D1
+~
+~
+1 0 74982
+D2
+~
+~
+0 0 74988
+D3
+~
+~
+0 0 74994
+S
+#74988
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74987
+D1
+~
+~
+1 0 74983
+D2
+~
+~
+0 0 74989
+D3
+~
+~
+0 0 74995
+S
+#74989
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74988
+D2
+~
+~
+0 0 74990
+D3
+~
+~
+0 0 74996
+S
+#74990
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74989
+D2
+~
+~
+0 0 74999
+D3
+~
+~
+0 0 74997
+S
+#74991
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D1
+~
+~
+0 0 74984
+D2
+~
+~
+0 0 74992
+S
+#74992
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74991
+D1
+~
+~
+0 0 74985
+D2
+~
+~
+0 0 74993
+S
+#74993
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74992
+D1
+~
+~
+0 0 74986
+D2
+~
+~
+0 0 74994
+S
+#74994
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74993
+D1
+~
+~
+0 0 74987
+D2
+~
+~
+0 0 74995
+S
+#74995
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74994
+D1
+~
+~
+0 0 74988
+D2
+~
+~
+0 0 74996
+S
+#74996
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74995
+D1
+~
+~
+0 0 74989
+D2
+~
+~
+0 0 74997
+S
+#74997
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74996
+D1
+~
+~
+0 0 74990
+D2
+~
+~
+0 0 74998
+S
+#74998
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74997
+D1
+~
+~
+0 0 74999
+S
+#74999
+Inside House Melarn~
+Spider webs in place of tapestries are draped from the walls.  The
+shimmering webs provide natural lighting throughout the high arched house of
+the Melarn.  
+~
+0 0 0
+D0
+~
+~
+0 0 74990
+D3
+~
+~
+0 0 74998
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 74905 3 2 The west door of Before the Gates of Ched Nasad is closed and locked
+D 0 74907 1 2 The east door of Market Square of Ched Nasad is closed and locked
+D 0 74929 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74930 0 1 The north door of Inside the Cocoon is closed
+D 0 74931 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74932 0 1 The north door of Inside the Cocoon is closed
+D 0 74933 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74934 0 1 The north door of Inside the Cocoon is closed
+D 0 74937 2 1 The south door of Inside the Cocoon is closed
+D 0 74938 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74939 2 1 The south door of Inside the Cocoon is closed
+D 0 74940 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74941 2 1 The south door of Inside the Cocoon is closed
+D 0 74942 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74943 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74944 0 1 The north door of Inside the Cocoon is closed
+D 0 74945 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74946 0 1 The north door of Inside the Cocoon is closed
+D 0 74947 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74948 0 1 The north door of Inside the Cocoon is closed
+D 0 74951 2 1 The south door of Inside the Cocoon is closed
+D 0 74952 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74953 2 1 The south door of Inside the Cocoon is closed
+D 0 74954 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74955 2 1 The south door of Inside the Cocoon is closed
+D 0 74956 0 1 The north door of On the Woven Webs of Ched Nasad is closed
+D 0 74957 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74958 0 1 The north door of Inside the Cocoon is closed
+D 0 74959 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74960 0 1 The north door of Inside the Cocoon is closed
+D 0 74961 2 1 The south door of On the Woven Webs of Ched Nasad is closed
+D 0 74962 0 1 The north door of Inside the Cocoon is closed
+D 0 74981 3 2 The west door of Staircase to House Melarn is closed and locked
+D 0 74982 3 2 The west door of Staircase to House Melarn is closed and locked
+D 0 74983 3 2 The west door of Staircase to House Melarn is closed and locked
+D 0 74986 1 1 The east door of Inside House Melarn is closed
+D 0 74987 1 1 The east door of Inside House Melarn is closed
+D 0 74988 1 1 The east door of Inside House Melarn is closed
+M 0 74907 1 74905 1 *Load a drow guard
+G 0 74900 0 *A webbed key is given to a drow guard
+M 0 74908 5 74906 2 *Load a duergar mercenary
+M 0 74909 5 74907 1 *Load a minotaur slave
+M 0 74908 5 74908 1 *Load a duergar mercenary
+M 0 74909 5 74909 2 *Load a minotaur slave
+M 0 74908 5 74910 2 *Load a duergar mercenary
+M 0 74909 5 74911 2 *Load a minotaur slave
+M 0 74903 35 74913 2 *Load a drow
+M 0 74906 12 74914 2 *Load a werebat
+M 0 74903 35 74915 2 *Load a drow
+M 0 74906 12 74918 2 *Load a werebat
+M 0 74903 35 74919 2 *Load a drow
+M 0 74906 12 74920 2 *Load a werebat
+M 0 74903 35 74922 2 *Load a drow
+M 0 74905 25 74923 2 *Load a giant false spider
+M 0 74903 35 74924 2 *Load a drow
+M 0 74903 35 74926 2 *Load a drow
+M 0 74905 25 74927 2 *Load a giant false spider
+M 0 74903 35 74928 2 *Load a drow
+M 0 74905 25 74929 2 *Load a giant false spider
+M 0 74900 7 74930 1 *Load a drow necromancer
+M 0 74904 10 74931 1 *Load a giant whip spider
+M 0 74902 8 74932 1 *Load a drow arachnemancer
+M 0 74905 25 74933 2 *Load a giant false spider
+M 0 74902 8 74934 1 *Load a drow arachnemancer
+M 0 74904 10 74935 1 *Load a giant whip spider
+M 0 74903 35 74936 2 *Load a drow
+M 0 74900 7 74937 1 *Load a drow necromancer
+M 0 74905 25 74938 2 *Load a giant false spider
+M 0 74900 7 74939 1 *Load a drow necromancer
+M 0 74905 25 74940 2 *Load a giant false spider
+M 0 74902 8 74941 1 *Load a drow arachnemancer
+M 0 74903 35 74942 2 *Load a drow
+M 0 74904 10 74943 1 *Load a giant whip spider
+M 0 74902 8 74944 1 *Load a drow arachnemancer
+M 0 74905 25 74945 2 *Load a giant false spider
+M 0 74902 8 74946 1 *Load a drow arachnemancer
+M 0 74900 7 74948 1 *Load a drow necromancer
+M 0 74905 25 74949 2 *Load a giant false spider
+M 0 74903 35 74950 2 *Load a drow
+M 0 74902 8 74951 1 *Load a drow arachnemancer
+M 0 74902 8 74953 1 *Load a drow arachnemancer
+M 0 74904 10 74954 1 *Load a giant whip spider
+M 0 74900 7 74955 1 *Load a drow necromancer
+M 0 74903 35 74956 2 *Load a drow
+M 0 74905 25 74957 2 *Load a giant false spider
+M 0 74902 8 74958 1 *Load a drow arachnemancer
+M 0 74904 10 74959 1 *Load a giant whip spider
+M 0 74900 7 74960 1 *Load a drow necromancer
+M 0 74905 25 74961 2 *Load a giant false spider
+M 0 74900 7 74962 1 *Load a drow necromancer
+M 0 74904 10 74963 1 *Load a giant whip spider
+M 0 74903 35 74965 2 *Load a drow
+M 0 74905 25 74966 2 *Load a giant false spider
+M 0 74903 35 74967 2 *Load a drow
+M 0 74905 25 74968 2 *Load a giant false spider
+M 0 74903 35 74969 2 *Load a drow
+M 0 74903 35 74972 2 *Load a drow
+M 0 74903 35 74974 2 *Load a drow
+M 0 74906 12 74977 2 *Load a werebat
+M 0 74903 35 74978 2 *Load a drow
+M 0 74906 12 74979 2 *Load a werebat
+M 0 74910 15 74984 1 *Load a servant of house melarn
+M 0 74910 15 74985 1 *Load a servant of house melarn
+M 0 74910 15 74986 1 *Load a servant of house melarn
+M 0 74910 15 74987 1 *Load a servant of house melarn
+M 0 74910 15 74988 1 *Load a servant of house melarn
+M 0 74910 15 74989 1 *Load a servant of house melarn
+M 0 74911 1 74990 1 *Load Halisstra Melarn
+M 0 74910 15 74991 1 *Load a servant of house melarn
+M 0 74912 1 74992 1 *Load Qarlynd Melarn
+M 0 74910 15 74993 1 *Load a servant of house melarn
+M 0 74910 15 74994 1 *Load a servant of house melarn
+M 0 74910 15 74996 1 *Load a servant of house melarn
+M 0 74910 15 74997 1 *Load a servant of house melarn
+M 0 74910 15 74998 1 *Load a servant of house melarn
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74900
+mob remember $n
+if mobhere 74901
+else
+mob echo {WA drow necromancer casts a spell animating the skeleton in the room{x
+mob mload 74901
+endif
+~
+#74901
+groan
+~
+#74902
+mob echo {8The necromancer howls in anger and attacks!!!{x
+mob kill $q
+~
+#74903
+mob cast 'cremate' $n
+mob cast 'cremate' $n
+mob cast 'cremate' $n
+~
+#74904
+mob echo {wThe drow arachnemancer gestures towards the door as webs rise up blocking your exit.{x
+~
+#74905
+mob kill $n
+~
+#0
+
+#$

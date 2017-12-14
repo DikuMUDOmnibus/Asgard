@@ -1,0 +1,24 @@
+# 0 0 1 0
+K 0 12 22 12 22
+N nopk
+C {8-{7-{8> {yNoPK {8<{7-{8-{x~
+R 0 {MM{member{x~
+W 0 {MM{mem{x
+R 1 {RR{recruit{x~
+W 1 {RR{rec{x
+R 2 {GS{goldier{x~
+W 2 {GS{gdr{x
+R 3 {YL{yieutenant{x~
+W 3 {YL{yie{x
+R 4 {WC{wommander{x~
+W 4 {WC{wdr{x
+R 5 {CE{clite {CC{captain{x~
+W 5 {CE{clt{x
+D All those who aren't clanned and aren't player-killers.
+~
+P 0
+A 0
+G 0
+V 0 0
+H 0
+$

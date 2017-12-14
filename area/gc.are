@@ -1,0 +1,2267 @@
+#AREADATA
+Name Goblin Caverns~
+Builders Ishamael~
+VNUMs 71900 71999
+Continent 5
+Mobtier 0
+Credits [  LGD ] Ishamael Goblin Caverns~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#71900
+scaled worm~
+a scaled worm~
+A large scaled worm rears back at your entrance.
+~
+Thick scales provide armor like protection for this giant worm.
+~
+snake~
+A DFVa 0 0 0
+160 500 1d1+13988 0d0+0 6d28+23 digestion
+-45 -45 -45 -40
+0 ABL L I
+stand stand none 0
+AGXYc ADEFKLQVX large unknown
+V 5
+A -1
+#71901
+small goblin~
+a small goblin~
+A small goblin stands here brandishing a sharp axe.
+~
+~
+goblin~
+A DFJ 0 0 0
+160 200 1d1+17500 40d9+100 10d26+50 pound
+-25 -25 -25 -25
+FHIKPRU AB LQ S
+stand stand female 40000
+AHMV ABCDEFGHIJK medium unknown
+V 8
+A -1
+M GRALL 71901 10~
+#71902
+lanky goblin~
+a lanky goblin~
+A lanky goblin stands here pointing a spear at you.
+~
+~
+goblin~
+AB DFJ 0 0 0
+170 250 1d1+22500 40d9+100 12d30+75 pound
+-32 -32 -32 -32
+DFHIK AB LQ S
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 10
+A -1
+M GRALL 71901 10~
+#71903
+large goblin~
+a large goblin~
+A large goblin stands here ready to break you in half.
+~
+~
+goblin~
+AB DFJ 0 0 0
+175 300 1d1+25000 40d9+100 21d42+150 pound
+-35 -35 -35 -35
+CDFHIK AB LQ S
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 11
+A -1
+M GRALL 71901 10~
+#71904
+hulking goblin~
+a hulking goblin~
+A hulking goblin stands here ready to split your skull.
+~
+~
+goblin~
+AB DFJ 0 0 0
+180 300 1d1+25000 40d9+100 25d46+225 pound
+-40 -40 -40 -40
+CDFIK AB LQ S
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 14
+A -1
+M GRALL 71901 10~
+#71905
+a cave troll~
+a cave troll~
+A massive cave troll stands here ready to smash you with his massive fist.
+~
+~
+troll~
+A DJc 0 0 0
+190 350 1d1+27500 40d9+100 28d45+250 pound
+-85 -85 -85 -85
+CDI AB BELQ HK
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+F aff F
+V 15
+A -1
+M GRALL 71901 10~
+#71906
+Great Goblin~
+The {GGreat Goblin{x~
+The {GGreat Goblin{x sits here on his throne.
+~
+~
+troll~
+ABFGRS DFJTVc 0 -1000 0
+210 500 1d1+200000 110d10+100 750d4+125 bite
+-100 -85 -85 -85
+ACDEFGHK A ABCDEMZ HJK
+stand stand male 80000
+ABHIMV ABCDEFGHIJUV large unknown
+F par K
+V 65
+A -1
+M DEATH 71900 100~
+#0
+
+
+
+#OBJECTS
+#71900
+hole open~
+a small hole~
+{x~
+unknown~
+portal 0 0
+0 KL A ACDFILMQ 0
+0 0 0 P
+#71901
+stone axe~
+a small stone axe~
+A small stone axe lies here discarded.~
+stone~
+weapon 0 AN
+axe 10 20 chop E
+101 0 20000 P
+#71902
+sharp stone spear~
+a sharp stone spear~
+A sharp stone spear lies here discarded~
+unknown~
+weapon 0 AN
+staff 70 2 stab E
+101 0 25000 P
+#71903
+flaming trident~
+{ra Fl{Ra{Ymi{Rn{rg T{Rr{Yide{Rn{rt{x~
+A flaming trident lies here.~
+unknown~
+weapon Y AN
+staff 3 77 thrust AEF
+101 0 100000 P
+#71904
+studded leather bracers~
+{*a S{wtu{*dd{we{*d {yLeather {*B{wr{*a{wce{*r{x~
+A studded leather bracer lies here~
+leather~
+armor Y AM
+ADE ADE ADE ADE 0
+101 0 100000 P
+A
+13 50
+A
+19 15
+A
+18 15
+A
+26 10
+#71905
+spiked pauldrons~
+{wS{*pi{wke{*d P{wau{*ld{wro{*ns{x~
+A pair of spiked sleeves lies on the ground.~
+unknown~
+armor Y AI
+ABDE ABDE ABDE ABDE 0
+101 0 100000 P
+A
+19 23
+A
+13 150
+A
+18 10
+#71906
+studded leather greaves~
+{*S{wtu{*dd{we{*d {yLeather {*G{wre{*av{we{*s{x~
+A set of greaves lies here.~
+leathers~
+armor Y AF
+BCDE BCDE BCDE BCDE 0
+101 0 100000 P
+A
+19 25
+A
+13 50
+A
+26 5
+A
+18 10
+#71907
+hard leather vest~
+{ga {yh{ga{yr{gd {yleather {gv{ye{gs{yt{x~
+A hard leather vest lies here.~
+unknown~
+armor Y AD
+BDF BDF BDF BDF 0
+101 0 200000 P
+A
+13 100
+A
+19 15
+A
+26 7
+#71908
+studded leather bracers~
+{*a S{wtu{*dd{we{*d {yLeather {*B{wr{*a{wce{*r{x~
+A studded leather bracer lies here~
+leather~
+armor Y AM
+ADE ADE ADE ADE 0
+101 0 100000 P
+A
+20 -5
+A
+28 10
+A
+13 150
+A
+12 150
+#71909
+spiked pauldrons~
+{wS{*pi{wke{*d P{wau{*ld{wro{*ns{x~
+A pair of spiked sleeves lies on the ground.~
+unknown~
+armor Y AI
+ABDE ABDE ABDE ABDE 0
+101 0 100000 P
+A
+20 -6
+A
+13 150
+A
+12 150
+A
+28 10
+#71910
+studded leather greaves~
+{*S{wtu{*dd{we{*d {yLeather {*G{wre{*av{we{*s{x~
+A set of greaves lies here.~
+leathers~
+armor Y AF
+BCDE BCDE BCDE BCDE 0
+101 0 100000 P
+A
+13 150
+A
+12 150
+A
+20 -9
+#0
+
+
+
+#ROOMS
+#71900
+Hidden Passageway~
+As you squeeze through the opening, you pass into a carefully hidden
+passageway.  The rock walls are narrow making single file passage the only
+possibility as you have difficulty discerning where the passage may lead.  
+~
+0 0 0
+D1
+~
+~
+0 0 71901
+D3
+~
+~
+0 0 71165
+S
+#71901
+Hidden Passageway~
+The passage continues east-west through the rocky underground.  Loose
+stones crunch beneath your feet as you shuffle along this passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 71902
+D3
+~
+~
+0 0 71900
+S
+#71902
+Turn in the Passageway~
+The passage twists to the north and begins to widen, offering a relief
+from the cramped passageway.  The rock walls continue to guide you limiting
+your movement through the passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 71903
+D3
+~
+~
+0 0 71901
+S
+#71903
+Turn in the Passageway~
+The passageway twists back to the east continuing on in the darkness. 
+The passage continues to widen every slow slightly as you no longer feel so
+cramped.  
+~
+0 0 0
+D1
+~
+~
+0 0 71904
+D2
+~
+~
+0 0 71902
+S
+#71904
+Dark Passageway~
+The passage continues east-west leading you away from the mines in
+relative darkness.  The passage widens every slow slightly finally making
+travel bareable through the rocky walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 71905
+D2
+~
+~
+0 0 74500
+D3
+~
+~
+0 0 71903
+S
+#71905
+Dark Passageway~
+The passage continues east-west leading you further into the darkness. 
+The passage continues to widen to the point where its easy to move about.  
+~
+0 0 0
+D1
+~
+~
+0 0 71906
+D3
+~
+~
+0 0 71904
+S
+#71906
+Fork in the Passageway~
+The passage forms a T, splitting off to the north and south.  The walls
+are wider making you free to move throughout the passage with relative ease.
+~
+0 0 0
+D0
+~
+~
+0 0 71907
+D2
+~
+~
+0 0 71909
+D3
+~
+~
+0 0 71905
+S
+#71907
+Rock Passageway~
+The slate walls lead north from the junction sloping slight upwards as
+you head further from the mines.  A foul stench drifts in from the north
+making you wander where exactly you are headed.  
+~
+0 0 0
+D0
+~
+~
+0 0 71908
+D2
+~
+~
+0 0 71906
+S
+#71908
+Turn in the Passageway~
+The passageway twists to the east heading further into the darkness, The
+foul stench of urine and excrement surround you as you head further along
+the passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 71911
+D2
+~
+~
+0 0 71907
+S
+#71909
+Dark Tunnel~
+A roughly hewn tunnel heads south through the rock walls.  The floor
+beneath your feet is rough and jagged making walking slow going.  
+~
+0 0 0
+D0
+~
+~
+0 0 71906
+D2
+~
+~
+0 0 71910
+S
+#71910
+Dark Tunnel~
+The roughly cut rock walls scrape against you as you slide through.  The
+pitted and jagged floor make the passing slow going as you continue down
+into the depths.  
+~
+0 0 0
+D0
+~
+~
+0 0 71909
+D1
+~
+~
+0 0 71944
+S
+#71911
+Dark Passageway~
+The passage continues to slope upwards as you walk along the dark walls. 
+You notice smattering of blood smeared and bits of flesh smeared along the
+walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 71912
+D3
+~
+~
+0 0 71908
+S
+#71912
+Dark Passageway~
+As you continue along the passageway you come to a 4ft step up.  The
+constructors of the tunnel appear to have made a significant error in
+building this tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 71911
+D4
+~
+~
+0 0 71913
+S
+#71913
+Dark Passageway~
+The passageway moves on to the north away from the 4ft giant step.  The
+foul smell continues to surround you as you walk through the passageway.  
+~
+0 0 0
+D0
+~
+~
+0 0 71914
+D5
+~
+~
+0 0 71912
+S
+#71914
+Dark Passageway~
+The passageway continues north through the dark stone walls, blood and
+fresh are smeared along the the path.  Loose stones crunch beneath your feet
+as you continue through the darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 71915
+D2
+~
+~
+0 0 71913
+S
+#71915
+Dark Passageway~
+The passageway continues on leading you to the north.  The coppery smell
+of dried blood fills your nostrils as you continue on your way.  
+~
+0 0 0
+D0
+~
+~
+0 0 71916
+D2
+~
+~
+0 0 71914
+S
+#71916
+Split in the Passage~
+The passage forms a T and runs east-west through the dark walls.  The
+stench of decay fills the area and there is noticibly a large amount of
+debris on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 71932
+D2
+~
+~
+0 0 71915
+D3
+~
+~
+0 0 71917
+S
+#71917
+Dark Passageway~
+The passageway is now supported by a large timbers and appears to be
+headed towards a mine.  The foul stench of death and decay surround you as
+you walk further in the passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 71916
+D4
+~
+~
+0 0 71918
+S
+#71918
+Passage before the Mine~
+The passage leads you towards a small mine, the support pillars are clear
+as it begins to widen.  Broken pickaxes and hammers sit on the ground
+cluttering up the floor around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 71919
+D5
+~
+~
+0 0 71917
+S
+#71919
+Entrance to a Mine~
+Before you stands a arched entrance to a small mine.  The wooden support
+beams are in a bad state of disrepair and the smell of stale air fills your
+nostrils.  
+~
+0 0 0
+D0
+~
+~
+0 0 71920
+D2
+~
+~
+0 0 71918
+S
+#71920
+Abandoned Mine~
+Before you stands a mine in a bad state of decay, support pillars are
+badly splintered and debris are littered throughout the floor.  The air
+smells stale and the stench of decay fills your nostrils.  
+~
+0 0 0
+D0
+~
+~
+0 0 71931
+D2
+~
+~
+0 0 71919
+D3
+~
+~
+0 0 71921
+S
+#71921
+Abandoned Mine~
+The pillar supports look like they may collapse at any minute.  Splinters
+of wood and large chunks of rusted metal clutter the floor.  Blood is
+splattered across the walls and covering the debris.  
+~
+0 0 0
+D0
+~
+~
+0 0 71928
+D1
+~
+~
+0 0 71920
+D3
+~
+~
+0 0 71922
+S
+#71922
+Abandoned Mine~
+The crumbling mine is littered with broken bits of armor and bone. 
+Several spearheads lay scattered throughout the rubble and causing you to
+pick your steps carefully.  
+~
+0 0 0
+D0
+~
+~
+0 0 71923
+D1
+~
+~
+0 0 71921
+S
+#71923
+Abandoned Mine~
+The walls are splattered with long dried blood and rusted pieces of armor
+litter the ground.  A foul stench surrounds you as you wander through the
+partially destroyed mine.  
+~
+0 0 0
+D0
+~
+~
+0 0 71924
+D1
+~
+~
+0 0 71928
+D2
+~
+~
+0 0 71922
+S
+#71924
+Abandoned Mine~
+The walls contain a high volume of blood spatter and large chunk of
+debris sit on the floor.  The pillar around you are badly decayed and are
+crumbling around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 71925
+D1
+~
+~
+0 0 71927
+D2
+~
+~
+0 0 71923
+S
+#71925
+Abandoned Mine~
+A tunnel to north is sealed off by a massive amount of rubble and rock. 
+The support pillars in this mine are crumbling and decaying as bits of bone
+and rusted metal crunch beneath your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 71926
+D2
+~
+~
+0 0 71924
+S
+#71926
+Abandoned Mine~
+The northern wall is covered in blood, a thick coppery smell surrounds
+you.  The floor is littered with bones and armor fragments, the constant
+sound of crunching debris greets every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 71929
+D2
+~
+~
+0 0 71927
+D3
+~
+~
+0 0 71925
+S
+#71927
+Abandoned Mine~
+The once prolific mine is barely stable as the roof overhead looks as if
+it could collapse around you any minute.  One of the support beams is
+splintered in half and lies across your path.  
+~
+0 0 0
+D0
+~
+~
+0 0 71926
+D1
+~
+~
+0 0 71930
+D2
+~
+~
+0 0 71928
+D3
+~
+~
+0 0 71924
+S
+#71928
+Abandoned Mine~
+A full suit of armor lies on the ground completely rusted through, the
+breastplate split nearly in half with the long shaft of a spear jutting out
+through it.  Large chunks of stones lie here crunching with every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71927
+D1
+~
+~
+0 0 71931
+D2
+~
+~
+0 0 71921
+D3
+~
+~
+0 0 71923
+S
+#71929
+Abandoned Mine~
+A tunnel leading to the east has been blocked by debris and large rocks. 
+It appears the supports for the tunnel were hastily destroyed to cut off an
+escape to upper levels.  
+~
+0 0 0
+D2
+~
+~
+0 0 71930
+D3
+~
+~
+0 0 71926
+S
+#71930
+Abandoned Mine~
+A broken pick axe lies here signs that this once used to be an active
+mine.  The rocks on the floor have been picked clean of all gems of value,
+only broken debris remain on the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 71929
+D2
+~
+~
+0 0 71931
+D3
+~
+~
+0 0 71927
+S
+#71931
+Abandoned Mine~
+A broken support beam lies across your path, in its place sits a hastily
+cut log barely supporting the structure above.  The destruction around you
+insinuates uneducated hands are now in control.  
+~
+0 0 0
+D0
+~
+~
+0 0 71930
+D2
+~
+~
+0 0 71920
+D3
+~
+~
+0 0 71928
+S
+#71932
+Dark Passageway~
+The passage continues east-west through the rock walls.  A foul stench of
+decay and death lingers in the air as you walk down the rocky corridor.  
+~
+0 0 0
+D1
+~
+~
+0 0 71933
+D3
+~
+~
+0 0 71916
+S
+#71933
+Dark Passageway~
+Blood is smeared along the walls and chunks of debris crunch beneath your
+feet with every step.  The smell of decay surrounds you and haunts your
+every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 71934
+D3
+~
+~
+0 0 71932
+S
+#71934
+Entrance to a Mine~
+Before you stands an arched entrance to a small mine.  The wooden support
+beams are in a bad state of disrepair and the smell of stale air fills your
+nostrils.  
+~
+0 0 0
+D2
+~
+~
+0 0 71935
+D3
+~
+~
+0 0 71933
+S
+#71935
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71934
+D1
+~
+~
+0 0 71941
+D2
+~
+~
+0 0 71936
+S
+#71936
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71935
+D1
+~
+~
+0 0 71940
+D2
+~
+~
+0 0 71937
+S
+#71937
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71936
+D1
+~
+~
+0 0 71938
+S
+#71938
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71940
+D1
+~
+~
+0 0 71939
+D3
+~
+~
+0 0 71937
+S
+#71939
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71942
+D3
+~
+~
+0 0 71938
+S
+#71940
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71941
+D1
+~
+~
+0 0 71942
+D2
+~
+~
+0 0 71938
+D3
+~
+~
+0 0 71936
+S
+#71941
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D1
+~
+~
+0 0 71943
+D2
+~
+~
+0 0 71940
+D3
+~
+~
+0 0 71935
+S
+#71942
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D0
+~
+~
+0 0 71943
+D2
+~
+~
+0 0 71939
+D3
+~
+~
+0 0 71940
+S
+#71943
+Abandoned Mine~
+Massive amounts of debris litter the floor, the mine in an obvious state
+of disuse.  The crumbling support pillars may collapse at any moment and
+cause a massive cave-in.  
+~
+0 0 0
+D1
+~
+~
+0 0 23099
+D2
+~
+~
+0 0 71942
+D3
+~
+~
+0 0 71941
+S
+#71944
+Dark Tunnel~
+The roughly cut rock walls lead east and west here through the rough cut
+walls.  The rough floor continues to trip at every step you take making it
+slow going.  
+~
+0 0 0
+D1
+~
+~
+0 0 71945
+D3
+~
+~
+0 0 71910
+S
+#71945
+Dark Tunnel~
+The tunnel slopes downwards leading deeper below the surface.  The steps
+leading downward appear tricky to navigate in the darkness and you should
+proceed with caution.  
+~
+0 0 0
+D3
+~
+~
+0 0 71944
+D5
+~
+~
+0 0 71946
+S
+#71946
+Dark Tunnel~
+The dark tunnel leads south away from the steps.  Little care was used in
+carving out this tunnel as sharp rock edges jump out and scrape against you
+as you walk by.  
+~
+0 0 0
+D2
+~
+~
+0 0 71947
+D4
+~
+~
+0 0 71945
+S
+#71947
+Dark Tunnel~
+The tunnel runs north and south through the roughly hewn rock.  The floor
+is still difficult to navigate as it is filled with pot holes and divots.  
+~
+0 0 0
+D0
+~
+~
+0 0 71946
+D2
+~
+~
+0 0 71948
+S
+#71948
+Dark Tunnel ~
+The tunnel turns off to the east through the rough hewn rock walls.  The
+terrain is difficult to walk on as it is very uneven and with every step you
+risk a sprained ankle.  
+~
+0 0 0
+D0
+~
+~
+0 0 71947
+D1
+~
+~
+0 0 71949
+S
+#71949
+Split in the Tunnel~
+The tunnel splits forming a small fork.  To the east you can see it opens
+into a small cavern, to the south the ground slopes downward leading deeper
+below the surface.  
+~
+0 0 0
+D1
+~
+~
+0 0 71950
+D2
+~
+~
+0 0 71960
+D3
+~
+~
+0 0 71948
+S
+#71950
+Before a Cavern~
+The passage opens up into a small cavern to the east.  The smell of decay
+wafts in from the cavern and swirls around in your nostrils.  
+~
+0 0 0
+D1
+~
+~
+0 0 71951
+D3
+~
+~
+0 0 71949
+S
+#71951
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71952
+D1
+~
+~
+0 0 71958
+D3
+~
+~
+0 0 71950
+S
+#71952
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71953
+D1
+~
+~
+0 0 71959
+D2
+~
+~
+0 0 71951
+S
+#71953
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 71954
+D2
+~
+~
+0 0 71952
+S
+#71954
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 71955
+D2
+~
+~
+0 0 71959
+D3
+~
+~
+0 0 71953
+S
+#71955
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D2
+~
+~
+0 0 71956
+D3
+~
+~
+0 0 71954
+S
+#71956
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71955
+D2
+~
+~
+0 0 71957
+D3
+~
+~
+0 0 71959
+S
+#71957
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71956
+D3
+~
+~
+0 0 71958
+S
+#71958
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71959
+D1
+~
+~
+0 0 71957
+D3
+~
+~
+0 0 71951
+S
+#71959
+Upper Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  A roughly
+hewn set of stairs leads down into a passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 71954
+D1
+~
+~
+0 0 71956
+D2
+~
+~
+0 0 71958
+D3
+~
+~
+0 0 71952
+D5
+~
+~
+0 0 71980
+S
+#71960
+Dark Tunnel~
+A small series of steps lead down further into the tunnel.  The steps are
+not any better made the then rest of the tunnel as they are very uneven
+making each step dangerous.  
+~
+0 0 0
+D0
+~
+~
+0 0 71949
+D5
+~
+~
+0 0 71961
+S
+#71961
+Dark Tunnel~
+The tunnel leads south away from the rough cut stone steps.  The sharp
+stone walls continually pull at you and scrape you as you walk down the
+narrow tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 71962
+D4
+~
+~
+0 0 71960
+S
+#71962
+Dark Tunnel~
+The tunnel turns to the west leading through the crudely hewn rock. 
+Several loose stones and small craters make each step treacherous.  
+~
+0 0 0
+D0
+~
+~
+0 0 71961
+D3
+~
+~
+0 0 71963
+S
+#71963
+Dark Tunnel~
+The tunnel turns south through the thick rock.  Rough walls pull at your
+cloak as you step through the crudely made tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 71962
+D2
+~
+~
+0 0 71964
+S
+#71964
+Dark Tunnel~
+The rough hewn tunnel opens up to a small cavern to the south.  The
+stench of decay drifts in from the south and stings at your nose.  
+~
+0 0 0
+D0
+~
+~
+0 0 71963
+D2
+~
+~
+0 0 71965
+S
+#71965
+Before a Cavern~
+The passage opens up into a small cavern to the south.  The smell of
+decay wafts in from the cavern and swirls around in your nostrils.  
+~
+0 0 0
+D0
+~
+~
+0 0 71964
+D2
+~
+~
+0 0 71966
+S
+#71966
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71965
+D1
+~
+~
+0 0 71967
+D2
+~
+~
+0 0 71973
+S
+#71967
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D1
+~
+~
+0 0 71968
+D2
+~
+~
+0 0 71974
+D3
+~
+~
+0 0 71966
+S
+#71968
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D2
+~
+~
+0 0 71969
+D3
+~
+~
+0 0 71967
+S
+#71969
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71968
+D2
+~
+~
+0 0 71970
+D3
+~
+~
+0 0 71974
+S
+#71970
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71969
+D3
+~
+~
+0 0 71971
+S
+#71971
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71974
+D1
+~
+~
+0 0 71970
+D3
+~
+~
+0 0 71972
+S
+#71972
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71973
+D1
+~
+~
+0 0 71971
+S
+#71973
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  
+~
+0 0 0
+D0
+~
+~
+0 0 71966
+D1
+~
+~
+0 0 71974
+D2
+~
+~
+0 0 71972
+S
+#71974
+Lower Cavern~
+A large amount of debris litters the floor of this cavern.  Broken bones
+and rusted armor crunch beneath your feet as you take every step.  A roughly
+hewn staircase leads up.  
+~
+0 0 0
+D0
+~
+~
+0 0 71967
+D1
+~
+~
+0 0 71969
+D2
+~
+~
+0 0 71971
+D3
+~
+~
+0 0 71973
+D4
+~
+~
+0 0 71975
+S
+#71975
+Rocky Passageway~
+The passage continues down into the cavern and off to the east through
+the rough hewn rock.  Small chunks of rock crunch and shift below your feet
+with every step you take.  
+~
+0 0 0
+D1
+~
+~
+0 0 71976
+D5
+~
+~
+0 0 71974
+S
+#71976
+Rocky Passageway~
+The passage continues north and west through the rough hewn rock.  Small
+chunks of rock crunch and shift below your feet with every step you take.  
+~
+0 0 0
+D0
+~
+~
+0 0 71977
+D3
+~
+~
+0 0 71975
+S
+#71977
+Rocky Passageway~
+The passage continues north and south through the rough hewn rock. 
+Small chunks of rock crunch and shift below your feet with every step you
+take.  
+~
+0 0 0
+D0
+~
+~
+0 0 71978
+D2
+~
+~
+0 0 71976
+S
+#71978
+Rocky Passageway~
+The passage continues north and south through the rough hewn rock.  Small
+chunks of rock crunch and shift below your feet with every step you take. 
+You notice a small hole in the eastern wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 71979
+D2
+~
+~
+0 0 71977
+S
+#71979
+Rocky Passageway~
+The passage continues north and south through the rough hewn rock.  Small
+chunks of rock crunch and shift below your feet with every step you take.  
+~
+0 0 0
+D0
+~
+~
+0 0 71980
+D2
+~
+~
+0 0 71978
+S
+#71980
+Rocky Passageway~
+The rocky passage leads up to a small cavern and south into the darkness.
+Small chunks of rock sit crunch and shift below your feet with every step
+you take.  
+~
+0 0 0
+D2
+~
+~
+0 0 71979
+D4
+~
+~
+0 0 71959
+S
+#71981
+Hidden Room~
+The small room sits hidden from the side of the main tunnel.  A small
+staircase leads down into a dark tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 71978
+D5
+~
+~
+0 0 71982
+S
+#71982
+Hidden Tunnel~
+A hidden tunnel leads away from the small room, cutting through thick
+rock walls.  The small tunnel cuts off to the east as loud shouting echoes
+up the tunnel.  
+~
+0 4 0
+D1
+~
+~
+0 0 71983
+D4
+~
+~
+0 0 71981
+S
+#71983
+Hidden Tunnel~
+The tunnel heads down into the darkness.  The loud sounds of shouting
+continue to echo around you as you walk through the tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 71982
+D5
+~
+~
+0 0 71984
+S
+#71984
+Hidden Tunnel~
+The tunnel turns back to the east as the shouting echoes louder around
+you.  Small flickers of light can be seen coming off from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 71985
+D4
+~
+~
+0 0 71983
+S
+#71985
+Hidden Tunnel~
+The tunnel is widening to the east as the shouting becomes close to a
+deafening roar.  The flickering of firelight can be seen dancing from the
+eastern tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 71986
+D3
+~
+~
+0 0 71984
+S
+#71986
+Before a Great Cavern~
+The passage way opens to the south, serving as an entrance to a large
+cavern.  The sound of loud shouting and crackling of fire can be heard
+coming from the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 71988
+D3
+~
+~
+0 0 71985
+S
+#71987
+Throne Room~
+Large stone steps lead up to a massive stone throne.  The throne itself
+is decorated with broken skulls, trophies of fallen foes.  
+~
+0 4 0
+D0
+~
+~
+0 0 71993
+S
+#71988
+Great Cavern~
+Tall columns support the high ceilings of the cavern.  Discarded items
+litter the ground around you and present a hazard for every step you take.  
+~
+0 0 0
+D0
+~
+~
+0 0 71986
+D1
+~
+~
+0 0 71996
+D2
+~
+~
+0 0 71995
+D3
+~
+~
+0 0 71989
+S
+#71989
+Great Cavern, Western Wall~
+A great pillar supports the the high ceilings of the cavern.  In the
+corner of the room, a pile of skulls and broken bones lies piled 12 ft high.
+~
+0 0 0
+D1
+~
+~
+0 0 71988
+D2
+~
+~
+0 0 71990
+S
+#71990
+Great Cavern, Western Wall~
+A great pillar supports the high ceilings of the cavern.  The walls are
+splattered with blood and unwanted items litter the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 71989
+D1
+~
+~
+0 0 71995
+D2
+~
+~
+0 0 71991
+S
+#71991
+Great Cavern, Western Wall~
+A great pillar supports the high ceilings of the cavern.  The walls are
+splattered with blood and unwanted items litter the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 71990
+D1
+~
+~
+0 0 71994
+D2
+~
+~
+0 0 71992
+S
+#71992
+Great Cavern, Western Wall~
+A great pillar supports the the high ceilings of the cavern.  In the
+corner of the room, a pile of skulls and broken bones lies piled 12 ft high.
+~
+0 0 0
+D0
+~
+~
+0 0 71991
+D1
+~
+~
+0 0 71993
+S
+#71993
+Great Cavern~
+Tall columns support the high ceilings of the cavern.  Discarded items
+litter the ground around you and present a hazard for every step you take.  
+~
+0 0 0
+D0
+~
+~
+0 0 71994
+D1
+~
+~
+0 0 71999
+D2
+~
+~
+0 0 71987
+D3
+~
+~
+0 0 71992
+S
+#71994
+Great Cavern~
+Tall columns support the high ceilings of the cavern.  In the center of
+the cavern a large fire pit sits, radiating a massive amount of heat.  
+~
+0 0 0
+D0
+~
+~
+0 0 71995
+D1
+~
+~
+0 0 71998
+D2
+~
+~
+0 0 71993
+D3
+~
+~
+0 0 71991
+S
+#71995
+Great Cavern~
+Tall columns support the high ceilings of the cavern.  In the center of
+the cavern a large fire pit sits, radiating a massive amount of heat.  
+~
+0 0 0
+D0
+~
+~
+0 0 71988
+D1
+~
+~
+0 0 71997
+D2
+~
+~
+0 0 71994
+D3
+~
+~
+0 0 71990
+S
+#71996
+Great Cavern, Eastern Wall~
+A great pillar supports the the high ceilings of the cavern.  In the
+corner of the room, a pile of skulls and broken bones lies piled 12 ft high.
+~
+0 0 0
+D2
+~
+~
+0 0 71997
+D3
+~
+~
+0 0 71988
+S
+#71997
+Great Cavern, Eastern Wall~
+A great pillar supports the high ceilings of the cavern.  The walls are
+splattered with blood and unwanted items litter the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 71996
+D2
+~
+~
+0 0 71998
+D3
+~
+~
+0 0 71995
+S
+#71998
+Great Cavern, Eastern Wall~
+A great pillar supports the high ceilings of the cavern.  The walls are
+splattered with blood and unwanted items litter the ground.  A small tunnel
+runs off to the east away from the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71997
+D1
+~
+~
+0 0 74400
+D2
+~
+~
+0 0 71999
+D3
+~
+~
+0 0 71994
+S
+#71999
+Great Cavern, Eastern Wall~
+A great pillar supports the the high ceilings of the cavern.  In the
+corner of the room, a pile of skulls and broken bones lies piled 12 ft high.
+~
+0 0 0
+D0
+~
+~
+0 0 71998
+D3
+~
+~
+0 0 71993
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 71900 15 71901 1 *Load a scaled worm
+M 0 71900 15 71903 1 *Load a scaled worm
+M 0 71901 50 71904 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71900 15 71906 1 *Load a scaled worm
+M 0 71902 50 71907 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71908 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71900 15 71908 1 *Load a scaled worm
+M 0 71902 50 71909 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71909 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71900 15 71910 1 *Load a scaled worm
+M 0 71902 50 71911 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71900 15 71912 1 *Load a scaled worm
+M 0 71902 50 71914 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71900 15 71915 1 *Load a scaled worm
+M 0 71902 50 71916 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71900 15 71917 1 *Load a scaled worm
+M 0 71901 50 71920 2 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71921 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71922 2 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71923 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71924 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71925 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71926 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71927 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71928 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71929 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71930 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71931 3 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71900 15 71932 1 *Load a scaled worm
+M 0 71902 50 71933 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71934 4 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71935 3 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71936 2 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71937 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71902 50 71937 3 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71938 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71939 2 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71940 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71902 50 71940 3 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71941 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71902 50 71942 3 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71943 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71902 50 71943 3 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71901 50 71944 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71902 50 71945 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71900 15 71946 1 *Load a scaled worm
+M 0 71901 50 71947 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71900 15 71949 1 *Load a scaled worm
+M 0 71901 50 71950 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71903 50 71951 2 *Load a large goblin
+M 0 71903 50 71952 3 *Load a large goblin
+M 0 71903 50 71953 3 *Load a large goblin
+M 0 71903 50 71954 2 *Load a large goblin
+M 0 71901 50 71954 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71903 50 71955 3 *Load a large goblin
+M 0 71903 50 71956 1 *Load a large goblin
+M 0 71903 50 71957 3 *Load a large goblin
+M 0 71901 50 71957 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71903 50 71958 1 *Load a large goblin
+M 0 71901 50 71958 1 *Load a small goblin
+M 0 71903 50 71959 3 *Load a large goblin
+M 0 71900 15 71964 1 *Load a scaled worm
+M 0 71904 50 71966 3 *Load a hulking goblin
+M 0 71904 50 71967 1 *Load a hulking goblin
+M 0 71904 50 71968 3 *Load a hulking goblin
+M 0 71904 50 71969 2 *Load a hulking goblin
+M 0 71904 50 71970 3 *Load a hulking goblin
+M 0 71904 50 71971 1 *Load a hulking goblin
+M 0 71904 50 71972 3 *Load a hulking goblin
+M 0 71901 50 71972 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71904 50 71973 2 *Load a hulking goblin
+M 0 71904 50 71974 3 *Load a hulking goblin
+M 0 71901 50 71974 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71904 50 71976 2 *Load a hulking goblin
+M 0 71903 50 71976 2 *Load a large goblin
+M 0 71900 15 71976 1 *Load a scaled worm
+M 0 71903 50 71978 2 *Load a large goblin
+M 0 71904 50 71978 2 *Load a hulking goblin
+M 0 71901 50 71978 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+O 0 71900 0 71978 *A small hole loaded to Rocky Passageway
+M 0 71900 15 71979 1 *Load a scaled worm
+M 0 71903 50 71980 2 *Load a large goblin
+M 0 71901 50 71983 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71904 50 71984 2 *Load a hulking goblin
+M 0 71903 50 71985 2 *Load a large goblin
+M 0 71904 50 71986 1 *Load a hulking goblin
+M 0 71906 1 71987 1 *Load The {GGreat Goblin{x
+G 0 71903 0 *{ra fl{ra{ymi{rn{rg t{rr{yide{rn{rt{x is given to The {GGreat Goblin{x
+E 0 71907 0 5 *{ga {yh{ga{yr{gd {yleather {gv{ye{gs{yt{x is loaded on the body of The {GGreat Goblin{x
+M 0 71905 50 71988 3 *Load a cave troll
+M 0 71904 50 71988 1 *Load a hulking goblin
+M 0 71902 50 71988 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71905 50 71989 2 *Load a cave troll
+M 0 71901 50 71989 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71905 50 71990 3 *Load a cave troll
+M 0 71904 50 71990 1 *Load a hulking goblin
+M 0 71902 50 71990 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71905 50 71991 1 *Load a cave troll
+M 0 71901 50 71991 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71905 50 71992 3 *Load a cave troll
+M 0 71904 50 71992 1 *Load a hulking goblin
+M 0 71902 50 71992 1 *Load a lanky goblin
+M 0 71901 50 71992 1 *Load a small goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a small goblin
+M 0 71905 50 71993 2 *Load a cave troll
+M 0 71901 50 71993 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71905 50 71994 1 *Load a cave troll
+M 0 71905 50 71994 3 *Load a cave troll
+M 0 71904 50 71994 1 *Load a hulking goblin
+M 0 71902 50 71994 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71905 50 71995 1 *Load a cave troll
+M 0 71904 50 71995 1 *Load a hulking goblin
+M 0 71901 50 71995 1 *Load a small goblin
+M 0 71901 50 71995 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71905 50 71996 3 *Load a cave troll
+M 0 71904 50 71996 1 *Load a hulking goblin
+M 0 71901 50 71996 1 *Load a small goblin
+M 0 71901 50 71996 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71905 50 71997 2 *Load a cave troll
+M 0 71904 50 71997 1 *Load a hulking goblin
+M 0 71902 50 71997 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+M 0 71905 50 71998 3 *Load a cave troll
+M 0 71904 50 71998 1 *Load a hulking goblin
+M 0 71901 50 71998 1 *Load a small goblin
+E 0 71901 0 16 *A small stone axe is loaded wielded of a small goblin
+M 0 71901 50 71998 1 *Load a small goblin
+M 0 71905 50 71999 1 *Load a cave troll
+M 0 71904 50 71999 1 *Load a hulking goblin
+M 0 71902 50 71999 1 *Load a lanky goblin
+E 0 71902 0 16 *A sharp stone spear is loaded wielded of a lanky goblin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#71900
+if rand 25
+if rand 50
+mob oload 71904
+else
+mob oload 71908
+endif
+endif
+if rand 60
+if rand 50
+mob oload 71905
+else
+mob oload 71909
+endif
+endif
+if rand 75
+if rand 50
+mob oload 71906
+else
+mob oload 71910
+endif
+endif
+ 
+~
+#71901
+say Die trespasser!!! 
+kill $n
+mob kill $n
+~
+#0
+
+#$

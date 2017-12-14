@@ -1,0 +1,778 @@
+#AREADATA
+Name Darkshaft Cavern~
+Builders Ishamael~
+VNUMs 74525 74549
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael Darkshaft Cavern~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74525
+dragon shrine statue~
+a dragon shrine~
+{8A large statue sits here depicting a dragon in flight.{x
+~
+~
+dragon~
+ABR JTV 0 0 0
+5000 2000 1d1+20000000 1d1+20000000 750d10+2000 digestion
+-500 -500 -500 -500
+H ABCDEFGHIJKLMNOPQRSTXYZ BEH F
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+F vul I
+S 1
+V 100
+A -1
+M KILL 74525 100~
+#74526
+kobold shaman~
+a kobold shaman~
+A gnarled old kobold stands here leaning heavily on his staff.
+~
+~
+dwarf~
+ABa DFJ 0 1000 0
+200 50 1d1+25000 0d0+0 25d40+100 none
+-100 -100 -100 -100
+0 0 CDL 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#74527
+kobold rationer~
+a kobold rationer~
+A small kobold stands here handing out food rations.
+~
+~
+human~
+AB 0 0 0 0
+200 0 1d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V 0
+A 0
+#74528
+kobold alchemist~
+a kobold alchemist~
+A kobold alchemist wanders around handing out foul smelling potions.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#74529
+a kobold~
+a kobold~
+A small kobold runs through the cavern.
+~
+~
+goblin~
+AT DJc 0 0 0
+150 700 1d1+10000 40d9+100 28d45+350 claw
+-100 -100 -100 -100
+CDI AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 5
+A -1
+#74530
+a large kobold~
+a large kobold~
+A large kobold stands here keeping the peace.
+~
+~
+goblin~
+AT DJc 0 0 0
+150 700 1d1+15000 40d9+100 28d45+350 claw
+-100 -100 -100 -100
+CDI AB BELQ HKS
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 5
+A -1
+#74531
+kobold collector~
+a kobold collector~
+A kobold wanders about collecting various objects.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#74532
+a kobold scavenger~
+a kobold scavenger~
+A kobold scavenger picks through rocks and stones looking for gems.
+~
+~
+dwarf~
+AB J 0 0 0
+150 0 1d1+13091309 0d0+0 1d1+12309 none
+0 0 0 0
+0 0 L 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#74533
+trainer kobold~
+a kobold trainer~
+A kobold stands telling the history of his race.
+~
+~
+dwarf~
+ABJKTVb DFJ 0 1000 0
+71 0 1d1+1999 1d1+199 3d8+24 beating
+-20 -20 -20 -20
+ACDEIK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#0
+
+
+
+#OBJECTS
+#74525
+spring water hole~
+a spring~
+A small pool is here as water bubbles up from a deep underground spring.~
+unknown~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 P
+#74526
+a raw egg~
+a raw egg~
+A raw egg sits here~
+food~
+food 0 A
+25 12 0 0 0
+101 20 5000 P
+#74527
+a vial of green liquid~
+a vial of green liquid~
+A foul smelling vial sits here.~
+unknown~
+potion JLY AO
+115 'mass healing' 'mass healing' 'cure poison' 'mass healing'
+101 1 40000 P
+#74528
+tube red liquid~
+a tube of red liquid~
+A small vial of thick red liquid sits here.~
+unknown~
+potion AG A
+110 'detect invis' 'detect motion' 'infravision' 'farsight'
+101 0 20000 P
+#74529
+a glass of blue liquid~
+a glass of blue liquid~
+A glass of blue liquid sits here.~
+unknown~
+potion AG A
+105 'stone skin' 'steel flesh' 'armor' 'shield'
+101 0 45000 P
+#74530
+orange carton~
+a carton of orange liquid~
+A carton of orange liquid sits here.~
+unknown~
+potion AG A
+105 'frenzy' 'haste' 'giant strength' 'bless'
+101 0 45000 P
+#0
+
+
+
+#ROOMS
+#74525
+In a Dark Tunnel~
+The tunnel leads away from the hall of the dwarves running east-west. 
+Its low ceiling and cramped space make it necessary to travel through in
+single file.  
+~
+0 2053 0
+D1
+~
+~
+0 0 74526
+D3
+~
+~
+0 0 74398
+S
+#74526
+Approach a Great Cavern~
+The narrow tunnel continues away from the hall of the dwarves towards a
+large cavern to the east.  The confining tunnel forces you to travel through
+in single file fashion.  
+~
+0 2053 0
+D1
+~
+~
+0 0 74527
+D3
+~
+~
+0 0 74525
+S
+#74527
+In Darkshaft Cavern~
+Sound carries throughout the large cavern echoing off the rock walls
+around you.  Mounds of rock and stone lie throughout the cavern the result
+from the Kobolds tunnel excavation.  
+~
+0 0 0
+D0
+~
+~
+0 0 74528
+D1
+~
+~
+0 0 74532
+D2
+~
+~
+0 0 74538
+D3
+~
+~
+0 0 74526
+S
+#74528
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74529
+D1
+~
+~
+0 0 74531
+D2
+~
+~
+0 0 74527
+S
+#74529
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D1
+~
+~
+0 0 74530
+D2
+~
+~
+0 0 74528
+S
+#74530
+In Darkshaft Cavern~
+Sound carries throughout the large cavern echoing off the rock walls
+around you.  Mounds of rock and stone lie throughout the cavern the result
+from the Kobolds tunnel excavation.  
+~
+0 0 0
+D0
+~
+~
+0 0 74536
+D1
+~
+~
+0 0 74533
+D2
+~
+~
+0 0 74531
+D3
+~
+~
+0 0 74529
+S
+#74531
+In Darkshaft Cavern~
+Mounds of dirt and stone lay heaped throughout the cavern, a product of
+the constant digging by the Kobolds.  Several scurry over the piles and
+begin to try to dig further below the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74530
+D1
+~
+~
+0 0 74534
+D2
+~
+~
+0 0 74532
+D3
+~
+~
+0 0 74528
+S
+#74532
+In Darkshaft Cavern~
+A large shrine with a statue of a large dragon sits in the southeastern
+corner of the area.  The height of the shrine nearly reaching the top of the
+cavern as several Kobolds stop briefly to worship the statue.  
+~
+0 0 0
+D0
+~
+~
+0 0 74531
+D1
+~
+~
+0 0 74535
+D2
+~
+~
+0 0 74539
+D3
+~
+~
+0 0 74527
+S
+#74533
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D1
+~
+~
+0 0 74544
+D2
+~
+~
+0 0 74534
+D3
+~
+~
+0 0 74530
+S
+#74534
+In Darkshaft Cavern~
+Mounds of dirt and stone lay heaped throughout the cavern, a product of
+the constant digging by the Kobolds.  Several scurry over the piles and
+begin to try to dig further below the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 74533
+D1
+~
+~
+0 0 74545
+D2
+~
+~
+0 0 74535
+D3
+~
+~
+0 0 74531
+S
+#74535
+In Darkshaft Cavern~
+A large shrine with a statue of a large dragon sits in the southwestern
+corner of the area.  The height of the shrine nearly reaching the top of the
+cavern as several Kobolds stop briefly to worship the statue.  
+~
+0 0 0
+D0
+~
+~
+0 0 74534
+D1
+~
+~
+0 0 74546
+D2
+~
+~
+0 0 74540
+D3
+~
+~
+0 0 74532
+S
+#74536
+Approach a Great Cavern~
+The air smells fresher as you head through the tunnel away from the
+goblins as you notice a large cavern opening to the south.  The confining
+tunnel forces you to travel through in single file fashion.  
+~
+0 2053 0
+D0
+~
+~
+0 0 74537
+D2
+~
+~
+0 0 74530
+S
+#74537
+In the Dank Tunnel~
+Water trickles through the walls creating a damp feeling in the tunnel. 
+The small nature of the tunnel forces you to proceed in a single file
+manner.  
+~
+0 2053 0
+D0
+~
+~
+0 0 74439
+D2
+~
+~
+0 0 74536
+S
+#74538
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74527
+D1
+~
+~
+0 0 74539
+D2
+~
+~
+0 0 74541
+S
+#74539
+In Darkshaft Cavern~
+A large shrine with a statue of a large dragon sits in the northeastern
+corner of the area.  The height of the shrine nearly reaching the top of the
+cavern as several Kobolds stop briefly to worship the statue.  
+~
+0 0 0
+D0
+~
+~
+0 0 74532
+D1
+~
+~
+0 0 74540
+D2
+~
+~
+0 0 74542
+D3
+~
+~
+0 0 74538
+S
+#74540
+In Darkshaft Cavern~
+A large shrine with a statue of a large dragon sits in the northwestern
+corner of the area.  The height of the shrine nearly reaching the top of the
+cavern as several Kobolds stop briefly to worship the statue.  
+~
+0 0 0
+D0
+~
+~
+0 0 74535
+D1
+~
+~
+0 0 74547
+D2
+~
+~
+0 0 74543
+D3
+~
+~
+0 0 74539
+S
+#74541
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74538
+D1
+~
+~
+0 0 74542
+S
+#74542
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74539
+D1
+~
+~
+0 0 74543
+D3
+~
+~
+0 0 74541
+S
+#74543
+In Darkshaft Cavern~
+Sound carries throughout the large cavern echoing off the rock walls
+around you.  Mounds of rock and stone lie throughout the cavern the result
+from the Kobolds tunnel excavation.  
+~
+0 0 0
+D0
+~
+~
+0 0 74540
+D1
+~
+~
+0 0 74548
+D2
+~
+~
+0 0 74549
+D3
+~
+~
+0 0 74542
+S
+#74544
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D2
+~
+~
+0 0 74545
+D3
+~
+~
+0 0 74533
+S
+#74545
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74544
+D2
+~
+~
+0 0 74546
+D3
+~
+~
+0 0 74534
+S
+#74546
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74545
+D2
+~
+~
+0 0 74547
+D3
+~
+~
+0 0 74535
+S
+#74547
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74546
+D2
+~
+~
+0 0 74548
+D3
+~
+~
+0 0 74540
+S
+#74548
+In Darkshaft Cavern~
+Sounds echo around the large cavern as kobolds scurry around the large
+space.  Several glance up at you as they pause from digging into the rock
+walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 74547
+D3
+~
+~
+0 0 74543
+S
+#74549
+Passageway into the Depths ~
+The dark passageway leads away from the great cavern heading down into
+the blackness of the unknown.  There is little indication as to where this
+passage may lead.  
+~
+0 5 0
+D0
+~
+~
+0 0 74543
+D2
+~
+~
+0 0 74600
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74528 1 74527 1 *Load a kobold alchemist
+G 0 74528 0 *A tube of red liquid is given to a kobold alchemist
+G 0 74527 0 *A vial of green liquid is given to a kobold alchemist
+G 0 74530 0 *A carton of orange liquid is given to a kobold alchemist
+G 0 74529 0 *A glass of blue liquid is given to a kobold alchemist
+M 0 74530 10 74528 1 *Load a large kobold
+M 0 74530 10 74529 1 *Load a large kobold
+M 0 74526 1 74530 1 *Load a kobold shaman
+M 0 74529 10 74531 2 *Load a kobold
+M 0 74525 4 74532 1 *Load a dragon shrine
+M 0 74533 1 74533 1 *Load a kobold trainer
+M 0 74529 10 74533 2 *Load a kobold
+M 0 74530 10 74534 2 *Load a large kobold
+M 0 74525 4 74535 1 *Load a dragon shrine
+M 0 74529 10 74538 2 *Load a kobold
+M 0 74525 4 74539 1 *Load a dragon shrine
+M 0 74525 4 74540 1 *Load a dragon shrine
+M 0 74531 1 74541 1 *Load a kobold collector
+M 0 74530 10 74541 2 *Load a large kobold
+M 0 74532 1 74542 1 *Load a kobold scavenger
+M 0 74529 10 74542 2 *Load a kobold
+M 0 74530 10 74543 1 *Load a large kobold
+M 0 74529 10 74545 2 *Load a kobold
+M 0 74529 10 74547 2 *Load a kobold
+O 0 74525 0 74548 *A spring loaded to In Darkshaft Cavern
+M 0 74527 1 74548 1 *Load a kobold rationer
+G 0 74526 0 *A raw egg is given to a kobold rationer
+S
+
+
+
+#SHOPS
+74527 19 0 0 0 0 100 100 0 23
+74528 10 0 0 0 0 100 100 0 23
+74531 5 9 0 0 0 100 105 0 23
+74532 32 0 0 0 0 120 110 0 23
+0
+
+
+
+#MOBPROGS
+#74525
+mob echo {RThe Kobolds notice you attacking their shrine!!!!{x
+mob echo {RSeveral Kobolds rush over clubbing you over the head and drag you off to a new location!!{x
+mob force $n sleep
+mob trans $n 74510
+~
+#0
+
+#$

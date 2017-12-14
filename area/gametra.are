@@ -1,0 +1,1008 @@
+#AREADATA
+Name Game Trail on K'rat~
+Builders Ishamael Unlinked~
+VNUMs 73336 73399
+Continent 4
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#73336
+Begining of the Trail~
+The path narrows as it heads off into the forest, dwindling down to a
+narrow trail heading off north into the forest.  Trampled vegetation offers
+signs that there may be some large game animals lurking nearby.  
+~
+0 0 0
+D0
+~
+~
+0 0 73337
+D1
+~
+~
+0 0 73087
+S
+#73337
+On the Game Trail~
+Hastily pushed aside vegetation and a freshly trampled path mark the
+trail clearly as signs of large game animals are evident throughout the
+area.  The trail continues through the forested area of K'rat heading off to
+the north deeper into the brush.  
+~
+0 0 3
+D0
+~
+~
+0 0 73338
+D2
+~
+~
+0 0 73336
+S
+#73338
+Turn in the Game Trail~
+The trail twists through the forest avoiding large snarls of underbrush
+as it splits to the east and south.  In the soft soil of the forest floor,
+large freshly made footprints can been seen tracking off the trail.  
+~
+0 0 3
+D2
+~
+~
+0 0 73337
+D3
+~
+~
+0 0 73339
+S
+#73339
+Dense Underbrush~
+The trail cuts through thick underbrush as it heads away from the small
+village.  Small thorns pull at your clothing as you walk through the
+foliage.  
+~
+0 0 3
+D1
+~
+~
+0 0 73338
+D3
+~
+~
+0 0 73340
+S
+#73340
+Through the Underbrush~
+Large ferns cover over the trail as your track through the underbrush. 
+The trail is faint as bushes and shrubs grow wildly across the path.  
+~
+0 0 3
+D1
+~
+~
+0 0 73339
+D3
+~
+~
+0 0 73341
+S
+#73341
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73342
+D1
+~
+~
+0 0 73340
+S
+#73342
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73343
+D2
+~
+~
+0 0 73341
+S
+#73343
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73344
+D2
+~
+~
+0 0 73342
+S
+#73344
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73345
+D3
+~
+~
+0 0 73343
+S
+#73345
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73346
+D3
+~
+~
+0 0 73344
+S
+#73346
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73347
+D3
+~
+~
+0 0 73345
+S
+#73347
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73348
+D3
+~
+~
+0 0 73346
+S
+#73348
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73349
+D3
+~
+~
+0 0 73347
+S
+#73349
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73354
+D1
+~
+~
+0 0 73350
+D2
+~
+~
+0 0 73348
+S
+#73350
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73353
+D1
+~
+~
+0 0 73351
+D3
+~
+~
+0 0 73349
+S
+#73351
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73352
+D3
+~
+~
+0 0 73350
+S
+#73352
+~
+~
+0 0 3
+D2
+~
+~
+0 0 73351
+D3
+~
+~
+0 0 73353
+S
+#73353
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73352
+D2
+~
+~
+0 0 73350
+D3
+~
+~
+0 0 73354
+S
+#73354
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73353
+D2
+~
+~
+0 0 73349
+D3
+~
+~
+0 0 73355
+S
+#73355
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73354
+D3
+~
+~
+0 0 73356
+S
+#73356
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73357
+D1
+~
+~
+0 0 73355
+S
+#73357
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73362
+D2
+~
+~
+0 0 73356
+D3
+~
+~
+0 0 73358
+S
+#73358
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73361
+D1
+~
+~
+0 0 73357
+D3
+~
+~
+0 0 73359
+S
+#73359
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73360
+D1
+~
+~
+0 0 73358
+D3
+~
+~
+0 0 73399
+S
+#73360
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73361
+D2
+~
+~
+0 0 73359
+S
+#73361
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73362
+D2
+~
+~
+0 0 73358
+D3
+~
+~
+0 0 73360
+S
+#73362
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73363
+D2
+~
+~
+0 0 73357
+D3
+~
+~
+0 0 73361
+S
+#73363
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73364
+D3
+~
+~
+0 0 73362
+S
+#73364
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73365
+D3
+~
+~
+0 0 73363
+S
+#73365
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73366
+D3
+~
+~
+0 0 73364
+S
+#73366
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73371
+D1
+~
+~
+0 0 73367
+D2
+~
+~
+0 0 73365
+S
+#73367
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73370
+D1
+~
+~
+0 0 73368
+D3
+~
+~
+0 0 73366
+S
+#73368
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73369
+D3
+~
+~
+0 0 73367
+S
+#73369
+~
+~
+0 0 3
+D2
+~
+~
+0 0 73368
+D3
+~
+~
+0 0 73370
+S
+#73370
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73369
+D2
+~
+~
+0 0 73367
+D3
+~
+~
+0 0 73371
+S
+#73371
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73370
+D2
+~
+~
+0 0 73366
+D3
+~
+~
+0 0 73372
+S
+#73372
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73371
+D3
+~
+~
+0 0 73373
+S
+#73373
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73376
+D1
+~
+~
+0 0 73372
+D3
+~
+~
+0 0 73374
+S
+#73374
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73375
+D1
+~
+~
+0 0 73373
+S
+#73375
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73378
+D1
+~
+~
+0 0 73376
+D2
+~
+~
+0 0 73374
+S
+#73376
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73377
+D2
+~
+~
+0 0 73373
+D3
+~
+~
+0 0 73375
+S
+#73377
+~
+~
+0 0 0
+D2
+~
+~
+0 0 73376
+D3
+~
+~
+0 0 73378
+S
+#73378
+~
+~
+0 0 0
+D1
+~
+~
+0 0 73377
+D2
+~
+~
+0 0 73375
+D3
+~
+~
+0 0 73379
+S
+#73379
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73378
+D3
+~
+~
+0 0 73380
+S
+#73380
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73379
+D3
+~
+~
+0 0 73381
+S
+#73381
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73380
+D2
+~
+~
+0 0 73382
+S
+#73382
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73381
+D3
+~
+~
+0 0 73383
+S
+#73383
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73382
+D2
+~
+~
+0 0 73384
+S
+#73384
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73383
+D2
+~
+~
+0 0 73385
+S
+#73385
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73384
+D3
+~
+~
+0 0 73386
+S
+#73386
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73385
+D3
+~
+~
+0 0 73387
+S
+#73387
+End of the Underbrush~
+The dark foliage ends as the the ground is almost entirely rock.  To the
+west a clear view of the ocean is visible as the forest grows heavily back
+to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 73386
+D3
+~
+~
+0 0 73388
+S
+#73388
+Approaching the Edge~
+The ground is rocky and clear of the underbrush that was characteristic
+of the area back to the east.  The view to the west is the edge of a high
+cliff as the sea dominates to the horizon.  
+~
+0 0 3
+D1
+~
+~
+0 0 73387
+D2
+~
+~
+0 0 73389
+S
+#73389
+Approaching the Edge~
+The ground is rocky and clear of the underbrush that was characteristic
+of the area back to the east.  The view to the west is the edge of a high
+cliff as the sea dominates to the horizon.  
+~
+0 0 3
+D0
+~
+~
+0 0 73388
+D2
+~
+~
+0 0 73392
+D3
+~
+~
+0 0 73390
+S
+#73390
+Edge of the Cliff~
+The edge of the cliff offers a spectacular view of the beach below far
+below.  Far out on the horizon to the west you notice an island topped by a
+large fortress as the forest grows rampantly back to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 73389
+D2
+~
+~
+0 0 73391
+S
+#73391
+Edge of the Cliff~
+The edge of the cliff offers a spectacular view of the beach below far
+below.  To the southwest a large manor house stands of the top of a hill as
+the forest grows rampant back to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 73390
+D1
+~
+~
+0 0 73392
+S
+#73392
+Approaching the Edge~
+The ground is rocky and clear of the underbrush that was characteristic
+of the area back to the east.  The view to the west is the edge of a high
+cliff as the sea dominates to the horizon.  
+~
+0 0 3
+D0
+~
+~
+0 0 73389
+D1
+~
+~
+0 0 73393
+D3
+~
+~
+0 0 73391
+S
+#73393
+End of the Underbrush~
+The dark foliage ends as the the ground is almost entirely rock.  To the
+west a clear view of the ocean is visible as the forest grows heavily back
+to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 73394
+D2
+~
+~
+0 0 73395
+D3
+~
+~
+0 0 73392
+S
+#73394
+Edge of the Underbrush~
+There is very little coverage in the area as only a few sparse trees fill
+the area.  Several small vines snag through the area causing you to pause
+and watch your step.  
+~
+0 0 3
+D2
+~
+~
+0 0 73396
+D3
+~
+~
+0 0 73393
+S
+#73395
+Edge of the Underbrush~
+The foliage is sparse as you notice the ground has become rocky.  To the
+east the shrubbery thickens appearing as a sea of dark green.  
+~
+0 0 3
+D0
+~
+~
+0 0 73393
+D1
+~
+~
+0 0 73396
+S
+#73396
+Edge of the Underbrush~
+There is very little coverage in the area as only a few sparse trees fill
+the area.  Several small vines snag through the area causing you to pause
+and watch your step.  
+~
+0 0 3
+D0
+~
+~
+0 0 73394
+D1
+~
+~
+0 0 73397
+D3
+~
+~
+0 0 73395
+S
+#73397
+On the Trail~
+The trail continues through the underbrush winding through dense
+shrubbery.  The dark green foliage peters out to the west and becomes more
+dense back to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 73398
+D3
+~
+~
+0 0 73396
+S
+#73398
+~
+~
+0 0 3
+D0
+~
+~
+0 0 73399
+D3
+~
+~
+0 0 73397
+S
+#73399
+~
+~
+0 0 3
+D1
+~
+~
+0 0 73359
+D2
+~
+~
+0 0 73398
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

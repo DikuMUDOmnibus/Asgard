@@ -1,0 +1,137 @@
+#AREADATA
+Name Wayyne's World~
+Builders Unlinked~
+VNUMs 46500 47500
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#46500
+Santa's Hat{x~
+{rS{wa{Wn{wt{ra{w's {rH{Wa{rt{x~
+{xA beautiful red velvet hat with a white fluffy ball on the end is here.{x~
+cloth~
+armor S AE
+BCF BCF BCF DF 0
+101 2 10000 P
+A
+2 1
+A
+12 100
+A
+13 50
+A
+19 15
+A
+18 15
+A
+20 -2
+#46501
+santas santa's fat sac~
+{rS{wa{Wn{wt{ra{w'{rs {Rfat {ws{rac{wk{x~
+{xA large red velvet sack is here, forgotten about.{x~
+Nylon~
+container AGRY AX
+450 A 0 250 15
+101 3 35000 P
+F
+A 0 -1 F
+F
+A 0 -1 L
+F
+A 0 -1 C
+F
+A 0 -1 G
+A
+12 50
+A
+13 50
+A
+19 14
+A
+18 13
+#0
+
+
+
+#ROOMS
+#46500
+Wayyne's Room~
+~
+0 4 0
+S
+#46501
+Santa's Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#46500
+mob oload 46500
+~
+#46501
+say You are being very naughty $n! No presents for you!
+mob damage $n 10000 lethal
+~
+#46502
+say I do not have time for this $n! There are little boys, and little girls
+say all over the world that NEED ME right now! I must leave child. But first
+say take this you WEAKLING!
+mob cast 'mana blast' $n
+mob cast 'mana blast' $n
+mob cast 'mana blast' $n
+mob zecho Snowflakes fall onto your head as Santa's sleigh flies over.
+mob goto 46501
+mob zecho Snowflakes fall onto your head as Santa's sleigh flies over.
+mob zecho You see santa land somewhere around here.
+~
+#46503
+mob yell Ho! Ho! Ho! Merry Christmas Everyone!
+mob zecho Snowflakes fall onto your head as Santa's sleigh flies over.
+say Oh no! I'm out of presents, time to re-up!
+mob goto 46501
+say Ah, home sweet home.
+strech
+yawn
+say No time for rest though! Children need me!
+mob goto 3007
+mob zecho Snowflakes fall onto your head as Santa's sleigh flies over.
+mob yell Ho! Ho! Ho! Merry Christmas Everybody!
+~
+#46504
+mob oload 14604
+~
+#46505
+mob oload 46501
+~
+#0
+
+#$

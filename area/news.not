@@ -1,0 +1,1047 @@
+Sender  Ishamael~
+Date    Fri Mar 26 15:52:58 2010~
+Stamp   1269640378
+To      all~
+Subject Random Objects{x~
+Text
+As part of an ongoing evaluation of equipment and zones, a few key
+changes have been put in place around random objects.  {x Overall level of
+mid-ranged random prefix and suffixes have been lowered slightly.  This will
+allow the possibility for lower level mobs to pop these prefix/suffixes and
+also increase the chance of popping pre-fix and suffix randoms.  {x The high
+end random prefix/suffixes like Kings and Tas have been slighly upgraded to
+differentiate more from the tier directly below.  For example, Avatar and
+Kings previously had a gap of 1 stat point on their max items with Kings
+being exponenti{x Lastly, 3 new random slots have been added, 1 light, 1
+clan patch, and 1 ankle item.  {x {x {x Ish{x 
+~
+Sender  Wayyne~
+Date    Thu Dec 16 09:59:02 2010~
+Stamp   1292518742
+To      immortal~
+Subject PK Looting Values{x~
+Text
+Okay, I added the values for looting, since the owner
+value is already in use for corpse looting in general
+i went with the following...
+ 
+obj->loot_timer 
+obj->looted_by
+obj->looted_from
+ 
+The values will only save if the loot_timer is greater than NULL
+and I put a check in update.c to clear the values if there is no
+active loot_timer ( loot_timer == 0 ) and if there is a loot_timer
+active it will decrement it.
+~
+Sender  Nico~
+Date    Wed Dec 29 16:08:19 2010~
+Stamp   1293664099
+To      all~
+Subject NEW CLAN SYSTEM{x~
+Text
+Hi,{x
+{x
+The new clan system is now in!{x
+The new/changed commands are:{x
+bounty, cedit, clan, clist, loner, notnewbie(previously newbie),{x
+petition, pkhist, pkill, rank, roster.{x
+{x
+Important: there WILL be bugs and a lot of things{x
+will need tweaking, so please note immortal{x
+if you run into problems or see something{x
+that might need a tweak.{x
+{x
+On a different note, the lookup command now has{x
+an option to lookup directions to your closest corpse.{x
+the syntax is "lookup corpse".{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Wed Dec 29 18:27:53 2010~
+Stamp   1293672473
+To      all~
+Subject CLAN SYSTEM part 2{x~
+Text
+One important feature of the clan system is the clan-rank system.{x
+It has been put in place so that people have to pull their weight{x
+within a clan to get access to clan equipment and skills.{x
+Rank 0 only offers access to clan facilities, not equipment or skills.{x
+Rank 1 allows access to one piece of equipment and the first clan skill.{x
+Rank 2 allows 2 pieces of equipment, 3 = 3 pieces and access to the second skill.{x
+Rank 4 allows access to 4 pieces of equipment and rank 5 allows the full set of 5 pieces.{x
+Pills, potions and so on can still be used by rank 0 members.{x
+~
+Sender  Nico~
+Date    Wed Dec 29 18:30:08 2010~
+Stamp   1293672608
+To      all~
+Subject CLAN SYSTEM part 3{x~
+Text
+Forgot to add - depositing platinum and aquest points within cedit increases your clan rank.{x
+~
+Sender  Nico~
+Date    Wed Dec 29 18:45:14 2010~
+Stamp   1293673514
+To      all~
+Subject CLAN SYSTEM part 4{x~
+Text
+Oh, the command to un-newbify yourself is "notnewbie", if you missed the first note.{x
+~
+Sender  Nico~
+Date    Wed Dec 29 18:48:55 2010~
+Stamp   1293673735
+To      all~
+Subject CLAN SYSTEM part 5{x~
+Text
+Quick start guide:{x
+1. Type: cedit buy{x
+2. Type: cedit confirm <your desired clan name>{x
+3. Type: done{x
+4. Move to where you would like your clan hall to be.{x
+5. Type: cedit{x
+6. Type: room buy recall{x
+7. Type: confirm <direction of where you want the clanhall from the room you're in>{x
+8. Type: done{x
+9. You're ready to go with a clan & clan hall.{x
+~
+Sender  Nico~
+Date    Sat Jan  1 16:22:24 2011~
+Stamp   1293924144
+To      all~
+Subject Code stuff{x~
+Text
+* A few bug fixes to prevent crashes.{x
+* {RArena kills are no longer counted if you're PK.{x{x
+~
+Sender  Nico~
+Date    Sun Jan  2 05:44:59 2011~
+Stamp   1293972299
+To      all~
+Subject Changes/fixes{x~
+Text
+Hi,{x
+{x
+Changes are as follows:{x
+* Fixed clanskills requiring extra arguments suchs as the power of modi.{x
+* Clanskill buying/selling now logged in clan log.{x
+* (hopefully) Fixed bug with morph_form that crashed the mud in rare cases.
+* Cripple can no longer be bought as a clanskill as it is an assassin skill.{x
+* You shouldn't be able to use clanskills using the old commands now.{x
+* Immortals at 110 can now withdraw clan funds (for admin purposes only).{x
+ 
+Nico
+~
+Sender  Nico~
+Date    Sun Jan  2 09:33:34 2011~
+Stamp   1293986014
+To      all~
+Subject Conceal{x~
+Text
+Hi,{x
+Conceal from Skyntil should now only be active if the object is being worn.{x
+I.e. no more wear/remove with the effect still sticking.{x
+Also, the clanskills wform and conceal nuke the skyntil effects on use.{x
+Nico{x
+~
+Sender  Nico~
+Date    Sun Jan  2 09:38:05 2011~
+Stamp   1293986285
+To      all~
+Subject Hara Kiri{x~
+Text
+Oh, hara kiri's duration has been extended for hara kiri full.{x
+~
+Sender  Nico~
+Date    Sun Jan  2 11:47:01 2011~
+Stamp   1293994021
+To      all~
+Subject Auto backups{x~
+Text
+I've changed the backup interval to 12 hours instead of 24.{x
+~
+Sender  Nico~
+Date    Sun Jan  2 14:24:36 2011~
+Stamp   1294003476
+To      all~
+Subject Travel buy{x~
+Text
+You can't travel buy <location> if your PK timer is still active.{x
+Also put an extra check into the code to prevent a potential crash.{x
+~
+Sender  Nico~
+Date    Wed Jan  5 07:32:27 2011~
+Stamp   1294237947
+To      all~
+Subject Charmies{x~
+Text
+Hi,{x
+{x
+A PC or NPC kill by a charmed mob is now properly attributed to the master.{x
+This means autoloot/autosac/etc should work properly now, and charmie pkills are counted.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Wed Jan  5 15:11:36 2011~
+Stamp   1294265496
+To      all~
+Subject kill{x~
+Text
+The kill command now has one round of lag per use.{x
+~
+Sender  Nico~
+Date    Wed Jan  5 16:45:11 2011~
+Stamp   1294271111
+To      all~
+Subject Summon{x~
+Text
+Hi,{x
+{x
+I've tweaked the summon code to check for lots more stuff, including the target's master.{x
+You should no longer be able to summon charmed mobs whose master you can't pkill.
+As a knock on effect, the various gate spells have been affected too.{x
+Please note any bugs to me/immortal.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Thu Jan  6 19:20:32 2011~
+Stamp   1294366832
+To      all~
+Subject Quest System{x~
+Text
+Hi,{x
+{x
+I've totally recoded the quest system, so things might look a bit different.{x
+
+Overall its more or less the same, with a few differences.{x
+* "quest time" has been removed and replaced with just "quest info"{x
+* To buy vinir/aesir/other items you need to type quest buy vinir|aesir|qitems <item>{x
+* Quests should save properly across reboots{x
+* Item restrings should restring keywords as well{x
+* A few things won't work yet, (but not anything that wasn't there before), such as the locker system, which is coming soon{x
+* Possibly lots of bugs have been introduced, but hopefully the mobs/rooms you get will be a bit more varied now.{x
+* Maybe other things, can't think of stuff atm!{x
+ 
+Nico
+ 
+As usual, note me with bugs.
+~
+Sender  Nico~
+Date    Thu Jan  6 19:53:18 2011~
+Stamp   1294368798
+To      all~
+Subject Quest system pt2{x~
+Text
+Oh, forgot to add, you now get aquest points, platinum and experience every quest you do.{x
+~
+Sender  Nico~
+Date    Fri Jan  7 05:17:47 2011~
+Stamp   1294402667
+To      all~
+Subject Quest/Locker system{x~
+Text
+Hi,{x
+{x
+Shifted "quest buy qitems iqpill" to "quest buy pill iquest|aquest".{x
+Implemented the locker system - code was a bit hacky in a way, but it should work.{x
+To buy a locker/upgrade its space, use "quest buy locker".{x
+To put stuff in a locker, use "quest put <item name>|all"{x
+To get stuff from a locker, use "quest get <item name>|all"{x
+To see whats in your locker, use "quest browse locker" or "quest inventory"{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Fri Jan  7 05:39:15 2011~
+Stamp   1294403955
+To      all~
+Subject Lockers pt 2{x~
+Text
+Items in *lockers* should save over rerolls now.{x
+~
+Sender  Nico~
+Date    Fri Jan  7 09:46:35 2011~
+Stamp   1294418795
+To      all~
+Subject Changes{x~
+Text
+Hi,{x
+{x
+I've switched around some movement checks in the code.{x
+As a result, you can no longer enter unlinked areas.{x
+There may be bugs introduced by this change, however, so please note me if you find any.{x
+{x
+This has also come with updates to the lookup command.{x
+You can now lookup practice|train|gain to see paths to where you can practice, train or gain skills at.{x
+Again, note with bugs please :P.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Fri Jan  7 09:50:54 2011~
+Stamp   1294419054
+To      all~
+Subject Changes pt2{x~
+Text
+Oh, forgot to add, I've stuck a new check into the quest request code.{x
+From now on, there must be a clear path from the quest master to the quest target{x
+This checks for unlinked areas in the path and so on, so you don't get a quest you can't complete.{x
+{x
+Lookup now only displays a path if you're able to travel it in your current state.{x
+This means if the only path is blocked by water, and you don't have a boat,{x
+the lookup function won't return you a path.{x
+~
+Sender  Nico~
+Date    Fri Jan 14 17:47:09 2011~
+Stamp   1295052429
+To      all~
+Subject Quest points{x~
+Text
+Hi,{x
+{x
+There is no longer a distinction between Iquest and Aquest.{x
+They have been merged into just "questpoints" or "qps".{x
+We've carried over the Aquest valuation, and any iquests you have have been converted into aquest.{x
+If you notice any references to "Aquest" or "Iquest", please note immortal.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Mon Jan 17 06:28:42 2011~
+Stamp   1295270922
+To      all~
+Subject Code changes{x~
+Text
+Hi,
+ 
+Done some changes as follows:
+* Quest point reward increased.
+* Solar flare skill removed.
+* Concealed people should no longer show up on where.
+* Clan skill extra attacks removed. They weren't meant to be part of the new skill spec.
+* Logging systems overhauled. Shouldn't get huge logfiles anymore.
+ 
+Nico
+~
+Sender  Ishamael~
+Date    Mon Jan 17 19:42:04 2011~
+Stamp   1295318524
+To      all~
+Subject Dwarven Mines{x~
+Text
+Just finished a new zone, legend level neutral aligned mobs.  Links within the underground passage and forest of illusions, if you cant find it ill give more hints tomorrow.{x
+A few interesting features....there is a boss mob, the Balrog.  He loads 1 of 3 different clan patches along with mithril links.{x
+Mithril links can be used in the dwarven mining encampment in forest of illusions to create items.{x
+2 links purchase an ankle item, 3 purchase a bracer, 5 purchase leg items.  note me with any issues.{x
+{x
+{x
+-ish{x
+~
+Sender  Nico~
+Date    Tue Jan 18 16:53:52 2011~
+Stamp   1295394832
+To      all~
+Subject clan limits{x~
+Text
+Clan limit for PK clans is now 4.{x
+~
+Sender  Nico~
+Date    Wed Jan 19 14:22:02 2011~
+Stamp   1295472122
+To      all~
+Subject Ambush{x~
+Text
+You now need to be somewhat concealed to ambush someone now.{x
+~
+Sender  Nico~
+Date    Sat Feb  5 19:15:33 2011~
+Stamp   1296958533
+To      all~
+Subject Upcoming changes/additions{x~
+Text
+Hi,{x
+{x
+Not much has changed recently, however there are things in the works.{x
+Most of the changes are under the hood, but here is a summary:{x
+1) Experience gains/level advance code will be consolidated into one place, with not much visible difference.
+2) Double EXP will be replaced by a variable experience modifier (1-10x), with variable level ranges and a timer.
+3) The experience modifier will save over copyovers/reboots.
+4) References to Distorted Illusions (old name) will be replaced with Asgardian Nightmare.
+5) Quests for level 101s will range from level 80-150 mobs instead of 80-120.
+6) Clan skill costs will be reembursed, and clans can buy any one minor and any one major skill.
+7) A new random equipment system will be put in, with multiple tiers of equipment to avoid the good-prefixes-but-crappy-damdice/ac/etc. situation.
+{x   The old randoms will stay the same, however they will no longer be popped. The new randoms will also be colour coded.
+ 
+Nico
+~
+Sender  Nico~
+Date    Sun Feb  6 12:58:39 2011~
+Stamp   1297022319
+To      all~
+Subject changes{x~
+Text
+Hi{x
+{x
+The changes listed previously have now been put in.{x
+Clan skills have been reset - please rebuy them.{x
+There might be some bugs, knowing how retarded I am, so please note me if you find any.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Sun Feb  6 13:00:15 2011~
+Stamp   1297022415
+To      all~
+Subject Changes pt2{x~
+Text
+Hi,{x
+{x
+Also forgot to mention, Ishamael did the main bulk of the randoms stuff - doing all the equipment and{x
+prefixes/suffixes from scratch.{x
+{x
+GO GO BUILDERS!{x
+~
+Sender  Ishamael~
+Date    Sun Feb  6 13:01:18 2011~
+Stamp   1297022478
+To      all~
+Subject Re Nico{x~
+Text
+he just told you that so you can blame me if randoms suck{x
+~
+Sender  Nico~
+Date    Sun Feb  6 13:24:09 2011~
+Stamp   1297023849
+To      all~
+Subject New random scheme{x~
+Text
+Hi,{x
+{x
+You may have noticed the randoms are a bit more "colourful".{x
+These colours correspond to the quality of the item, a list of these follows:{x
+{GFlawless{x - 30% increase in positive effects.{x
+{MExceptional{x - 20% increase in positive effects.{x
+{CImproved{x - 10% increase in positive effects.{x
+Normal - no increase/decrease.{x
+{DScratched{x - 10% decrease in positive effects.{x
+{yDented{x - 20% decrease in positive effects.{x
+{rBroken{x - 30% decrease in positive effects.{x
+{x
+Please note: effects do not include the base stats such as damage dice.{x
+Also, negative effects are decreased/increased respectively for good/broken items.{x
+The quality also defines how many prefixes/suffixes you may have on an item.
+{x
+There are also 21 tiers of base equipment, from bone, all the way up to shadowsteel.{x
+This is reflected in the base stats of the items.{x
+{x
+Nico{x
+~
+Sender  Ishamael~
+Date    Tue Feb  8 18:04:40 2011~
+Stamp   1297213480
+To      all~
+Subject Uniques{x~
+Text
+Taghz is now wandering the lands exchanging your unwanted uniques for
+questpoints.  Simply give him the unique and he will reward you.  {x 
+Let me know if there are any issues.{x
+{x
+{x
+-ish{x
+~
+Sender  Nico~
+Date    Thu Feb 10 04:08:31 2011~
+Stamp   1297336111
+To      all~
+Subject EXP{x~
+Text
+Hi,{x
+{x
+Heroes should not lose any more experience when they die.{x
+{x
+Nico{x
+~
+Sender  Ishamael~
+Date    Sun Feb 13 16:00:02 2011~
+Stamp   1297638002
+To      all~
+Subject Prefixes{x~
+Text
+50 new prefixes have been added{x
+note me with any glaring issues in naming{x
+{x
+{x
+ish{x
+~
+Sender  Ishamael~
+Date    Sun Mar 13 13:04:04 2011~
+Stamp   1300046644
+To      all~
+Subject Lights{x~
+Text
+Lights are now in the random system....{x
+~
+Sender  Ishamael~
+Date    Sun Apr  3 17:24:56 2011~
+Stamp   1301873096
+To      all~
+Subject Uniques{x~
+Text
+Uniques have been upped....let me know if anything looks way off.{x
+~
+Sender  Ishamael~
+Date    Wed Apr 13 17:48:24 2011~
+Stamp   1302738504
+To      all~
+Subject Goblin Caverns{x~
+Text
+Goblin Caverns is now open!!!!  Its linked somewhere in the dwarven mines
+and has a hidden entrance.  Read as find a room thats enter 1.  {x 
+There is one boss mob, the great goblin that has % load items for warriors and mages.  Wrist, Legs, Arms.{x
+Any issues or bugs let me know!!!{x
+{x
+{x
+-Ish{x
+~
+Sender  Nico~
+Date    Wed Apr 20 08:04:07 2011~
+Stamp   1303308247
+To      all~
+Subject Selling at QM{x~
+Text
+Hi,{x
+{x
+You may now sell back quest equipment at the QM.{x
+The syntax is exactly the same as buying, just using the "sell" verb.{x
+e.g. quest sell aesir sword{x
+e.g. quest sell qitems light{x
+{x
+The sellback rate is 80% of the original value, apart from{x
+aesir items, that go for around 86% of the original value.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Sat Apr 23 07:10:41 2011~
+Stamp   1303564241
+To      all~
+Subject CHANGES/Additions{x~
+Text
+Hi,
+ 
+I've implemented a bunch of changes:
+{G * {xGcast has been recoded - more spells have been added and the spell levels have been upped.
+{G * {xThere will be global spellups every 3 hours (roughly).
+{G * {xRandom items that pop from now on will have combined effects with modifiers added together.
+{G * {xRandom item effect modifiers will also be a bit fuzzy now - _up to_ 10% shift in stats.
+{x   e.g. A tag that would add exactly 100 HR previously can now add between 90-110 HR.
+{G * {xMore effects will be shown on identify/lore/auction info, such as resistances, vulnerabilities, immunities and morph forms.
+ 
+Please note immortal with any bugs.
+ 
+Nico (always ends up coding instead of revising)
+~
+Sender  Nico~
+Date    Tue Apr 26 04:51:52 2011~
+Stamp   1303815112
+To      all~
+Subject Changes{x~
+Text
+Hi,{x
+{x
+Spellup has been tweaked - more spells and auto-spellup is now every 6 hours instead of every 3.{x
+You should see 0-effects on new randoms now - (e.g. affects dexterity by 0).{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Tue Apr 26 09:02:47 2011~
+Stamp   1303830167
+To      all~
+Subject Changes (correction){x~
+Text
+I meant "You shouldn't see 0-effects..." in the previous post.{x
+~
+Sender  Nico~
+Date    Fri May  6 14:34:36 2011~
+Stamp   1304714076
+To      all~
+Subject Modifiers{x~
+Text
+Hi,{x
+{x
+I've removed the old(new?) expmod system and replaced it with an automatic system.{x
+This new system revolves around vouchers that are dropped as uniques.{x
+An example voucher would be "a +0.25x EXP modifier voucher".{x
+Each voucher adds a certain modifier to the current modifier, so the example voucher{x
+would turn a 2.00x experience modifier into a 2.25x modifier.{x
+The maximum modifier is 3.0x fpr time being.{x
+{x
+In addition, each voucher lasts an hour from when it is used. This means if person A{x
+submits a +1.0x voucher, making the expmod 2.0x, then half an hour later, person B submits{x
+a 0.5x voucher, making the expmod 2.5x, the modifier will revert to 1.5x half an hour after that.{x
+{x
+Quest rewards are modified by a separate modifier, the quest reweard modifier, which works{x
+in the same way.{x
+{x
+To redeem a voucher, use "quest sell voucher <vouchertype>" at the quest master.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Sat May  7 03:46:19 2011~
+Stamp   1304761579
+To      immortal~
+Subject expmod{x~
+Text
+Oh, btw, I didn't take the expmod command away - it just doesn't exist anymore.{x
+~
+Sender  Nico~
+Date    Tue May 10 12:31:39 2011~
+Stamp   1305052299
+To      all~
+Subject Quick changes{x~
+Text
+Hi,{x
+{x
+Just a few quick changes/additions:
+- Maximum modifier for both experience/quest rewards is now 5x.{x
+- Quest masters will now occassionally give out quest reward vouchers.{x
+- Quest masters will now occassionally increase the experience modifier.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Thu May 12 11:04:44 2011~
+Stamp   1305219884
+To      all~
+Subject Wards{x~
+Text
+Acid/fire/iceward spells now last spell level/6 instead of 0 ticks.{x
+~
+Sender  Nico~
+Date    Thu May 12 11:11:11 2011~
+Stamp   1305220271
+To      all~
+Subject Quests{x~
+Text
+Questmasters may now occassionally allow you to quest immediately after completing a quest.{x
+~
+Sender  Nico~
+Date    Sat May 14 10:36:24 2011~
+Stamp   1305390984
+To      all~
+Subject Modifier vouchers{x~
+Text
+I've added more exp/quest reward vouchers - 0.75x, 1.25x, 1.50x, 1.75x and 2.00x.{x
+~
+Sender  Nico~
+Date    Thu May 26 05:59:35 2011~
+Stamp   1306411175
+To      all~
+Subject Banks{x~
+Text
+Hi{x
+{x
+The bank code has been redone to clean it up a bit.{x
+Changes from the old system include:{x
+{x * 24hr service.{x
+{x * Deposit/withdrawal of any amount, rather than in chunks of 50.{x
+{x * Balance command - shows how much money you have in the bank.{x
+{x * Balance is no longer shown in oldscore as a result.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Fri May 27 04:32:38 2011~
+Stamp   1306492358
+To      all~
+Subject Gcast{x~
+Text
+Gcast now refreshes any spells that are in the gcast that you're affected by.{x
+This means if you have hast with 5 ticks to go, gcast will take it back up to 75.{x
+~
+Sender  Nico~
+Date    Mon May 30 13:18:14 2011~
+Stamp   1306783094
+To      all~
+Subject A new babble has been spotted!{x~
+Text
+A new babble has been spotted!{x
+~
+Sender  Nico~
+Date    Wed Jun  1 14:31:00 2011~
+Stamp   1306960260
+To      all~
+Subject lookup{x~
+Text
+Lookup now allows you to look up the nearest bank.{x
+~
+Sender  Nico~
+Date    Wed Jun  1 15:39:35 2011~
+Stamp   1306964375
+To      all~
+Subject New Look{x~
+Text
+Hi,{x
+{x
+If you want a different style of the "look" command, type newlook to toggle a setting.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Thu Jun  2 04:28:17 2011~
+Stamp   1307010497
+To      all~
+Subject Game status{x~
+Text
+Hi,{x
+{x
+Added a "gamestatus" command to show the current game status, covering{x
+current time, uptime, and more importantly, a breakdown on current XP/quest{x
+modifiers in effect - as in the individual tickets.{x
+If there is any more info people would like to be displayed, note/tell me.{x
+Also, the mud will now announce when a modifier ticket expires.{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Thu Jun  2 05:55:56 2011~
+Stamp   1307015756
+To      all~
+Subject Race helps{x~
+Text
+Hacked in a pre-existing function to display race stats.{x
+Try something like "help human" to see what it looks like.{x
+~
+Sender  Nico~
+Date    Wed Jun 22 10:13:03 2011~
+Stamp   1308759183
+To      all~
+Subject FINALLY, an addition!!{x~
+Text
+Hi,{x
+{x
+
+An achievements system has been added. Certain things are now tracked,{x
+such as kills, quests, whatever.{x
+More things will be added later, but have fun with the current ones!{x
+{x
+The command to see what achievements there are is simply "achievements".{x
+{x
+Nico{x
+~
+Sender  Nico~
+Date    Tue Jun 28 05:49:45 2011~
+Stamp   1309261785
+To      all~
+Subject Changes{x~
+Text
+Hi,{x
+{x
+More achievements have been added, courtesy of Mortifer!{x
+{x
+I've twiddled with the netcode a bit - you should no longer be spam-disconnected{x
+by output from the mud. Usually happened if your client didn't support compression.{x
+{x
+Nico{x
+~
+Sender  Ishamael~
+Date    Wed Aug  3 17:34:54 2011~
+Stamp   1312414494
+To      all~
+Subject NEW BABBLE!!!!!!!!!!!!!!!!!!!{x~
+Text
+Multi-colored babble has been released.{x
+He has a chance to load like any of the normal babbles.{x
+note me with any issues{x
+~
+Sender  Ishamael~
+Date    Sun Aug  7 19:30:30 2011~
+Stamp   1312767030
+To      all~
+Subject New Zone!!!!!!{x~
+Text
+1000 rooms of babble-ish-ousness has now been put in.{x
+This is a massive massive maze that ends with a gauntlet that offers a chance at a great rewards!{x
+Zone entrance is somewhere in the "In the Air Zone"{x
+Let me know if there are any issues or problems with the zone!{x
+Thanks{x
+-Ish{x
+~
+Sender  Ishamael~
+Date    Mon Sep 26 19:53:19 2011~
+Stamp   1317088399
+To      all~
+Subject Marduk{x~
+Text
+Please welcome back Marduk!  He will be jumping right in and helping us
+out with some of the coding needs here.  {x Dont start spamming him with
+requests and changes or saying redo everything!  What would be helpful is if
+you send through a list of{x the top 5 things you think would help improve
+the endstate, ie as a tier 3 maxed out legend what would keep you
+interested.  Please note{x all the immortals so we can review and discuss. 
+{x {x {x Ish{x 
+~
+Sender  Nico~
+Date    Thu Oct  6 11:42:30 2011~
+Stamp   1317922950
+To      all~
+Subject clans{x~
+Text
+Clan data reverted to 12hrs ago. We are investigating the cause of this.{x
+~
+Sender  Marduk~
+Date    Sun Oct 16 06:19:55 2011~
+Stamp   1318767595
+To      all~
+Subject test mud{x~
+Text
+Fixed my local copy of asgard! I can code again!
+ 
+Hip hip hooray!
+ 
+Look for some of the following in the near future:
+* New damage roll usage that allows the weapon to control
+{x   damage more than it has in the past.
+* New two handed weapon tweak so that they're balanced.
+* New tiering system to allow competition and increases
+{x   in legend strength. (Yeah, it will be awesome)
+* Lots of other stuff.
+ 
+-Marduk
+~
+Sender  Ishamael~
+Date    Fri Oct 21 19:29:06 2011~
+Stamp   1319246946
+To      all~
+Subject Taghz{x~
+Text
+Taghz will now take multiple uniques.  Note me if Taghz does not award
+qps for turning in a unique.  {x 
+{x
+{x
+-Ish{x
+~
+Sender  Marduk~
+Date    Wed Nov  9 11:30:47 2011~
+Stamp   1320863447
+To      all~
+Subject AFK Triggering/Automation{x~
+Text
+A new helpfile has been created (help triggers).  Please make yourself
+familiar with the help file.  {x 
+ 
+As Asgard continues, more people are writing scripts to automate tasks.
+This is okay, but with some recent people running them idle, it became
+necessary to formulate rules so you know what is coming.
+~
+Sender  Ishamael~
+Date    Wed Nov  9 18:07:43 2011~
+Stamp   1320887263
+To      all~
+Subject {R**NEW ZONE** Forest of Night{x{x~
+Text
+Forest of Night is now open for exploration.  This zone features higher
+tiered mobs and a small handful of boss mobs with a unique function.  {x
+Entrances to the zone can be found in the Forest of Illusions, Goblin
+Caverns, or Dark Continent.  {x As always, note Ishamael with any issues
+bugs or typos.  {x 
+{x
+{x
+--Ish{x
+~
+Sender  Ishamael~
+Date    Thu Dec  1 20:03:29 2011~
+Stamp   1322795009
+To      all~
+Subject Catacombs of the Karzotun{x~
+Text
+A lost dwarven clan has recently been discovered deep below the "Dwarven Mines", the "Catacombs of the Karzotun" are now open for your exploration.  {x
+Proceed with caution as this is a high level area, geared towards those bonus level 15 or higher. {x
+As always note me with any issues or bugs you might come across.  Good Luck!{x
+{x
+{x
+-Ish{x
+~
+Sender  Marduk~
+Date    Wed Dec  7 17:16:40 2011~
+Stamp   1323303400
+To      all~
+Subject mobs{x~
+Text
+Mobs are hitting a lot at the moment.  Take that into consideration when
+planning on hitting difficult areas.  A soon-to-be-change will help
+alleviate some of your problems.  (And perhaps make others worse!)  {x 
+~
+Sender  Ishamael~
+Date    Mon Dec 12 19:46:58 2011~
+Stamp   1323744418
+To      all~
+Subject Goblin Warrens{x~
+Text
+A side tunnel has been discovered deep in the Goblin Caverns, leading to a massive maze of tunnels through the underground.{x
+good luck, this area is intended to be a step between goblin caverns and catacombs of karzotun.{x
+let me know if there are any issues{x
+{x
+Ish{x
+~
+Sender  Ishamael~
+Date    Tue Dec 13 12:29:52 2011~
+Stamp   1323804592
+To      all~
+Subject Darkshaft Cavern{x~
+Text
+Deep beneath the goblin warrens and catacombs of the Karzotun a new cavern has been discovered.{x
+This cavern is effectively a staging area for deeper zones, let me know if there are any issues in getting in.{x
+~
+Sender  Ishamael~
+Date    Thu Dec 15 11:58:01 2011~
+Stamp   1323975481
+To      all~
+Subject New Zone - Burrows of the Svirfneblin{x~
+Text
+Deep below Darkshaft Cavern, a series of tunnels and caverns of the
+Svirfneblin have been discovered.  This is zone is a step above the deep
+dwarves and may be hazardous to your health if you are not at least bonus
+level 20.  {x Note me if there are any issues with the mobs.  {x 
+~
+Sender  Ishamael~
+Date    Fri Dec 16 14:43:50 2011~
+Stamp   1324071830
+To      all~
+Subject New Zone - Hall of Heilund{x~
+Text
+The svirfneblin in their exploratory mining have uncovered an ancient
+dwarven hall deep below the surface.  The Hall of Heilund is now open for
+exploration!!!  {x Be warned creatures in this area are designed for those
+beyond bonus level 25.  {x Note me with any issues.  {x 
+~
+Sender  Ishamael~
+Date    Tue Dec 20 08:01:40 2011~
+Stamp   1324393300
+To      all~
+Subject {YREAD THIS:{x {RBUG ABUSE{x{x~
+Text
+Bug abuse will not be tolerated, if you find a loophole or something is
+not working as intended it needs to be reported immediately.  {x If you are
+caught abusing a bug instead of reporting it, you will forfeit 2x all gains
+through that manner and may be deleted depending on the severity.  {x {x {x
+The Reapers clan has been deleted due to this type of abuse.  We are working
+on fixing the bug being abused.  {x In the interim if you are caught using
+pets to pick up items that are too heavy for your char to pick up or items
+such as portals.  You will be DELETED{x 
+{x
+{x
+If you have any questions on what constitutes bug abuse, feel free to ask the staff.{x
+{x
+{x
+Ish{x
+~
+Sender  Ishamael~
+Date    Fri Dec 30 14:55:12 2011~
+Stamp   1325282112
+To      all~
+Subject {Y**New Zone**{x Chaulssin, City of Wyrmshadows{x~
+Text
+The svirfneblin in their constant digging have uncovered another long
+hidden cavern.  This time the lost drow city of Chaulssin has been
+uncovered.  Be warned, these creatures{x have intermingled with a shadow
+dragon clan and are beyond bonus level 30.  {x Note me with any issues.  {x 
+~
+Sender  Ishamael~
+Date    Sun Jan  1 14:45:07 2012~
+Stamp   1325454307
+To      all~
+Subject **New Zone** Sunnyville Cavern{x~
+Text
+Deep below the drow and trolls a cavern has been discovered.  The fungus-race the myconids have been maintaining the cavern creating a staging point for adventures deep below the surface.{x
+This is the next recall point for the underground continent, let me know if there are any issues.{x
+~
+Sender  Ishamael~
+Date    Mon Jan  2 08:05:19 2012~
+Stamp   1325516719
+To      all~
+Subject {YNEW ZONE{x  Ched Nasad, City of Shimmering Webs{x~
+Text
+The drow city of Ched Nasad has been discovered down close to the city of
+Chaulssin.  This zone is only for the high level adventurers, bonus level
+30+{x 
+{x
+{x
+as always note me with any issues.{x
+~
+Sender  Ishamael~
+Date    Mon Jan  2 18:44:12 2012~
+Stamp   1325555052
+To      all~
+Subject {YNew Zone{x Sshamath, The City of Dark Weavings{x~
+Text
+Another underground area has been discovered, a long forgotten city of the drow.  {x
+This is likely a bonus level 35+ focus area and has some very high level spell casters in the zone.{x
+as always note me with any issues.{x
+{x
+{x
+~
+Sender  Ishamael~
+Date    Sat Jan  7 10:31:53 2012~
+Stamp   1325957513
+To      all~
+Subject {YNEW ZONE:{x Waethe Hlammachar, City of Dark Blades{x~
+Text
+The latest installment of drow cities is now in{x This one is primarily
+made of of drow who prefer hand to hand combat over magic.  WARNING, this
+zone is up to bonus level 40 so be prepared to fight challenging mobs.  {x 
+As always note me with issues.{x
+~
+Sender  Nico~
+Date    Sun Jan 15 16:09:35 2012~
+Stamp   1326643775
+To      all~
+Subject Recent move{x~
+Text
+Hi all,{x
+{x
+As you've noticed, we have moved addresses!{x
+This is to reduce the running costs of keeping the mud up and allows us to install{x
+whatever we want on the server without having to go through the dune admins.{x
+It also allows me to route different ports to the mud port to combat ISP port blocks.{x
+Since we've migrated from a 32bit machine to a 64bit machine, there may be some{x
+extra "weird" bugs - please be on the lookout for them if they pop up and{x
+note immortal with info if you spot any.{x
+{x
+Thanks,{x
+{x
+Nico{x
+~
+Sender  Reign~
+Date    Mon Jan 16 15:18:20 2012~
+Stamp   1326727100
+To      all~
+Subject {#NEW AREA{x~
+Text
+On the Dark Continent the gates of the City of Despair have been reopened. The city contains many types of equipment for those starting their journey, and mobs for those of lower tiers.{x
+If you find any problems in this area please let me know. Have fun and enjoy!{x
+~
+Sender  Ishamael~
+Date    Sat Jan 28 23:12:20 2012~
+Stamp   1327792340
+To      all~
+Subject {YClass Change:{x Highlander to Barbarian{x~
+Text
+Highlander has been renamed to Barbarian, powerlevels and pk requirement has been removed.{x
+Quickening, dual wield mastery, chop, decapitate, and berserk have been removed from the class.{x
+Barbarian is gaining the following skills:{x
+Fury - hroll/droll/regen bonus with a penalty to ac and fleeing.{x
+Twohanded Mastery - Increased bonus to rolling the high arc/viper hits and the ability to roll a new higher damage hit on a small %.{x
+Hammerblow - A powerful swing with a twohanded weapon with a chance to knock your opponent to the ground or daze them.{x
+Whirlwind - A lighting fast attack of all targets in a room that are not viewed as safe(pets, groups, non-pks).{x
+{x
+{x
+Barbarians if you notice anything out of wack please let me know.  I will make a few tweaks as needed once we see more people trying out the class..{x
+Enjoy{x
+Ish{x
+~

@@ -1,0 +1,1371 @@
+#AREADATA
+Name Uncharted Northern Seas~
+Builders Skahld Nogate Unlinked~
+VNUMs 12350 12499
+Continent 2
+Mobtier 0
+Credits {Y[{x  {yLGD{x {Y]{x {cSkahld{x   {YUncharted{x {YNorthern{x {ySeas{x~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#12350
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+D2
+The familiar waters of the charted Northern Seas are not far.
+~
+~
+0 0 10925
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12355
+S
+#12351
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12352
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12355
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12355
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12350
+S
+#12352
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12357
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+S
+#12353
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12356
+D1
+~
+~
+0 0 12352
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12350
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+2
+east desc
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12354
+S
+#12354
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12355
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+S
+#12355
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12354
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12350
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12351
+S
+#12356
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12357
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12352
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12353
+S
+#12357
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12358
+D1
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12352
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12356
+D3
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12352
+S
+#12358
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D0
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12366
+D1
+~
+~
+0 0 12359
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12357
+D3
+A strange and {Dd{wa{Dr{xk {wf{xo{wg{x bank bars your sight to the West.
+~
+~
+0 0 12359
+S
+#12359
+{D..:I{wn{xt{Do {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe wine dark stretches of the {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs {Dhave led into a {wf{xo{wg {Dso dense{x
+{Dthat the world around you is completely masked in puffy clouds of grayness.{x
+{DAny farther than arm's length is naughtt but nothingness and the only sound{x
+{Dto be heard is the endless drone of the churning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12358
+D1
+You can just make out the edges of the {wf{xo{wg{x bank to the East.
+~
+~
+0 0 12358
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12360
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12354
+S
+#12360
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe wine dark stretches of the {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs {Dhave led into a {wf{xo{wg {Dso dense{x
+{Dthat the world around you is completely masked in puffy clouds of grayness.{x
+{DAny farther than arm's length is naughtt but nothingness and the only sound{x
+{Dto be heard is the endless drone of the churning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12359
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12357
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12361
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12354
+S
+#12361
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe wine dark stretches of the {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs {Dhave led into a {wf{xo{wg {Dso dense{x
+{Dthat the world around you is completely masked in puffy clouds of grayness.{x
+{DAny farther than arm's length is naughtt but nothingness and the only sound{x
+{Dto be heard is the endless drone of the churning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12360
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12356
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12354
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12362
+S
+#12362
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe {wf{xo{wg {Dabout you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess and the only sound to be heard is the endless drone of the{x
+{Dchurning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12363
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12361
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12354
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12363
+S
+#12363
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe {wf{xo{wg {Dabout you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess and the only sound to be heard is the endless drone of the{x
+{Dchurning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12364
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12360
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12362
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12362
+S
+#12364
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x {x[{cO{wn {CN{co{wrth{ce{wr{Cn S{ce{wa{Cs{x]~
+{DThe {wf{xo{wg {Dabout you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess and the only sound to be heard is the endless drone of the{x
+{Dchurning sea.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12366
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12359
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12363
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12365
+S
+#12365
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe {wf{xo{wg {Dabout you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess. The sound of the seas crashing against something solid can{x
+{Dbe heard in the distance.{x
+~
+0 524289 7
+D0
+~
+~
+0 0 12367
+D1
+~
+~
+0 0 12364
+D2
+~
+~
+0 0 12368
+D3
+~
+~
+0 0 12369
+S
+#12366
+{CU{cnch{wa{crt{we{Cd N{co{wrth{ce{wr{Cn S{ce{wa{Cs{x~
+You are sailing across the deep seas of the North. Dawn appears fresh and
+rosy fingered, and catches you making your way across the wine dark stretches
+sailing towarda whatever adventures may wait. It is here that your Sea Charts
+indicate the end of the known world, but the seas stretch on into North. Into
+the cold and foreboding unknown.
+~
+0 524288 7
+D2
+The unfamiliar waters of these uncharted seas seem stretch on forever.
+~
+~
+0 0 12358
+S
+#12367
+{D[{wO{xn {wa {DS{ya{Dn{xd{Dy B{ya{xr{w] {D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe world about you is still concealed in a mask of {wf{xo{wg {Dbut you have found{x
+{Da sand bar resting atop the choppy seas directly below you and a definate{x
+{Dsulfuric odor has started to tinge the air. If only you could see through{x
+{Dthis infernal {wf{xo{wg.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12367
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12359
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12365
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12367
+S
+#12368
+{D[{wO{xn {wa {DS{ya{Dn{xd{Dy B{ya{xr{w] {D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe world about you is still concealed in a mask of {wf{xo{wg {Dbut you have found{x
+{Da sand bar resting atop the choppy seas directly below you and a definate{x
+{Dsulfuric odor has started to tinge the air. If only you could see through{x
+{Dthis infernal {wf{xo{wg.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12365
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12363
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12368
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12368
+S
+#12369
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe fog about you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess. The sound of the seas crashing against something solid can{x
+{Dbe heard in the distance and a sulphuric odor has started to permeate the{x
+{Dair.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12370
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12365
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12364
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12368
+S
+#12370
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe fog about you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess. The sound of the seas crashing against something solid can{x
+{Dbe heard in the distance and a sulphuric odor permeates the air. Peering{x
+{Ddown into the waters below you can actually make out waves. The waters{x
+{Dmust be shallowing.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12367
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12367
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12369
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12371
+S
+#12371
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe fog about you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess. The sound of the seas crashing against something solid can{x
+{Dbe heard in the distance and a sulphuric odor permeates the air. Peering{x
+{Ddown into the waters below you can actually make out waves. The waters{x
+{Dmust be shallowing.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12364
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12370
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12368
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12372
+S
+#12372
+{D..:I{wn{xs{Di{wd{xe {xthe {DF{wo{Dg B{wa{Dn{xk{D:..{x~
+{DThe fog about you is so dense that the world around you is completely masked{x
+{Din puffy clouds of dismal grayness. Any farther than arm's length is naught{x
+{Dbut northingess. The sound of the seas crashing against something solid can{x
+{Dbe heard in the distance and a sulphuric odor permeates the air. Peering{x
+{Ddown into the waters below you can actually make out waves. The waters{x
+{Dmust be shallowing.{x
+~
+0 524289 7
+D0
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12367
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12371
+D2
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12368
+D3
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12373
+S
+#12373
+{D..:{wT{xh{we Th{xi{wnn{xi{wng F{xo{wg{D:..{x~
+{DThe {wf{xo{wg {Dhas thinned considerably, enough so that peering Westward you can{x
+{Dmake out the basic shape of an object jutting up into the sky. The fact that{x
+{Dit is a landmass of some sort is all you can be sure of. The sulfuric odor{x
+{Dhas grown more pungent and the sound of water crashing against something{x
+{Dhas increased in volume.{x
+~
+0 524289 7
+D0
+While somewhat thinner here the {wf{xo{wg{x still obscures the distance from you.
+~
+~
+0 0 12374
+D1
+The blanketing mass of {wf{xo{wg{x completely obscures your vision.
+~
+~
+0 0 12372
+D2
+While somewhat thinner here the {wf{xo{wg{x still obscures the distance from you.
+~
+~
+0 0 12375
+D3
+The {wf{xo{wg{x is thinning and the vague shape of a land mass is apparent in the distance.
+~
+~
+0 0 12376
+S
+#12374
+{y={x<{yo{x>{D_ {DB{ye{Df{yo{Dr{ye {Da R{yo{Dcky S{yea {DW{ya{Dll {D_{x<{yo{x>{y={x~
+{DA dark and wet sea wall of rock has arisen before you from the depths of{x
+{Dthe {wf{xo{wg{D. It bars your way North and appears to funnel the waters of the sea{x
+{DSouth and West in a cacophony of wet waves pummeling against rock. While{x
+{Dconsiderably thinner here, the top of the rocky sea wall is lost to sight.{x
+~
+0 524289 7
+D1
+~
+~
+0 0 12372
+D2
+While somewhat thinner here the {wf{xo{wg{x still obscures the distance from you.
+~
+~
+0 0 12373
+D3
+~
+~
+0 0 12373
+S
+#12375
+{y={x<{yo{x>{D_ {DB{ye{Df{yo{Dr{ye {Da R{yo{Dcky S{yea {DW{ya{Dll {D_{x<{yo{x>{y={x~
+{DA dark and wet sea wall of rock has arisen before you from the depths of{x
+{Dthe {wf{xo{wg{D. It bars your way South and appears to funnel the waters of the sea{x
+{DNorth and West in a cacophony of wet waves pummeling against rock. While{x
+{Dconsiderably thinner here, the top of the rocky sea wall is lost to sight.{x
+~
+0 524289 7
+D0
+While somewhat thinner here the {wf{xo{wg{x still obscures the distance from you.
+~
+~
+0 0 12373
+D1
+~
+~
+0 0 12372
+D3
+~
+~
+0 0 12373
+S
+#12376
+{y={x<{yo{x>{D_ {yA {DB{yea{Dch L{ya{Dnd{yi{Dng {D_{x<{yo{x>{y={x~
+{DThe {wf{xo{wg {Dshrouded waters of the sea have given way to smoky dunes of a{x
+{Ddreary b{yea{Dch. The sands are littered with jagged rocks and bleached bones.{x
+{DOff in the distance to the Northwest a jagged smoking mountain juts up into{x
+{Dthe sky. Footprints lead through the sand West, uphill and further onto the{x
+{Disland. The sulfurous vapors of the smoking mountain seem to pool here on{x
+{Dthe b{yea{Dch, making your eyes water and choking you up.{x
+~
+0 0 10
+D1
+The {wf{xo{wg{x shrouded waters that led you to this forsaken island await you.
+~
+~
+0 0 12373
+D3
+The rubble strewn beach leads westward into a much rockier area.
+~
+~
+0 0 12377
+S
+#12377
+{y={x<{yo{x>{D_ {DP{ya{Dth{ye{Dt{yi{Dc R{yo{Dcky Sh{ya{Dmbl{ye{Ds {D_{x<{yo{x>{y={x~
+{DThe b{yea{Dch has lead upward to a large flat rocky ledge which runs parallel{x
+{Dto a massive rocky wall to the West. The ledge extends North and South and{x
+{Dis littered with all manner of trash and bleached bones. From your higher{x
+{Dvantage you can see the edge of the ring of fog encircling the island. There{x
+{Dare definate signs of humanoid life all about you.{x
+~
+0 0 10
+D0
+The wide rocky ledge continues Northward where primitive torches can be seen.
+~
+~
+0 0 12386
+D1
+A definate path leads downward and back towards the foggy beach waters.
+~
+~
+0 0 12376
+D2
+The wide rocky ledge continues Southward where primitive torches can be seen.
+~
+~
+0 0 12378
+S
+#12378
+{y={x<{yo{x>{D_ Th{ye {DP{ya{Dth{ye{Dt{yi{Dc Sh{ya{Dmbl{ye{Ds of C{yi{Dv{yi{Dl{yi{Dz{ya{Dt{yio{Dn {D_{x<{yo{x>{y={x~
+{DThe rocky ledge follows the rock wall Southward. Primitive torches mounted{x
+{Dto the wall burn at semi-regular intervals, emitting an oily black smoke. As{x
+{Dthere is no apparent wood, rickety lean toos crafted from rock, bone, flotsam{x
+{Dand jetsam line the Western rock wall. The primitive humans inhabiting these{x
+{Dstructures are black of skin, scantily clad and look to be on the brink of{x
+{Dstarvation. Their bodies are decorated with scars, tats and piercings. A{x
+{Dstartling number of humanoid skulls are stacked here and there as well.{x
+~
+0 0 5
+D0
+The wide rocky ledge continues Northward where primitive torches can be seen.
+~
+~
+0 0 12377
+D2
+The wide rocky ledge continues Southward where primitive torches can be seen.
+~
+~
+0 0 12379
+S
+#12379
+{y={x<{yo{x>{D_ Th{ye {DP{ya{Dth{ye{Dt{yi{Dc Sh{ya{Dmbl{ye{Ds of C{yi{Dv{yi{Dl{yi{Dz{ya{Dt{yio{Dn {D_{x<{yo{x>{y={x~
+{DThe rocky ledge follows the rock wall Southward. Primitive torches mounted{x
+{Dto the wall burn at semi-regular intervals, emitting an oily black smoke. As{x
+{Dthere is no apparent wood, rickety lean toos crafted from rock, bone, flotsam{x
+{Dand jetsam line the Western rock wall. The primitive humans inhabiting these{x
+{Dstructures are black of skin, scantily clad and look to be on the brink of{x
+{Dstarvation. Their bodies are decorated with scars, tats and piercings. A{x
+{Dstartling number of humanoid skulls are stacked here and there as well. The{x
+{Dwide rocky ledge ends here, dropping off into a rocky pit.{x
+~
+0 0 5
+D0
+The wide rocky ledge continues Northward where primitive torches can be seen.
+~
+~
+0 0 12378
+D5
+The wide rocky ledge abruptly ends in a cliff that drops into a pit.
+~
+~
+0 0 12381
+S
+#12380
+{y={x<{yo{x>{D_ {yO{Dn the R{yi{Dck{ye{Dty Br{yi{Ddg{ye {D_{x<{yo{x>{y={x~
+{DYou find yourself through the gate onto a rickety bridge made of rotting{x
+{Dwood and rotten ropes. A ravine runs below your feet, heading to the North{x
+{Dand South while the interior of the island lays open before you to the West.{x
+{DNow you can see the lush canopy of a jungle land, complete with a a smoking{x
+{Dvolcano and large silhoetted shapes lazily circling the skies above the{x
+{Djungle canopy.{x
+~
+0 512 5
+D1
+A massive gate of stone, wood and metal bars your way forward.
+~
+~
+4 0 12386
+D3
+The otherside of the ravine lies at the end of this rickety bridge to the west.
+~
+~
+0 0 12382
+D5
+The bridge spans what appears to be a rather deep ravine running North and South.
+~
+~
+0 0 12383
+S
+#12381
+{y={x<{yo{x>{D_ D{yo{Dwnw{ya{Drd.{y.{D. {yI{Dnt{yo {Dthe R{yo{Dcky P{yi{Dt {D_{x<{yo{x>{y={x~
+{DDescending into the pit you estimate the diameter of the passage to be{x
+{Dabout twenty feet. As you pass dowward you can see the a black sludge seems{x
+{Dto coat the rocky walls and the stink of sulphur and rot is intesifying the{x
+{Ddeeper you go.{x
+~
+0 524289 9
+D4
+The rocky pit opening can be seen up above you.
+~
+~
+0 0 12379
+D5
+The pit continues downward into darkness.
+~
+~
+0 0 12385
+S
+#12382
+{D<{Ro{D> {DTh{ge I{Dsl{ga{Dnd {gI{Dnt{ge{Dr{gi{Dor <{Ro{D>{x~
+The West side of the rickety bridge reveals a landscape that was not
+apparent from the journey to the island or the trip up it's beach. A vast
+lush jungle spreads out before you and the lazily smoking tip of a volcano
+can be seen in the distance. A path leads down a small slope into the the
+edges of the jungle just to the West.
+~
+0 0 4
+D1
+The rickety bridge sways gently in the breeze.
+~
+~
+0 0 12380
+S
+#12383
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine, all manner of clicks, squeaks, growls and
+grunts. The ravine floor is another sixty to seventy feet below while the
+ravine itself continues on to the North and South. A thick odor of rotting
+vegetation permeates the air.
+~
+0 0 9
+D0
+The ravine continues on northward, cutting through the rock of the island base.
+~
+~
+0 0 12387
+D2
+The south end of the ravine can be seen off in the distance.
+~
+~
+0 0 12389
+D4
+The rickety bridge that spans the ravine can be seen just above you.
+~
+~
+0 0 12380
+D5
+The shadow cloaked floor of the ravine lies below you.
+~
+~
+0 0 12384
+S
+#12384
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The floor of the ravine is full of rotting vegetation that has tumbled in
+from above and draped in shadows. The air and the rock itself down here is
+very warm and a hint of sulphur is mixed in with the smell of rotting
+vegetable matter. High above the rickety native built bridge can be seen
+and the ravine itself continues on southward.
+~
+0 0 5
+D0
+The ravine heads northward into a hazy sulphuric fog.
+~
+~
+0 0 12390
+D2
+The ravine appears to end in a rocky wall just to the south of here.
+~
+~
+0 0 12388
+D4
+The rickety native built bridge can be seen high above.
+~
+~
+0 0 12383
+S
+#12385
+{y={x<{yo{x>{D_ {DThe B{yo{Dtt{yo{Dm of the R{yo{Dcky P{yi{Dt {D_{x<{yo{x>{y={x~
+{DThe bottom of this pit is about twenty foot in diameter and is knee deep{x
+{Dwith scalding hot black sludge that smells of sulfur and rot. The irregular{x
+{Drock walls of the pit provide plenty of hand holds for climbing out, but the{x
+{Dslime and rot make it nearly impossible to grip. Humanoid bones in various{x
+{Dstates of decay bob about in the steaming slime and sludge.{x
+~
+0 268959745 5
+D4
+An opening to the pit can be seen far above.
+~
+~
+0 0 12381
+S
+#12386
+{y={x<{yo{x>{D_ {DB{ye{Df{yo{Dr{ye {Dthe St{yo{Dn{ye {DG{ya{Dt{ye {D_{x<{yo{x>{y={x~
+{DThe massive stone wall that has blocked your view of the island interior{x
+{Dabruptly ends here in a massive gate of wood, stone and metal. The gate looks{x
+{Dto be very old yet sturdy. The technological know how to build this piece of{x
+{Dtechnology must of originated elsewhere as the savage culture clinging to{x
+{Dlife on these desolate shores would not have the appropriate skills or{x
+{Dmaterials to complete such a project. Through the gate to the West or back{x
+{Dalong the rocky wall to the South are the only directions of travel open.{x
+~
+0 0 5
+D2
+The wide rocky ledge leads back towards the beach.
+~
+~
+0 0 12377
+D3
+A massive gate of stone, metal and wood blocks your way.
+~
+~
+4 0 12380
+S
+#12387
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine, all manner of clicks, squeaks, growls and
+grunts. The ravine floor is another sixty to seventy feet below while the
+ravine itself continues on to the North and South. A thick odor of rotting
+vegetation permeates the air.
+~
+0 0 9
+D0
+~
+~
+0 0 12391
+D2
+~
+~
+0 0 12383
+D5
+~
+~
+0 0 12390
+S
+#12388
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The ravine abruptly ends in a jagged rocky wall here. Far above and to the
+north the questionable looking native built bridge canb e seen swaying in
+the breeze. A distinct odor of sulphur and rotting vegetable matter fills
+the air here. The ravine continues on out of this dead end to the north,
+making it's way across the island.
+~
+0 0 5
+D0
+The ravine leads to the north, the details obscured by shadow and gaseous haze.
+~
+~
+0 0 12384
+D4
+The rocky walls of the ravine extend hundreds of feet into the air.
+~
+~
+0 0 12389
+S
+#12389
+{g_{Do{g( {DS{you{Dth {yE{Dnd, {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The ravine abruptly ends in a jagged rock wall here. Far above and to the
+the North the rickety bridge leading from the island native's dismal beach
+to the island interior can be seen. The bottom of the ravine and it's odor
+of vegetable rot is just barely visible through the shadows below.
+~
+0 0 9
+D0
+The ravine continues on towards the native's rickety bridge.
+~
+~
+0 0 12383
+D5
+The ravine floor can just be made out through the shadows.
+~
+~
+0 0 12388
+S
+#12390
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The floor of the ravine is draped in shadow and full of little rotting
+piles of vegetation that have tumbled in from above. A hint of sulphur
+combined with the stink of rotting vegetable matter makes for a grand
+odor. The air and rock is warm here and far above to the south the
+rickety bridge of the native island folk can be seen. The ravine
+continues on to the south, slashing it's way across the island.
+~
+0 0 5
+D0
+The ravine continues on ward into a haze of sulphuric smelling fog.
+~
+~
+0 0 12392
+D2
+The ravine continues it's southeasternly march across the island.
+~
+~
+0 0 12384
+D4
+The ravine walls extend hundreds of feet into the air.
+~
+~
+0 0 12387
+S
+#12391
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine, all manner of clicks, squeaks, growls and
+grunts. The ravine floor is another sixty to seventy feet below while the
+ravine itself continues on to the West and South. A thick odor of rotting
+vegetation permeates the air.
+~
+0 0 9
+D2
+The ravine continues on southward, slicing through the rock of the island base.
+~
+~
+0 0 12387
+D3
+The ravine takes and abrupt turn to the west here and continues on.
+~
+~
+0 0 12394
+D5
+The floor of the ravine can be seen far below, cloaked and distorted in shadow.
+~
+~
+0 0 12392
+S
+#12392
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The shadow draped floor of the ravine bends from the west to the south
+here. Piles of rotting vegetation that have tumbled in from above lay
+about creating a stink and messing up the place. A tinge of sulphur
+mixed with the rot of jungle vegetation creates an awful stink. The
+ravine continues onward here, slashing it's way across the island in
+a southeasternly manner.
+~
+0 0 5
+D2
+The ravine bends to the south, heading back towards the rickety native bridge.
+~
+~
+0 0 12390
+D3
+The smoky sulphuric haze thickens to the west, obscuring your view.
+~
+~
+0 0 12393
+D4
+The ravine walls extend hundreds of feet into the air.
+~
+~
+0 0 12391
+S
+#12393
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+Shadows obscure the cracks and crevices of the ravine floor and various
+piles of rotting vegetation that has tumbled from above lie here and there
+letting off a stink. A light smoky haze smelling of sulphur helps to
+obscure the finer details of the ravine and the air is exceptionally warm
+here. The ravine itself continues onward, slashing it's way across the
+island in a southeasternly manner.
+~
+0 0 5
+D1
+The ravine continues it onward in it's slashing march, shadows obscuring it's nuances.
+~
+~
+0 0 12392
+D3
+The ravine continues onward, it's details masked by a sulphuric gas haze.
+~
+~
+0 0 12395
+D4
+The ravine walls extend up hundreds of feet into the air.
+~
+~
+0 0 12394
+S
+#12394
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine, all manner of clicks, squeaks, growls and
+grunts. The ravine floor is another sixty to seventy feet below while the
+ravine itself continues on to the West and East. A thick odor of rotting
+vegetation permeates the air.
+~
+0 0 9
+D1
+The ravine heads eastward here into a southward bend.
+~
+~
+0 0 12391
+D3
+The ravine heads westward into a north bound bend.
+~
+~
+0 0 12396
+D5
+The shadow draped floor of the ravine can be seen far below you.
+~
+~
+0 0 12393
+S
+#12395
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The shadow cloaked floor of the ravine is filled with a foggy haze of
+sulphuric vapors. The stone of the ravine itself is hot enough to scald
+flesh and make metals uncomfortably warm. The ravine continues on,
+slashing it's way across the island from the north in a southeasternly
+manner.
+~
+0 268435456 5
+D0
+The ravine continues onward to the north, obscured by sulphuric vapors.
+~
+~
+0 0 12397
+D1
+The ravine continues it's southeasternly trek across the island.
+~
+~
+0 0 12393
+D4
+The walls of the ravine extend upwards hundreds of feet.
+~
+~
+0 0 12396
+S
+#12396
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine; all manner of clicks, squeaks, growls and
+grunts. The ravine floor is another sixty to seventy feet below while the
+ravine itself continues on to the North and East. The odor of rotting
+vegetation is starting to mix with a sulphuric smell and the temperature is
+definately a few degrees warmer here.
+~
+0 0 9
+D0
+The ravine continues on and looks to be starting to bend westward.
+~
+~
+0 0 12398
+D1
+The ravine continue on, looking to head south and eastward.
+~
+~
+0 0 12394
+D5
+The shadow draped floor of the ravine can just be made out below.
+~
+~
+0 0 12395
+S
+#12397
+{g_{Do{g( {DTh{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The floor of the ravine is draped in shadow and filled with a foggy haze of
+sulphuric vapors. The stone itself is hot enough to burn flesh and warm metal
+to an uncomfortable temperature. Slashing it's way from the north the ravine
+cuts a swath across the island in a southeasternly manner.
+~
+0 268435456 5
+D2
+The ravine continues onward to the south where the haze of sulphuric gases seems to thin.
+~
+~
+0 0 12395
+D3
+The ravine continues on to the west, obscured by a haze of sulphuric gases.
+~
+~
+0 0 12399
+D4
+The rock walls of the ravine extend upwards hundreds of feet into the air.
+~
+~
+0 0 12398
+S
+#12398
+{g_{Do{g( {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The rock walls of the ravine are filled with cracks, holes and crevices of
+varying sizes and shapes. Some are big enough for a man to squeeze into while
+others are only big enough to work an appendage into. Strange noises bounce
+and echo through out the ravine; all manner of clicks, squeaks, growls and
+grunts. The smell of rotting vegetation has been replaced with the stink of
+sulphur; strong enough to make one's eyes burn and water. The temperature
+here is becoming quite sweltering. The ravine floor is another sixty to
+seventy feet below while the ravine itself runs to the South and bends to
+the West.
+~
+0 0 9
+D2
+The ravine heads in a southeastern manner here, slashing through the landscape.
+~
+~
+0 0 12396
+D3
+The ravine looks to end just to the West.
+~
+~
+0 0 12400
+D5
+Shadow and steam cloak the details of the ravine floor not to far below you.
+~
+~
+0 0 12397
+S
+#12399
+{g_{Do{g( {DN{yo{Drth {yE{Dnd {yo{Df {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The ravine ends or begins here, depending on which way one might be going.
+The North wall is jagged and scalding hot with a slow hot ooze of magma
+inching it's way out of it. Sulphurous gases choke the air and make it hard
+to breath. The ravine heads away from this toxic mess to the east or upward.
+~
+0 268435456 5
+D1
+The ravine slashes it way across the island in a southeastern manner.
+~
+~
+0 0 12397
+D4
+The ravine walls extend hundreds of feet into the air.
+~
+~
+0 0 12400
+S
+#12400
+{g_{Do{g( {DN{yo{Drth {yE{Dnd, {yA{Db{yo{Dv{ye {Dth{ye {DR{ya{Dv{yi{Dn{ye {DFl{yoo{Dr {g){Do{g_{x~
+The ravine abruptly ends in a jagged rock wall here. The temperature has
+risen considerably and sulphurous gases choke the air. The ravine floor
+can just be made out below you. The ravine continues on, slashing it's way
+across the island in a southeastern manner.
+~
+0 0 9
+D1
+The ravine slashes it's way across the island heading southeast.
+~
+~
+0 0 12398
+D5
+Through a haze of sulphurous gas the ravine floor can just be seen below.
+~
+~
+0 0 12399
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12380 1 2 The east door of {y={x<{yo{x>{D_ {yO{Dn the R{yi{Dck{ye{Dty Br{yi{Ddg{ye {D_{x<{yo{x>{y={x is closed and locked
+D 0 12386 3 2 The west door of {y={x<{yo{x>{D_ {DB{ye{Df{yo{Dr{ye {Dthe St{yo{Dn{ye {DG{ya{Dt{ye {D_{x<{yo{x>{y={x is closed and locked
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

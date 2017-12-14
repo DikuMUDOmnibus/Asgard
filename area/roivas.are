@@ -1,0 +1,3205 @@
+#AREADATA
+Name RoivasArea~
+Builders Roivas Unlinked~
+VNUMs 150 299
+Continent 0
+Mobtier 0
+Credits Roivas~
+Security 3
+Flags 0
+End
+
+#MOBILES
+#150
+chiron~
+Chiron~
+Chiron, the underworld ferry-man
+~
+The figure stands about 6'2" wearing a black robe over his skeletal
+figure.  Chiron waits for souls to be able to carry them over to the next
+world for a small fee.  
+~
+human~
+A Z E 0 0
+180 500 15d1500+500 15d1500+1000 15d50+10 chomp
+-60 -60 -60 -60
+EFHK 0 GMS 0
+stand stand male 500
+AHMV ABCDEFGHIJKQV medium unknown
+S 1
+V -1
+A -1
+M SPEECH 151 styx~
+M SPEECH 152 cost?~
+M GIVE 153 155~
+#151
+tormented soul~
+Tormented Soul~
+Wandering soul
+~
+A poor soul wanders around aimlessly looking for nothing.
+~
+human~
+AU DFQVa 0 0 0
+0 0 18031d1+0 0d0+0 50d50+50 fury
+-50 -50 -50 -50
+CFK MN 0 IKT
+stand stand none 0
+IV 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+S 1
+V 3
+A -1
+M SPEECH 150 chiron~
+#152
+hellhound demon~
+{1He{!ll{3H{8ou{3nd{x~
+{1He{!ll{3H{8ou{3nd{x
+~
+A vicious looking demon puppy.
+~
+dog~
+AB DFJV 0 -500 0
+180 500 65d1000+250 40d9+100 26d50+200 flbite
+-80 -80 -80 -80
+CFHM AB H N
+stand stand none 30000
+AGV ACDEFHJKUV medium unknown
+V 10
+A -1
+#153
+imp beast impish~
+{1Im{6pish{x {1Bea{6st{x~
+{1Im{6pish{x {1Bea{6st{x
+~
+A small impish looking beast stands before you.  Scars, and potmarks
+litter its face and body as it stands.  All it has on is a little loin
+cloth, and all its carrying is a huge barb incrusted flail.  
+~
+demon~
+ABF DFJU 0 -750 0
+180 450 1d1+32500 40d9+100 26d43+200 fury
+-65 -65 -65 -65
+I AB C S
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+F res M
+F vul N
+V 8
+A -1
+M DEATH 162 100~
+#154
+helpless soul~
+Helpless soul~
+Helpless soul
+~
+~
+human~
+AB 0 0 0 0
+150 40 1d1+15000 0d0+0 26d50+5 none
+0 0 0 0
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A -1
+#155
+ghoul demon~
+{8Ghoul{x~
+{8Ghoul{x
+~
+A large ragged looking ghoul stands before you breathing heavily.  Large
+claws pretrude from his hands as he waits to pounce on the nearest soul.  
+~
+demon~
+AB JU 0 -500 0
+175 300 1d1+28000 0d0+0 22d45+100 claw
+-40 -40 -40 -40
+IKR 0 M N
+stand stand none 30000
+AHMV ABCDEFGHIJKQ medium unknown
+F res C
+F vul S
+V 8
+A -1
+#156
+hades lord~
+{x{1H{8ad{1es{x~
+{1H{8ad{1es{x
+~
+The lord of the dead himself, Hades.  Hades towers above standing in his
+god form of an impressive 10 feet tall.  Shifting black robes swirl about
+himself showing the worst deaths in the history of mankind.  
+~
+human~
+AB CDFGVc ENO -1000 0
+200 700 1d1+150000 110d10+100 750d3+200 wrath
+0 0 0 0
+ACDEFK ABNS 0 0
+stand stand none 80000
+AHMV ABCDEFGHIJK large unknown
+V 50
+A -1
+M DEATH 154 20~
+#157
+queen persephone~
+Queen {2Pe{7rse{2ph{xon{2e{x~
+Queen {2Pe{7rse{2ph{xon{2e{x
+~
+Queen persephone stands here, pacing around the room.  She looks
+absolutly beautiful in a long green gown, holding a huge staff made out of
+daisy's.  
+~
+human~
+AB DFVc CDEN 0 0
+200 600 1d1+165000 110d10+200 700d4+200 smash
+0 0 0 0
+0 0 0 0
+stand stand female 70000
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A -1
+M DEATH 155 20~
+#158
+death thanatos~
+Than{8atos{x~
+Than{8atos{x
+~
+Thanatos was often considered Hades right hand man.  He was often refered
+to as Death himself since his primary job was ushering the souls to the
+Underworld, and re-capturing souls that escaped to be properly punished.  
+~
+human~
+AB 0 CDE 0 0
+190 0 1d1+150000 0d0+0 0d0+0 none
+0 0 0 0
+CFIK 0 CD IT
+stand stand male 60000
+AHMV ABCDEFGHIJK medium unknown
+V 0
+A -1
+M DEATH 156 20~
+M DEATH 156 100~
+#159
+sisyphus~
+Sisyphus~
+Sisyphus
+~
+Sisyphus was the former king of Corinth.  Having been a trickster, and a
+sociopath the gods themselves ordered Thanatos to come grab him and chain
+him in Tartarus.  Sisyphus found multiple ways to escape the underworld, and
+having done so was forced by Zues himself to roll a useless boulder up a
+mountain for the rest of eternity.  Everytime the boulder reaches the top it
+rolls back down to teach Sisyphus hubris.  
+~
+human~
+AB DFV 0 -500 0
+180 350 1d1+125000 0d0+0 20d20+250 fury
+0 0 0 0
+BCEFK 0 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+V 10
+A -1
+M SPEECH 157 key~
+M SPEECH 158 freedom~
+M GRALL 160 35~
+M SPEECH 159 ingredients~
+#160
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V 0
+A -1
+#0
+
+
+
+#OBJECTS
+#150
+pomegranate fruit~
+{!Po{8me{!gran{8ate{x~
+A delicious looking fruit lies here.~
+fruit~
+pill 0 0
+120 'slow' 'poison' 'barrier' 'madness'
+101 1 10 P
+#151
+tree pomegranate~
+{!Po{8me{!gran{8ate{x {2tree{x~
+{!Po{8me{!gran{8ate{x {2tree{x~
+wood~
+container OR 0
+999999 ACD 152 10 5
+0 999 0 P
+#152
+key daisy~
+{#Da{@isy{x key~
+The key is woven entirely out of daisy's!~
+flowers~
+key 0 0
+0 0 0 0 0
+0 5 1000 P
+#153
+hades key~
+{xKey to the Underworld~
+Key to the Underworld~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#154
+helm darkness~
+{xHelm of {8Dar{xkne{8ss{x~
+(no description)~
+darkness~
+armor CEJLSTY AE
+BCDE BCDE BCDE BCDE 0
+101 10 25000 P
+F
+A 19 -15 P
+A
+13 250
+A
+9 10
+F
+A 18 -10 Q
+A
+20 -5
+#155
+copper coin~
+copper coin~
+Copper coin~
+copper~
+treasure Y A
+0 0 0 0 0
+0 1 500 P
+#156
+blade hades sword~
+{xBlade of {8Ha{xd{8es{x~
+A truly evil blade lies here.~
+unknown~
+weapon 0 AN
+sword 9 23 fury CG
+101 0 0 P
+A
+9 20
+A
+17 -20
+F
+S 20 8 N
+#157
+underworld patch~
+{x{8Und{xer{8w{xor{8ld{x Patch{x~
+A truly evil patch floats in the air.~
+unknown~
+armor CEGHMTY AV
+BEF BEF BEF BEF 0
+101 0 0 P
+A
+19 -25
+A
+13 250
+A
+20 5
+#158
+persephone winter~
+{^Pe{xrse{^pho{xn{^e's{x {6Wi{$nt{6er{x~
+{^Pe{xrse{^pho{xn{^e's{x {6Wi{$nt{6er{x~
+unknown~
+light 0 A
+0 0 CDFI 0 0
+101 0 25000 P
+A
+17 -20
+A
+20 -10
+F
+S 13 150 C
+A
+2 -1
+A
+1 -3
+A
+18 -15
+#159
+persephone summer~
+{!Per{#sep{!hone{#'s{x {1Su{3mme{1r{x~
+{!Per{#sep{!hone{#'s{x {1Su{3mme{1r{x~
+unknown~
+light 0 A
+0 0 BGHI 0 0
+101 20 10000 P
+A
+19 20
+A
+18 20
+F
+R 13 150 H
+F
+S 17 20 D
+#160
+persephone spring~
+{2Pe{xrse{2pho{xne's {@Sp{3ri{@ng{x~
+(no description)~
+unknown~
+light ABGIR A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 10 0 P
+A
+20 -5
+A
+18 -10
+F
+S 17 -10 E
+A
+19 15
+A
+13 100
+#161
+shackles thanatos~
+{xShackle of Than{8atos{x~
+{xShackle of Than{8atos{x~
+unknown~
+armor 0 AM
+CE CE CE CE 0
+101 0 0 P
+A
+17 -10
+A
+20 -5
+A
+1 -2
+A
+4 -2
+A
+26 3
+#162
+earrings thanatos~
+{XEarrings of Than{8atos{x~
+{XEarrings of Than{8atos{x~
+unknown~
+jewelry BCT AS
+0 0 0 0 0
+101 5 0 P
+A
+19 10
+A
+18 10
+F
+A 13 150 F
+A
+17 -10
+#163
+satchel thanatos~
+{xSatchel of Than{8atos{x~
+{xSatchel of Than{8atos{x~
+unknown~
+container 0 AX
+200 A 0 350 15
+101 0 0 P
+F
+S 13 100 C
+A
+19 10
+A
+18 10
+A
+26 3
+#164
+torn piece parchment~
+{xTorn piece of parchment~
+A tattered piece of parchment lies here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 1 0 P
+E
+parchment~
+{3|----------------------{1( {^Key to the Underworld {1){3----------------------|{x
+{3|                                                                     {3|{x
+{3|                                                                     {3|{x
+{3|          {#1.){x Eyeball from an impish beast.                          {3|{x
+{3|          {#2.){x Tantalus's Curse.                                      {3|{x
+{3|          {#3.){x Chiron's Greed.                                        {3|{x
+{3|          {#4.){x Fang of Cerberus                                       {3|{x
+{3|                                                                     {3|{x
+{3|                                                                     {3|{x
+{3|---------------------------------------------------------------------|{x
+~
+#165
+impish eyeball~
+{xImpish Eyeball~
+Impish Eyeball~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 0 P
+#166
+ambrosia~
+{xAmbrosia~
+Ambrosia~
+unknown~
+pill 0 A
+120 'mass healing' 'refresh' 'mass healing' 'refresh'
+0 0 0 P
+#167
+gem flawlessness~
+{xGem of {&Flawlessness{x~
+A gem of flawless cuts.~
+unknown~
+gem 0 A
+0 0 0 0 0
+0 0 101000 P
+#168
+fang cerberus~
+{3F{1ang{x {3o{1f {3C{1erberus{x~
+{3F{1ang{x {3o{1f {3C{1erberus{x~
+fang~
+weapon 0 AN
+dagger 43 4 bite ABGH
+0 10 50000 P
+A
+20 10
+A
+13 -300
+A
+3 -5
+A
+26 -10
+A
+18 20
+A
+19 20
+A
+4 -5
+A
+17 -5
+#169
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#150
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8197 3
+D0
+~
+~
+0 0 151
+D2
+~
+~
+0 0 208
+S
+#151
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8197 0
+D2
+~
+~
+0 0 150
+D3
+~
+~
+0 0 152
+S
+#152
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8193 0
+D1
+~
+~
+0 0 151
+D5
+~
+~
+0 0 204
+S
+#153
+A dark cave~
+Darkness over takes the cave as all light is absorbed into the walls.  
+~
+0 8193 0
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 154
+S
+#154
+A dark cave~
+Darkness over takes the cave as all light is absorbed into the walls.  
+~
+0 8193 0
+D1
+~
+~
+0 0 153
+D3
+~
+~
+0 0 155
+S
+#155
+A dark cave~
+Darkness over takes the cave as all light is absorbed into the walls.  
+~
+0 8193 0
+D1
+~
+~
+0 0 154
+D5
+~
+~
+0 0 156
+S
+#156
+A tunnel~
+Descending and climbing up the tunnel leads to nowhere it seems. 
+Darkness still overtakes everything as the tunnel leads up and down. 
+Farther down the tunnel the coldness seems to seep in more and more. 
+Strange noises of howling and screams can be heard coming below.  
+~
+0 8193 0
+D4
+~
+~
+0 0 155
+D5
+~
+~
+0 0 157
+S
+#157
+A tunnel~
+Above the darkness still clings hopelessly as the tunnel goes up. 
+Darkness is still present as the tunnel leads up and south.  The tunnel
+opens up south leading to who knows where.  
+~
+0 8193 0
+D2
+~
+~
+0 0 158
+D4
+~
+~
+0 0 156
+S
+#158
+A darker cave~
+This far below the earth darkness is ruler.  
+~
+0 8193 0
+D0
+~
+~
+0 0 157
+D2
+~
+~
+0 0 159
+S
+#159
+A darker cave~
+This far below the earth darkness is ruler.  
+~
+0 8193 3
+D0
+~
+~
+0 0 158
+D1
+~
+~
+0 0 160
+S
+#160
+A darker cave~
+This far below the earth darkness is ruler.  
+~
+0 8193 0
+D1
+~
+~
+0 0 161
+D3
+~
+~
+0 0 159
+S
+#161
+A darker cave~
+This far below the earth darkness is ruler.  
+~
+0 8193 0
+D1
+~
+~
+0 0 162
+D3
+~
+~
+0 0 160
+S
+#162
+A darker cave~
+This far below the earth darkness is ruler.  
+~
+0 8193 0
+D3
+~
+~
+0 0 161
+D5
+~
+~
+0 0 163
+S
+#163
+A tunnel~
+The tunnel leads down, and up.  Downward the strange noise of a river can
+be heard, and up silence is the only thing that comes to mind Darkness
+covers everything inside the tunnel 
+~
+0 8193 0
+D4
+~
+~
+0 0 162
+D5
+~
+~
+0 0 164
+S
+#164
+A tunnel~
+The tunnel leads down, and up.  Downward the strange noise of a river can
+be heard, and up silence is the only thing that comes to mind Darkness
+covers everything inside the tunnel 
+~
+0 8193 0
+D4
+~
+~
+0 0 163
+D5
+~
+~
+0 0 165
+S
+#165
+A tunnel~
+A path opens up to the north, finally light seems to be ommited from some
+source.  Darkness swallows the tunnel upwards.  
+~
+0 8193 0
+D0
+~
+~
+0 0 166
+D4
+~
+~
+0 0 164
+S
+#166
+Path of Obsidian~
+Obsidian lines the path leading north, a dead end is visible to the south
+but it seems that the dark is trying to claim it before your eyes.  On both
+sides of the path sand is visible leading towards a river like a beach.  The
+sand seems to be made out of the same thing as the path 
+~
+0 8192 0
+D0
+~
+~
+0 0 167
+D2
+~
+~
+0 0 165
+S
+#167
+Path of Obsidian~
+Obsidian guides a path to the north and south inside the cavern.  On
+either side of the path black sand can be seen leading towards a blackened
+river.  Noises seem to be coming from every side of the room without and
+source 
+~
+0 8192 0
+D0
+~
+~
+0 0 168
+D2
+~
+~
+0 0 166
+S
+#168
+Path of Obsidian~
+Obsidian guides a path to the north and south inside the cavern.  On
+either side of the path black sand can be seen leading towards a blackened
+river.  Noises seem to be coming from every side of the room without and
+source 
+~
+0 8192 0
+D0
+~
+~
+0 0 210
+D2
+~
+~
+0 0 167
+S
+#169
+On the river Styx~
+Floating down the river Styx, teddie bears, brush's, and other items left
+by the newly dead fill the river.  On either side of the river nothing but
+darkness can be seen as if the river floats through time.  
+~
+0 8193 0
+D1
+~
+~
+0 0 212
+D3
+~
+~
+0 0 170
+S
+#170
+On the river Styx~
+The entrance to Erebus looms up west as the river Styx ends.  Floating
+dreams of mortals seem to plunge underneath as new dreams replace them. 
+Nothing can be seen on either sides of the river as if the river floats in
+pure darkness.  
+~
+0 8193 0
+D1
+~
+~
+0 0 169
+D3
+~
+~
+0 0 171
+S
+#171
+On the river Styx~
+Approaching the beach of black sand to the north, a large gate is
+visible.  To the east the river moves on bringing more dreams of mortal
+lives lost.  Darkness seems to take on a new form as the gate comes closer. 
+~
+0 8193 0
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 170
+S
+#172
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 175
+D1
+~
+~
+0 0 173
+D2
+~
+~
+0 0 225
+D3
+~
+~
+0 0 174
+S
+#173
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8197 0
+D0
+~
+~
+0 0 176
+D2
+~
+~
+0 0 226
+D3
+~
+~
+0 0 172
+S
+#174
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 177
+D1
+~
+~
+0 0 172
+D2
+~
+~
+0 0 227
+S
+#175
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 178
+D1
+~
+~
+0 0 176
+D2
+~
+~
+0 0 172
+D3
+~
+~
+0 0 177
+S
+#176
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 179
+D2
+~
+~
+0 0 173
+D3
+~
+~
+0 0 175
+S
+#177
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 180
+D1
+~
+~
+0 0 175
+D2
+~
+~
+0 0 174
+S
+#178
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D1
+~
+~
+0 0 179
+D2
+~
+~
+0 0 175
+D3
+~
+~
+0 0 180
+S
+#179
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D2
+~
+~
+0 0 176
+D3
+~
+~
+0 0 178
+S
+#180
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D1
+~
+~
+0 0 178
+D2
+~
+~
+0 0 177
+S
+#181
+Fields of Punishment~
+A bridge extends over rivers of lava below inside this dark cavern.  The
+grass of the fields runs a blood red and seems to be moist with the same
+colored liquid.  Bodies are scattered here and there almost making this
+place resemble a war field.  
+~
+0 8193 0
+D0
+~
+~
+0 0 182
+D1
+~
+~
+0 0 186
+D3
+~
+~
+0 0 239
+S
+#182
+Fields of Punishment~
+A bridge of bone leads north and south over a river of boiling lava. 
+Fields of red moist grass seem to go on endlessly in the fields.  Screaming
+and crying are heard from every direction inside the fields.  
+~
+0 8193 0
+D0
+~
+~
+0 0 183
+D2
+~
+~
+0 0 181
+S
+#183
+Fields of Punishment~
+Sounds of horror and torment seem to echo throughout the fields.  Rivers
+of lava boil underfoot with sections of grass popping up from nothing. 
+Endless amounts of people wander around looking horrid.  
+~
+0 8193 0
+D1
+~
+~
+0 0 184
+D2
+~
+~
+0 0 182
+S
+#184
+Fields of Punishment~
+To the east a huge section of black obsidian rises up almost as a wall
+keeping whatever inside.  People run around screaming and flailing for
+something to help ease their pain.  A large mountain is off the southwest
+glittering a strange blood red.  
+~
+0 8193 0
+D2
+~
+~
+0 0 185
+D3
+~
+~
+0 0 183
+S
+#185
+Fields of Punishment~
+To the east a huge section of black obsidian rises up almost as a wall
+keeping whatever inside.  People run around screaming and flailing for
+something to help ease their pain.  A large mountain is off the southwest
+glittering a strange blood red.  
+~
+0 8193 0
+D0
+~
+~
+0 0 184
+D2
+~
+~
+0 0 186
+S
+#186
+Fields of Punishment~
+Bodies litter the floor in piles while they seem to move.  Some can be
+seen coming back to life to endure more eternal torment.  Little imps seem
+to run around laughing with joy as they torture certain people.  
+~
+0 8193 0
+D0
+~
+~
+0 0 185
+D2
+~
+~
+0 0 187
+D3
+~
+~
+0 0 181
+S
+#187
+Fields of Punishment~
+A pathway can be seen leading to the east, as the souls seem to backaway
+from whatever lies over there.  Bodies litter the floor to the north with
+hellhounds chewing on them and feasting.  A huge mountain can be seen to the
+west.  
+~
+0 8193 0
+D0
+~
+~
+0 0 186
+D1
+~
+~
+0 0 188
+S
+#188
+Fields of Punishment~
+The fields of punishment seems to become more and more barren as a path
+heads to the east.  Darkness overwhelms the sight to the east almost
+inviting anything living to come inside.  
+~
+0 8193 0
+D1
+~
+~
+0 0 189
+D3
+~
+~
+0 0 187
+S
+#189
+Before a dark chasm~
+A huge chasm leads down into an abyss of darkness, and to the south the
+fields can be seen.  No sounds seem to be emitted below, giving it an eerie
+quality unknown in this place.  
+~
+0 8193 0
+D3
+~
+~
+0 0 188
+D5
+~
+~
+0 0 190
+S
+#190
+Inside a dark chasm~
+The dark chasm seems to lead down into utter darkness.  Above the
+entrance to the chasm can be seen almost beckoning for you to go back.  
+~
+0 8193 0
+D4
+~
+~
+0 0 189
+D5
+~
+~
+0 0 191
+S
+#191
+Inside a dark chasm~
+The dark chasm seems to lead down into utter darkness.  Above the
+entrance to the chasm can be seen almost beckoning for you to go back.  
+~
+0 8193 0
+D4
+~
+~
+0 0 190
+D5
+~
+~
+0 0 192
+S
+#192
+Inside a dark chasm~
+The floor comes up abrubtly down, and the chasm seems to finally end. 
+Above the chasm stretches on leading to the entrance where screaming can be
+heard.  
+~
+0 8193 0
+D4
+~
+~
+0 0 191
+D5
+~
+~
+0 0 193
+S
+#193
+Tartarus~
+The entrance to Tartarus seems to be the spawn of darkness.  The most
+heinous criminals of the world lie down here being guarded by fearsome
+looking guards.  A path of darkness seems to lead on north to the end of the
+halls.  
+~
+0 8193 0
+D0
+~
+~
+0 0 194
+D4
+~
+~
+0 0 192
+S
+#194
+Tartarus~
+Large steel doors are to the east and west, and a path of pure darkness
+leads on north and south.  Nothing but eerie silence can be heard coming
+from the cells.  
+~
+0 8193 0
+D0
+~
+~
+0 0 195
+D1
+~
+~
+0 0 197
+D2
+~
+~
+0 0 193
+D3
+~
+~
+0 0 198
+S
+#195
+Tartarus~
+Large steel doors are to the east and west, and a path of pure darkness
+leads on north and south.  Nothing but eerie silence can be heard coming
+from the cells.  
+~
+0 8193 0
+D0
+~
+~
+0 0 196
+D1
+~
+~
+0 0 199
+D2
+~
+~
+0 0 194
+D3
+~
+~
+0 0 200
+S
+#196
+Tartarus~
+The darkness seems to end abrubtly towards the north, huge iron doors
+with multiple locks and cranks guard whatever is to the north.  Silence is
+the only thing that can be heard in this eerie underground prison block.  
+~
+0 8193 0
+D0
+~
+~
+0 0 201
+D2
+~
+~
+0 0 195
+S
+#197
+Prison cell~
+A very baren cell is here, with nothing much inside it.  The only thing
+visible is huge celestial bronze chains on the east wall, and a huge steel
+door to the west.  
+~
+0 8193 0
+D3
+~
+~
+0 0 194
+S
+#198
+Prison cell~
+A very baren cell is here, with nothing inside it but huge celestial
+bronze chains on the west wall.  A huge steel door can be seen west keeping
+whatever was ment to be inside here inside.  
+~
+0 8193 0
+D1
+~
+~
+0 0 194
+S
+#199
+Prison cell~
+A very baren cell is here, with nothing much inside it.  The only thing
+visible is huge celestial bronze chains on the east wall, and a huge steel
+door to the west.  
+~
+0 8193 0
+D3
+~
+~
+0 0 195
+S
+#200
+Prison cell~
+A very baren cell is here, with nothing inside it but huge celestial
+bronze chains on the west wall.  A huge steel door can be seen west keeping
+whatever was ment to be inside here inside.  
+~
+0 8193 0
+D1
+~
+~
+0 0 195
+S
+#201
+Extremly dark cell~
+Darkness takes on a new form inside the cell as time seems to slow down
+to nothing.  Huge celestial bronze chains can be seen on the northern wall. 
+~
+0 8193 0
+D2
+~
+~
+0 0 196
+S
+#202
+Before a cave~
+A large cave opens up to the north of the room.  All light seems to be
+getting sucked inside and strange sounds can be heard coming from inside. 
+Trees, and all signs of life seem to end twenty feet before the cave 
+~
+0 8192 0
+D0
+~
+~
+0 0 205
+S
+#203
+A tunnel~
+The tunnel seems to open up more to the north leading into darkness,
+while the up exit leads to a less dark version of the cave.  Strange noises
+seem to be coming from the north exit of the room 
+~
+0 8193 0
+D0
+~
+~
+0 0 153
+D4
+~
+~
+0 0 204
+S
+#204
+A tunnel~
+A dark tunnel leads to the different levels of the cave.  Strange noises
+seem to be louder down, while life seems to be coming from above.  
+~
+0 8193 0
+D4
+~
+~
+0 0 152
+D5
+~
+~
+0 0 203
+S
+#205
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8193 0
+D0
+~
+~
+0 0 206
+D2
+~
+~
+0 0 202
+S
+#206
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8193 0
+D1
+~
+~
+0 0 207
+D2
+~
+~
+0 0 205
+S
+#207
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8193 0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 208
+D3
+~
+~
+0 0 206
+S
+#208
+A dark cave~
+A light seems to have been sucked away from this room, howling and screaming can be heard in the distance.
+~
+0 8193 0
+D0
+~
+~
+0 0 150
+D3
+~
+~
+0 0 207
+S
+#209
+A dark cave~
+A light seems to have been sucked away from this room, howling and
+screaming can be heard in the distance.  
+~
+0 8193 0
+D2
+~
+~
+0 0 207
+S
+#210
+Before a blackened river~
+A large river is to the north, while obsidian guides a path to the south.
+The river is there, but its not.  Instead of water guiding the current small
+objects can be seen floating inside the river.  It's said to be the hopes
+and dreams of mortal lives killed before they could happen.  
+~
+0 8192 0
+D2
+~
+~
+0 0 168
+S
+#211
+On the river Styx~
+Floating along the river, teddy bears, wedding rings, flowers, and other
+things missed in life float by.  A huge gate is becoming visible to the
+west, and darkness to the south.  
+~
+0 8193 0
+D3
+~
+~
+0 0 212
+S
+#212
+On the river Styx~
+Floating along the river, teddy bears, wedding rings, flowers, and other
+things missed in life float by.  A huge gate is becoming visible to the
+west, and darkness to the southeast.  
+~
+0 8193 0
+D1
+~
+~
+0 0 211
+D3
+~
+~
+0 0 169
+S
+#213
+Before the entrance to Erebus~
+~
+0 8193 0
+D0
+~
+~
+0 0 214
+D2
+~
+~
+0 0 171
+S
+#214
+Entrance to the Fields of Asphodel~
+~
+0 8193 0
+D0
+~
+~
+0 0 215
+D2
+~
+~
+0 0 213
+S
+#215
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 216
+D2
+~
+~
+0 0 214
+S
+#216
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 219
+D1
+~
+~
+0 0 217
+D2
+~
+~
+0 0 215
+D3
+~
+~
+0 0 218
+S
+#217
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 220
+D3
+~
+~
+0 0 216
+S
+#218
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 221
+D1
+~
+~
+0 0 216
+S
+#219
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 222
+D1
+~
+~
+0 0 220
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 221
+S
+#220
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 223
+D2
+~
+~
+0 0 217
+D3
+~
+~
+0 0 219
+S
+#221
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8197 0
+D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 219
+D2
+~
+~
+0 0 218
+S
+#222
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8197 0
+D0
+~
+~
+0 0 225
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 219
+D3
+~
+~
+0 0 224
+S
+#223
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 226
+D2
+~
+~
+0 0 220
+D3
+~
+~
+0 0 222
+S
+#224
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 227
+D1
+~
+~
+0 0 222
+D2
+~
+~
+0 0 221
+S
+#225
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 172
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 222
+D3
+~
+~
+0 0 227
+S
+#226
+Fields of Asphodel~
+The black Asphodel trees seem to break up to the east revealing a path
+that leads to a reddish glow.  Ash grey fields of grass still line the
+landscape, and countless souls bump into each other as if trying to find
+someone they know.  
+~
+0 8193 0
+D0
+~
+~
+0 0 173
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 223
+D3
+~
+~
+0 0 225
+S
+#227
+Fields of Asphodel~
+Black Asphodel trees seem to go on forever over ash grey fields of grass.
+Numerous souls seem to wander around in a daze as if trying to remember who
+they are.  The fields stretch on endlessly it seems inspiring no hope to
+escape.  
+~
+0 8193 0
+D0
+~
+~
+0 0 174
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 224
+S
+#228
+Path of Diamonds~
+Asphodel lies to the west, and a path made entirely out of diamonds leads
+east.  Large black rock entraps travelers onto the path leaving only east
+and west as the only directions available.  Screaming can be heard coming
+from the east, and the sounds of shuffling from the west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 229
+D3
+~
+~
+0 0 226
+S
+#229
+Path of Diamonds~
+A path made entirely of diamons leads east and west.  Screaming and
+shouting can be heard coming from the north.  Large mountains of black
+obsidian block travel east and south, making east and west the only possible
+path.  
+~
+0 8193 0
+D0
+~
+~
+0 0 230
+D3
+~
+~
+0 0 228
+S
+#230
+Path of Diamonds~
+Large obsidian hills block travel east and west, leaving only north and
+south travelable.  A path made out of numerous diamonds leads to the north
+and south.  Screaming and laughing can be heard coming from the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 231
+D2
+~
+~
+0 0 229
+S
+#231
+Path of Diamonds~
+Large obsidian hills block the travel north and west, leaving only east
+and south travelable.  To the east a large gate is approaching glowing a
+fire hot red as if it the gate is made of molten metal.  A pathway of
+numerous diamonds line the ground to the east and south.  
+~
+0 8193 0
+D1
+~
+~
+0 0 232
+D2
+~
+~
+0 0 230
+S
+#232
+Path of Diamonds~
+A path of Diamonds end to the east as a large gate rises, to the west the
+path goes on leading through large walls of obsidian.  Screaming and yelling
+can be heard from the east as flames erupt throughout the endless cavern.  
+~
+0 8193 0
+D1
+~
+~
+0 0 233
+D3
+~
+~
+0 0 231
+S
+#233
+Entrance to Fields of Punishment~
+A large gates is closed to the east, and a path of diamons begins to the
+west.  Screaming and howlering can be heard coming from the east and
+tormented souls repay their crimes in the afterlife.  Huge fires erupt from
+the east lighting up the seemingly endless cave 
+~
+0 8193 0
+D1
+~
+~
+0 0 234
+D3
+~
+~
+0 0 232
+S
+#234
+Fields of Punishment~
+Large craters lay everywhere with rivers of lava that lead to endless
+darkness.  People can be seen being tortured in a variety of ways
+unimaginable.  A large mountain can be seen where a single soul pushes a
+boulder endlessly up to the peak.  
+~
+0 8193 0
+D0
+~
+~
+0 0 235
+D2
+~
+~
+0 0 236
+D3
+~
+~
+0 0 233
+S
+#235
+Fields of Punishment~
+Rivers of lava can be seen below makeshift bridges that lead east and
+south.  Hell-hounds can be seen running around eating the fallen souls of
+people being tortured.  A large mountain looms to the southwest inside this
+huge cavern.  
+~
+0 8193 0
+D1
+~
+~
+0 0 242
+D2
+~
+~
+0 0 234
+S
+#236
+Fields of Punishment~
+Rivers of lava boil below the makeshift bridges leading north and east. 
+On pieces of land people seem to be undergoing torture and torment.  Screams
+can be heard throughout the fields in a eerie melody.  
+~
+0 8193 0
+D0
+~
+~
+0 0 234
+D1
+~
+~
+0 0 237
+S
+#237
+Fields of Punishment~
+Rivers of lava boil below the makeshift bridges leading west and east. 
+On pieces of land people seem to be undergoing torture and torment.  Screams
+can be heard throughout the fields in a eerie melody.  
+~
+0 8193 0
+D1
+~
+~
+0 0 238
+D3
+~
+~
+0 0 236
+S
+#238
+Fields of Punishment~
+Rivers of lava boil below the makeshift bridges leading west and north. 
+On pieces of land people seem to be undergoing torture and torment.  Screams
+can be heard throughout the fields in a eerie melody.  
+~
+0 8193 0
+D0
+~
+~
+0 0 239
+D3
+~
+~
+0 0 237
+S
+#239
+Fields of Punishment~
+Large lakes of lava boil around a huge mountain making a moat.  Screaming
+can be heard throughout the fields and souls are tormented nonstop.  Fires
+erupt all around from demons, and other guards torture.  
+~
+0 8193 0
+D0
+~
+~
+0 0 240
+D1
+~
+~
+0 0 181
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 258
+S
+#240
+Fields of Punishment~
+Rivers of lava boil below the makeshift bridges leading west, north and
+south.  On pieces of land people seem to be undergoing torture and torment. 
+Screams can be heard throughout the fields in a eerie melody.  
+~
+0 8193 0
+D0
+~
+~
+0 0 243
+D2
+~
+~
+0 0 239
+D3
+~
+~
+0 0 241
+S
+#241
+Fields of Punishment~
+Rivers of lava can be seen below makeshift bridges that lead east and
+west.  Hell-hounds can be seen running around eating the fallen souls of
+people being tortured.  A large mountain looms to the south inside this huge
+cavern.  
+~
+0 8193 0
+D1
+~
+~
+0 0 240
+D3
+~
+~
+0 0 242
+S
+#242
+Fields of Punishment~
+Rivers of lava can be seen below makeshift bridges that lead east and
+west.  Hell-hounds can be seen running around eating the fallen souls of
+people being tortured.  A large mountain looms to the south inside this huge
+cavern.  
+~
+0 8193 0
+D1
+~
+~
+0 0 241
+D3
+~
+~
+0 0 235
+S
+#243
+Path of Rubies~
+A path of rubies begins and leads down leaving the fields of punishment
+behind.  Large obsidian walls block travel to the east, west, and north
+leaving south and down as the only directions available.  Souls try to
+wander upto you but seem blocked by some invisible force.  
+~
+0 8193 0
+D2
+~
+~
+0 0 240
+D5
+~
+~
+0 0 244
+S
+#244
+Path of Rubies~
+A tunnel of chared ashwood leads up, and down.  Screaming can be heard
+coming from above, as nothing can be heard coming from below.  A path of
+rubies guides you to whichever direction you find suitable.  
+~
+0 8193 0
+D4
+~
+~
+0 0 243
+D5
+~
+~
+0 0 245
+S
+#245
+Path of Rubies~
+Screaming and howlering can be heard coming from above as the path of
+rubies leads up, and west.  A tunnel made out of chared ashwood trees leads
+travelers up towards the screaming.  
+~
+0 8193 0
+D3
+~
+~
+0 0 246
+D4
+~
+~
+0 0 244
+S
+#246
+Path of Rubies~
+A path of rubies leads east, and west.  Off to the west a structure is
+becoming visible, and to the east a tunnel leads up.  Huge walls of granite
+keep travelers on path as they head around.  
+~
+0 8193 0
+D1
+~
+~
+0 0 245
+D3
+~
+~
+0 0 247
+S
+#247
+Path of Rubies~
+A huge palace made entirely out of obsidian comes up to the west as the
+path of rubies leads east and west.  Screaming from the east seems to be
+getting farther and farther down the path.  
+~
+0 8193 0
+D1
+~
+~
+0 0 246
+D3
+~
+~
+0 0 248
+S
+#248
+Before an Obsidian palace~
+A path of rubies leads to the east, as a giant gate looms to the west.  A
+huge palace made out of obsidian itself is to the west towering the cavern. 
+Screams and howlering seem to have died down at the structure.  
+~
+0 8193 0
+D0
+~
+~
+4 0 249
+D1
+~
+~
+0 0 247
+S
+#249
+Inside a courtyard~
+Inside the courtyard, beautiful looking trees can be seen west, and a
+door north.  Yellow grass grows below your feet, and the stench of death is
+everywhere.  Nothing but silence can be heard around here.  
+~
+0 8193 0
+D0
+~
+~
+0 0 250
+D1
+~
+~
+0 0 252
+D2
+~
+~
+4 0 251
+D3
+~
+~
+0 0 253
+S
+#250
+Inside a courtyard~
+Inside the courtyard, beautiful looking trees can be seen southwest, and
+a large ivory colored door faces north.  Silence is the dominating thing
+being heard around here as not a living soul can be seen anywhere.  
+~
+0 8193 0
+D0
+~
+~
+3 153 264
+D1
+~
+~
+0 0 257
+D2
+~
+~
+0 0 249
+S
+#251
+Inside a courtyard~
+~
+0 8192 0
+D0
+~
+~
+0 0 249
+S
+#252
+Inside a courtyard~
+Inside the courtyard, beautiful pomegranate trees can be seen west, and a
+door northeast.  Silence dominates the surroundings, as darkness overtakes. 
+Yellow grass grows below foot as the life-force of everything sucks away.  
+~
+0 8193 0
+D0
+~
+~
+0 0 257
+D3
+~
+~
+0 0 249
+S
+#253
+Pomegranate Garden~
+Beautiful Pomegranate trees can be seen growing in the garden section of
+the castle.  Large rubies and diamonds the size of a human fist can be seen
+poking up from the yellow grass below your feet.  Small black flowers line a
+path that leads north, east, west, south, and out of the garden west.  
+~
+0 532481 0
+D0
+~
+~
+0 0 254
+D1
+~
+~
+0 0 249
+D2
+~
+~
+0 0 255
+D3
+~
+~
+0 0 256
+S
+#254
+Pomegranate Garden~
+Beautiful Pomegranate trees can be seen growing in the garden section of
+the castle.  Large rubies and diamonds the size of a human fist can be seen
+poking up from the yellow grass below your feet.  
+~
+0 532481 0
+D2
+~
+~
+0 0 253
+S
+#255
+Pomegranate Garden~
+Beautiful Pomegranate trees can be seen growing in the garden section of
+the castle.  Large rubies and diamonds the size of a human fist can be seen
+poking up from the yellow grass below your feet.  
+~
+0 532481 0
+D0
+~
+~
+0 0 253
+S
+#256
+Pomegranate Garden~
+Beautiful Pomegranate trees can be seen growing in the garden section of
+the castle.  Large rubies and diamonds the size of a human fist can be seen
+poking up from the yellow grass below your feet.  
+~
+0 532481 0
+D1
+~
+~
+0 0 253
+S
+#257
+Inside a courtyard~
+A door can be seen to the east inside the courtyard, and trees can be
+seen southwest.  Yellow grass grows underfoot inside the accursed castle
+courtyard.  
+~
+0 8193 0
+D2
+~
+~
+0 0 252
+D3
+~
+~
+0 0 250
+S
+#258
+Before a huge mountain~
+A huge mountain looms above made out of pure Ruby.  A large boulder can
+be seen above towards the peek of the mountain.  Screams can be heard
+echoing throughout the fields from endless ammounts of torture.  
+~
+0 8193 0
+D1
+~
+~
+0 0 239
+D4
+~
+~
+0 0 259
+S
+#259
+On a huge mountain~
+A huge mountain of pure ruby leads east and down as it stretches above. 
+As one heads up the mountain all the fields of punishment can be seen, the
+ammount of souls seems endless as cries of agony and pain are heard
+throughout.  
+~
+0 8193 0
+D1
+~
+~
+0 0 260
+D5
+~
+~
+0 0 258
+S
+#260
+On a huge mountain~
+A huge mountain of pure ruby leads west and up as it stretches above.  As
+one heads up the mountain all the fields of punishment can be seen, the
+ammount of souls seems endless as cries of agony and pain are heard
+throughout.  
+~
+0 8193 0
+D3
+~
+~
+0 0 259
+D4
+~
+~
+0 0 261
+S
+#261
+On a huge mountain~
+The huge ruby mountain seems to be coming to an end to the west.  A huge
+boulder can be seen here with a large chain roped around it for some poor
+soul to have to push up the mountain endlessly.  The fields of punishment
+lie below the mountain with the souls being tortured.  
+~
+0 8193 0
+D3
+~
+~
+0 0 262
+D5
+~
+~
+0 0 260
+S
+#262
+On a huge mountain~
+The peak of the mountain can be seen up, and west a huge boulder can be
+seen.  This high up the rivers of lava from the fields of punishment seem to
+form a huge smiling skull giving the place an eerie quality to it even for
+the faint of heart.  
+~
+0 8193 0
+D1
+~
+~
+0 0 261
+D4
+~
+~
+0 0 263
+S
+#263
+Mountain peak~
+The peak of the mountain has seem to be cut off revealing a flat
+platform.  Bones litter the floor of the mountain posing the question of
+what was eating who?  The only parts of the cavern that are visible are a
+couple sections here and there where the darkness doesnt blanket it.  
+~
+0 8193 0
+D5
+~
+~
+0 0 262
+S
+#264
+Entryway of a castle~
+A door is visible on the south wall leading outside of the castle.  To
+the north, a large dark hallway stretches on almost pawing for you to come
+forward.  Empty rusty chains hang from the walls on the east and west side
+of the room.  
+~
+0 8193 0
+D0
+~
+~
+0 0 265
+D2
+~
+~
+3 0 250
+S
+#265
+Hallway~
+The hallway stretches on north, and south.  A three way crossing can be
+seen coming up north, and a door is visible south.  Rusty manacles hang on
+the walls to your left and right.  
+~
+0 8193 0
+D0
+~
+~
+0 0 281
+D2
+~
+~
+0 0 264
+S
+#266
+Hallway~
+The hallway is made up as a triangle with each side having a doorway. 
+The three different doorways are all made out of different substances.  To
+the north is bone, to the east is made out of corpses, and to the west
+strangly is made out of grass, and flowers.  
+~
+0 8196 0
+D0
+~
+~
+1 0 267
+D1
+~
+~
+1 0 268
+D3
+~
+~
+1 0 269
+S
+#267
+Hallway of {8Bo{xn{8e{x~
+A hallway made entirely out of human remains leads to the north.  A
+matching door is attached on the wall to the south.  A throne can be seen
+far off north.  
+~
+0 8197 0
+D0
+~
+~
+0 0 277
+D2
+~
+~
+1 0 266
+S
+#268
+Hallway of {6De{8at{6h{x~
+A door made out of human skin leads out to the hallway to the west.  The
+walls of the hallway seem to be made out of human dreams, and ambitions.  As
+you walk buy you see children holding hands with parents, a woman being wed
+to another man, and a man graduation from college.  
+~
+0 8197 0
+D1
+~
+~
+0 0 270
+D3
+~
+~
+1 0 266
+S
+#269
+Hallway of {2L{3if{2e{x~
+A door made out of grass, and flowers leads out to the east, as the
+hallway that seems almost dug out of the earth itself leads west.  A large
+throne can be seen far off to the west.  
+~
+0 8196 0
+D1
+~
+~
+1 0 266
+D3
+~
+~
+0 0 273
+S
+#270
+Hallway of {6D{8ea{6th{x~
+Images of human dreams, and ambitions play on the surrounding walls, and
+seem to almost blend into sheetrock and carpet underfoot.  A large desk can
+be seen far east, and a door to the west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 271
+D3
+~
+~
+0 0 268
+S
+#271
+Hallway of {6Dea{8th{x~
+The hallway seems to be made out of sheetrock, and carpet leading east. 
+To the west its almost like a movie is playing on the surrounding walls,
+showing random images.  To the east a large desk can be seen inside the
+middle of the room 
+~
+0 8193 0
+D1
+~
+~
+0 0 272
+D3
+~
+~
+0 0 270
+S
+#272
+Office of {6D{8ea{6t{8h{x~
+Inside the room, a large obsidian desk sits in the middle of the room.  A
+huge stack of papers seems to almost collapse on the top of the desk.  Maps,
+and globes line around the room surrounding the desk, and almost making this
+feel like an office.  A hallway leads outside the room to the west.  
+~
+0 8197 0
+D3
+~
+~
+0 0 271
+S
+#273
+Hallway of {2Li{3fe{x~
+The hallway seems entirely made out of earth.  The walls almost appear to
+be a tunnel since dirt is surrounding on the walls and ceiling.  The floor
+of the hallway is made entirely out of grass, with small purple flowers
+guiding the sides.  
+~
+0 8196 0
+D1
+~
+~
+0 0 269
+D3
+~
+~
+0 0 274
+S
+#274
+Hallway of {2L{3ife{x~
+The hallway seems entirely made out of earth.  The walls almost appear to
+be a tunnel since dirt is surrounding on the walls and ceiling.  The floor
+of the hallway is made entirely out of grass, with small purple flowers
+guiding the sides.  
+~
+0 8196 0
+D1
+~
+~
+0 0 273
+D3
+~
+~
+0 0 275
+S
+#275
+Hallway of {2L{3if{2e{x~
+The hallway seems entirely made out of earth.  The walls almost appear to
+be a tunnel since dirt is surrounding on the walls and ceiling.  The floor
+of the hallway is made entirely out of grass, with small purple flowers
+guiding the sides.  A large throne is coming up very quick to the west.  
+~
+0 8196 0
+D1
+~
+~
+0 0 274
+D3
+~
+~
+0 0 276
+S
+#276
+Throne of {2Li{3f{2e{x~
+A throne made out of basically a tree sits in the middle of the room. 
+Leaves and flowers bloom and wither continiously around the room.  Wreathers
+of laurels hang from the white marble walls surrounding the throne, and a
+hallway leads out of the throne room to the east.  
+~
+0 8192 0
+D1
+~
+~
+0 0 275
+S
+#277
+Hallway of {xB{8on{xe~
+The walls, and ceiling of the hallway are made out of human bones.  The
+floor has helmets, shields, swords, and other pieces of adventures
+treasures.  A throne can be seen coming up to the north.  
+~
+0 8197 0
+D0
+~
+~
+0 0 278
+D2
+~
+~
+0 0 267
+S
+#278
+Hallway of {8Bo{xne{x~
+The walls, and ceiling of the hallway are made out of human bones.  The
+floor has helmets, shields, swords, and other pieces of adventures
+treasures.  A throne can be seen coming up to the north.  
+~
+0 8197 0
+D0
+~
+~
+0 0 279
+D2
+~
+~
+0 0 277
+S
+#279
+Hallway of {8Bon{xe{x~
+The walls, and ceiling of the hallway are made out of human bones.  The
+floor has helmets, shields, swords, and other pieces of adventures
+treasures.  A throne can be seen coming up to the north.  
+~
+0 8197 0
+D0
+~
+~
+0 0 280
+D2
+~
+~
+0 0 278
+S
+#280
+Throne of {8B{xon{8e{x~
+A throne made entirely out of human bones lies in the middle of the room.
+Numerous statues surround the throne, as if in honor of the owner of the
+throne.  All the skulls on the throne seem to be staring at you, almost
+waiting for you to make a move.  
+~
+0 8197 0
+D2
+~
+~
+0 0 279
+S
+#281
+Before a brazier~
+A large celestial bronze brazier burns brightly on the northern wall, as
+a hallway stretches on east, and west.  To the east side nothing but empty
+darkness can be seen.  To the west, a brightly lit hallway stretches on.  
+~
+0 8193 0
+D1
+~
+~
+0 0 282
+D2
+~
+~
+0 0 265
+D3
+~
+~
+0 0 285
+S
+#282
+{8Dark{x hallway~
+A plain dark hallway stretches east, and west.  A brazier can be seen
+burning bright west, and nothing can be seen east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 283
+D3
+~
+~
+0 0 281
+S
+#283
+{8Dark{x hallway~
+A brazier can be faintly seen burning west, as the dark hallway stretches
+on aimlessly.  The darkness is so thick in this part of the hallway, it
+seems like something or someone is choking the life out of everything inside
+the room.  
+~
+0 8193 0
+D0
+~
+~
+0 0 284
+D3
+~
+~
+0 0 282
+S
+#284
+{8Dark{x hallway~
+Nothing is visible inside this room, the only thing that keeps anyone
+from bumping their heads on the walls is lidless eyes on the walls keeping
+watch.  
+~
+0 8193 0
+D0
+~
+~
+0 0 288
+D2
+~
+~
+0 0 283
+S
+#285
+{#Light{x hallway~
+Green-flamed torches burn brightly on the walls as the hallway leads on
+east, and west.  Bright green carpet can be seen covering the floor and
+leading on down the hallway.  To the east a brazier can be seen burning
+brightly almost fighting the hallway for power over the light.  
+~
+0 8192 0
+D1
+~
+~
+0 0 281
+D3
+~
+~
+0 0 286
+S
+#286
+{#Light{x hallway~
+Green carpet leads north, and east inside the hallway.  Blank white
+marble walls make up the room with golden torch holders.  The torches burn
+an almost ultraviolet green color.  To the east a brazier can be faintly
+seen fighting the hallway for control.  
+~
+0 8192 0
+D0
+~
+~
+0 0 287
+D1
+~
+~
+0 0 285
+S
+#287
+{#Light{x hallway~
+Green carpet leads the hallway on north, and south.  On the walls bright
+green burning torches light the way on blank white marble walls.  
+~
+0 8192 0
+D0
+~
+~
+0 0 290
+D2
+~
+~
+0 0 286
+S
+#288
+{8Dark{x hallway~
+Darkness seems neverending as the hallways leads south and west.  But to
+the west light can be seen coming up fast, as finally the darkness seems to
+have an end.  
+~
+0 8193 0
+D2
+~
+~
+0 0 284
+D3
+~
+~
+0 0 289
+S
+#289
+Well-lit room~
+The stuggle between light and darkness seems to be at a perfect balance
+inside this room.  No shadow can be seen inside the room, as no glare can be
+visible from here.  To the west a bright hallway leads on, and to the east
+neverending darkness can be seen.  
+~
+0 8192 0
+D0
+~
+~
+0 0 291
+D1
+~
+~
+0 0 288
+D3
+~
+~
+0 0 290
+S
+#290
+{#Light{x hallway~
+Bright burning green torches end to the east, but give off just enough
+light to help illuminate the next room over.  Green carpet leads south and
+partly east stopping before the room as well.  
+~
+0 8192 0
+D1
+~
+~
+0 0 289
+D2
+~
+~
+0 0 287
+S
+#291
+Hallway~
+A well-lit room can be seen south, and a set of stairs that descend into
+darkness to the north.  The hallway contains nothing, and just seems to be
+used to transport people between parts of the castle.  
+~
+0 8193 0
+D0
+~
+~
+0 0 292
+D2
+~
+~
+0 0 289
+S
+#292
+End of the hallway~
+The hallway seems to end before a set of dark mahogany stairs that lead
+down.  The bricks that make up the north wall almost seem to smile above the
+stairs.  
+~
+0 8193 0
+D2
+~
+~
+0 0 291
+D5
+~
+~
+0 0 293
+S
+#293
+Dungeons~
+Blood stained walls guide travelers north, as stairs lead up.  Screaming,
+and crying can be heard from what seems to be every direction.  The smell of
+sulfur and burnt flesh overwhelms the area.  
+~
+0 8193 0
+D0
+~
+~
+0 0 294
+D4
+~
+~
+0 0 292
+S
+#294
+Dungeon~
+Inside the dungeon, rats skitter around wildly looking for prey. 
+Screaming and howlering can be heard from every direction as blood seems to
+flow from multiple spots on the floor.  
+~
+0 8197 0
+D0
+~
+~
+0 0 296
+D1
+~
+~
+0 0 295
+D2
+~
+~
+0 0 293
+S
+#295
+Deathly void~
+Inside the room numerous torture devices can be seen set up.  Skeletons
+litter the room in piles as does piles of flesh and organs.  Blood soaked
+bags hang from hooks all around the room with labels of random body parts on
+them.  
+~
+0 532481 0
+D3
+~
+~
+0 0 294
+S
+#296
+Dungeon~
+Blood flows out of the room to the east and pools around your feet. 
+Screaming and loud howlering can be heard being eminated from the east as
+well.  Blood stained walls guide people north, and south.  
+~
+0 8193 0
+D0
+~
+~
+0 0 298
+D1
+~
+~
+0 0 297
+D2
+~
+~
+0 0 294
+S
+#297
+Unbearable torment~
+Large pits of flame number the floor, burnt corpses lie about in random
+spots.  Crying and screaming can be heard everywhere inside this room. 
+Mangled prisoners run around crying for mercy as many demons sit laughing
+from the punishment.  Blood seems to flow out of the room in rivers from the
+countless people.  
+~
+0 532481 0
+D3
+~
+~
+0 0 296
+S
+#298
+Dungeon~
+Blood stained walls lead on north and south.  To the south screaming and
+crying can be heard loudly, and to the north nothing.  
+~
+0 8193 0
+D0
+~
+~
+0 0 299
+D2
+~
+~
+0 0 296
+S
+#299
+Before the end~
+The dungeon stretches on to the south as blood stained walls begin to
+lead people south.  To the north nothing can be seen but a final gate of
+darkness, almost giving hope that something is almost done.  
+~
+0 8193 0
+D0
+~
+~
+0 0 266
+D2
+~
+~
+0 0 298
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 248 0 2 The north door of Before an Obsidian palace is closed and locked
+D 0 249 2 2 The south door of Inside a courtyard is closed and locked
+D 0 250 0 2 The north door of Inside a courtyard is closed and locked
+D 0 264 2 2 The south door of Entryway of a castle is closed and locked
+D 0 266 0 1 The north door of Hallway is closed
+D 0 266 1 1 The east door of Hallway is closed
+D 0 266 3 1 The west door of Hallway is closed
+D 0 267 2 1 The south door of Hallway of {8Bo{xn{8e{x is closed
+D 0 268 3 1 The west door of Hallway of {6De{8at{6h{x is closed
+D 0 269 1 1 The east door of Hallway of {2L{3if{2e{x is closed
+M 0 151 1 158 1 *Load Tormented Soul
+M 0 155 2 173 15 *Load {8Ghoul{x
+M 0 154 1 173 30 *Load Helpless soul
+M 0 155 1 174 15 *Load {8Ghoul{x
+M 0 154 2 178 30 *Load Helpless soul
+M 0 155 1 179 30 *Load {8Ghoul{x
+M 0 154 2 179 30 *Load Helpless soul
+M 0 155 1 180 30 *Load {8Ghoul{x
+M 0 153 1 183 15 *Load {1Im{6pish{x {1Bea{6st{x
+M 0 152 3 184 30 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 154 2 184 30 *Load Helpless soul
+M 0 153 2 185 15 *Load {1Im{6pish{x {1Bea{6st{x
+M 0 154 2 186 30 *Load Helpless soul
+M 0 152 2 186 15 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 153 2 188 15 *Load {1Im{6pish{x {1Bea{6st{x
+M 0 152 1 188 15 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 150 1 210 1 *Load Chiron
+M 0 155 2 215 15 *Load {8Ghoul{x
+M 0 154 2 217 30 *Load Helpless soul
+M 0 154 2 218 30 *Load Helpless soul
+M 0 155 1 219 15 *Load {8Ghoul{x
+M 0 155 1 223 15 *Load {8Ghoul{x
+M 0 154 2 223 30 *Load Helpless soul
+M 0 154 1 226 30 *Load Helpless soul
+M 0 154 2 227 30 *Load Helpless soul
+M 0 154 2 236 30 *Load Helpless soul
+M 0 153 2 237 15 *Load {1Im{6pish{x {1Bea{6st{x
+M 0 152 2 237 15 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 154 2 238 30 *Load Helpless soul
+M 0 153 2 239 15 *Load {1Im{6pish{x {1Bea{6st{x
+M 0 152 2 239 15 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 154 2 240 30 *Load Helpless soul
+M 0 152 1 240 15 *Load {1He{!ll{3H{8ou{3nd{x
+M 0 154 1 242 30 *Load Helpless soul
+M 0 153 3 242 15 *Load {1Im{6pish{x {1Bea{6st{x
+O 0 151 0 253 *{!po{8me{!gran{8ate{x {2tree{x loaded to Pomegranate Garden
+P 0 150 1 151 1 *{!po{8me{!gran{8ate{x put inside {!Po{8me{!gran{8ate{x
+M 0 159 1 261 1 *Load Sisyphus
+M 0 158 1 272 1 *Load Than{8atos{x
+M 0 157 1 276 1 *Load Queen {2Pe{7rse{2ph{xon{2e{x
+G 0 152 0 *{#da{@isy{x key is given to Queen {2Pe{7rse{2ph{xon{2e{x
+M 0 156 1 280 1 *Load {x{1H{8ad{1es{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#150
+say Chiron always wants something...here give this to him and he should let you across.
+mob oload 155
+give copper $n
+~
+#151
+say NO ONE SHALL ENTER FOR FREE
+spit $n
+mob echo
+~
+#152
+say Even the dead have debts to pay..you think i bought these robes with good looks? even ferry-men need to get paid.
+grin $n
+~
+#153
+smile
+say very well, you shall enter the river styx.
+mob transfer $n 211
+mob echo
+~
+#154
+if rand 25
+mob oload 154
+else
+if rand 25
+mob oload 157
+else
+if rand 25
+mob oload 156
+else rand 25
+mob award $n 1000 exp group
+endif
+endif
+endif
+endif
+~
+#155
+if rand 50
+mob oload obj 158
+else
+if rand 25
+mob oload 159
+else
+if random 15
+mob oload 160
+endif
+endif
+endif
+~
+#156
+if rand 50
+mob oload 163
+else
+if rand 25
+mob oload 162
+else
+if rand 15
+mob oload 161
+endif
+endif
+endif
+~
+#157
+Say Ahhhhhhhh, the key of Hades himself eh? I dunno whats in it for me?
+~
+#158
+say FREEDOM!? FREEDOM!? I ESCAPED THE UNDERWORLD OVER 15 TIMES!
+mob delay 2
+say But the thought of not rolling this boulder up this mountain is very intriguing.
+say Very well, I need you to collect some things for to me be able to create the key.
+say Here's a list of what you need to collect for me.
+say And DONT get caught by one of the Furies with the list...it wont be pretty.
+say Once you have all the {^INGREDIENTS{5 come back and give them to me and let me know.{x
+~
+#159
+if level $n >= 101
+if carries $i 167
+if carries $i 166
+if carries $i 165
+say test
+mob echo 
+mob junk all
+mob oload 153 
+say test2
+give hades $n
+say key give test
+~
+#160
+say Pst! PST!
+say HEY YOU! OVER HERE! you looking for something? something you need to help 'unlock' this quest?
+~
+#161
+say Word around the afterlife is you're looking for something, something you need to finish this quest..
+say One would say...you're stuck without this...i might be able to help.
+ 
+~
+#162
+if rand 25
+mob oload 165
+endif
+~
+#0
+
+#$

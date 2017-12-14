@@ -1,0 +1,2886 @@
+#AREADATA
+Name City of Despair~
+Builders Reign~
+VNUMs 30400 30549
+Continent 1
+Mobtier 3
+Credits [  LGD ] Zyx/Reign City of Despair~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#30400
+gate guard~
+{7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x~
+{7A {8G{7a{8t{7e {8G{7u{8a{7r{8d{x stands here diligently watching the entrance.
+~
+~
+human~
+AB 0 0 -1000 0
+140 100 1d1+12000 10d10+100 50d20+40 none
+-25 -25 -25 -25
+TU 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+V 3
+A -1
+#30401
+A Sleep Guard.~
+{4a {*S{4l{*e{4p{*p{4y {*G{4u{*a{4r{*d{x~
+{4a {*S{4l{*e{4p{*p{4y {*G{4u{*a{4r{*d{x is here paying little attention to whom enters the city.
+~
+~
+human~
+ABT CDFGJ 0 0 0
+150 100 1d1+18000 0d0+0 70d5+50 none
+-10 -10 -10 -10
+CEFJKQ 0 0 0
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30402
+A small kid~
+{2A {3s{2m{3a{2l{3l {2k{3i{2d{x~
+{2A {3s{2m{3a{2l{3l {2k{3i{2d{x runs around in ragged clothes.
+~
+~
+human~
+AB Jc 0 800 0
+155 0 1d1+15000 40d9+100 50d10+40 flash
+-10 -10 -10 -10
+CFIU AB LQ 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30403
+A weak looking man~
+{7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x~
+{7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x walks around pointlessly.
+~
+~
+human~
+AB Y 0 0 0
+150 100 1d1+12500 10d10+100 50d10+50 none
+0 7 -7 -7
+0 0 0 0
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+V 3
+A -1
+#30404
+tired looking woman~
+{7A {^T{7i{^r{7e{^d{x Woman{x~
+{7A {^t{7i{^r{7e{^d{x woman{x walks around slowly.
+~
+~
+human~
+AB 0 0 0 0
+150 100 1d1+11000 10d10+100 50d10+50 thwack
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 900
+AHMV ABCDEFGHIJK medium unknown
+V 3
+A -1
+#30405
+Burly guard patrol~
+{7A {!B{#u{!r{#l{!y{x Guard{x~
+{7A {!b{#u{!r{#l{!y{x guard{x patrols the streets.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+11500 10d10+100 50d12+100 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30406
+homeless old lady sleeping~
+{7A {#hom{7el{#ess {8l{7a{8d{7y~
+{7A {#hom{7el{#ess {7o{8l{7d {8l{7a{8d{7y{x is here sleeping in the streets.
+~
+~
+human~
+AB 0 0 0 0
+150 100 1d1+12500 10d9+100 50d12+70 slap
+-10 -10 -10 -10
+0 0 0 0
+sleep sleep female 0
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30407
+mangy dog~
+{7A {1m{@a{1n{@g{1y{7 dog{x~
+{7A {1m{@a{1n{@g{1y{7 dog{x roams the streets.
+~
+~
+wolf~
+ABU VZ 0 0 0
+150 100 1d1+12500 10d9+100 52d10+25 bite
+-10 -10 -10 -10
+FH 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQV medium unknown
+V 3
+A -1
+#30408
+travelling merchant tall~
+A tall travelling merchant.~
+A tall travelling merchant stands before you haggling his wares.
+~
+~
+human~
+AB CDEFGJZ 0 0 0
+0 0 0d0+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#30409
+snotty looking woman~
+{7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x~
+{7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x walks around ignoring your existance.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+13500 1d1+500 50d10+70 slap
+-17 -17 -17 -17
+0 0 0 0
+stand stand female 1500
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+V 4
+A -1
+#30410
+rich noble man nobleman~
+{7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x~
+{7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x walks around admiring his wealth.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+14000 1d1+500 50d12+80 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30411
+guard commander frank~
+{#F{!r{&a{!n{#k {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x~
+{#F{!r{&a{!n{#k, {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x, stands here looking strong.
+~
+~
+human~
+AB 0 0 0 0
+175 100 1d1+15000 1d1+500 60d10+50 none
+-50 -50 -50 -50
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+#30412
+pickpocket young town~
+{8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x~
+{8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x stands here unnoticed.
+~
+~
+human~
+AGHS PQVa BNO 0 0
+150 100 1d1+15000 10d10+100 50d10+30 thwack
+0 0 0 0
+GHJ 0 D 0
+stand stand male 900
+AHMV ABCDEFGHIJK small unknown
+V 5
+A -1
+M FIGHT 30401 100~
+#30413
+crazy looking old man~
+{!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x~
+A {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x stands here looking nutty!
+~
+~
+human~
+AB CDFGVc 0 1000 0
+40 500 1d1+20000 0d0+0 6d6+18 none
+-50 -50 -50 -50
+DHJQ 0 D 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJK medium unknown
+V -1
+A -1
+#30414
+Bulky Palace Guard~
+Bulky Palace Guard~
+A Bulky Palace Guard stands here.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+14000 1d1+500 50d12+80 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+#30415
+Shameless Hussie~
+{%S{^ha{%mel{^es{%s Hu{&ss{%ie{x~
+The {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x stands here offering ALL of her services to you!
+~
+~
+human~
+AB 0 0 0 0
+150 100 1d1+14000 10d10+100 50d10+50 none
+-10 -10 -10 -10
+HIN E FLQ 0
+stand stand female 1200
+AMV ABCDEGHIJKL medium unknown
+F for H
+F par F
+V 4
+A -1
+#30416
+Maestra smelly potion lady~
+Maestra~
+Maestra stands before you reeking of cat urine.
+~
+~
+human~
+ABY DF 0 0 0
+140 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#30417
+Enraged Feral Hog~
+Enraged Feral Hog~
+An enraged feral hog stands here loyal to who will feed him the most.
+~
+~
+pig~
+AIT JVac 0 0 0
+75 0 1d1+2000 0d0+0 5d20+50 none
+-6 -6 -6 -6
+CDFHK EP 0 LQ
+stand stand male 0
+AGV ACDEFHJK medium unknown
+V -1
+A -1
+#30418
+factory worker~
+{8Fac{7tory Wor{8ker{x~
+A {8Fac{7tory Wor{8ker{x stands here working tirelessly.
+~
+~
+human~
+AB 0 0 0 0
+94 300 25d10+3500 0d0+0 6d6+150 pound
+0 0 0 0
+H 0 0 0
+stand stand none 0
+AMV ABCEFGHIJK medium unknown
+F for H
+F par D
+V -1
+A -1
+#30419
+Queen Larina~
+Queen Larina~
+A beautiful queen sits regally on a bench.
+~
+~
+human~
+AB 0 0 0 0
+180 125 1d1+11500 10d10+100 60d14+120 none
+-17 -17 -17 -17
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A 0
+#30420
+Princess Aribela~
+Princess Aribela~
+The princess sits quietly next to her mother.
+~
+~
+human~
+AB 0 0 -1000 0
+140 100 1d1+12000 10d10+100 50d20+40 none
+-25 -25 -25 -25
+TU 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+#30421
+King Arnester~
+King Arnester~
+The king sits upon his throne attending his subjects.
+~
+~
+human~
+AB 0 0 0 0
+180 125 1d1+11500 10d10+100 60d14+120 none
+-21 -21 -21 -21
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A -1
+#30422
+Lion Statue~
+Lion statue~
+A statue of a lion stands here watching the halls.
+~
+~
+wolf~
+ABU VZ 0 0 0
+150 100 1d1+12500 10d9+100 52d10+25 bite
+-10 -10 -10 -10
+FH 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQV medium unknown
+V 4
+A -1
+#30423
+Lamb Statue~
+Lamb statue~
+A statue of a lamb stands here watching the lion.
+~
+~
+wolf~
+ABU VZ 0 0 0
+150 100 1d1+12500 10d9+100 52d10+25 bite
+-10 -10 -10 -10
+FH 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQV medium unknown
+V 4
+A -1
+#30424
+Tubert~
+Tubert~
+Tubert hobbles around making potions like a crazy madman.
+~
+~
+human~
+AB CDFGVc 0 1000 0
+40 500 1d1+20000 0d0+0 6d6+18 none
+-50 -50 -50 -50
+DHJQ 0 D 0
+stand stand male 2147483647
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+#30425
+Crazy Gardener~
+Crazy Gardener~
+A crazy gardener walks around smelling large piles of manure.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+13500 1d1+500 50d10+70 slap
+-17 -17 -17 -17
+0 0 0 0
+stand stand female 1500
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+V 4
+A -1
+#30426
+Student~
+Student~
+A student sits here studying the scrolls and books.
+~
+~
+human~
+AB 0 0 0 0
+160 100 1d1+11000 10d9+100 50d12+70 slap
+-10 -10 -10 -10
+0 0 0 0
+sleep sleep female 0
+AHMV ABCDEFGHIJK medium unknown
+V 4
+A 0
+#30427
+tourist~
+tourist~
+A tourist is here enjoying the sights.
+~
+~
+human~
+AB 0 0 0 0
+94 300 25d10+3500 0d0+0 6d6+150 pound
+0 0 0 0
+H 0 0 0
+stand stand none 0
+AMV ABCEFGHIJK medium unknown
+F for H
+F par D
+V 1
+A 0
+#0
+
+
+
+#OBJECTS
+#30400
+simple healing pill~
+{&A simple {4h{6e{&ali{6n{4g {&pill.{x~
+{&A simple {4h{6e{&ali{6n{4g {&pill.{x~
+none~
+pill AY AO
+50 'mass healing' 'cure serious' 'refresh' 'refresh'
+40 0 2500 P
+#30401
+simple combat pill~
+{&A simple {#c{1o{&mb{1a{#t{& pill.{x~
+{&A simple {#c{1o{&mb{1a{#t{& pill.{x~
+unknown~
+pill AY AO
+50 'haste' 'giant strength' 'frenzy' 'haste'
+40 0 2500 P
+#30402
+simple defense pill~
+{&A simple {$d{2e{&fen{2s{$e{& pill.{x~
+{&A simple {$d{2e{&fen{2s{$e{& pill.{x~
+unknown~
+pill AY AO
+40 'armor' 'steel flesh' 'shield' 'stone skin'
+40 0 2500 P
+#30403
+blunt stick~
+a blunt stick.~
+An extremely long blunt stick.~
+unknown~
+weapon AHPSYZ AN
+exotic 10 20 thwack F
+101 0 0 P
+#30404
+portal rift~
+rift~
+{x~
+unknown~
+portal R 0
+0 KL A BCEFGHJKMNO 0
+0 0 0 P
+#30405
+basic guard sword~
+{xBasic Guard Sword{x~
+The guard's sword lies here worn and neglected.{x~
+unknown~
+weapon ABSY AN
+sword 30 1 slash A
+30 3 20000 P
+#30406
+Basic Sparring Flail~
+{xBasic Sparring Flail{x~
+A basic sparring flail lies here after its extensive use in training.~
+unknown~
+weapon ASY AN
+flail 30 1 crush E
+30 3 20000 P
+#30407
+basic shiv~
+{xBasic Shiv{x~
+A sharpened piece of metal lies here looking dangerously jagged.~
+unknown~
+weapon ASY AN
+dagger 30 1 pierce H
+30 3 20000 P
+#30408
+basic hatchet~
+{xBasic Hatchet{x~
+A small wooden handled hatchet lies here stuck in the ground.~
+unknown~
+weapon ASY AN
+axe 30 1 chop B
+30 3 20000 P
+#30409
+basic spiculum~
+{xBasic Spiculum{x~
+A long thing pole lies here with a sharpened stone tip on the end.~
+unknown~
+weapon ASY AN
+staff 30 1 thrust E
+30 3 20000 P
+#30410
+basic barbed mace~
+{xBasic Barbed Mace{x~
+A large barbed mace lies here buried in the dirt.~
+unknown~
+weapon ASY AN
+mace 30 1 crush C
+30 3 20000 P
+#30411
+basic knotted rope~
+{xBasic Knotted Rope{x~
+A length of rope lies tangled on the ground with a large knot on the end.~
+unknown~
+weapon ASY AN
+whip 30 1 acbite H
+30 3 20000 P
+#30412
+basic training lance~
+{xBasic Training Lance{x~
+A long wooden lance lies here barely sharpened on its tip.~
+unknown~
+weapon ASY AN
+polearm 30 1 pierce G
+30 3 20000 P
+#30413
+adequate warrior sword~
+{xan Adequate Warrior's Sword{x~
+A long slender sword lies here stuck into the ground tip first.~
+unknown~
+weapon ASY AN
+sword 10 10 frbite B
+50 5 50000 P
+#30414
+adequate rondel~
+{xan Adequate Rondel{x~
+A discarded rondel lies covered in dust on the ground.~
+unknown~
+weapon ASY AN
+dagger 10 10 pierce G
+50 5 50000 P
+#30415
+lethal misericorde~
+a Lethal Miscricorde~
+(no description)~
+unknown~
+weapon ASY AN
+dagger 10 13 stab E
+70 7 70000 P
+#30416
+adequate trident~
+an Adequate Trident{x~
+A trident lies here covered in blood.~
+unknown~
+weapon ASY AN
+staff 1 102 thrust B
+50 5 50000 P
+#30417
+lethal awl pike~
+a Lethal Awl Pike~
+A deadly looking pike stands here stabbed into the ground.~
+unknown~
+weapon ASY AN
+staff 10 13 charge G
+70 7 70000 P
+#30418
+lethal spatha~
+a Lethal Spatha~
+A long blade lies here demanding respect as you walk by.~
+unknown~
+weapon ASY AN
+sword 10 13 fury C
+70 7 70000 P
+#30419
+adequate war hammer~
+an Adequate War Hammer~
+A war hammer lies here discarded by its owner.~
+unknown~
+weapon ASY AN
+mace 1 102 crush H
+50 5 50000 P
+#30420
+lethal flanged mace~
+a Lethal Flanged Mace~
+A flanged mace await to crush its next victim's head.~
+unknown~
+weapon ASY AN
+mace 10 13 blast E
+70 7 70000 P
+#30421
+adequate adze~
+an Adequate Adze~
+A razor sharp adze is ready to split wood or your opponent.~
+unknown~
+weapon ASY AN
+axe 1 102 flbite A
+50 5 50000 P
+#30422
+lethal valaska~
+a Lethal Valaska~
+A sturdy valaska lies here ready to aid you.~
+unknown~
+weapon ASY AN
+axe 10 13 crush G
+70 7 70000 P
+#30423
+adequate flail~
+an Adequate Flail~
+A heavy stick is here with many chains hanging off awaiting to rip flesh.~
+unknown~
+weapon ASY AN
+flail 1 102 shbite G
+50 5 50000 P
+#30424
+lethal morning star~
+a Lethal Morning Star~
+A giant ball of spikes lays here radiating energy on the end of its chain.~
+unknown~
+weapon ASY AN
+flail 10 13 frbite B
+70 7 70000 P
+#30425
+adequate bullwhip~
+an Adequate Bullwhip~
+A long leather whip lays coiled ready to keep things moving.~
+unknown~
+weapon ASY AN
+whip 1 102 slash H
+50 5 50000 P
+#30426
+lethal cat o'nine~
+a Lethal Cat O'Nine Tails~
+A sadistic whip lays here pulsating a need to punish.~
+unknown~
+weapon ASY AN
+whip 10 13 slice A
+70 7 70000 P
+#30427
+Battle Elixir~
+battle Elixir~
+An elixir of Strength~
+unknown~
+potion 0 O
+101 'armor' 'giant strength' 'haste' 'reserved'
+101 0 20000 P
+#30428
+Elixir of Protection~
+elixir of healing~
+Elixir of healing~
+unknown~
+potion 0 0
+101 'mass invis' 'mass healing' 'mass healing' 'cure critical'
+101 0 10000 P
+#0
+
+
+
+#ROOMS
+#30400
+Approaching the City~
+You approach the once great gate of the City of Despair.  Years of
+conflict has slowly wore down this city and it is now nothing more than a
+ruin.  Guards stand here watching the gate keeping their rule absolute.  As
+their backs are turned you can easily sneak into this once grand city.  
+ 
+~
+0 8192 1
+D0
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 14514
+S
+#30401
+Vacant Lot~
+Your first steps in the city is met with mixed emotions.  In the distance
+there are sounds of laughter and song.  Much closer you can hear the sounds
+of children coughing, trash cans falling over, and many people conspiring
+under their breaths with one another.  The stone road is missing several
+pieces and the buildings around sway with the slightest breeze, you decide
+it's time to move on.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30410
+D1
+~
+~
+0 0 30418
+D2
+~
+~
+0 0 30400
+D3
+~
+~
+0 0 30402
+S
+#30402
+Burnt down house~
+A high wall blocks travel to the south.  The wall keeps you within the
+rule of the opressors.  People wander around aimlessly as if in a daze.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30409
+D1
+~
+~
+0 0 30401
+D3
+~
+~
+0 0 30403
+S
+#30403
+Vacant Lot~
+To the south is the wall keeping you within the rule of the opressors.  A
+guard stands here and looks you up and down trying to figure out your
+purpose in this town.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30408
+D1
+~
+~
+0 0 30402
+D3
+~
+~
+0 0 30404
+S
+#30404
+Abandoned House~
+Inside of this abandoned house the walls are still intact, but the roof
+is missing.  What was left of the furniture has been tore apart and used for
+firewood.  People huddle around the fireplace sharing what little bit of
+food they have and trying to stay warm.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30407
+D1
+~
+~
+0 0 30403
+D3
+~
+~
+0 0 30405
+S
+#30405
+Vacant Lot~
+This vacant lot is the corner of the easter and southern walls.  The lot
+has been used as a landfill.  Trash has been thrown everywhere.  The smell
+of rot and decay fills the air.  
+~
+0 8192 0
+D0
+~
+~
+0 0 30406
+D1
+~
+~
+0 0 30404
+S
+#30406
+Vacant Lot~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30407
+D2
+~
+~
+0 0 30405
+S
+#30407
+Burnt down house~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30408
+D2
+~
+~
+0 0 30404
+D3
+~
+~
+0 0 30406
+S
+#30408
+Entrance to the Alley~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 30420
+D1
+~
+~
+0 0 30409
+D2
+~
+~
+0 0 30403
+D3
+~
+~
+0 0 30407
+S
+#30409
+Burnt down house~
+Along the eastern wall the road splits and cracks under your weight.  To
+the west is the center of town and beggars come up to you asking from any
+spare money.  
+~
+0 0 0
+D1
+~
+~
+0 0 30410
+D2
+~
+~
+0 0 30402
+D3
+~
+~
+0 0 30408
+S
+#30410
+Vacant Lot~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 8192 0
+D1
+~
+~
+0 0 30411
+D2
+~
+~
+0 0 30401
+D3
+~
+~
+0 0 30409
+S
+#30411
+Burnt down house~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D1
+~
+~
+0 0 30412
+D2
+~
+~
+0 0 30418
+D3
+~
+~
+0 0 30410
+S
+#30412
+Entrance to the Alley~
+Along the eastern wall the road splits and cracks under your weight. 
+Roaches walk out from under the stones as you step on them, well what's left
+of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 30419
+D1
+~
+~
+0 0 30413
+D2
+~
+~
+0 0 30417
+D3
+~
+~
+0 0 30411
+S
+#30413
+Abandoned House~
+The northeast corner of the wall meets here as two people walk around
+aimlessly talking about the past and the golden age of the town.  To the
+west you can start to hear the sounds of happiness a little more clearly. 
+Buildings creak and moan as the residence that dwell in them move around.  
+~
+0 0 0
+D1
+~
+~
+0 0 30414
+D2
+~
+~
+0 0 30416
+D3
+~
+~
+0 0 30412
+S
+#30414
+Vacant Lot~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D2
+~
+~
+0 0 30415
+D3
+~
+~
+0 0 30413
+S
+#30415
+Vacant Lot~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 30414
+D3
+~
+~
+0 0 30416
+S
+#30416
+Burnt down house~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 30413
+D1
+~
+~
+0 0 30415
+D3
+~
+~
+0 0 30417
+S
+#30417
+Vacant Lot~
+The northern center of town is an odd place.  A transition from poverty
+and happiness is here.  Above you wine trickles down on your face and an
+abundance flows from the oppressors.  As you stand here you get a feeling of
+how bad this life must be for the orginal people of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30412
+D1
+~
+~
+0 0 30416
+D3
+~
+~
+0 0 30418
+S
+#30418
+Abandoned House~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 30411
+D1
+~
+~
+0 0 30417
+D3
+~
+~
+0 0 30401
+S
+#30419
+Dark Alleyway~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 30437
+D2
+~
+~
+0 0 30412
+S
+#30420
+Dark Alleyway~
+Along the northern wall people wander around trying to find an escape
+from the town.  The road itself is in poor condition and the buildings are
+falling apart around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 30421
+D2
+~
+~
+0 0 30408
+S
+#30421
+Slums of Despair~
+In the nortwest corner of town the two roads meet.  To the east is the
+northern wall and the faint sounds of happiness becoming louder.  
+~
+0 0 0
+D1
+~
+~
+0 0 30440
+D2
+~
+~
+0 0 30420
+D3
+~
+~
+0 0 30422
+S
+#30422
+Slums of Despair~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D0
+~
+~
+0 0 30423
+D1
+~
+~
+0 0 30421
+S
+#30423
+Slums of Despair~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A guard is here attempting to make his rounds.
+~
+0 0 0
+D0
+~
+~
+0 0 30424
+D2
+~
+~
+0 0 30422
+S
+#30424
+Slums of Despair~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A dog barks at you and attempts to bite at
+your leg trying to get an ounce of food.  
+~
+0 0 0
+D0
+~
+~
+0 0 30425
+D1
+~
+~
+0 0 30448
+D2
+~
+~
+0 0 30423
+D3
+~
+~
+0 0 30484
+S
+#30425
+Slums of Despair~
+Making your way up the western side of the town, the road has many holes
+and rodents crawling around.  The sun beats down on what is left of the
+tattered road.  
+~
+0 0 0
+D0
+~
+~
+0 0 30426
+D2
+~
+~
+0 0 30424
+S
+#30426
+Slums of Despair~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D1
+~
+~
+0 0 30427
+D2
+~
+~
+0 0 30425
+S
+#30427
+Slums of Despair~
+Making your way up the western side of the town the road has many holes
+and rodents crawling around.  A guard is here attempting to make his rounds.
+~
+0 0 0
+D1
+~
+~
+0 0 30428
+D3
+~
+~
+0 0 30426
+S
+#30428
+Dimly Lit Entrance to the Alley~
+Making your way up the western side of the town the road has many holes and rodents crawling around.
+~
+0 0 0
+D0
+~
+~
+0 0 30450
+D1
+~
+~
+0 0 30429
+D3
+~
+~
+0 0 30427
+S
+#30429
+Slums of Despair~
+At the corner of the south and west walls you feel extremely closed in. 
+A building that would have once stood strong slowly leans over towards the
+wall.  Bricks and trash scatter the ground as the towns citizens walk around
+without a purpose.  
+~
+0 0 0
+D1
+~
+~
+0 0 30430
+D2
+~
+~
+0 0 30445
+D3
+~
+~
+0 0 30428
+S
+#30430
+Dimly Lit Entrance to the Alley~
+To the south is the wall keeping you within the rule of the oppressors. 
+The western wall is seen in the distance and still nothing is getting any
+better.  The towns integrity is falling more and more as you progress and
+you're worried there may be little you can hope to accomplish here.  
+~
+0 0 0
+D0
+~
+~
+0 0 30473
+D1
+~
+~
+0 0 30431
+D3
+~
+~
+0 0 30429
+S
+#30431
+Slums of Despair~
+To the south is the wall keeping you within the rule of the oppressors. 
+A guard walks the streets keeping the people under control.  As you walk by
+he looks you up and down trying to figure out your purpose in being here.  
+~
+0 0 0
+D1
+~
+~
+0 0 30432
+D3
+~
+~
+0 0 30430
+S
+#30432
+Slums of Despair~
+To the south is the wall keeping you within the rule of the oppressors. 
+A dog barks at your approach and attempts to hide bhind a trash can to
+escape your stare.  To the east is the gate to the city.  
+~
+0 0 0
+D2
+~
+~
+0 0 30433
+D3
+~
+~
+0 0 30431
+S
+#30433
+Slums of Despair~
+As you approach the city you notice the complete lack of anything.  There
+is no song and no laughter.  People move around without a purpose of
+anything.  Even the buildings are completely bare and hardly meet the
+requirements of a basic shelter.  
+~
+0 0 0
+D0
+~
+~
+0 0 30432
+D2
+~
+~
+0 0 30434
+S
+#30434
+Slums of Despair~
+Inside the city the poverty starts to sink in.  The homes near you are
+completely decrepit and trash just sits on the the sides of the streets
+waiting for someone to care.  
+~
+0 0 0
+D0
+~
+~
+0 0 30433
+D1
+~
+~
+0 0 30483
+D2
+~
+~
+0 0 30435
+D3
+~
+~
+0 0 30449
+S
+#30435
+Slums of Despair~
+Brokenness surrounds this place.  People are in despair and are
+hopelessly wandering around in a daze dreaming of days when life was good.  
+~
+0 0 0
+D0
+~
+~
+0 0 30434
+D2
+~
+~
+0 0 30436
+S
+#30436
+Slums of Despair~
+The road turns towards the north.  Dogs run throughout the streets
+seeking food the same as the people in this part of town.  
+~
+0 0 0
+D0
+~
+~
+0 0 30435
+D3
+~
+~
+0 0 30437
+S
+#30437
+Slums of Despair~
+South of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  
+~
+0 0 0
+D1
+~
+~
+0 0 30436
+D2
+~
+~
+0 0 30419
+D3
+~
+~
+0 0 30438
+S
+#30438
+Center of the City~
+The once great square of the city is here.  There is a complete lack of
+any activity here anymore.  The marble which made several decorations in the
+road has been removed and taken elsewhere.  People loiter on the foundation
+of what used to be a fountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 30437
+D3
+~
+~
+0 0 30439
+S
+#30439
+Slums of Despair~
+North of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  
+~
+0 0 0
+D0
+~
+~
+0 0 30441
+D1
+~
+~
+0 0 30438
+D3
+~
+~
+0 0 30440
+S
+#30440
+Slums of Despair~
+North of the square there are few houses lining the street.  The houses
+themselves are in poor condition and can barely be seen supporting any life
+other then the rodents and pour out of the cracks in the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 30439
+D3
+~
+~
+0 0 30421
+S
+#30441
+Slums of Despair~
+Smoke fills the air as an old man burns tree limbs and straw to stay
+warm.  This part of town is filled with poverty and filth.  
+~
+0 0 0
+D0
+~
+~
+0 0 30444
+D1
+~
+~
+0 0 30443
+D2
+~
+~
+0 0 30439
+D3
+~
+~
+0 0 30442
+S
+#30442
+Small House~
+Tattered and torn quilts have been neatly stacked in the old broken sofa
+that sits againest the wall.  An old woman is making a broom out of twigs
+and straw.  It looks like this old broken house will be this womans new
+home.  
+~
+0 0 0
+D1
+~
+~
+0 0 30441
+S
+#30443
+Small House~
+Approaching the northern part of town you feel completely sick to your
+stomach having seen what you have.  Never before have you seen people being
+oppressed like this.  The way they were treated you wonder what kind of
+people could do this.  
+~
+0 0 0
+D3
+~
+~
+0 0 30441
+S
+#30444
+Slums of Despair~
+East of the main square in the city you can see how this city might have
+once been.  Decaying decorations and empty flower beds lay on the sides of
+the road.  The oppressors must have been here for a while now.  An old lady
+sleeps on the streets here just waiting to die and leave her misery behind. 
+~
+0 0 0
+D0
+~
+~
+0 0 30445
+D2
+~
+~
+0 0 30441
+S
+#30445
+Slums of Despair~
+Inside the city itself there are few dwellings around.  And where ones
+once stood there is nothing more but rubble and make shift shelters.  A
+guard stands making his rounds and plundering what he can from the citizens
+of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30429
+D1
+~
+~
+0 0 30447
+D2
+~
+~
+0 0 30444
+D3
+~
+~
+0 0 30446
+S
+#30446
+Small House~
+A small house leans and swats with the wind.  Chunks of the ceiling have
+fallen onto the dirt floor, the stars can be seem in the night sky where the
+ceiling is missing.  
+~
+0 0 0
+D1
+~
+~
+0 0 30445
+S
+#30447
+Small House~
+This shack of a house has been beaten and battered by time and neglect. 
+Old broken and rotting furniture are piled in a corner covered in cobwebs
+and soot.  
+~
+0 0 0
+D3
+~
+~
+0 0 30445
+S
+#30448
+Dim Factory~
+Inside of this dimly lit factory workers scurry around like roaches
+trying to keep up with the production line.  The windows are so dingy that
+it seems to be midnight within the factory both day and night.  
+~
+0 0 0
+D1
+~
+~
+0 0 30497
+D3
+~
+~
+0 0 30424
+S
+#30449
+Abandoned Warehouse~
+This warehouse once was filled to the rim with fresh produce, now its a
+barren waste of space.  The only use this warehouse serves now is a place
+for people to go when its raining to stay dry.  
+~
+0 0 0
+D1
+~
+~
+0 0 30434
+S
+#30450
+Fairly Lit Alley~
+Inside the city itself there are few dwellings around.  And where ones
+once stood there is nothing more but rubble and make shift shelters.  A
+guard stands making his rounds and plundering what he can from the citizens
+of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30451
+D2
+~
+~
+0 0 30428
+S
+#30451
+Well Lit Sidewalk~
+Pretty flowers line both sides of the sidewalk, a tall well engraved
+lamppost holes a lantern to keep the sidewalks well lit at night.  
+~
+0 0 0
+D0
+~
+~
+0 0 30478
+D1
+~
+~
+0 0 30472
+D2
+~
+~
+0 0 30450
+D3
+~
+~
+0 0 30452
+S
+#30452
+Well Lit Sidewalk~
+Lanterns hang brightly on tall lamppost.  A young kid is bruised and
+battered laying motionless in the grass on the side of the walkway, he must
+have crossed a guard the wrong way.  
+~
+0 0 0
+D1
+~
+~
+0 0 30451
+D3
+~
+~
+0 0 30453
+S
+#30453
+Well Lit Sidewalk~
+The west end of the city is here.  To the west is the wall of the city
+and the roads cumble and shake under your feet.  As you contine to the east
+is the center of the town.  
+~
+0 0 0
+D0
+~
+~
+0 0 30475
+D1
+~
+~
+0 0 30452
+D3
+~
+~
+0 0 30454
+S
+#30454
+Well Lit Sidewalk~
+The street turns northward here.  A single travelling merchant stands in
+the middle of the sidewalk offering his goods to those who will stop.  
+~
+0 128 0
+D0
+~
+~
+0 0 30455
+D1
+~
+~
+0 0 30453
+S
+#30455
+Well Lit Sidewalk~
+Stepping into the fancy part of the city you are in shock.  How can these
+people live like this why their neighbors live in such poverty.  You begin
+to forget everything as a beautiful lady walks by.  Simply smiling at her,
+she turns away with her nose turned up by your presence.  
+~
+0 0 0
+D0
+~
+~
+0 0 30456
+D2
+~
+~
+0 0 30454
+S
+#30456
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The nobles walking around glare at you knowing that you don't belong here.  
+~
+0 0 0
+D0
+~
+~
+0 0 30457
+D2
+~
+~
+0 0 30455
+S
+#30457
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here completely involved with herself to notice you.  
+~
+0 0 0
+D1
+~
+~
+0 0 30458
+D2
+~
+~
+0 0 30456
+S
+#30458
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble man walks around showing off his wealth to anyone that will ask.  
+~
+0 0 0
+D1
+~
+~
+0 0 30459
+D2
+~
+~
+0 0 30476
+D3
+~
+~
+0 0 30457
+S
+#30459
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+~
+0 0 0
+D1
+~
+~
+0 0 30460
+D3
+~
+~
+0 0 30458
+S
+#30460
+Well Lit Sidewalk~
+The guard barracks are here.  The guards rest here after a day of
+oppressing the lower classes below.  Their loot sits beside them as they
+sleep with golden blankets wrapped around them.  
+~
+0 0 0
+D1
+~
+~
+0 0 30461
+D2
+~
+~
+0 0 30477
+D3
+~
+~
+0 0 30459
+S
+#30461
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors.  Nobles walk around laughing
+about their money and admiring their existance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30485
+D1
+~
+~
+0 0 30462
+D3
+~
+~
+0 0 30460
+S
+#30462
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors.  Nobles walk around laughing
+about their money and admiring their existance.  Again a beautiful lady
+catches your eye but you let this one be.  
+~
+0 0 0
+D1
+~
+~
+0 0 30463
+D2
+~
+~
+0 0 30480
+D3
+~
+~
+0 0 30461
+S
+#30463
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roadss compared to what was
+below.  Roads are filled with life and colors.  The people walk around with
+a self pride that radiates from them.  A noble walks around showing off his
+wealth to anyone that ask.  
+~
+0 0 0
+D1
+~
+~
+0 0 30464
+D3
+~
+~
+0 0 30462
+S
+#30464
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  The roads are filled with life and colors.  A woman stands here
+completely ignoring you knowing that you are not from money.  
+~
+0 0 0
+D1
+~
+~
+0 0 30465
+D2
+~
+~
+0 0 30481
+D3
+~
+~
+0 0 30463
+S
+#30465
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A nobleman walks around blinding you with his glistening jewlery he wears.  
+~
+0 0 0
+D2
+~
+~
+0 0 30466
+D3
+~
+~
+0 0 30464
+S
+#30466
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but she has already turned her back to
+you completely ignoring your existance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30465
+D2
+~
+~
+0 0 30467
+S
+#30467
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The people walk around with a self pride that radiates from them.  A noble
+walks around showing off his wealth to anyone that ask.  
+~
+0 0 0
+D0
+~
+~
+0 0 30466
+D2
+~
+~
+0 0 30468
+S
+#30468
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but she has already turned her back to
+you completely ignoring your existance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30467
+D3
+~
+~
+0 0 30469
+S
+#30469
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing about his wealth compared to yours.  
+~
+0 0 0
+D0
+~
+~
+0 0 30482
+D1
+~
+~
+0 0 30468
+D3
+~
+~
+0 0 30470
+S
+#30470
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here keeping to herself looks into a mirror admiring her own
+beauty.  
+~
+0 0 0
+D1
+~
+~
+0 0 30469
+D3
+~
+~
+0 0 30471
+S
+#30471
+Well Lit Sidewalk~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing about his wealth compared to yours.  
+~
+0 0 0
+D0
+~
+~
+0 0 30479
+D1
+~
+~
+0 0 30470
+D2
+~
+~
+0 0 30473
+D3
+~
+~
+0 0 30472
+S
+#30472
+Well Lit Sidewalk~
+The middle of the upper class town is here.  The statue from below has
+been moved up here so people can admire it's beauty without having to
+associate with the people downtown.  Frank the Guard Commander stands here
+looking bored and waiting for a riot.  In the mean time though he indulges
+with the many woman that throw themselves at him.  
+~
+0 0 0
+D1
+~
+~
+0 0 30471
+D2
+~
+~
+0 0 30474
+D3
+~
+~
+0 0 30451
+S
+#30473
+Fairly Lit Alley~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A rich noble walks around complaining of back pains from how heavy his coin
+purse is.  
+~
+0 0 0
+D0
+~
+~
+0 0 30471
+D2
+~
+~
+0 0 30430
+S
+#30474
+Guard Barracks~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here indulging candies imported in from countries far away.  
+~
+0 0 0
+D0
+~
+~
+0 0 30472
+S
+#30475
+Fancy Mansion~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around nearly blinding you with the amount of jewlery he has
+on.  
+~
+0 0 0
+D2
+~
+~
+0 0 30453
+S
+#30476
+Fancy Mansion~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A beautiful woman catches your eye but by the time you get the courage to
+say anything she turns away with her nose held high.  
+~
+0 0 0
+D0
+~
+~
+0 0 30458
+S
+#30477
+A Smelly Shop~
+A horrible odor is coming off the shopkeeper.  It smells as if she has
+bathed in cat urine.  The smell is almost unbearable but she sells useful
+items so it is worth having to smell as long as you hurry out of the shop
+before it makes you sick.  
+~
+0 128 0
+D0
+~
+~
+0 0 30460
+S
+#30478
+Well Kept Shop~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman sits here admiring herself in a mirror.  
+~
+0 0 0
+D2
+~
+~
+0 0 30451
+S
+#30479
+Cluttered Weapon Shop~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A rich noble stands here complaining of back pains from how heavy his coin
+purse is.  
+~
+0 0 0
+D2
+~
+~
+0 0 30471
+S
+#30480
+Strange Smelling Apothecary~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+The people walk the streets drinking wines and singing songs.  
+~
+0 128 0
+D0
+~
+~
+0 0 30462
+S
+#30481
+Fancy Mansion~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A noble walks around laughing at your small coin purse compared to his.  
+~
+0 0 0
+D0
+~
+~
+0 0 30464
+S
+#30482
+Fancy Mansion~
+You feel grateful to be able to walk on such roads compared to what was
+below.  Roads are filled with life and colors as several birds fly overhead.
+A woman stands here primping herself to see Frank.  
+~
+0 0 0
+D2
+~
+~
+0 0 30469
+S
+#30483
+Guard Barracks~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D3
+~
+~
+0 0 30434
+S
+#30484
+Guard Barracks~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D1
+~
+~
+0 0 30424
+S
+#30485
+Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  
+~
+0 0 0
+D2
+~
+~
+0 0 30461
+D4
+~
+~
+0 0 30486
+S
+#30486
+Very Steep Road to the Palace~
+The road to the palace is paved with marble.  Flowers line either side of
+the road while humming birds go from flower to flower.  People laugh and
+sing songs admiring themselves and their royal family.  You are approaching
+the palace and the sounds of the great court echo in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30487
+D5
+~
+~
+0 0 30485
+S
+#30487
+Below the Entrance to the Palace~
+The road to the palace in pave with marble.  Statues depicting themselves
+as gods line the road on either side.  As you continue you can sense your
+pressence being unwelcome and fear this might not be the greatest idea.  
+~
+0 0 0
+D2
+~
+~
+0 0 30486
+D4
+~
+~
+0 0 30488
+S
+#30488
+Gates of the Palace~
+The grand gates before the palace are an elobrate piece of work.  Gems
+and gold are interlaced in the giant marble gates.  Guards stand here hoping
+to not let you pass and displease Frank.  Compared to below these gates seem
+like they can hold off an army.  
+~
+0 0 0
+D1
+~
+~
+0 0 30489
+D3
+~
+~
+0 0 30493
+D4
+~
+~
+0 0 30500
+D5
+~
+~
+0 0 30487
+S
+#30489
+Steep Cliff Overlooking the City~
+A huge tent has been assembled on the side of this clift.  Weapons of all
+sizes sit neatly on shelves that line the walls.  Some glow and hum with
+ferocity, others sit silently with an eerie feeling radiating off of them. 
+A crazy looking man is grinning madly behind a table full of weapons that
+seem to levitate.  
+~
+0 128 0
+D1
+~
+~
+0 0 30490
+D3
+~
+~
+0 0 30488
+S
+#30490
+Steep Cliff Overlooking the City~
+The trail is rocky and steep, one false step and over the cliff you could
+go.  Boulders make it where you must walk directly behind the guards to pass
+through this trail.  
+~
+0 0 0
+D1
+~
+~
+0 0 30491
+D3
+~
+~
+0 0 30489
+S
+#30491
+Steep Cliff Overlooking the City~
+The trail has come to an end.  Boulders are piled high blocking any
+chance at passage.  A huge tree is leaning and about to fall over this steep
+cliff.  
+~
+0 0 0
+D3
+~
+~
+0 0 30490
+S
+#30492
+Steep Cliff Overlooking the City~
+~
+0 4 0
+S
+#30493
+Steep Cliff Overlooking the City~
+Puddles have formed in the middle of the path. Small tadpoles swim around in the puddles. The trail continues towards the palace.
+~
+0 0 0
+D1
+~
+~
+0 0 30488
+D3
+~
+~
+0 0 30494
+S
+#30494
+Steep Cliff Overlooking the City~
+The trail twist and turns as the trail grows steeper.  Boulders are piled
+high on the edge of the cliff to keep travelers from falling over.  
+~
+0 0 0
+D1
+~
+~
+0 0 30493
+D3
+~
+~
+0 0 30495
+S
+#30495
+Steep Cliff Overlooking the City~
+Tall lush trees line the side of the cliffs.  The path is old and worn
+from centuries of travel.  The air seems to be getting thinner as you climb
+this steep hill.  
+~
+0 0 0
+D1
+~
+~
+0 0 30494
+S
+#30496
+Pet Room~
+~
+0 4 0
+S
+#30497
+Dim Factory~
+The workers here are huddled around the conveyor belt.  Lanterns and
+torches that are hanging from the walls are the only light to be seem the
+rest of this place is in complete darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 30498
+D2
+~
+~
+0 0 30499
+D3
+~
+~
+0 0 30448
+S
+#30498
+Dim Factory~
+Pallets full of poorly made household goods are being stacked highly
+around this part of the factory.  Rats and roaches crawl out of some of the
+older pallets sitting in the back.  
+~
+0 0 0
+D2
+~
+~
+0 0 30497
+S
+#30499
+Dim Factory~
+Workers sign a logbook as they report here to work.  A table sits in the
+middle of this room for the workers to rest inbetween shifts, and for
+breaks.  
+~
+0 0 0
+D0
+~
+~
+0 0 30497
+S
+#30500
+Courtyard~
+The marble path is surrounded by lush green grass with flower beds full
+of vividly colored flowers.  Statues of the Gods can be seen in the
+distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30501
+D5
+~
+~
+0 0 30488
+S
+#30501
+Courtyard~
+The courtyard looks like a well manicured lawn with animal shaped hedges
+and flowers everywhere.  The entrance to the palace can be seen in the
+distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 30502
+D2
+~
+~
+0 0 30500
+S
+#30502
+Courtyard~
+The marble pathway shines brightly as the sun reflects off of it.  It is
+hard to imagine the state of despair the city is in when looking upon this
+grand palace.  
+~
+0 0 0
+D0
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30501
+S
+#30503
+Palace Entrance~
+A massive set of double doors lead into the palace.  The doors are made
+of the same marble as the path but have the royal crest engraved into them. 
+Guards stand in front of the doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 30504
+D2
+~
+~
+0 0 30502
+S
+#30504
+Grand Foyer~
+The grandness of the foyer is undescribable, from the marble floors to
+the walls that are made of platinum with gold trim.  Statues in the image of
+the great kings and warrior made of silver with gems that have been inlain
+in their armor.  No expense was taken into consideration when this palace
+was created.  You would never think that a palace this grand would belong in
+to a city in so much disarray.  
+~
+0 0 0
+D0
+~
+~
+0 0 30507
+D1
+~
+~
+0 0 30505
+D2
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30506
+S
+#30505
+Grand Foyer~
+The far wall to the west is the biggest window you've ever seen.  A
+stained glass Goddess dressed the the brighest emerald and gold sits upon a
+golden throne.  As the sun hits the window it send a rainbow of colors
+around the foyer.  
+~
+0 0 0
+D3
+~
+~
+0 0 30504
+S
+#30506
+Grand Foyer~
+Marble flooring with gold specks gleam brightly.  A life size painting of
+the queen in all her glory hangs in solitare on the far wall, across from it
+hangs a painting of the king in the same manner.  
+~
+0 0 0
+D1
+~
+~
+0 0 30504
+S
+#30507
+Hallway~
+The same golden marble floors flow throughout the hall.  Murals of the
+town from long ago have been painted onto the walls.  Doors are on both
+sides of the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 30510
+D1
+~
+~
+0 0 30508
+D2
+~
+~
+0 0 30504
+D3
+~
+~
+0 0 30509
+S
+#30508
+Library~
+Bookcases line every part of the walls.  There are books covered with
+inches of dust lying in heaps on the floor.  A long stone table has books,
+maps, and scrolls stacked on top of it.  It looks as if this room has not
+been visited in years.  
+~
+0 0 0
+D3
+~
+~
+0 0 30507
+S
+#30509
+Trophy room~
+On the ways hang the heads of all the foes the kingdom has ever defeated.
+The banners of these fallen kingdoms are framed and hung above each head. 
+These are very old since there has been peace in the kingdom for
+generations.  
+~
+0 0 0
+D1
+~
+~
+0 0 30507
+S
+#30510
+Hallway~
+Golden marble floors flow throughout the hall.  The murals of the town
+from long ago have been painted onto the walls.  A statue of a lion and a
+lamb stand across from each other.  
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 30513
+D1
+~
+~
+0 0 30511
+D2
+~
+~
+0 0 30507
+D3
+~
+~
+0 0 30512
+S
+#30511
+Haelbo's Workshop~
+A dwarf sized wizard is standing on a step ladder to reach the table.  He
+is mixing brightly colored liquids in a small cauldron.  Empty potion jars
+are scattered everywhere.  
+~
+0 128 0
+D3
+~
+~
+0 0 30510
+S
+#30512
+Solarium~
+Glass walls and roof make this room very brightly lit.  On the tables sit
+very rare plants, and herbs.  Most are used for making potions, and for
+casting spells.  The stench of fertilizer fills the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 30510
+S
+#30513
+Hallway~
+Golden marble floors flow throughout the hall.  The murals of the town
+from long ago have been painted onto the walls.  A guest book lies on the
+table waiting to be signed.  
+~
+0 0 0
+D0
+~
+~
+0 0 30514
+D2
+~
+~
+0 0 30510
+S
+#30514
+Hallway~
+Golden marble floors flow throughout the hall.  The murals of the town
+from long ago have been painted onto the walls.  A frame on the wall holds
+one of the many pacts signed declaring peace in this city.  
+~
+0 0 0
+D0
+~
+~
+0 0 30515
+D2
+~
+~
+0 0 30513
+S
+#30515
+Throne Room Entrance~
+A set of doors are on each side of the hallway.  One leads to the kings
+throne room and the other to the queen.  The hold separate courts in order
+to deal with the many woes of their city.  
+~
+0 0 0
+D1
+~
+~
+0 0 30516
+D2
+~
+~
+0 0 30514
+D3
+~
+~
+0 0 30517
+S
+#30516
+Kings Throne Room~
+A huge ornate throne sits alone unoccupied atop a platform.  This room is
+big enough to hold an army.  There are chairs, and benches set up here
+awaiting citizens of the city to bring their troubles to the king for his
+counsel.  
+~
+0 0 0
+D3
+~
+~
+0 0 30515
+S
+#30517
+Queens Throne Room~
+A beautiful high back bench with a think padding sits upon the platform
+where you would expect to see a throne.  The queen sits here with her young
+daughter listening to the women of the city present her with gifts as well
+as their problems.  
+~
+0 0 0
+D1
+~
+~
+0 0 30515
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 30401 15 30400 5 *Load {4a {*S{4l{*e{4p{*p{4y {*G{4u{*a{4r{*d{x
+M 0 30402 20 30401 2 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30401 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30402 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30402 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30405 20 30403 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30405 1 30403 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30402 20 30403 4 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30403 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30404 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30404 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30402 20 30405 5 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30405 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 20 30406 3 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30406 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30407 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30407 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30406 2 30408 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 2 30408 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30406 30 30409 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30409 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30402 20 30410 4 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30410 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30411 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30411 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30404 2 30412 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30406 30 30413 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30413 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30402 20 30414 2 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30414 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 20 30415 1 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30415 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30416 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30416 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30402 20 30417 1 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30407 30 30417 3 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 30 30418 2 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 30 30418 2 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30415 10 30419 5 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30407 2 30420 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 3 30421 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30403 2 30422 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30405 4 30423 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 5 30424 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30402 3 30425 1 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30403 2 30426 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30405 4 30427 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 2 30428 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30407 2 30429 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30403 4 30429 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30403 3 30430 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30405 2 30431 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30407 3 30432 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30404 2 30433 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30402 2 30433 1 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30404 2 30435 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30403 2 30435 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30407 3 30436 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30406 2 30436 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 2 30437 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30412 1 30438 1 *Load {8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x
+M 0 30403 2 30438 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30406 3 30439 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30407 2 30439 1 *Load {7A {1m{@a{1n{@g{1y{7 dog{x
+M 0 30404 1 30442 1 *Load {7A {^T{7i{^r{7e{^d{x Woman{x
+M 0 30403 2 30443 1 *Load {7A {3w{7e{3a{7k {3l{7o{3o{7k{3i{7n{3g {7m{3a{7n{x
+M 0 30406 3 30443 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30406 2 30444 1 *Load {7A {#hom{7el{#ess {8l{7a{8d{7y
+M 0 30405 2 30445 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30418 20 30448 5 *Load {8Fac{7tory Wor{8ker{x
+M 0 30405 6 30450 1 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30412 2 30451 1 *Load {8T{7h{8e {8y{7oun{8g {8t{7ow{8n {8p{7ickpocke{8t{x
+M 0 30402 5 30452 1 *Load {2A {3s{2m{3a{2l{3l {2k{3i{2d{x
+M 0 30408 1 30454 1 *Load A tall travelling merchant.
+M 0 30409 4 30455 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 4 30456 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 5 30457 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 4 30458 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30400 6 30460 1 *Load {7T{8h{7e {8G{7a{8t{7e {8G{7u{8a{7r{8d{x
+M 0 30409 2 30461 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 3 30461 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 2 30462 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 4 30463 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 3 30464 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 3 30465 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 2 30466 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 3 30467 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 2 30468 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 2 30469 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30415 3 30470 1 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30410 2 30471 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30411 1 30472 1 *Load {#F{!r{&a{!n{#k {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x
+M 0 30415 2 30472 1 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30410 3 30473 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30415 2 30474 1 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30410 2 30475 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 3 30476 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30416 1 30477 1 *Load Maestra
+G 0 30426 0 *A lethal cat o'nine tails is given to Maestra
+G 0 30425 0 *An adequate bullwhip is given to Maestra
+G 0 30424 0 *A lethal morning star is given to Maestra
+G 0 30423 0 *An adequate flail is given to Maestra
+G 0 30422 0 *A lethal valaska is given to Maestra
+G 0 30421 0 *An adequate adze is given to Maestra
+G 0 30420 0 *A lethal flanged mace is given to Maestra
+G 0 30419 0 *An adequate war hammer is given to Maestra
+G 0 30418 0 *A lethal spatha is given to Maestra
+G 0 30417 0 *A lethal awl pike is given to Maestra
+G 0 30416 0 *An adequate trident{x is given to Maestra
+G 0 30415 0 *A lethal miscricorde is given to Maestra
+G 0 30414 0 *{xan adequate rondel{x is given to Maestra
+G 0 30413 0 *{xan adequate warrior's sword{x is given to Maestra
+G 0 30412 0 *{xbasic training lance{x is given to Maestra
+G 0 30411 0 *{xbasic knotted rope{x is given to Maestra
+G 0 30410 0 *{xbasic barbed mace{x is given to Maestra
+G 0 30409 0 *{xbasic spiculum{x is given to Maestra
+G 0 30408 0 *{xbasic hatchet{x is given to Maestra
+G 0 30407 0 *{xbasic shiv{x is given to Maestra
+G 0 30406 0 *{xbasic sparring flail{x is given to Maestra
+G 0 30405 0 *{xbasic guard sword{x is given to Maestra
+M 0 30415 2 30478 1 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30413 1 30480 1 *Load {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30400 0 *{&a simple {4h{6e{&ali{6n{4g {&pill.{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30401 0 *{&a simple {#c{1o{&mb{1a{#t{& pill.{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+G 0 30402 0 *{&a simple {$d{2e{&fen{2s{$e{& pill.{x is given to {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+M 0 30410 2 30481 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30415 1 30482 1 *Load {%S{^ha{%mel{^es{%s Hu{&ss{%ie{x
+M 0 30410 3 30485 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30409 5 30486 1 *Load {7A {#s{&n{#o{&t{#t{&y{x looking {^w{&o{^m{&a{^n{x
+M 0 30410 3 30487 1 *Load {7A {@r{&i{@c{&h {@n{&o{@b{&l{@e{&m{@a{&n{x
+M 0 30411 1 30488 1 *Load {#F{!r{&a{!n{#k {8t{&h{8e {#G{!u{&a{!r{#d {8C{&o{8m{&m{8a{&n{8d{&e{8r{x
+M 0 30414 3 30488 1 *Load Bulky Palace Guard
+M 0 30413 1 30489 1 *Load {!C{&r{!a{&z{!y {#O{&l{#d {@M{&a{@n{x
+M 0 30414 4 30491 1 *Load Bulky Palace Guard
+M 0 30418 20 30497 5 *Load {8Fac{7tory Wor{8ker{x
+M 0 30418 20 30498 5 *Load {8Fac{7tory Wor{8ker{x
+M 0 30418 20 30499 5 *Load {8Fac{7tory Wor{8ker{x
+M 0 30414 3 30500 3 *Load Bulky Palace Guard
+M 0 30414 3 30501 3 *Load Bulky Palace Guard
+M 0 30414 3 30502 3 *Load Bulky Palace Guard
+M 0 30414 3 30503 3 *Load Bulky Palace Guard
+M 0 30414 3 30504 3 *Load Bulky Palace Guard
+M 0 30414 3 30505 3 *Load Bulky Palace Guard
+M 0 30414 3 30506 3 *Load Bulky Palace Guard
+M 0 30414 2 30507 1 *Load Bulky Palace Guard
+M 0 30426 1 30508 1 *Load Student
+M 0 30427 3 30509 3 *Load tourist
+M 0 30414 2 30510 1 *Load Bulky Palace Guard
+M 0 30422 1 30510 1 *Load Lion statue
+M 0 30423 1 30510 1 *Load Lamb statue
+M 0 30424 1 30511 1 *Load Tubert
+G 0 30428 0 *Elixir of healing is given to Tubert
+G 0 30427 0 *Battle elixir is given to Tubert
+M 0 30425 1 30512 1 *Load Crazy Gardener
+M 0 30405 2 30513 2 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30405 2 30514 2 *Load {7A {!B{#u{!r{#l{!y{x Guard{x
+M 0 30421 1 30516 1 *Load King Arnester
+M 0 30419 1 30517 1 *Load Queen Larina
+M 0 30420 1 30517 1 *Load Princess Aribela
+S
+
+
+
+#SHOPS
+30408 0 5 9 33 32 100 100 0 24
+30413 0 5 9 26 15 100 100 0 24
+30416 0 0 0 0 0 100 100 0 24
+30424 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#30400
+if isfollow
+end
+else
+if isgood $n
+say You look like a good soul.
+say Lets get back at these bastards.
+oload 30403
+wear stick
+follow $n
+else
+say With an attitude like that, you should go see Frank for a job.
+~
+#30401
+flee
+flee
+flee
+flee
+hide
+hide
+hide
+~
+#0
+
+#$

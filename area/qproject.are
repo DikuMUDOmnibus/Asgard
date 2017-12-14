@@ -1,0 +1,3066 @@
+#AREADATA
+Name Quest Projects~
+Builders Unlinked~
+VNUMs 4500 4999
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#4500
+quest marshall ezekial~
+{YQ{yuest {MM{marshall {GE{gzekial{x~
+{DStanding before you is the {YQ{yuest {MM{marshall{D of {rA{Rs{yg{Ya{Wr{Yd{x
+~
+~
+human~
+ABJZb 0 0 0 0
+300 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M SPEECH 4503 reset~
+M SPEECH 4501 commence~
+M RANDOM 4500 100~
+M SPEECH 4502 home~
+#4501
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+ABT TVc H -1000 0
+200 475 415d415+41500 30d30+300 42d42+420 flame
+48 48 48 48
+ACEFGHIJKN 0 0 I
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4512 100~
+#4502
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+ABT TVc H -1000 0
+200 450 400d400+40000 30d30+300 41d41+420 flash
+45 45 45 45
+CEFGHIJKN 0 0 J
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4503
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+ABT TVc H 1000 0
+200 350 400d400+41000 30d30+300 40d40+410 divine
+45 45 45 45
+CE 0 0 M
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4504
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+ABT TVc H 1000 0
+200 250 400d400+40000 30d30+300 37d37+370 none
+37 37 37 37
+CE 0 0 Z
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4509 100~
+#4505
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+ABT DFJTVZc 0 0 0
+200 250 300d300+30000 30d30+300 41d41+450 drain
+35 35 35 35
+CEGJ 0 0 N
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4508 100~
+#4506
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+ABT TVc H 0 0
+200 250 290d290+31000 30d30+300 39d39+390 grep
+52 52 52 52
+EHJK 0 0 Y
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4507
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rS{Ri{Df {yawaits your dismay.{x
+~
+~
+human~
+ABT TVc H 350 0
+200 300 400d400+40000 30d30+300 30d30+300 none
+53 53 53 53
+CEFGJ 0 0 P
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4515 100~
+#4508
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+ABT TVc H -350 0
+200 300 350d350+34000 30d30+300 35d35+325 acbite
+40 40 40 40
+CEFGIJ 0 0 X
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4511 100~
+#4509
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+ABT DFTVZc H 0 0
+200 200 350d350+30000 30d30+300 42d42+410 sonic
+49 49 49 49
+EHJ 0 0 T
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4507 100~
+#4510
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+ABT DFJTVZac H 0 0
+200 200 300d300+30000 30d30+300 40d40+400 shbite
+45 45 45 45
+ACEHJ 0 0 R
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4504 100~
+#4511
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+ABT TVc H 0 0
+200 200 300d300+30000 30d30+300 38d38+380 chill
+48 48 48 48
+EHJ 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4505 100~
+#4512
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+ABT TVc H 0 0
+200 250 310d310+31000 30d30+300 41d41+410 chomp
+50 50 50 50
+CEH 0 0 K
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DEATH 4506 100~
+#4513
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+ABT 0 0 -1000 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ACEFGHIJKN 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4514
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+ABT 0 0 0 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFGHIJKN 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4515
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4516
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4517
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+ABT 0 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4518
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4519
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{ of {rS{Ri{Df {yawaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4520
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4521
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4522
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4523
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4524
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4525
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+ABT 0 0 -1000 0
+225 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ACEFGHIJKN 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4526
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+ABT 0 0 0 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFGHIJKN 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4527
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4528
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4529
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+ABT 0 0 0 0
+250 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4530
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4531
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{ of {rS{Ri{Df {yawaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4532
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4533
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4534
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4535
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4536
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#4537
+Quest Marshall Lanthorl~
+{YQ{yuest {MM{marshall {GL{ganthorl{x~
+{DStanding before you is the {YQ{yuest {MM{marshall{D of {rA{Rs{yg{Ya{Wr{Yd{x
+~
+~
+human~
+ABJZb DFJZ 0 0 0
+300 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M ACT 4517 southeast perimeter~
+M ACT 4516 northeast perimeter~
+#4538
+Quest Marshall Lanthorl~
+{YQ{yuest {MM{marshall {GL{ganthorl{x~
+{DStanding before you is the {YQ{yuest {MM{marshall{D of {rA{Rs{yg{Ya{Wr{Yd{x
+~
+~
+human~
+ABJZb 0 0 0 0
+300 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#0
+
+
+
+#OBJECTS
+#4500
+Chest Games~
+{BGame {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container R 0
+10000 0 0 0 0
+1 1 0 P
+#4501
+Quest Flag Gauntlet Easy~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({GEASY{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({GEASY{M){x~
+unknown~
+treasure R A
+0 0 0 0 0
+0 0 0 P
+#4502
+Quest Flag Gauntlet Normal~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({BNORMAL{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({BNORMAL{M){x~
+unknown~
+treasure R A
+0 0 0 0 0
+0 0 0 P
+#4503
+Quest Flag Gauntlet Hard~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({RHARD{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({RHARD{M){x~
+unknown~
+treasure R A
+0 0 0 0 0
+0 0 0 P
+#4504
+Gateway field conquests~
+{bG{Ba{ct{Ce{cw{Ba{by{x~
+{bG{Ba{ct{Ce{cw{Ba{by{D to the {yField {wof {cConquests{x~
+unknown~
+portal 0 0
+BD H D ACEHIM 0
+0 0 0 P
+#4505
+North east hill top chest~
+{Y({RN{y/{GE{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 1000 0
+1 1 0 P
+#4506
+North West Hill Top Chest~
+{Y({RN{y/{MW{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 1 0 P
+#4507
+South West Hill Top Chest~
+{Y({BS{y/{MW{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 1 0 P
+#4508
+South East Hill Top Chest~
+{Y({BS{y/{GE{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 0 0 P
+#4509
+South East Perimeter Chest~
+{Y({BS{y/{GE{Y) {mPerimeter {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 0 0
+1 1 0 P
+#4510
+South West Perimeter Chest~
+{Y({BS{y/{MW{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 0 0 P
+#4511
+North West Perimeter Chest~
+{Y({RN{y/{MW{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 0 0 P
+#4512
+North East Perimeter Chest~
+{Y({RN{y/{GE{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+1 0 0 P
+#4513
+Gauntlet Prize Chest~
+{CG{ca{wuntl{ce{Ct {YP{Gr{Yi{Gz{Ye {yChest{x~
+{DAn enormous {ychest {Drests on the ground.{x~
+unknown~
+container RSY 0
+10000 0 0 10000 0
+0 0 0 P
+#4514
+gateway market square~
+{bG{Ba{ct{Ce{cw{Ba{by{x~
+{bG{Ba{ct{Ce{cw{Ba{by {Dto {rM{Ra{Wrk{Ret {DSq{Wu{ware{x~
+unknown~
+portal SY 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef H A BCGHIJL 0
+0 0 0 P
+#4515
+Practice Ticket~
+{Y({G1{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G1{Y){x~
+{Y({G1{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4516
+Practice Ticket~
+{Y({G2{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G2{Y){x~
+{Y({G2{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G2{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4517
+Practice Ticket~
+{Y({G3{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G3{Y){x~
+{Y({G3{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G3{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4518
+one train ticket~
+{Y({G1{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G1{Y){x~
+{Y({G1{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4519
+two Train Ticket~
+{Y({G2{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G2{Y){x~
+{Y({G2{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G2{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4520
+Three Train Ticket~
+{Y({G3{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G3{Y){x~
+{Y({G3{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G3{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4521
+fifty platinum ticket~
+{Y({G1{Y)   {B50 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)   {B50 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4522
+one hundered platinum ticket~
+{Y({G1{Y)  {B100 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)  {B100 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4523
+two platinum ticket~
+{Y({G1{Y)  {B250 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)  {B250 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4524
+five platinum ticket~
+{Y({G1{Y)  {B500 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {B500  {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4525
+thousand platinum ticket~
+{Y({G1{Y) {B1000 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {B1000 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4526
+one iq ticket~
+{Y({G1{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4527
+two iq ticket~
+{Y({G2{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G2{Y){x~
+{Y({G2{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G2{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4528
+three iq ticket~
+{Y({G3{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G3{Y){x~
+{Y({G3{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G3{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4529
+four iq ticket~
+{Y({G4{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G4{Y){x~
+{Y({G4{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G4{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4530
+unique ticket~
+{Y({G1{Y)    {RU{rn{Diqu{re{Rs {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {RU{rn{Diqu{re{Rs {CT{cicke{Ct    {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4531
+random ticket~
+{Y({G1{Y)    {WS{wp{Deci{wa{Wl {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {WS{wp{Deci{wa{Wl {CT{cicke{Ct    {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4532
+vinir ticket~
+{Y({G1{Y)     {cV{Ci{Wn{Ci{cr {CT{cicke{Ct     {Y({G1{Y){x~
+{Y({G1{Y)     {cV{Ci{Wn{Ci{cr {CT{cicke{Ct     {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4533
+aesir ticket~
+{Y({G1{Y)     {GA{Ye{Ws{Yi{Gr {CT{cicke{Ct     {Y({G1{Y){x~
+(no description)~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4534
+one silver babble ticket~
+{Y({G1{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4535
+two silver babble ticket~
+{Y({G2{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G2{Y){x~
+{Y({G2{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G2{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4536
+three silver babble ticket~
+{Y({G3{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G3{Y){x~
+{Y({G3{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G3{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4537
+one blue babble ticket~
+{Y({G1{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G1{Y){x~
+{Y({G1{Y) {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4538
+two blue babble kill~
+{Y({G2{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G2{Y){x~
+{Y({G2{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G2{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4539
+three blue babble ticket~
+{Y({G3{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G3{Y){x~
+{Y({G3{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G3{Y){x~
+unknown~
+treasure SY A
+0 0 0 0 0
+1 0 0 P
+#4540
+control object~
+{y<{DControl Object {W({R1{W){y>{x~
+{y<{DControl Object {W({R1{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+0 0 0 P
+#4541
+control object~
+{y<{DControl Object {W({R2{W){y>{x~
+{y<{DControl Object {W({R2{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+0 0 0 P
+#4542
+control~
+{y<{DControl Object {W({R3{W){y>{x~
+{y<{DControl Object {W({R3{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+1 0 0 P
+#4543
+control~
+{y<{DControl Object {W({R4{W){y>{x~
+{y<{DControl Object {W({R4{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+1 0 0 P
+#4544
+Control ~
+{y<{DControl Object {W({R5{W){y>{x~
+{y<{DControl Object {W({R5{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+0 0 0 P
+#4545
+Control Object~
+{y<{DControl Object {W({R6{W){y>{x~
+{y<{DControl Object {W({R6{W){y>{x~
+unknown~
+trash V A
+0 0 0 0 0
+0 0 0 P
+#4546
+Control Object~
+{y<{DControl Object {W({R7{W){y>{x~
+{y<{DControl Object {W({R7{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4547
+Control object~
+{y<{DControl Object {W({R8{W){y>{x~
+{y<{DControl Object {W({R8{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4548
+Control Object~
+{y<{DControl Object {W({R9{W){y>{x~
+{y<{DControl Object {W({R9{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4549
+Control Object~
+{y<{DControl Object {W({R10{W){y>{x~
+{y<{DControl Object {W({R10{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4550
+Control Object~
+{y<{DControl Object {W({R11{W){y>{x~
+{y<{DControl Object {W({R11{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4551
+Control Object~
+{y<{DControl Object {W({R12{W){y>{x~
+{y<{DControl Object {W({R12{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4552
+Control Object~
+{y<{DControl Object {W({R13{W){y>{x~
+{y<{DControl Object {W({R13{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4553
+Control Object~
+{y<{DControl Object {W({R14{W){y>{x~
+{y<{DControl Object {W({R14{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4554
+Control Object~
+{y<{DControl Object {W({R15{W){y>{x~
+{y<{DControl Object {W({R15{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4555
+Control Object~
+{y<{DControl Object {W({R16{W){y>{x~
+{y<{DControl Object {W({R16{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4556
+Control Object~
+{y<{DControl Object {W({R17{W){y>{x~
+{y<{DControl Object {W({R17{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4557
+Control Object~
+{y<{DControl Object {W({R18{W){y>{x~
+{y<{DControl Object {W({R18{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4558
+Control Object~
+{y<{DControl Object {W({R19{W){y>{x~
+{y<{DControl Object {W({R19{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4559
+Control Object~
+{y<{DControl Object {W({R20{W){y>{x~
+{y<{DControl Object {W({R20{W){y>{x~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4500
+{y<{YSTART ROOM{y>{x~
+Currently only a few commands to use.
+To use these commands, simply say the word.
+Home - Creates a Gateway home and Marshall forces you through it.
+commence - Will start whichever flag is is on the ground (only easy works)
+reset - will clear the battlefield of all objects/mobs (rdy for new game)
+~
+0 4 0
+S
+#4501
+{D<{yField {wof {cConquests{D> {mCenter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4530
+D1
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4532
+D3
+~
+~
+0 0 4528
+S
+#4502
+{D<{yField {wof {cConquests{D> {mEast Path{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4534
+D1
+~
+~
+0 0 4503
+D2
+~
+~
+0 0 4536
+D3
+~
+~
+0 0 4501
+S
+#4503
+{D<{yField {wof {cConquests{D> {mEast Path{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4504
+D3
+~
+~
+0 0 4502
+S
+#4504
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4527
+D3
+~
+~
+0 0 4503
+S
+#4505
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4506
+D2
+~
+~
+0 0 4504
+S
+#4506
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4507
+D2
+~
+~
+0 0 4505
+S
+#4507
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D2
+~
+~
+0 0 4506
+D3
+~
+~
+0 0 4508
+S
+#4508
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4507
+D3
+~
+~
+0 0 4509
+S
+#4509
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4508
+D3
+~
+~
+0 0 4510
+S
+#4510
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4509
+D2
+~
+~
+0 0 4531
+D3
+~
+~
+0 0 4511
+S
+#4511
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4510
+D3
+~
+~
+0 0 4512
+S
+#4512
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4511
+D3
+~
+~
+0 0 4513
+S
+#4513
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4512
+D2
+~
+~
+0 0 4514
+S
+#4514
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4513
+D2
+~
+~
+0 0 4515
+S
+#4515
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4514
+D2
+~
+~
+0 0 4516
+S
+#4516
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4515
+D1
+~
+~
+0 0 4529
+D2
+~
+~
+0 0 4517
+S
+#4517
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4516
+D2
+~
+~
+0 0 4518
+S
+#4518
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4517
+D2
+~
+~
+0 0 4519
+S
+#4519
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4518
+D1
+~
+~
+0 0 4520
+S
+#4520
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4521
+D3
+~
+~
+0 0 4519
+S
+#4521
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4522
+D3
+~
+~
+0 0 4520
+S
+#4522
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4533
+D1
+~
+~
+0 0 4523
+D3
+~
+~
+0 0 4521
+S
+#4523
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4524
+D3
+~
+~
+0 0 4522
+S
+#4524
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4525
+D3
+~
+~
+0 0 4523
+S
+#4525
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4526
+D3
+~
+~
+0 0 4524
+S
+#4526
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4527
+D2
+~
+~
+0 0 4525
+S
+#4527
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4504
+D2
+~
+~
+0 0 4526
+S
+#4528
+{D<{yField {wof {cConquests{D> {mWest Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 4535
+D1
+~
+~
+0 0 4501
+D2
+~
+~
+0 0 4537
+D3
+~
+~
+0 0 4529
+S
+#4529
+{D<{yField {wof {cConquests{D> {mWest Path{x~
+~
+0 0 0
+D1
+~
+~
+0 0 4528
+D3
+~
+~
+0 0 4516
+S
+#4530
+{D<{yField {wof {cConquests{D> {mNorth Path{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4531
+D1
+~
+~
+0 0 4534
+D2
+~
+~
+0 0 4501
+D3
+~
+~
+0 0 4535
+S
+#4531
+{D<{yField {wof {cConquests{D> {mNorth Path{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4510
+D2
+~
+~
+0 0 4530
+S
+#4532
+{D<{yField {wof {cConquests{D> {mSouth Path{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4501
+D1
+~
+~
+0 0 4536
+D2
+~
+~
+0 0 4533
+D3
+~
+~
+0 0 4537
+S
+#4533
+{D<{yField {wof {cConquests{D> {mSouth Path{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4532
+D2
+~
+~
+0 0 4522
+S
+#4534
+{D<{yField {wof {cConquests{D> {mN/E Center{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4539
+D1
+~
+~
+0 0 4538
+D2
+~
+~
+0 0 4502
+D3
+~
+~
+0 0 4530
+S
+#4535
+{D<{yField {wof {cConquests{D> {mN/W Center{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4542
+D1
+~
+~
+0 0 4530
+D2
+~
+~
+0 0 4528
+D3
+~
+~
+0 0 4541
+S
+#4536
+{D<{yField {wof {cConquests{D> {mS/E Center{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4502
+D1
+~
+~
+0 0 4547
+D2
+~
+~
+0 0 4548
+D3
+~
+~
+0 0 4532
+S
+#4537
+{D<{yField {wof {cConquests{D> {mS/W Center{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4528
+D1
+~
+~
+0 0 4532
+D2
+~
+~
+0 0 4545
+D3
+~
+~
+0 0 4544
+S
+#4538
+{D<{yField {wof {cConquests{D> {mN/E Hill{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4540
+D3
+~
+~
+0 0 4534
+S
+#4539
+{D<{yField {wof {cConquests{D> {mN/E Hill{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4540
+D2
+~
+~
+0 0 4534
+S
+#4540
+{D<{yField {wof {cConquests{D> {mN/E Hill Top{x~
+~
+0 0 2
+D2
+~
+~
+0 0 4538
+D3
+~
+~
+0 0 4539
+S
+#4541
+{D<{yField {wof {cConquests{D> {mN/W Hill{x~
+~
+0 0 2
+D0
+~
+~
+0 0 4543
+D1
+~
+~
+0 0 4535
+S
+#4542
+{D<{yField {wof {cConquests{D> {mN/W Hill{x~
+~
+0 0 2
+D2
+~
+~
+0 0 4535
+D3
+~
+~
+0 0 4543
+S
+#4543
+{D<{yField {wof {cConquests{D> {mN/W Hill Top{x~
+~
+0 0 2
+D1
+~
+~
+0 0 4542
+D2
+~
+~
+0 0 4541
+S
+#4544
+{D<{yField {wof {cConquests{D> {mS/W Hill{x~
+~
+0 0 0
+D1
+~
+~
+0 0 4537
+D2
+~
+~
+0 0 4546
+S
+#4545
+{D<{yField {wof {cConquests{D> {mS/W Hill{x~
+~
+0 0 0
+D0
+~
+~
+0 0 4537
+D3
+~
+~
+0 0 4546
+S
+#4546
+{D<{yField {wof {cConquests{D> {mS/W Hill Top{x~
+~
+0 0 0
+D0
+~
+~
+0 0 4544
+D1
+~
+~
+0 0 4545
+S
+#4547
+{D<{yField {wof {cConquests{D> {mS/E Hill{x~
+~
+0 0 0
+D2
+~
+~
+0 0 4549
+D3
+~
+~
+0 0 4536
+S
+#4548
+{D<{yField {wof {cConquests{D> {mS/E Hill{x~
+~
+0 0 0
+D0
+~
+~
+0 0 4536
+D1
+~
+~
+0 0 4549
+S
+#4549
+{D<{yField {wof {cConquests{D> {mS/E Hill Top{x~
+~
+0 0 0
+D0
+~
+~
+0 0 4547
+D3
+~
+~
+0 0 4548
+S
+#4550
+{WControl Room{x~
+~
+0 4 0
+S
+#4801
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4500 1 4500 1 *Load {YQ{yuest {MM{marshall {GE{gzekial{x
+M 0 4537 1 4550 1 *Load {YQ{yuest {MM{marshall {GL{ganthorl{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4500
+if objhere 4500
+else
+mob oload 4500
+mob oload 4501
+mob oload 4502
+mob oload 4503
+put flag chest
+put flag chest
+put flag chest
+endif
+~
+#4501
+if objhere 4503
+or objhere 4502
+or objhere 4501
+   mob goto 4525
+       if objhere 4509
+          mob goto 4500
+          break
+       endif
+   mob oload 4509
+   mob goto 4519
+   mob oload 4510
+   mob goto 4513
+   mob oload 4511
+   mob goto 4507
+   mob oload 4512
+   mob goto 4540
+   mob oload 4505
+   mob goto 4543
+   mob oload 4506
+   mob goto 4546
+   mob oload 4507
+   mob goto 4549
+   mob oload 4508
+   mob goto 4501
+   mob oload 4513
+mob mload 4538
+   mob goto 4500
+endif
+if objhere 4503
+   mob goto 4534
+       if mobhere 4534
+          mob goto 4500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 4534
+   mob goto 4535
+   mob mload 4535
+   mob goto 4537
+   mob mload 4536
+   mob goto 4536
+   mob mload 4533
+   mob goto 4522
+   mob mload 4532
+   mob goto 4510
+   mob mload 4531
+   mob goto 4516
+   mob mload 4530
+   mob goto 4504
+   mob mload 4529
+   mob goto 4506
+mob mload 4528
+   mob goto 4508
+   mob mload 4528
+   mob goto 4512
+   mob mload 4527
+   mob goto 4514
+   mob mload 4527
+   mob goto 4518
+   mob mload 4526
+   mob goto 4520
+   mob mload 4526
+   mob goto 4524
+   mob mload 4525
+   mob goto 4526
+   mob mload 4525
+   mob goto 4500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 4504
+else
+if objhere 4502
+   mob goto 4534
+       if mobhere 4522
+          mob goto 4500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 4522
+   mob goto 4535
+   mob mload 4523
+   mob goto 4537
+   mob mload 4524
+   mob goto 4536
+   mob mload 4521
+   mob goto 4522
+   mob mload 4520
+   mob goto 4510
+   mob mload 4519
+   mob goto 4516
+   mob mload 4518
+   mob goto 4504
+   mob mload 4517
+   mob goto 4506
+   mob mload 4516
+   mob goto 4508
+   mob mload 4516
+   mob goto 4512
+mob mload 4515
+   mob goto 4514
+   mob mload 4515
+   mob goto 4518
+   mob mload 4514
+   mob goto 4520
+   mob mload 4514
+   mob goto 4524
+   mob mload 4513
+   mob goto 4526
+   mob mload 4513
+   mob goto 4500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 4504
+else
+if objhere 4501
+   mob goto 4534
+       if mobhere 4510
+          mob goto 4500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 4510
+   mob goto 4535
+   mob mload 4511
+   mob goto 4537
+   mob mload 4512
+   mob goto 4536
+   mob mload 4509
+   mob goto 4522
+   mob mload 4508
+   mob goto 4510
+   mob mload 4507
+   mob goto 4516
+   mob mload 4506
+   mob goto 4504
+   mob mload 4505
+   mob goto 4506
+mob mload 4504
+   mob goto 4508
+   mob mload 4504
+   mob goto 4512
+   mob mload 4503
+   mob goto 4514
+   mob mload 4503
+   mob goto 4518
+   mob mload 4502
+   mob goto 4520
+   mob mload 4502
+   mob goto 4524
+   mob mload 4501
+   mob goto 4526
+   mob mload 4501
+   mob goto 4500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 4504
+else
+   say There is no Game Flag present, please pick one from the Chest.
+endif
+endif
+endif
+~
+#4502
+mob oload 4514
+say If its home you want to go, then its home you shall be.
+mob force $n enter market
+~
+#4503
+mob goto 4501
+mob purge
+mob goto 4502
+mob purge
+mob goto 4503
+mob purge
+mob goto 4504
+mob purge
+mob goto 4505
+mob purge
+mob goto 4506
+mob purge
+mob goto 4507
+mob purge
+mob goto 4508
+mob purge
+mob goto 4509
+mob purge
+mob goto 4510
+mob purge
+mob goto 4511
+mob purge
+mob goto 4512
+mob purge
+mob goto 4513
+mob purge
+mob goto 4514
+mob purge
+mob goto 4515
+mob purge
+mob goto 4516
+mob purge
+mob goto 4517
+mob purge
+mob goto 4518
+mob purge
+mob goto 4519
+mob purge
+mob goto 4520
+mob purge
+mob goto 4521
+mob purge
+mob goto 4522
+mob purge
+mob goto 4523
+mob purge
+mob goto 4524
+mob purge
+mob goto 4525
+mob purge
+mob goto 4526
+mob purge
+mob goto 4527
+mob purge
+mob goto 4528
+mob purge
+mob goto 4529
+mob purge
+mob goto 4530
+mob purge
+mob goto 4531
+mob purge
+mob goto 4532
+mob purge
+mob goto 4533
+mob purge
+mob goto 4534
+mob purge
+mob goto 4535
+mob purge
+mob goto 4536
+mob purge
+mob goto 4537
+mob purge
+mob goto 4538
+mob purge
+mob goto 4539
+mob purge
+mob goto 4540
+mob purge
+mob goto 4541
+mob purge
+mob goto 4542
+mob purge
+mob goto 4543
+mob purge
+mob goto 4544
+mob purge
+mob goto 4545
+mob purge
+mob goto 4546
+mob purge
+mob goto 4547
+mob purge
+mob goto 4548
+mob purge
+mob goto 4549
+mob purge
+mob goto 4500
+say The field has been reset, so what shall we do instead?
+mob purge
+~
+#4504
+if rand 90
+mob goto 4540
+mob oload 4517
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4516
+put ticket chest
+mob goto 4534
+else
+mob goto 4540
+mob oload 4515
+put ticket chest
+mob goto 4534
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4520
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4519
+put ticket chest
+mob goto 4534
+else
+mob goto 4540
+mob oload 4518
+put ticket chest
+mob goto 4534
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4536
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4535
+put ticket chest
+mob goto 4534
+else
+if rand 50
+mob goto 4540
+mob oload 4534
+put ticket chest
+mob goto 4534
+endif
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4539
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4538
+put ticket chest
+mob goto 4534
+else
+if rand 50
+mob goto 4540
+mob oload 4537
+put ticket chest
+mob goto 4534
+endif
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4529
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4528
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4527
+put ticket chest
+mob goto 4534
+else
+mob goto 4540
+mob oload 4526
+put ticket chest
+mob goto 4534
+endif
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4523
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4522
+put ticket chest
+mob goto 4534
+else
+mob goto 4540
+mob oload 4521
+put ticket chest
+mob goto 4534
+endif
+endif
+if rand 90
+mob goto 4540
+mob oload 4531
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4530
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4532
+put ticket chest
+mob goto 4534
+else
+if rand 90
+mob goto 4540
+mob oload 4533
+put ticket chest
+mob goto 4534
+endif
+endif
+endif
+endif
+~
+#4505
+if rand 90
+mob goto 4543
+mob oload 4520
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4519
+put ticket chest
+mob goto 4535
+else
+mob goto 4543
+mob oload 4518
+put ticket chest
+mob goto 4535
+endif
+endif
+if rand 90
+mob goto 4543
+mob oload 4536
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4535
+put ticket chest
+mob goto 4535
+else
+if rand 50
+mob goto 4543
+mob oload 4534
+put ticket chest
+mob goto 4535
+endif
+endif
+endif
+if rand 90
+mob goto 4543
+mob oload 4539
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4538
+put ticket chest
+mob goto 4535
+else
+if rand 50
+mob goto 4543
+mob oload 4537
+put ticket chest
+mob goto 4535
+endif
+endif
+endif
+if rand 90
+mob goto 4543
+mob oload 4529
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4528
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4527
+put ticket chest
+mob goto 4535
+else
+mob goto 4543
+mob oload 4526
+put ticket chest
+mob goto 4535
+endif
+endif
+endif
+if rand 90
+mob goto 4543
+mob oload 4523
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4522
+put ticket chest
+mob goto 4535
+else
+mob goto 4543
+mob oload 4521
+put ticket chest
+mob goto 4535
+endif
+endif
+if rand 90
+mob goto 4543
+mob oload 4531
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4530
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4532
+put ticket chest
+mob goto 4535
+else
+if rand 90
+mob goto 4543
+mob oload 4533
+put ticket chest
+mob goto 4535
+endif
+endif
+endif
+endif
+~
+#4506
+if rand 90
+mob goto 4546
+mob oload 4520
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4519
+put ticket chest
+mob goto 4537
+else
+mob goto 4546
+mob oload 4518
+put ticket chest
+mob goto 4537
+endif
+endif
+if rand 90
+mob goto 4546
+mob oload 4536
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4535
+put ticket chest
+mob goto 4537
+else
+if rand 50
+mob goto 4546
+mob oload 4534
+put ticket chest
+mob goto 4537
+endif
+endif
+endif
+if rand 90
+mob goto 4546
+mob oload 4539
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4538
+put ticket chest
+mob goto 4537
+else
+if rand 50
+mob goto 4546
+mob oload 4537
+put ticket chest
+mob goto 4537
+endif
+endif
+endif
+if rand 90
+mob goto 4546
+mob oload 4529
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4528
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4527
+put ticket chest
+mob goto 4537
+else
+mob goto 4546
+mob oload 4526
+put ticket chest
+mob goto 4537
+endif
+endif
+endif
+if rand 90
+mob goto 4546
+mob oload 4523
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4522
+put ticket chest
+mob goto 4537
+else
+mob goto 4546
+mob oload 4521
+put ticket chest
+mob goto 4537
+endif
+endif
+if rand 90
+mob goto 4546
+mob oload 4531
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4530
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4532
+put ticket chest
+mob goto 4537
+else
+if rand 90
+mob goto 4546
+mob oload 4533
+put ticket chest
+mob goto 4537
+endif
+endif
+endif
+endif
+~
+#4507
+if rand 90
+mob goto 4549
+mob oload 4520
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4519
+put ticket chest
+mob goto 4536
+else
+mob goto 4549
+mob oload 4518
+put ticket chest
+mob goto 4536
+endif
+endif
+if rand 90
+mob goto 4549
+mob oload 4536
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4535
+put ticket chest
+mob goto 4536
+else
+if rand 50
+mob goto 4549
+mob oload 4534
+put ticket chest
+mob goto 4536
+endif
+endif
+endif
+if rand 90
+mob goto 4549
+mob oload 4539
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4538
+put ticket chest
+mob goto 4536
+else
+if rand 50
+mob goto 4549
+mob oload 4537
+put ticket chest
+mob goto 4536
+endif
+endif
+endif
+if rand 90
+mob goto 4549
+mob oload 4529
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4528
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4527
+put ticket chest
+mob goto 4536
+else
+mob goto 4549
+mob oload 4526
+put ticket chest
+mob goto 4536
+endif
+endif
+endif
+if rand 90
+mob goto 4549
+mob oload 4523
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4522
+put ticket chest
+mob goto 4536
+else
+mob goto 4549
+mob oload 4521
+put ticket chest
+mob goto 4536
+endif
+endif
+if rand 90
+mob goto 4549
+mob oload 4531
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4530
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4532
+put ticket chest
+mob goto 4536
+else
+if rand 90
+mob goto 4549
+mob oload 4533
+put ticket chest
+mob goto 4536
+endif
+endif
+endif
+endif
+~
+#4508
+mob goto 4508
+if mobhere 4504
+mob oload 4540
+endif
+mob goto 4506
+if mobhere 4504
+mob oload 4541
+endif
+if carries $i 4540
+and carries $i 4541
+say {mI may have been beaten, but both of Thor's Champions still remain!{x
+else
+if carries $i 4540
+or carries $i 4541
+say {mI may have been beaten, but one of Thor's Champions still lives!{x
+else
+say alas
+bow
+say {mYou may claim your prize at the South Eastern Perimeter, within a chest.{x
+mob goto 4550
+say northeast perimeter
+endif
+endif
+mob goto 4504
+say good job
+~
+#4509
+if room $i == 4508
+mob oload 4543
+endif
+mob goto 4504
+if mobhere 4505
+mob oload 4540
+endif
+mob goto 4506
+if clones == 1
+mob oload 4541
+endif
+mob goto 4508
+if clones == 1
+mob oload 4542
+endif
+if carries $i 4543
+mob goto 4508
+else
+mob goto 4506
+endif
+if carries $i 4541
+or carries $i 4542
+and carries $i 4540
+say {mYou might of beaten me, but another Champion of Thor, and Loki's Champion still breath!{x
+else
+if carries $i 4541
+or carries $i 4542
+say {mYou've beaten Loki's Champion and me, but another one of Thor's Champions lives still!{x
+else
+if carries $i 4540
+say {mYou might of gotten the best of Thor's Champions, but Loki's Champion still remains!{x
+else
+say {mAlas we have failed!{x
+bow
+say {mYou may claim your prize at the North Eastern Perimeter, within a chest.{x
+mob goto 4550
+say northeast perimeter
+endif
+endif
+endif
+if carries $i 4543
+mob goto 4508
+else
+mob goto 4506
+endif
+~
+#4510
+if rand 75
+mob oload 4520
+else
+if rand 75
+mob oload 4519
+else
+mob oload 4518
+endif
+endif
+if rand 75
+mob oload 4536
+else
+if rand 75
+mob oload 4535
+else
+if rand 50
+mob oload 4534
+endif
+endif
+endif
+if rand 75
+mob oload 4539
+else
+if rand 75
+mob oload 4538
+else
+if rand 50
+mob oload 4537
+endif
+endif
+endif
+if rand 75
+mob oload 4529
+else
+if rand 75
+mob oload 4528
+else
+if rand 75
+mob oload 4527
+else
+mob oload 4526
+endif
+endif
+endif
+if rand 75
+mob oload 4523
+else
+if rand 75
+mob oload 4522
+else
+mob oload 4521
+endif
+endif
+if rand 75
+mob oload 4531
+else
+if rand 75
+mob oload 4530
+else
+if rand 75
+mob oload 4532
+else
+if rand 75
+mob oload 4533
+endif
+endif
+endif
+endif
+~
+#4511
+mob goto 4526
+if mobhere 4501
+mob oload 4540
+endif
+mob goto 4524
+if mobhere 4501
+mob oload 4541
+endif
+if carries $i 4540
+and carries $i 4541
+else
+mob call 4510 $i
+endif
+mob goto 4525
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 4522
+~
+#4512
+if room $i == 4526
+mob oload 4543
+endif
+mob goto 4522
+if mobhere 4508
+mob oload 4540
+endif
+mob goto 4524
+if clones == 1
+mob oload 4541
+endif
+mob goto 4526
+if clones == 1
+mob oload 4542
+endif
+if carries $i 4543
+mob goto 4526
+else
+mob goto 4524
+endif
+if carries $i 4541
+or carries $i 4542
+and carries $i 4540
+say {mMagni's Champion and another one of Hel's still exist.{x
+else
+if carries $i 4541
+or carries $i 4542
+say {mYou've beaten Magni's Champion and me, but another Champion of Hel's still remains!{x
+else
+if carries $i 4540
+say {mYou might of gotten the best of Hel's Champions, but Magni's Champion still remains!{x
+else
+say {mAlas we have failed!{x
+bow
+say {mYou may claim your prize at the South Eastern Perimeter, within a chest.{x
+mob goto 4550
+say southeast perimeter
+endif
+endif
+endif
+if carries $i 4543
+mob goto 4526
+else
+mob goto 4524
+endif
+~
+#4513
+mob goto 4520
+if mobhere 4502
+mob oload 4540
+endif
+mob goto 4518
+if mobhere 4502
+mob oload 4541
+endif
+if carries $i 4540
+and carries $i 4541
+else
+mob call 4510 $i
+endif
+mob goto 4519
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 4516
+~
+#4514
+~
+#4515
+mob goto 4512
+if mobhere 4503
+mob oload 4540
+endif
+mob goto 4514
+if mobhere 4503
+mob oload 4541
+endif
+if carries $i 4540
+and carries $i 4541
+else
+mob call 4510
+endif
+mob goto 4513
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 4510
+~
+#4516
+mob call 4510 $i
+mob goto 4507
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 4550
+say doing it
+~
+#4517
+mob call 4510 $i
+mob goto 4525
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 4550
+~
+#0
+
+#$

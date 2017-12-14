@@ -1,0 +1,2829 @@
+#AREADATA
+Name Dwarven Mines~
+Builders Ishamael~
+VNUMs 71100 71199
+Continent 5
+Mobtier 0
+Credits [  LGD ] Ishamael Dwarven Mines~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#71100
+scaled worm~
+a scaled worm~
+A large scaled worm rears back at your entrance.
+~
+Thick scales provide armor like protection for this giant worm.
+~
+snake~
+A DFVa 0 0 0
+160 500 1d1+13988 0d0+0 6d28+23 digestion
+-45 -45 -45 -40
+0 ABL L I
+stand stand none 0
+AGXYc ADEFKLQVX large unknown
+V 3
+A -1
+#71101
+stout dwarf dwarven guard~
+a stout dwarven guard~
+A stout dwarf stands here keeping a sharp watch on the area.
+~
+~
+human~
+ABRST DFJTVc 0 -1000 0
+200 500 1d1+100000 110d10+100 500d3+100 pound
+-100 -85 -85 -85
+ADEFGHK AIJ ABCDEMZ C
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV huge unknown
+V 15
+A -1
+#71102
+dwarf dwarven miner~
+a stout dwarven miner~
+A stout dwarven miner stands here extracting minerals.
+~
+~
+human~
+AB J 0 0 0
+160 400 1d1+20000 40d9+100 10d28+50 pound
+-30 -30 -30 -30
+IPU AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+M DEATH 22000 20~
+#71103
+dwarven collector hunched dwarf~
+a old dwarven collector~
+A hunched over dwarf wanders here picking up loose stones from the floor.
+~
+~
+human~
+A J 0 0 0
+155 200 1d1+17500 40d9+100 10d26+50 pound
+-25 -25 -25 -25
+IPU AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 5
+A -1
+M DEATH 22000 25~
+#71104
+dwarf dwarven miner~
+a stout dwarven miner~
+A dwarf stands here striking the wall with a sharp pickaxe.
+~
+~
+human~
+AB J 0 0 0
+165 500 1d1+22500 40d9+100 15d32+100 pound
+-32 -32 -32 -32
+IPU AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 7
+A -1
+M DEATH 22000 20~
+#71105
+dwarf dwarven miner~
+a stout dwarven miner~
+A stout dwarf stands here striking a thick metal spike with a large hammer
+~
+~
+human~
+AB J 0 0 0
+170 300 1d1+25000 40d9+100 21d42+100 pound
+-35 -35 -35 -35
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 8
+A -1
+M DEATH 13815 35~
+#71106
+massive dwarf dwarven miner~
+a massive dwarf~
+A massive dwarf stands here smashing loose rocks.
+~
+~
+human~
+AB J 0 0 0
+175 300 1d1+25000 40d9+100 22d45+100 pound
+-40 -40 -40 -40
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 8
+A -1
+M DEATH 13815 40~
+#71107
+burly dwarf dwarven miner~
+a burly dwarf~
+A burly dwarf works here hunting for precious stones.
+~
+~
+human~
+A J 0 0 0
+180 450 1d1+32500 40d9+100 26d43+200 pound
+-65 -65 -65 -65
+I AB LQ 0
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+V 10
+A -1
+M DEATH 71100 45~
+#71108
+Balrog~
+{Rthe Balrog{x~
+{RThe Balrog {rstands here burning up the room!!!{x
+~
+~
+troll~
+ABFGRS DFJTVc 0 -1000 0
+200 500 1d1+175000 110d10+100 750d4+150 bite
+-100 -85 -85 -85
+ADEFGHK AHJ ABCDEMZ IR
+stand stand male 80000
+ABHIMV ABCDEFGHIJUV large unknown
+F vul HK
+F par K
+V 65
+A -1
+M DELAY 71102 100~
+M ACT 71101 leaves~
+M DEATH 71118 100~
+#0
+
+
+
+#OBJECTS
+#71100
+massive steel key~
+a massive steel key~
+A large key lies here.~
+steel~
+key 0 AO
+0 0 0 0 0
+101 0 0 B
+#71101
+massive metal key~
+a massive metal key~
+A large key lies here.~
+steel~
+key 0 AO
+0 0 0 0 0
+101 0 0 B
+#71102
+pickaxe~
+a pickaxe~
+The tool of a tunnel working repairing the tunnel.~
+axe~
+weapon 0 AN
+axe 14 14 thwack D
+101 0 40000 P
+F
+A 18 -12 K
+#71103
+dwarven hammer~
+a dwarven hammer~
+A tool of mining lies here.~
+axe~
+weapon 0 AN
+mace 14 14 thwack 0
+101 0 40000 P
+A
+19 20
+#71104
+sharp metal spike~
+a sharp metal spike~
+A sharp spike sits here.~
+metal~
+jewelry 0 AO
+0 0 0 0 0
+101 0 0 P
+A
+18 20
+#71105
+a massive dwarven hammer~
+a massive dwarven hammer~
+A tool of mining lies here.~
+axe~
+weapon P AN
+mace 10 14 thwack F
+101 0 40000 P
+A
+19 20
+#71106
+fire sword~
+{rThe {RSword {rof {RFire{x~
+A flaming sword sits on the ground burning brightly.~
+fire~
+weapon A AN
+sword 15 13 flame AE
+101 0 0 P
+A
+19 10
+#71107
+set of mithril links~
+{wa s{Wet {wof {WM{wit{Whr{wil {Wli{wnks{x~
+A set of mithril links sits here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+101 0 0 P
+#71109
+whip of flame~
+{RThe {rWhip {Rof {rFlame{x~
+A flaming whip lies here burning brightly~
+fire~
+weapon A AN
+whip 15 13 slice AE
+101 0 0 P
+A
+19 10
+#71110
+mithril ring magic~
+{wa M{Wit{whr{Wil {wR{Win{wg {Wo{wf M{Wag{wic{x~
+A magical ring lies here.~
+mithril~
+armor AB AB
+CE CE CE CE 0
+101 0 100000 P
+A
+28 20
+A
+20 -7
+A
+12 175
+#71111
+mithril ring protection~
+{wa M{Wit{whr{Wil {wR{Win{wg {Wo{wf P{Wrot{wec{Wti{won{x~
+A magical ring lies here.~
+mithril~
+armor Y AB
+BCDE BCDE BCDE BCDE 0
+101 0 100000 P
+A
+26 15
+A
+28 15
+A
+13 200
+#71112
+mithril ring power~
+{wa M{Wit{whr{Wil {wR{Win{wg {Wo{wf P{Wow{wer{x~
+A magical ring lies here.~
+mithril~
+armor Y AB
+BD BD BD BD 0
+101 0 100000 P
+A
+19 25
+A
+18 25
+#71113
+magical mithril anklet~
+{wa M{Wag{wica{Wl Mit{whri{Wl An{wkle{Wt{x~
+A magical anklet lies here.~
+mithril~
+armor ABY AT
+BCE BCE BCE BCE 0
+101 0 100000 P
+A
+28 20
+A
+20 -8
+A
+12 175
+#71114
+thick mithril anklet~
+{wa Th{Wick {wMi{Wthr{wil {WAnk{wle{Wt{x~
+A magical anklet lies here.~
+mithril~
+armor Y AT
+F F F F 0
+101 0 100000 P
+A
+26 15
+A
+28 15
+A
+13 225
+#71115
+spiked mithril anklet~
+{wa {WSpi{wke{Wd Mi{wthr{Wi{wl {WAn{wkle{Wt{x~
+A magical anklet lies here.~
+mithril~
+armor Y AT
+BD BD BD BD 0
+101 0 100000 P
+A
+19 26
+A
+18 26
+#71116
+Mysitcal mithril chain~
+{wa M{Wys{wti{Wca{wl M{With{wri{Wl C{wha{Win{x~
+A magical chain lies here.~
+mithril~
+armor ABY AC
+ADE ADE ADE ADE 0
+101 0 100000 P
+A
+28 20
+A
+12 200
+A
+20 -9
+#71117
+protective mithril chain~
+{wa Pr{Wote{wct{Wiv{we M{With{wri{Wl C{wha{Win{x~
+A magical chain lies here.~
+mithril~
+armor ABY AC
+ABF ABF ABF ABF 0
+101 0 100000 P
+A
+28 15
+A
+26 15
+A
+13 250
+#71118
+spiked mithril leggings~
+{wa P{Wowe{wrf{Wu{wl M{With{wri{Wl C{wha{Win{x~
+A mithril chain lies here.~
+mithril~
+armor ABY AC
+BD BD BD BD 0
+101 0 100000 P
+A
+19 27
+A
+18 27
+#71119
+mark of the balrog~
+{rMa{Rrk o{rf th{Re Ba{rlr{Rog{x~
+A mark of the best lies here.~
+unknown~
+armor Y AU
+AE AE AE AE 0
+101 0 0 P
+A
+13 100
+A
+12 100
+A
+28 10
+A
+20 -3
+#71120
+mark of the balrog~
+{rMa{Rrk o{rf th{Re Ba{rlr{Rog{x~
+A patch of the balrog~
+fire~
+armor Y AU
+ABCE ABCE ABCE ABCE 0
+101 0 0 P
+A
+19 9
+A
+18 9
+A
+13 125
+A
+26 6
+#71121
+mark of the balrog~
+{rMa{Rrk o{rf th{Re Ba{rlr{Rog{x~
+(no description)~
+unknown~
+armor Y AU
+ABC ABC ABC ABC 0
+101 0 0 P
+A
+18 15
+A
+19 21
+#71122
+mithril greatsword~
+{wa M{With{wri{Wl G{wre{Wat{wsw{Wor{wd{x~
+A massive greatsword lies here.~
+unknown~
+weapon Y AN
+sword 15 15 slash EFG
+101 0 0 P
+A
+19 15
+A
+18 15
+#71123
+mithril hand axe~
+{wa M{With{wri{Wl H{wan{Wd A{wxe{x~
+A mithril hand axe lies here.~
+unknown~
+weapon Y AN
+axe 9 23 cleave EG
+101 0 0 P
+A
+1 3
+A
+2 3
+A
+19 10
+A
+18 10
+#71124
+mithril tipped spear~
+{wa M{With{wri{Wl-{wTi{Wpp{wed {WS{wpe{Wa{wr{x~
+A mithril tipped spear sits here.~
+unknown~
+weapon Y AN
+staff 5 46 thrust EFG
+101 0 0 P
+A
+18 10
+A
+19 10
+A
+2 2
+#71125
+mithril great mace~
+{wa M{With{wri{Wl G{wre{Wat {wM{Wac{we{x~
+A massive mace lies here~
+unknown~
+weapon Y AN
+mace 20 11 crush EFG
+101 0 0 P
+A
+19 17
+#71126
+mithril studded scourge~
+{wa M{With{wri{Wl-S{wtud{Wde{wd S{Wco{wu{Wrg{we{x~
+A wickedly spiked scourge lies here.~
+unknown~
+weapon Y AN
+flail 4 58 thwack AEFG
+101 0 0 P
+#71127
+hidden passage~
+a hidden passage~
+{x~
+unknown~
+portal 0 0
+0 KL A CDEGHLMQ 0
+0 0 0 P
+#71128
+partial closed tunnel~
+a partially closed tunnel~
+{x~
+unknown~
+portal 0 0
+0 0 A CDEFJNQ 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#71100
+Dark Passage~
+The passage veers off east and heads down into the darkness.  A faint
+sound of steel striking stone can be heard echoing up the passage.  
+~
+0 5 0
+D1
+~
+~
+0 0 71101
+D3
+~
+~
+0 0 13809
+S
+#71101
+A Twist in the Passage~
+The solid rock walls twist to the south leaving you guessing where the
+passage leads.  Your footsteps echo around the passage as loose rock
+crunches beneath your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 71102
+D3
+~
+~
+0 0 71100
+S
+#71102
+Downward Slope in the Passage~
+The passage slopes downward leading deeper beneath the surface.  Darkness
+greets your passage ahead as the sound of metal striking stone gets louder. 
+~
+0 0 0
+D0
+~
+~
+0 0 71101
+D5
+~
+~
+0 0 71103
+S
+#71103
+Twisting Passage~
+The passage twists back to the east continuing on into the darkness.  The
+crunching of stone beneath your feet echos all around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 71104
+D4
+~
+~
+0 0 71102
+S
+#71104
+Downward Twist in the Passage~
+The passage turns downward as you catch flickers of light below.  Loud
+grumbling and shouting can be heard coming from the below.  
+~
+0 0 0
+D3
+~
+~
+0 0 71103
+D5
+~
+~
+0 0 71105
+S
+#71105
+Before the Entryway~
+Large supports to the east open the passage before you.  Torch light
+flickers all around and shouting can be heard from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 71106
+D4
+~
+~
+0 0 71104
+S
+#71106
+Entrance to the Mines~
+Thick timber supports mark the entryway to the mines.  Loud clanging can
+be heard coming from the east as the sound of steel striking stone echos all
+around.  
+~
+0 4 0
+D1
+~
+~
+0 0 71107
+D3
+~
+~
+0 0 71105
+S
+#71107
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71109
+D1
+~
+~
+0 0 71112
+D2
+~
+~
+0 0 71108
+D3
+~
+~
+0 0 71106
+S
+#71108
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71107
+D1
+~
+~
+0 0 71113
+S
+#71109
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71110
+D2
+~
+~
+0 0 71107
+S
+#71110
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71111
+D1
+~
+~
+0 0 71118
+D2
+~
+~
+0 0 71112
+D3
+~
+~
+0 0 71109
+S
+#71111
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71119
+D2
+~
+~
+0 0 71110
+S
+#71112
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71110
+D1
+~
+~
+0 0 71117
+D2
+~
+~
+0 0 71113
+D3
+~
+~
+0 0 71107
+S
+#71113
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71112
+D1
+~
+~
+0 0 71116
+D2
+~
+~
+0 0 71114
+D3
+~
+~
+0 0 71108
+S
+#71114
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71113
+D1
+~
+~
+0 0 71115
+S
+#71115
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71116
+D1
+~
+~
+0 0 71124
+D3
+~
+~
+0 0 71114
+S
+#71116
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71117
+D1
+~
+~
+0 0 71123
+D2
+~
+~
+0 0 71115
+D3
+~
+~
+0 0 71113
+S
+#71117
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  A small passage leads down into a chasm below.  
+~
+0 0 0
+D0
+~
+~
+0 0 71118
+D1
+~
+~
+0 0 71122
+D2
+~
+~
+0 0 71116
+D3
+~
+~
+0 0 71112
+D5
+~
+~
+0 0 71131
+S
+#71118
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71119
+D1
+~
+~
+0 0 71121
+D2
+~
+~
+0 0 71117
+D3
+~
+~
+0 0 71110
+S
+#71119
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71120
+D2
+~
+~
+0 0 71118
+D3
+~
+~
+0 0 71111
+S
+#71120
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 71121
+D3
+~
+~
+0 0 71119
+S
+#71121
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71120
+D1
+~
+~
+0 0 71126
+D2
+~
+~
+0 0 71122
+D3
+~
+~
+0 0 71118
+S
+#71122
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71121
+D1
+~
+~
+0 0 71125
+D2
+~
+~
+0 0 71123
+D3
+~
+~
+0 0 71117
+S
+#71123
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71122
+D1
+~
+~
+0 0 71127
+D2
+~
+~
+0 0 71124
+D3
+~
+~
+0 0 71116
+S
+#71124
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71123
+D3
+~
+~
+0 0 71115
+S
+#71125
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71126
+D1
+~
+~
+0 0 71128
+D2
+~
+~
+0 0 71127
+D3
+~
+~
+0 0 71122
+S
+#71126
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 71125
+D3
+~
+~
+0 0 71121
+S
+#71127
+Inside the Great Hall~
+The vast cavern surrounds you with ceilings rising nearly 20 feet high. 
+Thick support pillar brace the earth overhead as light from small fires
+dances around the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71125
+D3
+~
+~
+0 0 71123
+S
+#71128
+Entrace to the Mines~
+Thick timber supports mark the entryway to the mines.  Loud clanging can
+be heard coming from the west as the sound of steel striking stone echos
+around.  
+~
+0 0 0
+D3
+~
+~
+0 0 71125
+D4
+~
+~
+0 0 71129
+S
+#71129
+Downward Passage~
+The passage twists downward opening to the entrance of a large mine.  A
+flicker of light can be scene coming from below.  
+~
+0 4 0
+D1
+~
+~
+0 0 71130
+D5
+~
+~
+0 0 71128
+S
+#71130
+Dark Passage~
+A dark passage leads away from the cavern above, it twists and turns
+toward a large mine.  The sound of steel striking stone can be heard echoing
+throughout.  
+~
+0 4 0
+D3
+~
+~
+0 0 71129
+D4
+~
+~
+0 0 22574
+S
+#71131
+Dark Passage Downward~
+The passage leads downwards deeper into the mine.  Loud shouting from the
+dwarves can be heard as they seek hidden treasures.  
+~
+0 0 0
+D4
+~
+~
+0 0 71117
+D5
+~
+~
+0 0 71132
+S
+#71132
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71133
+D1
+~
+~
+0 0 71135
+D2
+~
+~
+0 0 71137
+D3
+~
+~
+0 0 71139
+D4
+~
+~
+0 0 71131
+S
+#71133
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71134
+D2
+~
+~
+0 0 71132
+D3
+~
+~
+0 0 71140
+S
+#71134
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 71135
+D3
+~
+~
+0 0 71133
+S
+#71135
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71134
+D2
+~
+~
+0 0 71136
+D3
+~
+~
+0 0 71132
+S
+#71136
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71135
+D3
+~
+~
+0 0 71137
+S
+#71137
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71132
+D1
+~
+~
+0 0 71136
+D2
+~
+~
+0 0 71141
+D3
+~
+~
+0 0 71138
+S
+#71138
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71139
+D1
+~
+~
+0 0 71137
+S
+#71139
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 71140
+D1
+~
+~
+0 0 71132
+D2
+~
+~
+0 0 71138
+S
+#71140
+Deeper in the Mine~
+There is a flurry of activity within this smaller cavern, dwarves work
+feverishly around you.  The glint of highly valuable materials sparks in the
+walls all throughout the cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71133
+D2
+~
+~
+0 0 71139
+S
+#71141
+Small Passage~
+The small passage leads downward deeper into the mine.  Loud grunting and
+the striking of steel on stone echoes loudly throughout the cavern.  
+~
+0 4 0
+D0
+~
+~
+0 0 71137
+D5
+~
+~
+0 0 71142
+S
+#71142
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71143
+D1
+~
+~
+0 0 71145
+D2
+~
+~
+0 0 71147
+D3
+~
+~
+0 0 71149
+D4
+~
+~
+0 0 71141
+S
+#71143
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D1
+~
+~
+0 0 71144
+D2
+~
+~
+0 0 71142
+D3
+~
+~
+0 0 71150
+S
+#71144
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D2
+~
+~
+0 0 71145
+D3
+~
+~
+0 0 71143
+S
+#71145
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71144
+D1
+~
+~
+0 0 71151
+D2
+~
+~
+0 0 71146
+D3
+~
+~
+0 0 71142
+S
+#71146
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71145
+D3
+~
+~
+0 0 71147
+S
+#71147
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71142
+D1
+~
+~
+0 0 71146
+D3
+~
+~
+0 0 71148
+S
+#71148
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71149
+D1
+~
+~
+0 0 71147
+S
+#71149
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D0
+~
+~
+0 0 71150
+D1
+~
+~
+0 0 71142
+D2
+~
+~
+0 0 71148
+S
+#71150
+In a Cavern Deep Below the Surface~
+The sound of steel on stone echoes all around as the dwarves work to
+extract the precious minerals from the rockbed.  Torches reveal hints of
+valuable stones embedded into the rock walls of the cavern 
+~
+0 0 0
+D1
+~
+~
+0 0 71143
+D2
+~
+~
+0 0 71149
+S
+#71151
+Sloping Passage~
+The passage slopes downward heading deeper into the darkness.  The sound
+of steel on stone echoes all around as the dwarves look to extract minerals
+from the rock walls all around.  
+~
+0 4 0
+D3
+~
+~
+0 0 71145
+D5
+~
+~
+0 0 71152
+S
+#71152
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71155
+D1
+~
+~
+0 0 71157
+D2
+~
+~
+0 0 71159
+D3
+~
+~
+0 0 71153
+D4
+~
+~
+0 0 71151
+S
+#71153
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71154
+D1
+~
+~
+0 0 71152
+D2
+~
+~
+0 0 71160
+S
+#71154
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D1
+~
+~
+0 0 71155
+D2
+~
+~
+0 0 71153
+S
+#71155
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D1
+~
+~
+0 0 71156
+D2
+~
+~
+0 0 71152
+D3
+~
+~
+0 0 71154
+S
+#71156
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D2
+~
+~
+0 0 71157
+D3
+~
+~
+0 0 71155
+S
+#71157
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71156
+D2
+~
+~
+0 0 71158
+D3
+~
+~
+0 0 71152
+S
+#71158
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71157
+D3
+~
+~
+0 0 71159
+S
+#71159
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71152
+D1
+~
+~
+0 0 71158
+D2
+~
+~
+0 0 71161
+D3
+~
+~
+0 0 71160
+S
+#71160
+Deep Dark Cavern~
+The dwarves are focused on their work at hand, not even acknowledging
+your presence as you walk about the cavern.  Nearly the entire wall glints
+of precious metals as you look around.  
+~
+0 0 0
+D0
+~
+~
+0 0 71153
+D1
+~
+~
+0 0 71159
+S
+#71161
+Sloping Passage~
+The small passage slopes downward leading even further away from the
+surface.  The sound of the dwarves at work echo all throughout the narrow
+passage.  
+~
+0 4 0
+D0
+~
+~
+0 0 71159
+D2
+~
+~
+0 0 71162
+S
+#71162
+Sloping Passage~
+The passage continues south from the smaller cavern to the north.  The
+sound of continued work follows you as you head further into the depths.  
+~
+0 0 0
+D0
+~
+~
+0 0 71161
+D2
+~
+~
+0 0 71163
+S
+#71163
+Downward Turn~
+The passage turns downward leading farther into the deep, very small
+amounts of torch light can be seen below.  The sounds of steel on stone echo
+from above and below.  
+~
+0 0 0
+D0
+~
+~
+0 0 71162
+D5
+~
+~
+0 0 71164
+S
+#71164
+Down into the Darkness~
+The passage descends further into the deep, only darkness can be seen
+from below.  The sounds of the dwarves mining the precious stones can still
+be heard.  
+~
+0 0 0
+D4
+~
+~
+0 0 71163
+D5
+~
+~
+0 0 71165
+S
+#71165
+Further into the Depths~
+The darkness fully immerses you, only the sound of steel on stone can be
+heard.  Very little indication is given as to what lies in the area below. 
+A hidden passage is carefully disguised in the rock walls.  
+~
+0 4 0
+D4
+~
+~
+0 0 71164
+D5
+~
+~
+0 0 71166
+S
+#71166
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71178
+D1
+~
+~
+0 0 71183
+D2
+~
+~
+0 0 71179
+D3
+~
+~
+0 0 71167
+D4
+~
+~
+0 0 71165
+S
+#71167
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71175
+D1
+~
+~
+0 0 71166
+D2
+~
+~
+0 0 71174
+D3
+~
+~
+0 0 71168
+S
+#71168
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71169
+D1
+~
+~
+0 0 71167
+D2
+~
+~
+0 0 71171
+S
+#71169
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71170
+D1
+~
+~
+0 0 71175
+D2
+~
+~
+0 0 71168
+S
+#71170
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D1
+~
+~
+0 0 71176
+D2
+~
+~
+0 0 71169
+D3
+~
+~
+0 0 71191
+S
+#71171
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71168
+D1
+~
+~
+0 0 71174
+D2
+~
+~
+0 0 71172
+S
+#71172
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71171
+D1
+~
+~
+0 0 71173
+S
+#71173
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71174
+D1
+~
+~
+0 0 71180
+D3
+~
+~
+0 0 71172
+S
+#71174
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71167
+D1
+~
+~
+0 0 71179
+D2
+~
+~
+0 0 71173
+D3
+~
+~
+0 0 71171
+S
+#71175
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71176
+D1
+~
+~
+0 0 71178
+D2
+~
+~
+0 0 71167
+D3
+~
+~
+0 0 71169
+S
+#71176
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D1
+~
+~
+0 0 71177
+D2
+~
+~
+0 0 71175
+D3
+~
+~
+0 0 71170
+S
+#71177
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D1
+~
+~
+0 0 71185
+D2
+~
+~
+0 0 71178
+D3
+~
+~
+0 0 71176
+S
+#71178
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71177
+D1
+~
+~
+0 0 71184
+D2
+~
+~
+0 0 71166
+D3
+~
+~
+0 0 71175
+S
+#71179
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71166
+D1
+~
+~
+0 0 71182
+D2
+~
+~
+0 0 71180
+D3
+~
+~
+0 0 71174
+S
+#71180
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71179
+D1
+~
+~
+0 0 71181
+D3
+~
+~
+0 0 71173
+S
+#71181
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71182
+D1
+~
+~
+0 0 71190
+D3
+~
+~
+0 0 71180
+S
+#71182
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71183
+D1
+~
+~
+0 0 71189
+D2
+~
+~
+0 0 71181
+D3
+~
+~
+0 0 71179
+S
+#71183
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71184
+D1
+~
+~
+0 0 71188
+D2
+~
+~
+0 0 71182
+D3
+~
+~
+0 0 71166
+S
+#71184
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71185
+D1
+~
+~
+0 0 71187
+D2
+~
+~
+0 0 71183
+D3
+~
+~
+0 0 71178
+S
+#71185
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D1
+~
+~
+0 0 71186
+D2
+~
+~
+0 0 71184
+D3
+~
+~
+0 0 71177
+S
+#71186
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D2
+~
+~
+0 0 71187
+D3
+~
+~
+0 0 71185
+S
+#71187
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71186
+D2
+~
+~
+0 0 71188
+D3
+~
+~
+0 0 71184
+S
+#71188
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71187
+D2
+~
+~
+0 0 71189
+D3
+~
+~
+0 0 71183
+S
+#71189
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71188
+D2
+~
+~
+0 0 71190
+D3
+~
+~
+0 0 71182
+S
+#71190
+Deep Below the Surface~
+Only weak torchlight reflects throughout the cavern, revealing very
+little from the rock around you.  Dark shadows reflect off the wall as the
+dwarves work focused solely on their task at hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 71189
+D1
+~
+~
+0 0 74501
+D3
+~
+~
+0 0 71181
+S
+#71191
+Into the Depths~
+A narrow passage slopes away from the cavern.  Only silence greets you as
+you head further away from the main cavern.  
+~
+0 4 0
+D1
+~
+~
+0 0 71170
+D3
+~
+~
+0 0 71192
+S
+#71192
+Into the Depths~
+A narrow passage slopes away from the cavern.  Only silence greets you as
+you head further away from the main cavern.  
+~
+0 0 0
+D1
+~
+~
+0 0 71191
+D3
+~
+~
+0 0 71193
+S
+#71193
+Into the Depths~
+The passage turns downward heading further into the darkness.  The sound
+of the miners is but a distance memory as the activity is just a distant
+buzz.  
+~
+0 4 0
+D1
+~
+~
+0 0 71192
+D5
+~
+~
+0 0 71194
+S
+#71194
+A Small Dark Cavern~
+The passage opens to a small dark cavern, there is next to no light
+making it difficult to see.  It is completely silent as you walk through the
+area.  You notice partially blocked tunnel heading deeper beneath the mines.
+~
+0 0 0
+D2
+~
+~
+0 0 71195
+D4
+~
+~
+0 0 71193
+S
+#71195
+Before a Great Door~
+A massive wooden door stands in front of you, a large steel chain clasped
+with a massive padlock holds it closed.  A strange heat radiates from beyond
+the door.  
+~
+0 4 0
+D0
+~
+~
+0 0 71194
+D1
+~
+~
+0 0 71197
+D2
+~
+~
+4 71100 71198
+D3
+~
+~
+0 0 71196
+S
+#71196
+Guard Station~
+A small guard station has been carved into the rock walls.  The only exit
+is back to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 71195
+S
+#71197
+Guard Station~
+A small guard station has been carved into the rock walls.  The only exit
+is back to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 71195
+S
+#71198
+Before a Massive Steel Door~
+A second massive door stands here blocking entrance further.  An
+oppresive heat and a bright glow of flame can be seen from coming under the
+door.  
+~
+0 8196 0
+D0
+~
+~
+4 71100 71195
+D2
+~
+~
+4 71101 71199
+S
+#71199
+Room of Fire~
+An infernal heat sweeps over the room.  A foul demon stands here ready to
+break loose and destroy the mine!!!  
+~
+0 268435456 0
+D0
+~
+~
+4 0 71198
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 71195 2 2 The south door of Before a Great Door is closed and locked
+D 0 71198 0 2 The north door of Before a Massive Steel Door is closed and locked
+D 0 71198 2 2 The south door of Before a Massive Steel Door is closed and locked
+D 0 71199 0 2 The north door of Room of Fire is closed and locked
+M 0 71100 10 71101 1 *Load a scaled worm
+M 0 71100 10 71104 1 *Load a scaled worm
+M 0 71103 50 71107 1 *Load a old dwarven collector
+M 0 71102 50 71108 2 *Load a stout dwarven miner
+M 0 71102 50 71109 2 *Load a stout dwarven miner
+M 0 71103 50 71110 2 *Load a old dwarven collector
+M 0 71102 50 71111 3 *Load a stout dwarven miner
+M 0 71102 50 71112 3 *Load a stout dwarven miner
+M 0 71103 50 71112 1 *Load a old dwarven collector
+M 0 71103 50 71113 2 *Load a old dwarven collector
+M 0 71102 50 71114 3 *Load a stout dwarven miner
+M 0 71103 50 71115 1 *Load a old dwarven collector
+M 0 71102 50 71116 2 *Load a stout dwarven miner
+M 0 71103 50 71116 1 *Load a old dwarven collector
+M 0 71103 50 71117 1 *Load a old dwarven collector
+M 0 71102 50 71118 2 *Load a stout dwarven miner
+M 0 71103 50 71118 1 *Load a old dwarven collector
+M 0 71103 50 71119 1 *Load a old dwarven collector
+M 0 71102 50 71120 3 *Load a stout dwarven miner
+M 0 71103 50 71121 2 *Load a old dwarven collector
+M 0 71102 50 71122 3 *Load a stout dwarven miner
+M 0 71103 50 71122 1 *Load a old dwarven collector
+M 0 71103 50 71123 2 *Load a old dwarven collector
+M 0 71102 50 71124 3 *Load a stout dwarven miner
+M 0 71103 50 71125 2 *Load a old dwarven collector
+M 0 71102 50 71126 2 *Load a stout dwarven miner
+M 0 71102 50 71127 2 *Load a stout dwarven miner
+M 0 71104 40 71133 2 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71134 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71135 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71136 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71137 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71138 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71103 50 71138 1 *Load a old dwarven collector
+M 0 71104 40 71139 1 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71104 40 71140 2 *Load a stout dwarven miner
+E 0 71102 0 16 *A pickaxe is loaded wielded of a stout dwarven miner
+M 0 71103 50 71140 1 *Load a old dwarven collector
+M 0 71105 20 71143 1 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71105 20 71144 2 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71105 20 71145 2 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71103 50 71145 1 *Load a old dwarven collector
+M 0 71105 20 71146 1 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71105 20 71147 1 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71105 20 71148 1 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71103 50 71148 1 *Load a old dwarven collector
+M 0 71105 20 71150 1 *Load a stout dwarven miner
+E 0 71103 0 16 *A dwarven hammer is loaded wielded of a stout dwarven miner
+E 0 71104 0 17 *A sharp metal spike is loaded held in the hands of a stout dwarven miner
+M 0 71106 20 71153 1 *Load a massive dwarf
+M 0 71103 50 71153 1 *Load a old dwarven collector
+M 0 71106 20 71154 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71106 20 71155 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71106 20 71156 2 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71106 20 71157 2 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71103 50 71157 1 *Load a old dwarven collector
+M 0 71106 20 71158 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71106 20 71159 3 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71106 20 71160 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71100 10 71161 1 *Load a scaled worm
+M 0 71100 10 71163 2 *Load a scaled worm
+M 0 71100 10 71164 2 *Load a scaled worm
+O 0 71127 0 71165 *A hidden passage loaded to Further into the Depths
+M 0 71107 50 71166 2 *Load a burly dwarf
+M 0 71103 50 71167 1 *Load a old dwarven collector
+M 0 71107 50 71168 2 *Load a burly dwarf
+M 0 71105 50 71169 1 *Load a stout dwarven miner
+M 0 71107 50 71170 1 *Load a burly dwarf
+M 0 71103 50 71171 1 *Load a old dwarven collector
+M 0 71107 50 71172 1 *Load a burly dwarf
+M 0 71107 50 71174 2 *Load a burly dwarf
+M 0 71107 50 71175 1 *Load a burly dwarf
+M 0 71103 50 71176 1 *Load a old dwarven collector
+M 0 71107 50 71177 1 *Load a burly dwarf
+M 0 71106 50 71178 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71102 50 71179 1 *Load a stout dwarven miner
+M 0 71107 50 71180 1 *Load a burly dwarf
+M 0 71103 50 71181 1 *Load a old dwarven collector
+M 0 71107 50 71182 1 *Load a burly dwarf
+M 0 71106 50 71183 1 *Load a massive dwarf
+E 0 71105 0 16 *A massive dwarven hammer is loaded wielded of a massive dwarf
+M 0 71107 50 71184 1 *Load a burly dwarf
+M 0 71107 50 71186 2 *Load a burly dwarf
+M 0 71103 50 71187 1 *Load a old dwarven collector
+M 0 71107 50 71188 2 *Load a burly dwarf
+M 0 71103 50 71189 1 *Load a old dwarven collector
+M 0 71107 50 71190 2 *Load a burly dwarf
+M 0 71100 10 71192 1 *Load a scaled worm
+O 0 71128 0 71194 *A partially closed tunnel loaded to A Small Dark Cavern
+M 0 71101 2 71196 1 *Load a stout dwarven guard
+G 0 71100 0 *A massive steel key is given to a stout dwarven guard
+M 0 71101 2 71197 1 *Load a stout dwarven guard
+G 0 71101 0 *A massive metal key is given to a stout dwarven guard
+M 0 71108 1 71199 1 *Load {Rthe Balrog{x
+E 0 71109 0 16 *{rthe {rwhip {rof {rflame{x is loaded wielded of {Rthe Balrog{x
+E 0 71106 0 16 *{rthe {rsword {rof {rfire{x is loaded wielded of {Rthe Balrog{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#71100
+if rand 10
+if rand 80
+mob call 13820 self
+else
+if rand 65
+mob call 13819 self
+else
+if rand 40
+mob call 13818 self
+else
+if rand 30
+mob call 13817 self
+else
+if rand 25
+mob call 13816 self
+~
+#71101
+if rand 50
+mob remember $n
+mob delay 1
+endif
+~
+#71102
+mob goto $q
+mob trans $q 71199
+mob goto 71199
+mob echo The Balrog snaps its whip and pulled you back into the room.
+kill $q
+forget $q
+~
+#71103
+if carries $i 'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob remember $n
+mob goto 22640
+mob trans $q
+mob mload 22441
+mob goto 22637
+~
+#71104
+if carries $i 'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+if carries $i 4.'mithril links'
+if carries $i 5.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob remember $n
+mob goto 22641
+mob trans $q
+mob mload 22442
+mob goto 22638
+~
+#71105
+if carries $i 'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+if carries $i 4.'mithril links'
+if carries $i 5.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob remember $n
+mob goto 22642
+mob trans $q
+mob goto 22639
+~
+#71106
+say Choose One, Two, or Three.  Stats are below;
+say One: ac -22, mana 100, hp 100, manaregen 10, saves -1
+say Two: ac -30, regen 5, hp 100, damroll 7, hitroll 7
+say Three: ac -7, hitroll 15, damroll 20
+~
+#71107
+mob oload 71110
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71108
+mob oload 71111
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71109
+mob oload 71112
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71110
+mob oload 71113
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71111
+mob oload 71114
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71112
+mob oload 71115
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71113
+if carries $i 'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+if carries $i 4.'mithril links'
+if carries $i 5.'mithril links'
+if carries $i 6.'mithril links'
+if carries $i 7.'mithril links'
+if carries $i 8.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob remember $n
+mob goto 22642
+mob trans $q
+mob mload 22443
+mob goto 22639
+~
+#71114
+mob oload 71116
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71115
+mob oload 71117
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71116
+mob oload 71118
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71117
+if carries $i 'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+if carries $i 4.'mithril links'
+if carries $i 5.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob remember $n
+mob goto 22641
+mob mload 22442
+mob trans $q
+mob goto 22638
+~
+#71118
+if rand 50
+mob oload 71107
+endif
+if rand 50
+mob oload 71119
+else
+if rand 50
+mob oload 71120
+else
+mob oload 71121
+endif
+~
+#71119
+if carries $i 'mithril links'
+if carries $i 1.'mithril links'
+if carries $i 2.'mithril links'
+if carries $i 3.'mithril links'
+if carries $i 4.'mithril links'
+if carries $i 5.'mithril links'
+if carries $i 6.'mithril links'
+if carries $i 7.'mithril links'
+if carries $i 8.'mithril links'
+if carries $i 9.'mithril links'
+if carries $i 10.'mithril links'
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+mob junk mithril
+remember $n
+mob goto 22644
+mob trans $q
+mob mload 22445
+mob goto 22643
+~
+#71120
+mob oload 71122
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71121
+mob oload 71123
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71122
+mob oload 71124
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71123
+mob oload 71125
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#71124
+mob oload 71126
+mob remember $n
+give mithril $n
+mob goto 3014
+mob trans $q
+mob purge self
+~
+#0
+
+#$

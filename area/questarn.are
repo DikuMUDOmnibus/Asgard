@@ -1,0 +1,86 @@
+#AREADATA
+Name Automated Quest Arena~
+Builders Unlinked~
+VNUMs 40300 40999
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#40300
+Quest Facilitator Alpha~
+Quest Facilitator Alpha~
+Quest Facilitator Alpha is here waiting to start quests.
+~
+~
+human~
+ABc 0 0 0 0
+200 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+M DELAY 40300 1~
+M RANDOM 40300 1~
+#0
+
+
+
+#OBJECTS
+#40300
+Game Chest~
+game Chest~
+The Game Chest is here with Game flags inside.~
+unknown~
+container RTa 0
+1000 0 0 10000 0
+101 1 0 P
+#0
+
+
+
+#ROOMS
+#40300
+Quest Arena Prep Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 40300 1 40300 1 *Load Quest Facilitator Alpha
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#40300
+if objhere 40300
+say it works
+else
+say loading chest
+mob oload 40300
+endif
+~
+#0
+
+#$

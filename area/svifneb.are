@@ -1,0 +1,2103 @@
+#AREADATA
+Name Burrows of the Svirfneblin~
+Builders Ishamael~
+VNUMs 74600 74699
+Continent 6
+Mobtier 0
+Credits [  LGD ] Ishamael Burrows of the Svirfneblin~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#74600
+svirfneblin tinkerer gnome~
+a svirfneblin tinkerer~
+A svirfneblin tinkerer sits here fiddling with an odd contraption.
+~
+~
+gnome~
+ART DJVc 0 0 0
+215 800 1d1+22500 1d1+15000 55d10+200 slap
+-100 -100 -100 -100
+DHIKN ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV tiny unknown
+S 1
+V 25
+A 10
+M FIGHT 74600 10~
+M DEATH 74307 10~
+#74601
+svirfneblin miner gnome~
+a svirfneblin miner~
+A svirfneblin miner digs here searching for precious stones.
+~
+~
+gnome~
+ART DJVc 0 0 0
+215 800 1d1+20000 1d1+15000 60d10+0 slap
+-100 -100 -100 -100
+DFHI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV tiny unknown
+S 1
+V 26
+A 10
+M DEATH 74307 30~
+#74602
+deep gnome svirfneblin~
+a deep gnome~
+A gray-skinned gnome wanders about the caverns.
+~
+~
+gnome~
+ART DJVc 0 0 0
+215 800 1d1+22500 1d1+15000 55d10+200 slap
+-100 -100 -100 -100
+DHI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 25
+A 10
+M DEATH 74307 10~
+#74603
+breach gnome~
+a breach gnome ~
+A dark skinned gnome stands here guarding the cavern.
+~
+~
+gnome~
+ABRT DJVc 0 0 0
+225 800 1d1+25000 1d1+15000 60d10+150 punch
+-100 -100 -100 -100
+DHI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 28
+A 12
+M DEATH 74307 15~
+#74604
+svirfneblin illusionist gnome~
+a svirfneblin illusionist~
+{RThe Balrog {rstands here burning up the room!!!{x
+~
+~
+gnome~
+ABGRS DFJTVc 0 0 0
+200 1000 1d1+25000 110d10+100 55d10+150 bite
+-100 -85 -85 -85
+DEFHK AHJ ABCDEMZ S
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV large unknown
+S 1
+V 26
+A 10
+M FIGHT 74601 20~
+M DEATH 74307 10~
+#74605
+svirfneblin wizard gnome~
+a svirfneblin wizard~
+A dark gnome wizard stands here casting spells.
+~
+~
+gnome~
+AGRS DFJTc 0 -1000 0
+220 1000 1d1+20000 1d1+25000 50d10+150 slap
+-100 -85 -85 -85
+FK AHJ ABCEMZ S
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV large unknown
+S 1
+V 26
+A 1
+M FIGHT 74602 100~
+M DEATH 74307 10~
+#74606
+svirfneblin burrow warden gnome~
+a svirfneblin burrow warden~
+A dark skinned gnome oversees the activity in the caverns.
+~
+~
+gnome~
+ABRT DJVc 0 0 0
+250 2000 1d1+125000 1d1+15000 50d10+200 slap
+-100 -100 -100 -100
+ADHI ABQ BE S
+stand stand male 30000
+ABHMV ABCDEFGHIJKUV medium unknown
+S 1
+V 65
+A 20
+M DEATH 74308 100~
+M KILL 74603 100~
+M FIGHT 74603 100~
+#0
+
+
+
+#OBJECTS
+#74600
+pool water spring~
+a shimmering pool of water~
+A small pool of water bubbles in the corner of the cavern.~
+water~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 G
+#74601
+a tiny pickaxe~
+a tiny pickaxe~
+A small pickaxe lies here.~
+stone~
+weapon 0 AN
+axe 14 14 thwack D
+101 0 50000 P
+#0
+
+
+
+#ROOMS
+#74600
+Passageway into the Depths ~
+The dark passageway leads away from the great cavern heading down into
+the blackness of the unknown.  There is little indication as to where this
+passage may lead.  
+~
+0 5 0
+D0
+~
+~
+0 0 74549
+D2
+~
+~
+0 0 74601
+S
+#74601
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 74600
+D3
+~
+~
+0 0 74602
+S
+#74602
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 74601
+D2
+~
+~
+0 0 74603
+S
+#74603
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 74602
+D3
+~
+~
+0 0 74604
+S
+#74604
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 74603
+D5
+~
+~
+0 0 74605
+S
+#74605
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D3
+~
+~
+0 0 74606
+D4
+~
+~
+0 0 74604
+S
+#74606
+Dark Passageway~
+The passageway levels out as it heads through the bedrock running
+east-west.  No natrual light reaches you here as water trickles in through
+several small cracks in the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 74605
+D3
+~
+~
+0 0 74607
+S
+#74607
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 74606
+D2
+~
+~
+0 0 74608
+S
+#74608
+Twisting Passageway~
+The dark passageway turns as it heads through the dense rock of the
+underground.  Each step echoes off the stone walls as you walk through the
+dark passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 74607
+D5
+~
+~
+0 0 74609
+S
+#74609
+Before a System of Tunnels~
+The dark passageway opens to a complex series of tunnels through the
+underground.  The sverfneblin use the tunnel system to travel between the
+caverns of their underground city.  
+~
+0 0 0
+D2
+~
+~
+0 0 74610
+D4
+~
+~
+0 0 74608
+S
+#74610
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74609
+D1
+~
+~
+0 0 74632
+D3
+~
+~
+0 0 74611
+S
+#74611
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74610
+D3
+~
+~
+0 0 74612
+S
+#74612
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D1
+~
+~
+0 0 74611
+D2
+~
+~
+0 0 74615
+D3
+~
+~
+0 0 74613
+S
+#74613
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D1
+~
+~
+0 0 74612
+D2
+~
+~
+0 0 74614
+S
+#74614
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74613
+D1
+~
+~
+0 0 74615
+D2
+~
+~
+0 0 74617
+S
+#74615
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74612
+D2
+~
+~
+0 0 74616
+D3
+~
+~
+0 0 74614
+S
+#74616
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74615
+D3
+~
+~
+0 0 74617
+S
+#74617
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74614
+D1
+~
+~
+0 0 74616
+D3
+~
+~
+0 0 74618
+S
+#74618
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74617
+D2
+~
+~
+0 0 74619
+S
+#74619
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74618
+D3
+~
+~
+0 0 74620
+S
+#74620
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74619
+D5
+~
+~
+0 0 74621
+S
+#74621
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D2
+~
+~
+0 0 74622
+D4
+~
+~
+0 0 74620
+S
+#74622
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74621
+D1
+~
+~
+0 0 74624
+D2
+~
+~
+0 0 74623
+D3
+~
+~
+0 0 74698
+S
+#74623
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74622
+D1
+~
+~
+0 0 74625
+D3
+~
+~
+0 0 74699
+S
+#74624
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D2
+~
+~
+0 0 74625
+D3
+~
+~
+0 0 74622
+S
+#74625
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74624
+D1
+~
+~
+0 0 74626
+D3
+~
+~
+0 0 74623
+S
+#74626
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D2
+~
+~
+0 0 74627
+D3
+~
+~
+0 0 74625
+S
+#74627
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74626
+D2
+~
+~
+0 0 74628
+S
+#74628
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74627
+D1
+~
+~
+0 0 74629
+D2
+~
+~
+0 0 74630
+S
+#74629
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D2
+~
+~
+0 0 74631
+D3
+~
+~
+0 0 74628
+S
+#74630
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74628
+D1
+~
+~
+0 0 74631
+S
+#74631
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74629
+D1
+~
+~
+0 0 74653
+D3
+~
+~
+0 0 74630
+S
+#74632
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74633
+D3
+~
+~
+0 0 74610
+S
+#74633
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D3
+~
+~
+0 0 74632
+D5
+~
+~
+0 0 74634
+S
+#74634
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74635
+D4
+~
+~
+0 0 74633
+S
+#74635
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D2
+~
+~
+0 0 74636
+D3
+~
+~
+0 0 74634
+S
+#74636
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74635
+D1
+~
+~
+0 0 74637
+D2
+~
+~
+0 0 74638
+S
+#74637
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D2
+~
+~
+0 0 74639
+D3
+~
+~
+0 0 74636
+S
+#74638
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74636
+D1
+~
+~
+0 0 74639
+D3
+~
+~
+0 0 74677
+S
+#74639
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74637
+D2
+~
+~
+0 0 74640
+D3
+~
+~
+0 0 74638
+S
+#74640
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74639
+D1
+~
+~
+0 0 74641
+S
+#74641
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74642
+D3
+~
+~
+0 0 74640
+S
+#74642
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74694
+D3
+~
+~
+0 0 74641
+D5
+~
+~
+0 0 74643
+S
+#74643
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74644
+D4
+~
+~
+0 0 74642
+S
+#74644
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D2
+~
+~
+0 0 74645
+D3
+~
+~
+0 0 74643
+S
+#74645
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74644
+D1
+~
+~
+0 0 74646
+D2
+~
+~
+0 0 74647
+S
+#74646
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D2
+~
+~
+0 0 74648
+D3
+~
+~
+0 0 74645
+S
+#74647
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74645
+D1
+~
+~
+0 0 74648
+D2
+~
+~
+0 0 74649
+S
+#74648
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74646
+D2
+~
+~
+0 0 74650
+D3
+~
+~
+0 0 74647
+S
+#74649
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74647
+D1
+~
+~
+0 0 74650
+S
+#74650
+Cavern of the Svirfneblin~
+Several svirfneblin congregate around the center of the cavern and
+partake in general combat training exercises.  Off the the side of the
+cavern several of the deep gnomes sit tinkering with various materials.  
+~
+0 0 0
+D0
+~
+~
+0 0 74648
+D2
+~
+~
+0 0 74651
+D3
+~
+~
+0 0 74649
+S
+#74651
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74650
+D2
+~
+~
+0 0 74652
+S
+#74652
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74651
+D1
+~
+~
+0 0 74668
+S
+#74653
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74678
+D2
+~
+~
+0 0 74654
+D3
+~
+~
+0 0 74631
+S
+#74654
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74653
+D2
+~
+~
+0 0 74655
+S
+#74655
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74654
+D3
+~
+~
+0 0 74656
+S
+#74656
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74655
+D5
+~
+~
+0 0 74657
+S
+#74657
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D3
+~
+~
+0 0 74658
+D4
+~
+~
+0 0 74656
+S
+#74658
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D1
+~
+~
+0 0 74657
+D2
+~
+~
+0 0 74661
+D3
+~
+~
+0 0 74659
+S
+#74659
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D1
+~
+~
+0 0 74658
+D2
+~
+~
+0 0 74660
+S
+#74660
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74659
+D1
+~
+~
+0 0 74661
+D2
+~
+~
+0 0 74662
+S
+#74661
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74658
+D2
+~
+~
+0 0 74663
+D3
+~
+~
+0 0 74660
+S
+#74662
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74660
+D1
+~
+~
+0 0 74663
+D3
+~
+~
+0 0 74664
+S
+#74663
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74661
+D3
+~
+~
+0 0 74662
+S
+#74664
+Entering an Exploratory Tunnel~
+A freshly dug tunnel heads away from the mining cavern leading deeper
+beneath the earth.  Crumbling rock and splintered tools lie scattered around
+the new tunnel.  
+~
+0 4 0
+D1
+~
+~
+0 0 74662
+D3
+~
+~
+0 0 74665
+S
+#74665
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D1
+~
+~
+0 0 74664
+D5
+~
+~
+0 0 74666
+S
+#74666
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 74667
+D4
+~
+~
+0 0 74665
+S
+#74667
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74666
+D5
+~
+~
+0 0 74800
+S
+#74668
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D1
+~
+~
+0 0 74669
+D2
+~
+~
+0 0 74670
+D3
+~
+~
+0 0 74652
+S
+#74669
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D2
+~
+~
+0 0 74671
+D3
+~
+~
+0 0 74668
+S
+#74670
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74668
+D1
+~
+~
+0 0 74671
+D2
+~
+~
+0 0 74672
+S
+#74671
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74669
+D1
+~
+~
+0 0 74674
+D2
+~
+~
+0 0 74673
+D3
+~
+~
+0 0 74670
+S
+#74672
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74670
+D1
+~
+~
+0 0 74673
+S
+#74673
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74671
+D1
+~
+~
+0 0 74675
+D3
+~
+~
+0 0 74672
+S
+#74674
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D2
+~
+~
+0 0 74675
+D3
+~
+~
+0 0 74671
+S
+#74675
+Mining Cavern of the Svirfneblin~
+The walls of the cavern are gouged with pickaxe marks as partially
+uncovered gems shimmer.  Loose stones roll underfoot and crumble to dust as
+you crush them with your boots.  
+~
+0 0 0
+D0
+~
+~
+0 0 74674
+D1
+~
+~
+0 0 74676
+D3
+~
+~
+0 0 74673
+S
+#74676
+Entering an Exploratory Tunnel~
+A freshly dug tunnel heads away from the mining cavern leading deeper
+beneath the earth.  Crumbling rock and splintered tools lie scattered around
+the new tunnel.  
+~
+0 4 0
+D1
+~
+~
+0 0 74691
+D3
+~
+~
+0 0 74675
+S
+#74677
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74638
+D3
+~
+~
+0 0 74684
+S
+#74678
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74679
+D3
+~
+~
+0 0 74653
+S
+#74679
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D3
+~
+~
+0 0 74678
+D4
+~
+~
+0 0 74680
+S
+#74680
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 74681
+D5
+~
+~
+0 0 74679
+S
+#74681
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74682
+D2
+~
+~
+0 0 74680
+D3
+~
+~
+0 0 74687
+S
+#74682
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74683
+D2
+~
+~
+0 0 74681
+D3
+~
+~
+0 0 74686
+S
+#74683
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74684
+D2
+~
+~
+0 0 74682
+D3
+~
+~
+0 0 74685
+S
+#74684
+In the Tunnels~
+The narrow tunnels run through the underground connecting the caverns of
+the Svirfneblin.  The tunnel system seems rather unremarkable to an outsider
+as you fumble to get a sense of direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 74677
+D2
+~
+~
+0 0 74683
+S
+#74685
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D1
+~
+~
+0 0 74683
+D2
+~
+~
+0 0 74686
+D3
+~
+~
+0 0 74688
+S
+#74686
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74685
+D1
+~
+~
+0 0 74682
+D2
+~
+~
+0 0 74687
+D3
+~
+~
+0 0 74689
+S
+#74687
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74686
+D1
+~
+~
+0 0 74681
+D3
+~
+~
+0 0 74690
+S
+#74688
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D1
+~
+~
+0 0 74685
+D2
+~
+~
+0 0 74689
+S
+#74689
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74688
+D1
+~
+~
+0 0 74686
+D2
+~
+~
+0 0 74690
+S
+#74690
+Main Cavern of the Svirfneblin~
+The walls of the cavern are honeycombed with tiny houses carved deep in
+the stone.  Svirfneblin and other deep gnomes run about the cavern carrying
+out their daily activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 74689
+D1
+~
+~
+0 0 74687
+S
+#74691
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 74676
+D5
+~
+~
+0 0 74692
+S
+#74692
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 74693
+D4
+~
+~
+0 0 74691
+S
+#74693
+In the Exploratory Tunnel~
+The freshly dug tunnel leads further away from the mining cavern, the
+walls shimmering with untapped gems.  Loose stones roll underfoot and crunch
+with every step through the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 74692
+D2
+~
+~
+0 0 74700
+S
+#74694
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74697
+D1
+~
+~
+0 0 74695
+D2
+~
+~
+0 0 74642
+S
+#74695
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D0
+~
+~
+0 0 74696
+D3
+~
+~
+0 0 74694
+S
+#74696
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D2
+~
+~
+0 0 74695
+D3
+~
+~
+0 0 74697
+S
+#74697
+Cavern of the Svirfneblin~
+The small cavern provides as a housing area for the deep gnomes as you
+notice several small houses are carved into the thick rock walls.  The
+living quarters for the gnomes are relatively small with a single room
+housing an entire family of svirfneblin.  
+~
+0 0 0
+D1
+~
+~
+0 0 74696
+D2
+~
+~
+0 0 74694
+S
+#74698
+Pool in the Cavern~
+A small pool of water sits in the corner of the caverns as several of the
+deep gnomes carry off small buckets of water.  The small carved out houses
+are crammed into the rock walls right up to the waters edge.  
+~
+0 0 0
+D1
+~
+~
+0 0 74622
+D2
+~
+~
+0 0 74699
+S
+#74699
+Pool in the Cavern~
+A small pool of water sits in the corner of the caverns as several of the
+deep gnomes carry off small buckets of water.  The small carved out houses
+are crammed into the rock walls right up to the waters edge.  
+~
+0 0 0
+D0
+~
+~
+0 0 74698
+D1
+~
+~
+0 0 74623
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 74602 50 74603 1 *Load a deep gnome
+M 0 74602 50 74605 2 *Load a deep gnome
+M 0 74602 50 74607 1 *Load a deep gnome
+M 0 74602 50 74609 1 *Load a deep gnome
+M 0 74602 50 74611 2 *Load a deep gnome
+M 0 74602 50 74612 1 *Load a deep gnome
+M 0 74603 20 74613 1 *Load a breach gnome 
+M 0 74602 50 74613 1 *Load a deep gnome
+M 0 74600 35 74613 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74614 2 *Load a deep gnome
+M 0 74605 10 74615 1 *Load a svirfneblin wizard
+M 0 74603 20 74615 1 *Load a breach gnome 
+M 0 74602 50 74615 1 *Load a deep gnome
+M 0 74600 35 74615 2 *Load a svirfneblin tinkerer
+M 0 74600 35 74616 1 *Load a svirfneblin tinkerer
+M 0 74603 20 74617 1 *Load a breach gnome 
+M 0 74602 50 74617 2 *Load a deep gnome
+M 0 74602 50 74618 1 *Load a deep gnome
+M 0 74602 50 74620 1 *Load a deep gnome
+M 0 74600 35 74620 1 *Load a svirfneblin tinkerer
+M 0 74605 10 74621 1 *Load a svirfneblin wizard
+M 0 74605 10 74622 1 *Load a svirfneblin wizard
+M 0 74602 50 74622 2 *Load a deep gnome
+M 0 74603 20 74623 1 *Load a breach gnome 
+M 0 74600 35 74623 2 *Load a svirfneblin tinkerer
+M 0 74603 20 74624 1 *Load a breach gnome 
+M 0 74600 35 74624 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74625 1 *Load a deep gnome
+M 0 74602 50 74626 1 *Load a deep gnome
+M 0 74602 50 74628 1 *Load a deep gnome
+M 0 74602 50 74629 1 *Load a deep gnome
+M 0 74600 35 74629 2 *Load a svirfneblin tinkerer
+M 0 74605 10 74630 1 *Load a svirfneblin wizard
+M 0 74602 50 74630 2 *Load a deep gnome
+M 0 74600 35 74630 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74633 1 *Load a deep gnome
+M 0 74602 50 74635 1 *Load a deep gnome
+M 0 74603 20 74636 2 *Load a breach gnome 
+M 0 74602 50 74636 2 *Load a deep gnome
+M 0 74600 35 74636 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74637 1 *Load a deep gnome
+M 0 74602 50 74639 2 *Load a deep gnome
+M 0 74600 35 74639 2 *Load a svirfneblin tinkerer
+M 0 74605 10 74641 1 *Load a svirfneblin wizard
+M 0 74602 50 74641 1 *Load a deep gnome
+M 0 74602 50 74644 1 *Load a deep gnome
+M 0 74603 20 74645 1 *Load a breach gnome 
+M 0 74600 35 74645 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74646 2 *Load a deep gnome
+M 0 74602 50 74647 2 *Load a deep gnome
+M 0 74603 20 74648 1 *Load a breach gnome 
+M 0 74600 35 74648 2 *Load a svirfneblin tinkerer
+M 0 74600 35 74649 1 *Load a svirfneblin tinkerer
+M 0 74602 50 74650 1 *Load a deep gnome
+M 0 74605 10 74651 1 *Load a svirfneblin wizard
+M 0 74602 50 74653 1 *Load a deep gnome
+M 0 74605 10 74656 1 *Load a svirfneblin wizard
+M 0 74601 30 74658 3 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74659 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74603 20 74660 2 *Load a breach gnome 
+M 0 74601 30 74660 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74661 3 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74662 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74663 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74604 2 74665 1 *Load a svirfneblin illusionist
+M 0 74601 30 74668 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74603 20 74669 1 *Load a breach gnome 
+M 0 74601 30 74669 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74670 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74671 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74603 20 74672 1 *Load a breach gnome 
+M 0 74601 30 74672 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74673 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74674 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74601 30 74675 2 *Load a svirfneblin miner
+E 0 74601 0 16 *A tiny pickaxe is loaded wielded of a svirfneblin miner
+M 0 74605 10 74678 1 *Load a svirfneblin wizard
+M 0 74602 50 74679 2 *Load a deep gnome
+M 0 74602 50 74681 3 *Load a deep gnome
+M 0 74600 35 74681 1 *Load a svirfneblin tinkerer
+M 0 74603 20 74682 1 *Load a breach gnome 
+M 0 74602 50 74682 2 *Load a deep gnome
+M 0 74600 35 74683 1 *Load a svirfneblin tinkerer
+M 0 74602 50 74685 1 *Load a deep gnome
+M 0 74606 1 74686 1 *Load a svirfneblin burrow warden
+M 0 74602 50 74686 1 *Load a deep gnome
+M 0 74600 35 74686 1 *Load a svirfneblin tinkerer
+M 0 74605 10 74687 1 *Load a svirfneblin wizard
+M 0 74603 20 74687 1 *Load a breach gnome 
+M 0 74603 20 74688 1 *Load a breach gnome 
+M 0 74602 50 74688 1 *Load a deep gnome
+M 0 74600 35 74688 2 *Load a svirfneblin tinkerer
+M 0 74602 50 74690 1 *Load a deep gnome
+M 0 74600 35 74690 2 *Load a svirfneblin tinkerer
+M 0 74604 2 74691 1 *Load a svirfneblin illusionist
+M 0 74602 50 74694 1 *Load a deep gnome
+M 0 74602 50 74695 1 *Load a deep gnome
+M 0 74602 50 74696 1 *Load a deep gnome
+M 0 74600 35 74696 2 *Load a svirfneblin tinkerer
+M 0 74603 20 74697 2 *Load a breach gnome 
+M 0 74600 35 74697 2 *Load a svirfneblin tinkerer
+M 0 74600 35 74698 1 *Load a svirfneblin tinkerer
+O 0 74600 0 74698 *A shimmering pool of water loaded to Pool in the Cavern
+O 0 74600 0 74699 *A shimmering pool of water loaded to Pool in the Cavern
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#74600
+mob echo {WA bright flash fills the area!!{x
+mob cast 'high explosive' $n
+~
+#74601
+if rand 25
+mob echo {WA silver babble fades into existence.{x
+else
+if rand 25
+mob echo {YA gold babble fades into existence.{x
+else
+if rand 25
+mob echo {BA blue babble fades into existence.{x
+else
+mob echo {8A metal babble fades into existence.{x
+endif
+endif
+endif
+~
+#74602
+mob echo {WThe Svirfneblin wizard casts a flurry of spells at you!!!{x
+mob cast 'acid blast' $n
+mob cast 'fork' $n
+mob cast 'burning hands' $n
+~
+#74603
+mob echo {WThe burrow warden calls out as other gnomes rush in to aid him!!!{x
+~
+#0
+
+#$

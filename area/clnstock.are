@@ -1,0 +1,586 @@
+#AREADATA
+Name Clan Stock Area~
+Builders Unlinked~
+VNUMs 60000 60099
+Continent 4
+Mobtier 0
+Credits [------] ----    Clan Stock Area~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#60000
+%s clan guard~
+{wthe{x %s {wC{Dlan {wG{Duard{x~
+{wThe {x%s {wC{Dlan {wG{Duard{w stands to attention.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 200 20000d1+0 1d1+0 25d25+0 punch
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60001
+%s clan mage~
+{wthe{x %s {wC{Dlan {wM{Dage{x~
+{wThe {x%s {wC{Dlan {wM{Dage{w shoots fireballs at the wall.{x
+~
+~
+human~
+ABRV 0 0 0 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60002
+%s clan mason~
+{wthe{x %s {wC{Dlan {wM{Dason{x~
+{wThe {x%s {wC{Dlan {wM{Dason{w stands in the corner mixing cement.{x
+~
+~
+human~
+AG 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60003
+%s clan trainer~
+{wthe{x %s {wC{Dlan {wT{Drainer{x~
+{wThe{x %s {wC{Dlan {wT{Drainer{w stands here, whip in hand.{x
+~
+~
+human~
+ABJV 0 0 0 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60004
+%s clan blacksmith~
+{wthe{x %s {wC{Dlan {wB{Dlacksmith{x~
+{wThe{x %s {wC{Dlan {wB{Dlacksmith{w hammers away at a red-hot piece of steel.{x
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60005
+%s clan brewer~
+{wthe{x %s {wC{Dlan {wB{Drewer{x~
+{wThe{x %s {wC{Dlan {wB{Drewer{w is here, brewing up a potion.{x
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60006
+%s clan baker~
+{wthe{x %s {wC{Dlan {wB{Daker{x~
+{wThe{x %s {wC{Dlan {wB{Daker{w mans a giant oven.{x
+~
+~
+human~
+ABV 0 0 0 0
+25 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60007
+%s clan good priest~
+{wthe{x %s {wC{Dlan {WG{wood {wP{Driest{x~
+{wThe{x %s {wC{Dlan {WG{wood {wP{Driest{w glows angelically in the light.{x
+~
+~
+human~
+ABQVZ 0 0 1000 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60008
+%s clan evil priest~
+{wthe{x %s {wC{Dlan {RE{rvil {wP{Driest{x~
+{wThe{x %s {wC{Dlan {RE{rvil {wP{Driest{w stands in a pool of shadows.{x
+~
+~
+human~
+ABQVX 0 0 -1000 0
+30 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60009
+%s clan healer~
+{wthe{x %s {wC{Dlan {wH{Dealer{x~
+{wThe{x %s {wC{Dlan {wH{Dealer{w stands at the altar, mixing up some herbs.{x
+~
+~
+human~
+ABQVa 0 0 0 0
+100 0 1d1+1000 1d1+100000 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60010
+%s clan shopkeep~
+{wthe{x %s {wC{Dlan {wS{Dhopkeep{x~
+{wThe{x %s {wC{Dlan {wS{Dhopkeep{w pushes a trolley full of goodies around.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60011
+%s clan pet~
+{wthe{x %s {wC{Dlan {wP{Det{x~
+{wThe{x %s {wC{Dlan {wP{Det{w tries to look inconspicuous in the corner of the room.{x
+~
+~
+human~
+AI 0 0 0 0
+30 60 500d1+0 5000d1+0 1d1+0 punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60012
+%s clan tanner~
+{wthe{x %s {wC{Dlan {wT{Danner{x~
+{wThe{x %s {wC{Dlan {wT{Danner{w works hard preserving hides.{x
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#60013
+%s clan quest master~
+{wthe{x %s {wC{Dlan {wQ{Duest {wM{Daster{x~
+{wThe{x %s {wC{Dlan {wQ{Duest {wM{Daster{w tries to look cool by not giving out quests
+~
+~
+human~
+ABV 0 0 0 0
+100 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#0
+
+
+
+#OBJECTS
+#60000
+%s furniture~
+%s {dF{Durniture{x~
+%s basic furniture is here.~
+unknown~
+furniture R 0
+BC FIJ BEHK CFG CFG
+0 0 0 P
+#60001
+%s portal~
+%s {dC{Dlan {dP{Dortal{x~
+A portal belonging to %s is here.~
+unknown~
+portal R 0
+0 0 B BCGHIJL 0
+0 0 0 P
+#60002
+%s scroll~
+%s {dS{Dcroll{x~
+%s clan scroll has been forgotten.~
+unknown~
+scroll 0 A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+15 1 5000 P
+#60003
+%s wand~
+%s {dW{Dand{x~
+%s clan wand lies here.~
+unknown~
+wand 0 AO
+30 0 0 'reserved' 0
+15 5 5000 P
+#60004
+%s staff~
+%s {dS{Dtaff{x~
+A staff belonging to %s has been dropped.~
+unknown~
+staff 0 AO
+30 0 0 'reserved' 0
+15 15 5000 P
+#60005
+%s weapon~
+%s {dW{Deapon{x~
+A weapon belonging to %s lies here.~
+unknown~
+weapon 0 AN
+exotic 0 0 slash 0
+15 0 5000 P
+#60006
+%s armor~
+%s {dA{Drmor{x~
+Armor belonging to %s is waiting to take shape.~
+unknown~
+armor 0 A
+0 0 0 0 0
+15 5 5000 P
+#60007
+%s potion~
+%s {dP{Dotion{x~
+An unappetizing potion belonging to %s has been dropped.~
+unknown~
+potion 0 AO
+30 'reserved' 'reserved' 'reserved' 'reserved'
+15 5 5000 P
+#60008
+%s container~
+%s {dC{Dontainer{x~
+A container belonging to %s is here.~
+unknown~
+container 0 A
+0 0 0 0 100
+0 5 5000 P
+#60009
+%s dcontainer drink container~
+%s {dD{Drink {dC{Dontainer{x~
+%s drink container has been forgotten.~
+unknown~
+drink 0 A
+10 10 'water' 0 0
+0 10 5000 P
+#60010
+%s food~
+%s {dF{Dood{x~
+Food belonging to the %s clan is here.~
+unknown~
+food 0 A
+5 5 0 0 0
+0 1 0 P
+#60011
+%s boat~
+%s {dB{Doat{x~
+A boat captained by a member of %s is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+0 100 0 P
+#60012
+%s fountain~
+%s {dF{Dountain{x~
+A fountain belonging to %s pours forth an unknown liquid.~
+unknown~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 P
+#60013
+%s slot machine~
+%s {dS{Dlot {dM{Dachine{x~
+Slot machine of %s!~
+unknown~
+slotmachine R 0
+FHJKPQ GIJLOSTW AB 0 0
+0 0 0 P
+#60014
+%s pill~
+%s {dP{Dill{x~
+A pill from %s is here.~
+unknown~
+pill 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 5000 P
+#60015
+%s warp stone~
+%s {dW{Darp {dS{Dtone{x~
+A warp stone of %s is here.~
+unknown~
+warp_stone 0 AO
+0 0 0 0 0
+0 8 5000 P
+#60016
+%s demon stone~
+%s {dD{Demon {dS{Dtone{x~
+A demon stone belonging to %s is here.~
+unknown~
+demon_stone 0 AO
+0 0 0 0 0
+0 8 5000 P
+#60017
+%s light~
+%s {wL{Dight{x~
+A light belonging to %s is here.~
+unknown~
+light 0 A
+0 0 AC 0 0
+0 15 5000 P
+#0
+
+
+
+#ROOMS
+#60000
+%s {wC{Dlan {wH{Dall{x~
+This is the clan hall of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60001
+S
+#60001
+%s {wC{Dlan {wS{Dmithy{x~
+This is the smithy of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60002
+D2
+~
+~
+0 0 60000
+S
+#60002
+%s {wC{Dlan {wW{Dorkshop{x~
+This is the mage's workshop of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60003
+D2
+~
+~
+0 0 60001
+S
+#60003
+%s {wC{Dlan {WG{wood {wS{Dhrine{x~
+This is the good shrine of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60004
+D2
+~
+~
+0 0 60002
+S
+#60004
+%s {wC{Dlan {RE{rvil {wS{Dhrine{x~
+This is the evil shrine of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60005
+D2
+~
+~
+0 0 60003
+S
+#60005
+%s {wC{Dlan {wS{Dhop{x~
+This is the shop of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60006
+D2
+~
+~
+0 0 60004
+S
+#60006
+%s {wC{Dlan {wT{Drainer's {wR{Doom{x~
+This is the trainer's room of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60007
+D2
+~
+~
+0 0 60005
+S
+#60007
+%s {wC{Dlan {wS{Dtable{x~
+This is the stable of %s{x.
+~
+0 4108 0
+D0
+~
+~
+0 0 60008
+D2
+~
+~
+0 0 60006
+S
+#60008
+%s {wC{Dlan {wB{Dakery{x~
+This is the bakery of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60009
+D2
+~
+~
+0 0 60007
+S
+#60009
+%s {wC{Dlan {wB{Drewery{x~
+This is the brewery of %s{x.
+~
+0 12 0
+D0
+~
+~
+0 0 60010
+D2
+~
+~
+0 0 60008
+S
+#60010
+%s {wC{Dlan {wT{Dannery{x~
+This is the tannery of %s{x.
+~
+0 12 0
+D2
+~
+~
+0 0 60009
+S
+#0
+
+
+
+#SPECIALS
+M 60001 spec_cast_mage Load to: {wthe{x %s {wC{Dlan {wM{Dage{x
+M 60004 spec_smith Load to: {wthe{x %s {wC{Dlan {wB{Dlacksmith{x
+M 60005 spec_dog_pee Load to: {wthe{x %s {wC{Dlan {wB{Drewer{x
+M 60007 spec_cast_cleric Load to: {wthe{x %s {wC{Dlan {WG{wood {wP{Driest{x
+M 60008 spec_cast_cleric Load to: {wthe{x %s {wC{Dlan {RE{rvil {wP{Driest{x
+M 60009 spec_cast_clan_adept Load to: {wthe{x %s {wC{Dlan {wH{Dealer{x
+M 60013 spec_questmaster Load to: {wthe{x %s {wC{Dlan {wQ{Duest {wM{Daster{x
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+60001 3 2 0 0 0 100 100 7 18
+60004 9 0 0 0 0 100 100 7 18
+60005 17 10 0 0 0 100 100 7 18
+60006 19 26 0 0 0 100 100 7 18
+60010 5 9 33 10 8 100 100 1 23
+60012 23 0 0 0 0 100 100 1 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

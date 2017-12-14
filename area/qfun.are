@@ -1,0 +1,3936 @@
+#AREADATA
+Name IQuest Jamboree~
+Builders Noquest  Skahld Nogate~
+VNUMs 8500 8799
+Continent 1
+Mobtier 0
+Credits [  {RFUN{x ] Skahld IQuest Jamboree~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#8501
+derby fish~
+a Derby Fish~
+One of the many Derby fish swims lazily through the water here.
+~
+One of the many different breeds of fish that inhabit the Fishing Derby's
+private lake. Maybe it's the big one!
+~
+gremlin~
+AGU PTbc 0 0 0
+25 0 10d10+150 10d10+100 5d5+15 bite
+-2 -2 -2 -2
+FH ABLQR 0 0
+stand stand either 15
+AHb ADEFKOQX small unknown
+F for MV
+F par BCGHIJP
+S 1
+V 0
+A -1
+M DEATH 8501 100~
+#8502
+wylle dock master~
+Wylle the Dock Master~
+Wylle the Dock Master is lounging about here.
+~
+Wylle the Dock Master is the I-Quest operations mob, just ignore him.
+ 
+{YType {r"{WHEAL{R" {Yfor a list of services.{x
+~
+human~
+ABac DFJZ NO 0 0
+200 200 100d100+50000 100d100+50000 100d100+50000 divine
+-250 -250 -250 -250
+0 ABCDLQ 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V 0
+A 0
+#8600
+cue ball billiards~
+{WT{xh{We {WC{xu{We B{xa{Wll{x~
+The {WC{xu{We B{xa{Wll{x is wreaking havoc here.
+~
+The {WC{xu{We B{xa{Wll{x is dull white in color and pocked marked from it's constant
+bashing of everything about it.
+~
+doll~
+AGMNSTc FPQVc BNO 0 0
+195 140 100d100+45000 100d100+45000 55d10+150 wrath
+-100 -100 -100 -100
+BCFHKO AB E 0
+stand stand none 1000
+J 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M GRALL 8600 100~
+M DEATH 8666 100~
+M FIGHT 8665 45~
+#8601
+one (1) ball billiards~
+{YThe {YOne {W({Y1{W) {YBall{x~
+{YThe {YOne {W({Y1{W) {YBall{x is rolling about here.
+~
+{xThe {YOne {W({Y1{W) {YBall{x is rolling about here, minding it's own business{x
+and lamenting the loss of it's once smooth sheen.
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 100 100d100+25000 100d100+10000 50d10+100 blast
+-60 -60 -60 -60
+CFGHKO AB 0 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res ES
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8601 100~
+M FIGHT 8601 45~
+#8602
+two (2) ball billiards~
+{BThe {BT{bw{Bo {W({B2{W) {BB{ba{Bll{x~
+{BThe {BT{bw{Bo {W({B2{W) {BB{ba{Bll{x is spinning slowly here.
+~
+{xThe {BT{bw{Bo {W({B2{W) {BB{ba{Bll{x is idly spinning here, it's dull blue colour
+blurring and sharpening as it speeds up and slows down.
+~
+doll~
+AGMNRSUc FPQVc B 0 0
+190 100 100d100+25000 100d100+10000 50d10+100 crush
+-60 -60 -60 -60
+BFGHKO AB E 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M DEATH 8666 100~
+M FIGHT 8602 45~
+M KILL 8602 100~
+#8603
+three (3) ball billiards~
+{RThe {RThree {W({R3{W) {RBall{x~
+{RThe {RThree {W({R3{W) {RBall{x is here with a wobble in it's spin.
+~
+{xThe {RThree {W({R3{W) {RBall{x is rotating here with a noticeable wobble in it's spin.{x
+~
+doll~
+AGMNTUc FPVac 0 0 0
+190 100 100d100+35000 100d100+5000 50d10+100 beating
+-60 -60 -60 -60
+CDEFHJKO AB E 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8603 45~
+M KILL 8603 100~
+#8604
+four (4) ball billiards~
+{MThe Four {W({M4{W) {MBall{x~
+{MThe Four {W({M4{W) {MBall{x is twirling about in looping circles here.
+~
+{xThe {MFour {W({M4{W) {MBall{x is twirling about in lazy looping circles here.{x
+~
+doll~
+AGMNTUc FPVc B 0 0
+190 125 100d100+35000 100d100+35000 55d10+125 pound
+-70 -70 -70 -70
+CFGHO AB E 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8604 45~
+M KILL 8604 100~
+#8605
+five (5) ball billiards~
+{yThe {yFive {W({y5{W) {yBall{x~
+{yThe {yFive {W({y5{W) {yBall{x is gyrating in an erratic motion here.
+~
+{xThe {yFive {W({y5{W) {yBall{x is here, gyrating in an erratic motion.
+~
+doll~
+AGMNRTUc FPVc B 0 0
+190 125 100d100+40000 100d100+40000 55d10+125 beating
+-80 -80 -80 -80
+CFHJO AB E 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8605 45~
+M KILL 8605 100~
+#8606
+six (6) ball billiards~
+{GThe {GSix {W({G6{W) {GBall{x~
+{GThe {GSix {W({G6{W) {GBall{x is here, rotating steadily.
+~
+{xThe {GSix {W({G6{W) {GBall{x is here, rotating slowly.
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 130 100d100+45000 100d100+45000 55d10+150 pound
+-85 -85 -85 -85
+CFHJO AB EI 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8606 45~
+M KILL 8606 100~
+#8607
+seven (7) ball billiards~
+{rThe {rSeven {W({r7{W) {rBall{x~
+{rThe {rSeven {W({r7{W) {rBall{x is undulating in a peculiar way here.
+~
+{xThe {rSeven {W({r7{W) {rBall{x is here, undulating in a most peculiar manner.
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 135 100d100+48000 100d100+48000 55d10+160 beating
+-87 -87 -87 -87
+CFHJO AB EL 0
+stand stand none 1000
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8607 100~
+M FIGHT 8607 45~
+#8608
+eight (8) ball~
+{DThe {DE{di{Dght {W({D8{W) {DB{da{Dll{x~
+{DThe {DE{di{Dght {W({D8{W) {DB{da{Dll{x is here, spinning with a mighty revolution.
+~
+{xThe {DE{di{Dght {W({D8{W) {DB{da{Dll{x's mighty revolutions reverberate in the very air.
+~
+doll~
+AGMNRTUc FPQVc BNO 0 0
+200 150 100d100+50000 100d100+50000 60d10+175 fury
+-100 -100 -100 -100
+BCFHJKO ABLQ CDE 0
+stand stand none 1000
+AJ 0 large unknown
+F imm IMNPR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8608 100~
+M FIGHT 8608 50~
+#8609
+nine (9) ball billiards~
+{YT{Wh{Ye {YN{Wi{Yn{We {W({Y9{W) {YB{Wa{Yll{x~
+{YT{Wh{Ye {YN{Wi{Yn{We {W({Y9{W) {YB{Wa{Yll{x is rolling to and fro here.
+~
+{xThe {YN{Wi{Yn{We {W({Y9{W) {YB{Wa{Yll{x is rolling around here, minding it's own business
+and lamenting the loss of it's once smooth sheen.
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 100 100d100+25000 100d100+10000 50d10+100 blast
+-60 -60 -60 -60
+CFGHKO AB K 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res ES
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8601 100~
+M FIGHT 8601 45~
+#8610
+ten (10) ball billiards~
+{BT{Wh{Be T{We{Bn {W({B10{W) {BB{Wa{Bll{x~
+{BT{Wh{Be T{We{Bn {W({B10{W) {BB{Wa{Bll{x is spinning slowly here.
+~
+{xThe {BT{We{Bn {W({B10{W) {BB{Wa{Bll{x is idly spinning here, it's dull blue and white{x
+striped colouring blurs and sharpens as it speeds up and slows down.
+~
+doll~
+AGMNRSUc FPQVc B 0 0
+190 100 100d100+25000 100d100+10000 50d10+100 crush
+-60 -60 -60 -60
+BFGHKO AB CE 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M DEATH 8666 100~
+M FIGHT 8602 45~
+M KILL 8602 100~
+#8611
+eleven (11) ball billiards~
+{RT{Wh{Re El{We{Rv{We{Rn {W({R11{W) {RB{Wa{Rll{x~
+{RT{Wh{Re El{We{Rv{We{Rn {W({R11{W) {RB{Wa{Rll{x is here with a wobble in it's spin.
+~
+{xThe {REl{We{Rv{We{Rn {W({R11{W) {RB{Wa{Rll{x is rotating here with a noticeable wobble in it's spin.
+~
+doll~
+AGMNTUc FPVc 0 0 0
+190 100 100d100+35000 100d100+5000 50d10+100 beating
+-60 -60 -60 -60
+CDEFHJKO AB E 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8603 45~
+M KILL 8603 100~
+#8612
+twelve (12) ball billiards~
+{MT{Wh{Me Tw{We{Mlv{We {W({M12{W) {MB{Wa{Mll{x~
+{MT{Wh{Me Tw{We{Mlv{We {W({M12{W) {MB{Wa{Mll{x is twirling about in looping circles here.
+~
+{xThe {MTw{We{Mlv{We {W({M12{W) {MB{Wa{Mll{x is twirling about in lazy looping circes here.
+~
+doll~
+AGMNRUc FPVc B 0 0
+190 125 100d100+35000 100d100+35000 55d10+125 pound
+-70 -70 -70 -70
+CFGHO AB EK 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8604 45~
+M KILL 8604 100~
+#8613
+thirteen (13) ball billiards~
+{yT{Wh{ye Th{Wi{yrt{Wee{yn {W({y13{W) {yB{Wa{yll{x~
+{yT{Wh{ye Th{Wi{yrt{Wee{yn {W({y13{W) {yB{Wa{yll{x is gyrating in an erratic motion here.
+~
+{xThe {yTh{Wi{yrt{Wee{yn {W({y13{W) {yB{Wa{yll{x is here, gyrating in an erratic motion.
+~
+doll~
+AGMNRTUc FPVc B 0 0
+190 125 100d100+40000 100d100+40000 55d10+125 smash
+-80 -80 -80 -80
+CFHJO AB EH 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M FIGHT 8605 45~
+M KILL 8605 100~
+#8614
+fourteen (14) ball billiards~
+{GT{Wh{Ge F{Wou{Grt{Wee{Gn {W({G14{W) {GB{Wa{Gll{x~
+{GT{Wh{Ge F{Wou{Grt{Wee{Gn {W({G14{W) {GB{Wa{Gll{x is here, rotating at a medium pace.
+~
+{xThe {GF{Wou{Grt{Wee{Gn {W({G14{W) {GB{Wa{Gll{x is here, rotating at a medium pace.
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 130 100d100+45000 100d100+45000 55d10+150 pound
+-85 -85 -85 -85
+CFHJO AB EI 0
+stand stand none 500
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8606 100~
+M FIGHT 8606 45~
+#8615
+fifteen (15) ball billiards~
+{rT{Wh{re F{Wi{rft{Wee{rn {W({r15{W) {rB{Wa{rll{x~
+{rT{Wh{re F{Wi{rft{Wee{rn {W({r15{W) {rB{Wa{rll{x is here, undulating in a most peculiar manner.
+~
+{xThe {rF{Wi{rft{Wee{rn {W({r15{W) {rB{Wa{rll{x is here, undulating in a most peculiar manner.{x
+~
+doll~
+AGMNRTUc FPVc 0 0 0
+190 135 100d100+48000 100d100+48000 55d10+160 beating
+-87 -87 -87 -87
+CFHJO AB EL 0
+stand stand none 1000
+AJ 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M KILL 8607 100~
+M FIGHT 8607 45~
+#8616
+cue chalk billiards~
+{CTh{We {CC{Wue {CCh{Wa{Clk{x~
+{xThe {CC{Wue {CCh{Wa{Clk{x is here making a mess of things.
+~
+The {CC{Wue {CCh{Wa{Clk{x is here leaving a dust trail and mucking everything up.
+~
+doll~
+AGMNSTc FPQVc 0 0 0
+195 125 100d100+35000 100d100+35000 50d10+100 thwack
+-75 -75 -75 -75
+BCFHKO AB E 0
+stand stand none 500
+J 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M GRALL 8600 100~
+M DEATH 8666 100~
+M FIGHT 8665 40~
+#8617
+billiard cue billiards~
+{DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x~
+{DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x is here obscenely thrusting itself about.
+~
+{xThe {DB{Gi{Dll{Gia{Drd C{Gue{x is here thrusting itself about in an obscene manner.
+~
+doll~
+AGMNSTc FPQVc 0 0 0
+195 125 100d100+35000 100d100+35000 50d10+100 thrust
+-75 -75 -75 -75
+BCFHKO AB E 0
+stand stand none 500
+J 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M GRALL 8600 100~
+M DEATH 8666 100~
+M FIGHT 8665 40~
+#8618
+billiard rack billiards~
+{DTh{Ge {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x~
+{DTh{Ge {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x is here looking for some balls to rack up.
+~
+{xThe {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x is here looking for some balls to round up and rack.
+~
+doll~
+AGMNSTc FPQVc NO 0 0
+195 140 100d100+40000 100d100+40000 55d10+125 chomp
+-75 -75 -75 -75
+BCFHKO AB E 0
+stand stand none 2500
+J 0 large unknown
+F imm ILMNPQR
+F res S
+F vul GHJKO
+F for EMc
+F par ABCGHK
+S 1
+V 0
+A -1
+M GRALL 8600 100~
+M DEATH 8666 100~
+M FIGHT 8665 40~
+#0
+
+
+
+#OBJECTS
+#8501
+fishing derby rod and reel~
+{wa {gF{yi{gshing D{ye{grby {wR{mo{wd'{mn{w'R{me{wel{x~
+An official {gF{yi{gshing D{ye{grby {wR{mo{wd'{mn{w'R{me{wel{x lies here on the ground.~
+bamboo~
+weapon Tdf AN
+exotic 8 6 whip 0
+21 1 50 P
+#8502
+1lbs. Derby Fish~
+{y1{glbs. D{ye{grby F{yi{gsh{x~
+{y1{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8503
+5lbs. Derby Fish~
+{y5{glbs. D{ye{grby F{yi{gsh{x~
+{y5{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8504
+10lbs Derby Fish~
+{y10{glbs. D{ye{grby F{yi{gsh{x~
+{y10{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8505
+15lbs Derby Fish~
+{y15{glbs. D{ye{grby F{yi{gsh{x~
+{y15{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8506
+25lbs Derby Fish~
+{y25{glbs. D{ye{grby F{yi{gsh{x~
+{y25{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8507
+50lbs Derby Fish~
+{y50{glbs. D{ye{grby F{yi{gsh{x~
+{y50{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8508
+100lbs Derby Fish~
+{y100{glbs. D{ye{grby F{yi{gsh{x~
+{y100{glbs.{x of {gD{ye{grby F{yi{gsh{x have been left here.~
+unknown~
+trash TYdf AO
+0 0 0 0 0
+1 1 1 P
+#8509
+fishing derby raft~
+an official Fishing Derby raft~
+An official Fishing Derby raft floats here lazily.~
+wood~
+boat RTYdf A
+0 0 0 0 0
+1 10 1 P
+E
+canoe~
+The canoe is fairly light.
+~
+#8510
+fishing derby lake portal~
+{gthe {gF{yi{gshing D{ye{grby L{ya{gke P{yo{grtal{x~
+The {gF{yi{gshing D{ye{grby L{ya{gke P{yo{grtal{x stands here on the docks.~
+stone~
+portal RTYdf 0
+0 0 0 ACEFIN 0
+1 99999 99999 P
+#8666
+cue ball sliver dagger~
+{xa {Wsl{xi{Wv{xe{Wr {xof {WC{xu{We B{xa{Wll{x~
+{xA {Wsl{xi{Wv{xe{Wr {xof {WC{xu{We B{xa{Wll{x lies here.~
+steel~
+weapon PTUYdf AN
+dagger 20 11 pierce E
+102 1 50000 P
+A
+18 50
+A
+19 50
+#0
+
+
+
+#ROOMS
+#8500
+{gThe G{ya{gthering D{yo{gcks{x~
+Welcome to the {gF{yi{gshing D{ye{grby{x IQuest! Please read the "{YSign{x" for a complete
+listing of the Quest Rules. Ignorance of the Rules is not a viable excuse.
+~
+0 525316 2
+E
+sign~
+{G                   --------------------------------------{x
+{G                  | {YWelcome to the I-Quest {gF{yi{gshing D{ye{grby {G|{x
+{G                  |    {YRead the Rules and Follow Them    {G|{x
+{G                   --------------------------------------{x
+ 
+{G 1{R. {yIgnorance of the Fishing Derby I-Quest Rules does not justify breaking{x
+{y    them. Failure to comply by the rules will result in immediate ejection{x
+{y    from the I-Quest. No exceptions.{x
+{G 2{R. {yThis is a Non-PK I-Quest. Do NOT kill other players during this Quest.{x
+{G 3{R. {yThis is a solo I-Quest, so do NOT group with other players.{x
+{G 4{R. {yLeaving the Fishing Derby lake during the I-Quest, by any means, will{x
+{y    result in immediate disqualification. No exceptions.{x
+{G 5{R. {yThe object of the Fishing Derby I-Quest is to kill and collect as many{x
+{y    pounds of fish as you can in the time limit set by the Immortal running{x
+{y    the I-Quest. When the Immortal running the I-Quest says "Go", enter the{x
+{y    portal and start fishing.{x
+{G 6{R. {yAll fish must be killed and collected with the Official Rod'n'Reel that{x
+{y    will be provided to all participants before the Fishing Derby starts. You{x
+{y    must start combat with the KILL command and use no spells or skills. If{x
+{y    you are caught killing mobs with any other weapons you will immediately{x
+{y    be Disqualified and ejected from the I-Quest. No Exceptions.{x
+{G 7{R. {yDuring the Fishing Derby I-Quest there is no such thing as 'Kill{x
+{y    Stealing'. It's open season so take what you can get.{x
+{G 8{R. {yBitching of any kind is strictly prohibited.{x
+{G 9{R. {yQuest Winners will be rewarded with prizes determined by the Immortal{x
+{y    running the show.{x
+ 
+{G Special Fish Awards:{x
+{R   * {y100lbs Fish Caught, {R({xdoes not count towards Derby Total{R){x
+{G        - {y1.00 Quest or Exp Voucher of Your Choice{x
+{R   *  {y50lbs Fish Caught, {R({xdoes not count towards Derby Total{R){x
+{G        - {y0.50 Quest or Exp Voucher of Your Choice{x
+
+ {DUseful Immortal Notes{r:{x
+   {r* {DBeginning Room for Fishing Derby is Vnum 8500{x
+   {r* {DOfficial Quest Rod'n'Reel is Vnum 8501 and Fishing Raft is Vnum 8509{x
+   {r* {DIquest Begin will transfer all participants to the room you are in{x
+   {r* {DBased on the number of participants, Suggested Running time is 5-15 Mins{x
+{D     or until all the Derby Fish are caught/killed. " Mwhere Derby' "{x
+ 
+~
+S
+#8501
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out in every
+direction. Good luck catching the big one.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8502
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8506
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8510
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8507
+S
+#8502
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out in every
+direction. Good luck catching the big one.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8503
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8505
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8501
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8508
+S
+#8503
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the east,
+west, and south. A rocky cliff shore lies to the north so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake lead into a stone walled cove.
+~
+~
+0 0 8570
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8504
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8502
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8509
+S
+#8504
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the west
+and south. Small rocky canyon tributary dumps lead off to the north and east.
+~
+0 524288 6
+D0
+The calm waters of the lake lead into a rocky canyon passage.
+~
+~
+0 0 8537
+D1
+The calm waters of the lake lead into a rocky canyon passage.
+~
+~
+0 0 8531
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8505
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8503
+S
+#8505
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the west,
+north, and south. A rocky cliff shore lies to the east so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8504
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8506
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8502
+S
+#8506
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the West
+and the North. A rocky cliff wall bars the way South while a small cliff wall
+lined tributary comes in from the East.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8505
+D1
+The calm waters of the lake lead into a rocky canyon passage.
+~
+~
+0 0 8529
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8501
+S
+#8507
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the East
+and the North. A rocky cliff wall bars the way South while a small cliff wall
+lined tributary comes in from the West.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8508
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8501
+D3
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8550
+S
+#8508
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the West,
+North, and South. A rocky cliff shore lies to the West so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8509
+D1
+The open waters of the lake lie in that direction.
+~
+~
+0 0 8502
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8507
+S
+#8509
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the West
+and South. Small rocky canyon tributary dumps lead off to the North and West.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8543
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8503
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8508
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8549
+S
+#8510
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out in every
+direction. Good luck catching the big one.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8501
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8511
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8513
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8512
+S
+#8511
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the West
+and the South. A rocky cliff wall bars the way North while a small cliff wall
+lined tributary spills forth from the East.
+~
+0 524288 6
+D1
+A rocky canyon passage opens before you, the lake waters flowing forth.
+~
+~
+0 0 8525
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8515
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8510
+S
+#8512
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the East
+and the South. A rocky cliff wall bars the way Nouth while a small cliff wall
+lined tributary comes in from the West.
+~
+0 524288 6
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8510
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8514
+D3
+A rocky canyon passage opens before you, the lake waters flowing forth.
+~
+~
+0 0 8551
+S
+#8513
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out in every
+direction. Good luck catching the big one.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8510
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8515
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8516
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8514
+S
+#8514
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the East,
+North, and South. A rocky cliff shore lies to the West so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8512
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8513
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8518
+S
+#8515
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the West,
+North, and South. A rocky cliff shore lies to the East so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8511
+D2
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8517
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8513
+S
+#8516
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the East,
+West, and North. A rocky cliff shore lies to the South so mind your craft.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8513
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8517
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8518
+S
+#8517
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the
+North and the West. Rocky canyon like tributaries spill water into the lake
+from the East and South.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8515
+D1
+The calm waters of the canyon tributary spill into the lake before you.
+~
+~
+0 0 8519
+D2
+The calm waters of the canyon tributary spill into the lake before you.
+~
+~
+0 0 8553
+D3
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8516
+S
+#8518
+{gTh{ye {gF{yi{gshing D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake stretch out to the
+North and the East. A rocky canyon like tributary spills water into the lake
+from the South and a still watered caynon opens to the West.
+~
+0 524288 6
+D0
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8514
+D1
+The calm waters of the lake stretch ever onward.
+~
+~
+0 0 8516
+D2
+The calm waters of the canyon tributary spill into the lake before you.
+~
+~
+0 0 8562
+D3
+A still watered canyon opens before you to the West.
+~
+~
+0 0 8563
+S
+#8519
+{gA R{yo{gcky C{ya{gnyon of St{yi{gll W{ya{gters{x~
+The still watered canyon leads in from the lake basin to the West, meandering
+deeper into the rocky passage South.
+~
+0 524288 6
+D2
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8520
+D3
+The calm waters of the canyon open into the basin waters of the lake.
+~
+~
+0 0 8517
+S
+#8520
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the North to the East and the still waters of the
+the Fishing Derby's private lake gurgle endlessly.
+~
+0 524288 6
+D0
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8519
+D1
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8521
+S
+#8521
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the North and the still waters of the
+the Fishing Derby's private lake gurgle endlessly.
+~
+0 524288 6
+D0
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8522
+D3
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8520
+S
+#8522
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The rocky canyon splits in three directions here, it's still waters leading
+to the North, East and South.
+~
+0 524288 6
+D0
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8523
+D1
+The still waters of the lake lead into a rock walled cove.
+~
+~
+0 0 8552
+D2
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8521
+S
+#8523
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the South to the East and the still waters of the
+the Fishing Derby's private lake gurgle endlessly.
+~
+0 524292 6
+D1
+The still waters of the lake lead into a rock walled cove.
+~
+~
+0 0 8524
+D2
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8522
+S
+#8524
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the West.
+~
+0 524288 6
+D3
+The cove waters open up to a rocky Western waterway.
+~
+~
+0 0 8523
+S
+#8525
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The rocky canyon splits in three directions here, it's still waters leading
+to the North, East and South.
+~
+0 524288 0
+D1
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8527
+D2
+The canyon passage opens into a rock walled cove of sorts.
+~
+~
+0 0 8526
+D3
+The rocky passage opens before you into the basin resevoir of the calm lake.
+~
+~
+0 0 8511
+S
+#8526
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the North.
+~
+0 524288 6
+D0
+The cove walls are broken by a rocky passage to the North.
+~
+~
+0 0 8525
+S
+#8527
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The canyon passage turns abruptly to the North from the West, the waters
+calmly lapping the rocky walls.
+~
+0 524288 6
+D0
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8528
+D3
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8525
+S
+#8528
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The canyon bends from the South to the West and the lazy waters lap the
+rocky passage walls in a steady cadence.
+~
+0 524288 6
+D2
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8527
+D3
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8529
+S
+#8529
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The canyon splits in three directions here, it's still waters
+meandering to the North, East and West.
+~
+0 524288 6
+D0
+The canyon passage opens into a rock walled cove of sorts.
+~
+~
+0 0 8530
+D1
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8528
+D3
+The open waters of the lake lie in that direction.
+~
+~
+0 0 8506
+S
+#8530
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cover. A passage leads from the cove to the South.
+~
+0 524292 6
+D2
+The cove wall is broken only by a rocky Southern passage.
+~
+~
+0 0 8529
+S
+#8531
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calm waters of the canyon meander from East to West, flowing ever
+onward towards the lake basin.
+~
+0 524288 6
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8532
+D3
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8504
+S
+#8532
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the North to the West and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8533
+D3
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8531
+S
+#8533
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the South and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8532
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8534
+S
+#8534
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the North to the East and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8535
+D1
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8533
+S
+#8535
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the South and the lazy waters gurgle
+ever onward toward the lake basin far below.
+~
+0 524288 6
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8534
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8536
+S
+#8536
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calm waters of the canyon meander in from the North and split into two
+different canyon passages leading East and South.
+~
+0 524288 6
+D0
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8538
+D1
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8535
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8537
+S
+#8537
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calms waters of the canyon flow from North to South into the Fishing
+Derby's private fishing lake.
+~
+0 524288 6
+D0
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8536
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8504
+S
+#8538
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the South here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8536
+D3
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8539
+S
+#8539
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The canyon splits in three directions here, it's lazy waters flowing from
+the North as it meanders to both the East and West.
+~
+0 524288 6
+D0
+The calm waters of the lake flow slowly towards you.
+~
+~
+0 0 8540
+D1
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8538
+D3
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8541
+S
+#8540
+{gThe N{yo{grthern {gW{ya{gterfall C{yo{gve{x~
+A gorgeous waterfall spills over the northern cliff into the deep waters
+of this cove, headed southernly towards the Fishing Derby's private lake.
+~
+0 524288 6
+D2
+The waters of the cove meander southward through rocky passage.
+~
+~
+0 0 8539
+S
+#8541
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the East to the South here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8539
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8542
+S
+#8542
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calm waters of the canyon meander in from the North and split into two
+different canyon passages leading South and West.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8541
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8543
+D3
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8544
+S
+#8543
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calms waters of the canyon flow from North to South into the Fishing
+Derby's private fishing lake.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8542
+D2
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8509
+S
+#8544
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the East to the South and the lazy waters gurgle
+ever onward toward the lake basin far below.
+~
+0 524288 6
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8542
+D2
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8545
+S
+#8545
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the North to the West and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8544
+D3
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8546
+S
+#8546
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the East to the South and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8545
+D2
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8547
+S
+#8547
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The canyon splits in three directions here, it's still waters
+meandering to the North, East and West.
+~
+0 524288 6
+D0
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8546
+D1
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8549
+D3
+The calm waters of the lake lead into a stone walled cove.
+~
+~
+0 0 8548
+S
+#8548
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the East.
+~
+0 524288 6
+D1
+The cove's rocky wall opens to an Eastern rocky passage.
+~
+~
+0 0 8547
+S
+#8549
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calm waters of the canyon meander from East to West, flowing ever
+onward towards the lake basin.
+~
+0 524288 6
+D1
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8509
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8547
+S
+#8550
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The canyon bends from the East to the South here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D1
+The canyon walls open into the calm basin of the lake, the water flowing forth.
+~
+~
+0 0 8507
+D2
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8551
+S
+#8551
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calms waters of the canyon flow from North to East into the Fishing
+Derby's private fishing lake.
+~
+0 524288 6
+D0
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8550
+D1
+The canyon walls open into the calm basin of the lake, the water flowing forth.
+~
+~
+0 0 8512
+S
+#8552
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the West.
+~
+0 524288 6
+D3
+The cove waters open up to a rocky Western waterway.
+~
+~
+0 0 8522
+S
+#8553
+{gJ{yu{gst B{ye{gfore the L{ya{gke B{ya{gsin{x~
+The calm waters of the canyon meander from North to South, quietly spilling
+out into the lake basin before you.
+~
+0 524288 6
+D0
+The calm waters of the canyon tributary spill into the lake basin below.
+~
+~
+0 0 8517
+D2
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8554
+S
+#8554
+{gM{ye{gandering {gThr{yo{gugh A Qu{yi{get R{yo{gcky C{ya{gnyon{x~
+The calm waters of the canyon meander from North to South, flowin ever onward
+towards the lake basin.
+~
+0 524288 6
+D0
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8553
+D2
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8555
+S
+#8555
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the North here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8554
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8556
+S
+#8556
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The canyon splits in three directions here, it's lazy waters flowing from
+the South as it meanders to both the East and West.
+~
+0 524288 6
+D1
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8555
+D2
+The calm waters of the lake meander towards you.
+~
+~
+0 0 8557
+D3
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8558
+S
+#8557
+{gW{ya{gterfall C{yo{gve{x~
+A gorgeous waterfall spills over the Southern cliff into the deep waters
+of this cove, headed southernly towards the Fishing Derby's private lake.
+~
+0 524288 6
+D0
+The waters of the cove meander Northward through rocky passage.
+~
+~
+0 0 8556
+S
+#8558
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the East to the North here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8559
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8556
+S
+#8559
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the South to the East here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D1
+The calm waters of the lake meander on through rocky passage.
+~
+~
+0 0 8560
+D2
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8558
+S
+#8560
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the North here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D0
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8561
+D3
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8559
+S
+#8561
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the South to the West here and the lazy waters gurgle
+ever onward toward the lake basin below.
+~
+0 524288 6
+D2
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8560
+D3
+The calm waters of the lake twist and turn through rocky passage.
+~
+~
+0 0 8562
+S
+#8562
+{gJ{yu{gst B{ye{gfore the L{ya{gke B{ya{gsin{x~
+The calm waters of the canyon meander from East to North, quietly spilling
+out into the lake basin before you.
+~
+0 524288 6
+D0
+The calm waters of the canyon tributary spill into the lake basin below.
+~
+~
+0 0 8518
+D1
+The calm waters meander slowly through the canyon towards you.
+~
+~
+0 0 8561
+S
+#8563
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The rocky canyon splits in three directions here, it's still waters leading
+to the North, East and South.
+~
+0 524288 6
+D0
+The still waters of the rocky canyon lead onward to places unknown.
+~
+~
+0 0 8564
+D1
+The calm waters of the canyon open into the basin waters of the lake.
+~
+~
+0 0 8518
+D2
+The canyon passage opens into a rock walled cove of sorts.
+~
+~
+0 0 8569
+S
+#8564
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the South to the West and the still waters of the
+the Fishing Derby's private lake gurgle endlessly.
+~
+0 524288 6
+D2
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8563
+D3
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8565
+S
+#8565
+{gA B{ye{gnd in the C{ya{gnyon{x~
+The canyon bends from the West to the South and the still waters of the
+the Fishing Derby's private lake gurgle endlessly.
+~
+0 524288 6
+D1
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8564
+D2
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8566
+S
+#8566
+{gA Spl{yi{gt in the R{yo{gcky C{ya{gnyon{x~
+The rocky canyon splits in three directions here, it's still waters leading
+to the North, West and South.
+~
+0 524288 6
+D0
+The still waters of the lake lead through the rocky canyon passage.
+~
+~
+0 0 8565
+D2
+The canyon passage opens into a rock walled cove of sorts.
+~
+~
+0 0 8567
+D3
+The canyon passage opens into a rock walled cove of sorts.
+~
+~
+0 0 8568
+S
+#8567
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the North.
+~
+0 524288 6
+D0
+The cove waters open up to a rocky northern waterway.
+~
+~
+0 0 8566
+S
+#8568
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the East.
+~
+0 524288 6
+D1
+The cove waters open up to a rocky eastern waterway.
+~
+~
+0 0 8566
+S
+#8569
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. A rocky canyon passage way lies to the North.
+~
+0 524288 6
+D0
+The cove waters open up to a rocky northern waterway.
+~
+~
+0 0 8563
+S
+#8570
+{gA Q{yu{Giet C{yo{gve on the D{ye{grby L{ya{gke{x~
+The calm waters of the Fishing Derby's private lake lap queitly at the
+rocky walls of the cove. Open lake waters lie to the South.
+~
+0 524288 6
+D2
+The open waters of the lake lie in that direction.
+~
+~
+0 0 8503
+S
+#8600
+{DTh{Ge {DB{Gi{Dll{Gia{Drds H{Ga{Dll{x~
+Welcome to the Billards IQuest! Please ready yourself and keep the spam to a
+minimum while the Operating Immortal prepares the game. Please read the {G"{YSign{G"{x
+of IQuest Rules and familiarize yourself with the game. Ignorance of the rules
+does not justify breaking them.
+~
+0 4 0
+S
+#8601
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8602
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8620
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8606
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8655
+S
+#8602
+{gAt the S{yi{gde P{yo{gcket{x~
+The green felt stretches out in every direction but the North, where it falls
+into the depths of the side pocket pit. I wonder what's down there.
+~
+0 524296 0
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8619
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8601
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8656
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8607
+S
+#8603
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8606
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8622
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8604
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8647
+S
+#8604
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8603
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8623
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8605
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8640
+S
+#8605
+{gAt the S{yi{gde P{yo{gcket{x~
+The green felt stretches out in every direction but the North, where it falls
+into the depths of the side pocket pit. I wonder what's down there.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8604
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8609
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8613
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8608
+S
+#8606
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8601
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8621
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8603
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8648
+S
+#8607
+{DUpp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D1
+The return chute leads to the East at an upward slant.
+~
+~
+0 0 8639
+D2
+The return chute leads to the South at a downward slant.
+~
+~
+0 0 8661
+D3
+The return chute leads to the West at an upward slant.
+~
+~
+0 0 8660
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8602
+S
+#8608
+{DUpp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D0
+The return chute leads to the North at a downward slant.
+~
+~
+0 0 8661
+D1
+The return chute leads to the East at an upward slant.
+~
+~
+0 0 8618
+D3
+The return chute leads to the West at an upward slant.
+~
+~
+0 0 8617
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8605
+S
+#8609
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8623
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8610
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8605
+S
+#8610
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8624
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8611
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8609
+S
+#8611
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8625
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8612
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8610
+S
+#8612
+{gAt the C{yo{grner P{yo{gcket{x~
+The green felt stretches out in every direction but the SE, where it falls
+into the depths of the corner pocket pit. I wonder what's down there.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8626
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8611
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8618
+S
+#8613
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8640
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8605
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8614
+S
+#8614
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8641
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8613
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8615
+S
+#8615
+{gAl{yo{gng the S{yo{guthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Southern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8642
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8614
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8616
+S
+#8616
+{gAt the C{yo{grner P{yo{gcket{x~
+The green felt stretches out in every direction but the SW, where it falls
+into the depths of the corner pocket pit. I wonder what's down there.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8643
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8615
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8617
+S
+#8617
+{DSW Upp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D0
+The return chute leads to the North at an upward slant.
+~
+~
+0 0 8660
+D1
+The return chute leads to the East at a downward slant.
+~
+~
+0 0 8608
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8616
+S
+#8618
+{DSE Upp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D0
+The return chute leads to the North at an upward slant.
+~
+~
+0 0 8639
+D3
+The return chute leads to the West at a downward slant.
+~
+~
+0 0 8608
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8612
+S
+#8619
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8636
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8620
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8602
+S
+#8620
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8619
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8633
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8621
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8601
+S
+#8621
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8620
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8630
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8622
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8606
+S
+#8622
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8621
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8627
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8623
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8603
+S
+#8623
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8622
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8624
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8609
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8604
+S
+#8624
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8627
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8625
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8610
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8623
+S
+#8625
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8628
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8626
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8611
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8624
+S
+#8626
+{gAl{yo{gng the E{ya{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Eastern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8629
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8612
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8625
+S
+#8627
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8630
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8628
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8624
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8622
+S
+#8628
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8631
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8629
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8625
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8627
+S
+#8629
+{gAl{yo{gng the E{ya{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Eastern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8632
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8626
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8628
+S
+#8630
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8633
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8631
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8627
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8621
+S
+#8631
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8634
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8632
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8628
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8630
+S
+#8632
+{gAl{yo{gng the E{ya{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Eastern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8635
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8629
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8631
+S
+#8633
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8636
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8634
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8630
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8620
+S
+#8634
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8637
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8635
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8631
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8633
+S
+#8635
+{gAl{yo{gng the E{ya{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Eastern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8638
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8632
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8634
+S
+#8636
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8637
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8633
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8619
+S
+#8637
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8638
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8634
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8636
+S
+#8638
+{gAt the C{yo{grner P{yo{gcket{x~
+The green felt stretches out in every direction but the NE, where it falls
+into the depths of the corner pocket pit. I wonder what's down there.
+~
+0 524296 0
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8635
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8637
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8639
+S
+#8639
+{DNE Upp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D2
+The return chute leads to the South at a downward slant.
+~
+~
+0 0 8618
+D3
+The return chute leads to the West at a downward slant.
+~
+~
+0 0 8607
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8638
+S
+#8640
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8647
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8604
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8613
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8641
+S
+#8641
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8646
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8640
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8614
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8642
+S
+#8642
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8645
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8641
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8615
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8643
+S
+#8643
+{gAl{yo{gng the W{ye{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Western border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8644
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8642
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8616
+S
+#8644
+{gAl{yo{gng the W{ye{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Western border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8651
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8645
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8643
+S
+#8645
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8650
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8646
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8642
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8644
+S
+#8646
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8649
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8647
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8641
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8645
+S
+#8647
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8648
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8603
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8640
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8646
+S
+#8648
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8655
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8606
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8647
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8649
+S
+#8649
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8654
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8648
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8646
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8650
+S
+#8650
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8653
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8649
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8645
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8651
+S
+#8651
+{gAl{yo{gng the W{ye{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Western border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8652
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8650
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8644
+S
+#8652
+{gAl{yo{gng the W{ye{gstern R{ya{gil{x~
+The banked edge of the billiards table makes up the Western border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D0
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8659
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8653
+D2
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8651
+S
+#8653
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8658
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8654
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8650
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8652
+S
+#8654
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8657
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8655
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8649
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8653
+S
+#8655
+{gAt{yo{gp the W{ye{gll-Lit F{ye{glt{x~
+The top of the billiards table is a field of well lit green felt stretching
+out flatly in ever direction. What is this madness.
+~
+0 524296 0
+D0
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8656
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8601
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8648
+D3
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8654
+S
+#8656
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8602
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8655
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8657
+S
+#8657
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8656
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8654
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8658
+S
+#8658
+{gAl{yo{gng the N{yo{grthern R{ya{gil{x~
+The banked edge of the billiards table makes up the Northern border while
+a sea of well-lit green felt stretches out flatly in every other direction.
+~
+0 524296 0
+D1
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8657
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8653
+D3
+The raised banked edge of the billiards table continues onward.
+~
+~
+0 0 8659
+S
+#8659
+{gAt the C{yo{grner P{yo{gcket{x~
+The green felt stretches out in every direction but the NW, where it falls
+into the depths of the corner pocket pit. I wonder what's down there.
+~
+0 524296 0
+D1
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8658
+D2
+The green felt of the billiards table top stretches onward.
+~
+~
+0 0 8652
+D5
+The pocket pit leads down into darkness unknown.
+~
+~
+0 0 8660
+S
+#8660
+{DNW Upp{Ge{Dr B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The upper ball return chute leads the way to the central hup of the ball
+return system.
+~
+0 524297 0
+D1
+The return chute leads to the East at a downward slant.
+~
+~
+0 0 8607
+D2
+The return chute leads to the South at a downward slant.
+~
+~
+0 0 8617
+D4
+A hole in the top of the chute leads back to the billiard table top.
+~
+~
+0 0 8659
+S
+#8661
+{DUpp{Ge{Dr {DC{Ge{Dntral B{Ga{Dll R{Ge{Dturn{x~
+The upper central ball return is where the billiard balls drop down to the
+lower levels of the billiard table's innards to be sorted and stored.
+~
+0 524297 0
+D0
+The return chute leads to the North at an upward slant.
+~
+~
+0 0 8607
+D2
+The return chute leads to the South at an upward slant.
+~
+~
+0 0 8608
+D5
+A hole drops down into the return chute's lower level.
+~
+~
+0 0 8662
+S
+#8662
+{DL{Go{Dwer {DC{Ge{Dntral B{Ga{Dll R{Ge{Dturn{x~
+This is the lower level of the billiard table's ball return system. It is
+here that the cue ball is sorted out from the regular balls and sent on it's
+merry way.
+~
+0 524297 0
+D1
+The return chute leads to the East at a downward slant.
+~
+~
+0 0 8665
+D3
+The return chute leads to the West at a downward slant.
+~
+~
+0 0 8663
+D4
+A hole above leads up to the return chute's upper level.
+~
+~
+0 0 8661
+S
+#8663
+{DThe C{Gu{De B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+The cue ball return chute slants down from the central ball return on a
+East to West run. If someone scratches a shot now it's going to be "Run Indy
+Run!"
+~
+0 524297 0
+D1
+The return chute leads to the East at an upward slant.
+~
+~
+0 0 8662
+D3
+The return chute leads to the West at a downward slant.
+~
+~
+0 0 8664
+S
+#8664
+{DTh{Ge {DC{Gu{De B{Ga{Dll R{Ge{Dturn{x~
+This is where the Cue ball comes to rest when you scratch your shot! The
+return chute leads back to the East at an upward slant.
+~
+0 524297 0
+D1
+The return chute leads to the East at an upward slant.
+~
+~
+0 0 8663
+S
+#8665
+{DL{Go{Dwer B{Ga{Dll R{Ge{Dturn Ch{Gu{Dte{x~
+This chute leads to the ball resting hub and houses all of the billiard
+balls currently out of play. If someone sinks a ball now it's going to be
+"Run Indy Run!"
+~
+0 524297 0
+D1
+The return chute leads to the East at a downward slant.
+~
+~
+0 0 8666
+D3
+The return chute leads to the West at an upward slant.
+~
+~
+0 0 8662
+S
+#8666
+{DB{Ga{Dll R{Ge{Dturn R{Ge{Dsting H{Gu{Db{x~
+This is where all of the billiard balls, short of the cue ball, come to
+rest when they are taken out of play.
+~
+0 524297 0
+D3
+The return chute leads to the West at an upward slant.
+~
+~
+0 0 8665
+S
+#0
+
+
+
+#SPECIALS
+M 8604 spec_breath_acid Load to: {MThe Four {W({M4{W) {MBall{x
+M 8605 spec_breath_fire Load to: {yThe {yFive {W({y5{W) {yBall{x
+M 8606 spec_breath_frost Load to: {GThe {GSix {W({G6{W) {GBall{x
+M 8607 spec_breath_gas Load to: {rThe {rSeven {W({r7{W) {rBall{x
+M 8608 spec_breath_any Load to: {DThe {DE{di{Dght {W({D8{W) {DB{da{Dll{x
+M 8609 spec_cast_mage Load to: {YT{Wh{Ye {YN{Wi{Yn{We {W({Y9{W) {YB{Wa{Yll{x
+M 8612 spec_breath_acid Load to: {MT{Wh{Me Tw{We{Mlv{We {W({M12{W) {MB{Wa{Mll{x
+M 8613 spec_breath_fire Load to: {yT{Wh{ye Th{Wi{yrt{Wee{yn {W({y13{W) {yB{Wa{yll{x
+M 8614 spec_breath_frost Load to: {GT{Wh{Ge F{Wou{Grt{Wee{Gn {W({G14{W) {GB{Wa{Gll{x
+M 8615 spec_breath_gas Load to: {rT{Wh{re F{Wi{rft{Wee{rn {W({r15{W) {rB{Wa{rll{x
+M 8616 spec_thief Load to: {CTh{We {CC{Wue {CCh{Wa{Clk{x
+M 8617 spec_thief Load to: {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+M 8618 spec_thief Load to: {DTh{Ge {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x
+S
+
+
+
+#RESETS
+O 0 8509 0 8500 *An official fishing derby raft loaded to {gThe G{ya{gthering D{yo{gcks{x
+O 0 8509 0 8500 *An official fishing derby raft loaded to {gThe G{ya{gthering D{yo{gcks{x
+O 0 8509 0 8500 *An official fishing derby raft loaded to {gThe G{ya{gthering D{yo{gcks{x
+O 0 8509 0 8500 *An official fishing derby raft loaded to {gThe G{ya{gthering D{yo{gcks{x
+O 0 8509 0 8500 *An official fishing derby raft loaded to {gThe G{ya{gthering D{yo{gcks{x
+O 0 8510 0 8500 *{gthe {gf{yi{gshing d{ye{grby l{ya{gke p{yo{grtal{x loaded to {gThe G{ya{gthering D{yo{gcks{x
+M 0 8501 69 8501 3 *Load a Derby Fish
+M 0 8501 69 8502 3 *Load a Derby Fish
+M 0 8501 69 8503 3 *Load a Derby Fish
+M 0 8501 69 8504 3 *Load a Derby Fish
+M 0 8501 69 8505 3 *Load a Derby Fish
+M 0 8501 69 8506 3 *Load a Derby Fish
+M 0 8501 69 8507 3 *Load a Derby Fish
+M 0 8501 69 8508 3 *Load a Derby Fish
+M 0 8501 69 8509 3 *Load a Derby Fish
+M 0 8501 69 8510 3 *Load a Derby Fish
+M 0 8501 69 8511 3 *Load a Derby Fish
+M 0 8501 69 8512 3 *Load a Derby Fish
+M 0 8501 69 8513 3 *Load a Derby Fish
+M 0 8501 69 8514 3 *Load a Derby Fish
+M 0 8501 69 8515 3 *Load a Derby Fish
+M 0 8501 69 8516 3 *Load a Derby Fish
+M 0 8501 69 8517 3 *Load a Derby Fish
+M 0 8501 69 8518 3 *Load a Derby Fish
+M 0 8501 69 8519 3 *Load a Derby Fish
+M 0 8501 69 8520 3 *Load a Derby Fish
+M 0 8501 69 8521 3 *Load a Derby Fish
+M 0 8501 69 8522 3 *Load a Derby Fish
+M 0 8501 69 8523 3 *Load a Derby Fish
+M 0 8501 69 8524 3 *Load a Derby Fish
+M 0 8501 69 8525 3 *Load a Derby Fish
+M 0 8501 69 8526 3 *Load a Derby Fish
+M 0 8501 69 8527 3 *Load a Derby Fish
+M 0 8501 69 8528 3 *Load a Derby Fish
+M 0 8501 69 8529 3 *Load a Derby Fish
+M 0 8501 69 8530 3 *Load a Derby Fish
+M 0 8501 69 8531 3 *Load a Derby Fish
+M 0 8501 69 8532 3 *Load a Derby Fish
+M 0 8501 69 8533 3 *Load a Derby Fish
+M 0 8501 69 8534 3 *Load a Derby Fish
+M 0 8501 69 8535 3 *Load a Derby Fish
+M 0 8501 69 8536 3 *Load a Derby Fish
+M 0 8501 69 8537 3 *Load a Derby Fish
+M 0 8501 69 8538 3 *Load a Derby Fish
+M 0 8501 69 8539 3 *Load a Derby Fish
+M 0 8501 69 8540 3 *Load a Derby Fish
+M 0 8501 69 8541 3 *Load a Derby Fish
+M 0 8501 69 8542 3 *Load a Derby Fish
+M 0 8501 69 8543 3 *Load a Derby Fish
+M 0 8501 69 8544 3 *Load a Derby Fish
+M 0 8501 69 8545 3 *Load a Derby Fish
+M 0 8501 69 8546 3 *Load a Derby Fish
+M 0 8501 69 8547 3 *Load a Derby Fish
+M 0 8501 69 8548 3 *Load a Derby Fish
+M 0 8501 69 8549 3 *Load a Derby Fish
+M 0 8501 69 8550 3 *Load a Derby Fish
+M 0 8501 69 8551 3 *Load a Derby Fish
+M 0 8501 69 8552 3 *Load a Derby Fish
+M 0 8501 69 8553 3 *Load a Derby Fish
+M 0 8501 69 8554 3 *Load a Derby Fish
+M 0 8501 69 8555 3 *Load a Derby Fish
+M 0 8501 69 8556 3 *Load a Derby Fish
+M 0 8501 69 8557 3 *Load a Derby Fish
+M 0 8501 69 8558 3 *Load a Derby Fish
+M 0 8501 69 8559 3 *Load a Derby Fish
+M 0 8501 69 8560 3 *Load a Derby Fish
+M 0 8501 69 8561 3 *Load a Derby Fish
+M 0 8501 69 8562 3 *Load a Derby Fish
+M 0 8501 69 8563 3 *Load a Derby Fish
+M 0 8501 69 8564 3 *Load a Derby Fish
+M 0 8501 69 8565 3 *Load a Derby Fish
+M 0 8501 69 8566 3 *Load a Derby Fish
+M 0 8501 69 8567 3 *Load a Derby Fish
+M 0 8501 69 8568 3 *Load a Derby Fish
+M 0 8501 69 8569 3 *Load a Derby Fish
+M 0 8501 69 8570 3 *Load a Derby Fish
+M 0 8601 1 8601 1 *Load {YThe {YOne {W({Y1{W) {YBall{x
+M 0 8602 1 8602 1 *Load {BThe {BT{bw{Bo {W({B2{W) {BB{ba{Bll{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {BThe {BT{bw{Bo {W({B2{W) {BB{ba{Bll{x
+M 0 8603 1 8603 1 *Load {RThe {RThree {W({R3{W) {RBall{x
+M 0 8604 1 8604 1 *Load {MThe Four {W({M4{W) {MBall{x
+M 0 8605 1 8605 1 *Load {yThe {yFive {W({y5{W) {yBall{x
+M 0 8606 1 8606 1 *Load {GThe {GSix {W({G6{W) {GBall{x
+M 0 8609 1 8609 1 *Load {YT{Wh{Ye {YN{Wi{Yn{We {W({Y9{W) {YB{Wa{Yll{x
+M 0 8610 1 8610 1 *Load {BT{Wh{Be T{We{Bn {W({B10{W) {BB{Wa{Bll{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {BT{Wh{Be T{We{Bn {W({B10{W) {BB{Wa{Bll{x
+M 0 8611 1 8611 1 *Load {RT{Wh{Re El{We{Rv{We{Rn {W({R11{W) {RB{Wa{Rll{x
+M 0 8612 1 8612 1 *Load {MT{Wh{Me Tw{We{Mlv{We {W({M12{W) {MB{Wa{Mll{x
+M 0 8613 1 8613 1 *Load {yT{Wh{ye Th{Wi{yrt{Wee{yn {W({y13{W) {yB{Wa{yll{x
+M 0 8614 1 8614 1 *Load {GT{Wh{Ge F{Wou{Grt{Wee{Gn {W({G14{W) {GB{Wa{Gll{x
+M 0 8615 1 8615 1 *Load {rT{Wh{re F{Wi{rft{Wee{rn {W({r15{W) {rB{Wa{rll{x
+M 0 8616 4 8616 4 *Load {CTh{We {CC{Wue {CCh{Wa{Clk{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {CTh{We {CC{Wue {CCh{Wa{Clk{x
+M 0 8617 4 8616 4 *Load {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+M 0 8607 1 8620 1 *Load {rThe {rSeven {W({r7{W) {rBall{x
+M 0 8600 1 8629 1 *Load {WT{xh{We {WC{xu{We B{xa{Wll{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {WT{xh{We {WC{xu{We B{xa{Wll{x
+M 0 8616 4 8632 4 *Load {CTh{We {CC{Wue {CCh{Wa{Clk{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {CTh{We {CC{Wue {CCh{Wa{Clk{x
+M 0 8617 4 8635 4 *Load {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+M 0 8617 4 8643 4 *Load {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+M 0 8616 4 8644 4 *Load {CTh{We {CC{Wue {CCh{Wa{Clk{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {CTh{We {CC{Wue {CCh{Wa{Clk{x
+M 0 8608 1 8645 1 *Load {DThe {DE{di{Dght {W({D8{W) {DB{da{Dll{x
+M 0 8617 4 8654 4 *Load {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {DTh{Ge {DB{Gi{Dll{Gia{Drd C{Gue{x
+M 0 8616 4 8657 4 *Load {CTh{We {CC{Wue {CCh{Wa{Clk{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {CTh{We {CC{Wue {CCh{Wa{Clk{x
+M 0 8618 1 8666 1 *Load {DTh{Ge {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x
+E 0 8666 0 16 *{xa {wsl{xi{wv{xe{wr {xof {wc{xu{we b{xa{wll{x is loaded wielded of {DTh{Ge {DB{Gi{Dll{Gia{Drd R{Ga{Dck{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#8501
+if rand 99
+mob oload 8508
+else
+if rand 98
+mob oload 8507
+else
+if rand 97
+mob oload 8506
+else
+if rand 96
+mob oload 8505
+else
+if rand 95
+mob oload 8504
+else
+if rand 80
+mob oload 8503
+else
+mob oload 8502
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#8600
+mob echo {x
+mob echo $I {Wrolls around behind $r and...{x
+backstab $r
+mob echo {x
+gouge $r
+~
+#8601
+if rand 50
+mob echo {x
+mob echo {W$I {Wrotates quickly and unleashes it's deadly magic at $r!{x
+mob cast 'acid blast' $r
+mob echo {x
+mob cast blind $r
+else
+mob echo {x
+mob echo {W$I {Wrolls back suddenly and then smashes forward into $r!{x
+bash $r
+mob echo {x
+mob cast blind $r
+endif
+~
+#8602
+if rand 50
+mob echo {x
+mob echo {W$I {Wrotates quickly and unleashes it's deadly magic at $r!{x
+mob cast 'mana blast' $r
+mob echo {x
+mob cast 'colour spray' $r
+else
+gouge $r
+mob echo {x
+mob echo $I {Wrolls around behind $r and...{x
+circle $r
+mob echo {x
+endif
+~
+#8603
+if rand 50
+mob echo {x
+mob echo {W$I {Wspins forward and smashes into you ruthlessly!{x
+bash $r
+mob echo {x
+disarm $r
+else
+mob echo {x
+mob echo {W$I {Wspins backward suddenly and discharges explosive materials!{x
+mob cast high $r
+mob echo {x
+disarm $r
+endif
+~
+#8604
+if rand 50
+mob echo {x
+mob echo {W$I {Wtwirls about quickly, spraying it's deadly acid breath everywhere!{x
+mob cast 'acid breath' $r
+mob echo {x
+mob cast blind $r
+mob cast slow $r
+else
+mob echo {x
+mob echo {W$I {Wsuddenly snaps itself backwards and then RAMS itself into $r!{x
+bash $r
+mob echo {x
+mob cast blind $r
+mob cast weaken $r
+endif
+~
+#8605
+if rand 50
+mob echo {x
+mob echo {W$I {Wtwirls about quickly, spraying it's hot fire breath everywhere!{x
+mob cast 'fire breath' $r
+mob echo {x
+mob cast blind $r
+mob cast 'feeble mind' $r
+else
+mob echo {x
+mob echo $I {Wsuddenly gyrates very fast and flings itself forward into $r!{x
+bash $r
+mob echo {x
+mob cast 'dispel magic' $r
+mob cast blind $r
+endif
+~
+#8606
+if rand 50
+mob echo {x
+mob echo $I {Wbegins to rotate quickly and emits burning frost at $r!{x
+mob cast 'frost breath' $r
+mob echo {x
+mob cast blind $r
+mob cast 'chill' $r
+else
+mob echo {x
+mob echo $I {Wbegins to rotate quickly and then spings forward into $r!{x
+bash $r
+mob echo {x
+mob cast 'plague' $r
+mob cast blind $r
+endif
+~
+#8607
+if rand 50
+mob echo {x
+mob echo $I {Wundulates in a peculiar manner and burps burning gas at $r!{x
+mob cast 'gas breath' $r
+mob echo {x
+mob cast blind $r
+mob cast 'poison' $r
+else
+mob echo {x
+mob echo $I {Wundulates in a peculiar manner right into $r!{x
+bash $r
+mob echo {x
+mob cast curse $r
+mob cast blind $r
+endif
+~
+#8608
+if rand 50
+mob echo {x
+mob echo $I {Wblurs with it's revolution speed and magical destruction rains forth.{x
+mob cast 'gas breath' $r
+mob cast 'fire breath' $r
+mob cast 'acid breath' $r
+mob cast 'frost breath' $r
+mob cast 'lightning breath' $r
+mob echo {x
+bash $r
+mob cast blind $r
+else
+mob echo {x
+mob echo $I {Wblurs with it's revolution speed and rains down magical destruction.{x
+mob cast 'mana blast' $r
+mob cast 'acid blast' $r
+mob cast 'gas breath' $r
+mob echo {x
+bash $r
+mob cast blind $r
+endif
+~
+#8609
+~
+#8613
+~
+#8665
+if rand 50
+gouge $r
+mob echo {x
+mob echo $I {Wrolls around behind $r and...{x
+circle $r
+mob echo {x
+else
+gouge $r
+mob echo {x
+mob echo $I {Wrolls back suddenly and then smashes forward into $r!{x
+bash $r
+mob echo {x
+endif
+~
+#8666
+mob junk cue
+~
+#0
+
+#$

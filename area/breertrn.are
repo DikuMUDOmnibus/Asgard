@@ -1,0 +1,577 @@
+#AREADATA
+Name Sahuagin Catacombs~
+Builders Unlinked Bree~
+VNUMs 71400 71899
+Continent 1
+Mobtier 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#71400
+Catacomb Guardian~
+Catacomb Guardian~
+A catacomb guardian is walking around here.
+~
+Head to toe in stone poxed robes, he guards those who lie beneath 
+~
+dark-elf~
+ABGQ J 0 1000 0
+130 200 1d1+8000 1d1+400 15d35+50 thwack
+-60 -60 -60 -60
+F 0 0 S
+stand stand male 20000
+AHMV ABCDEFGHIJK large unknown
+V -1
+A -1
+#71401
+boo~
+boo~
+Boo
+~
+~
+human~
+A 0 0 0 0
+1 0 1d1+20 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+V -1
+A -1
+#0
+
+
+
+#OBJECTS
+#71400
+no name~
+(no short description)~
+(no description)~
+unknown~
+pill 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#71401
+Drow longsword Kingslayer~
+a {DD{wr{Wo{ww {glo{Dngswo{grd {Dnamed {R'{BK{bi{Rn{Ggs{Bl{ba{Ry{be{Br{R'{x~
+A {DD{wr{Wo{ww {glo{Dngswo{grd {Dnamed {R'{BK{bi{Rn{Ggs{Bl{ba{Ry{be{Br{R'{x lays here, better tell an Immortal!~
+Damascus Titanium~
+weapon AB AN
+sword 40 50 psias ABCDEGHJN
+109 5 10000000 P
+A
+20 -60
+A
+28 200
+A
+26 200
+A
+2 8
+A
+4 8
+A
+3 8
+A
+1 8
+F
+A 0 0 a
+F
+A 0 0 L
+F
+A 0 1 J
+F
+A 0 0 c
+A
+18 500
+A
+19 500
+#71402
+Aesir parachute of pain~
+{GA{Ye{Ws{Yi{Gr {Bpa{Grachu{Bte {Dof {RPain{x~
+An {GA{Ye{Ws{Yi{Gr {Bpa{Grachu{Bte {Dof {RPain{x is here, tell an Immortal.~
+unknown~
+armor AB AX
+BCG BCG BCG ADG 0
+109 1 900000 P
+A
+20 -30
+A
+17 -100
+A
+12 500
+A
+13 500
+F
+A 0 0 T
+#71403
+pack of the sociopath~
+{RBac{Dkp{Rack{D of t{Rh{De {Ds{Wo{wc{Di{Wo{wp{Da{Wt{Dh{x~
+TELL AN IMM~
+unknown~
+container AB AX
+9000 A 0 9000 10
+109 0 0 P
+A
+26 50
+A
+28 50
+A
+13 200
+A
+12 200
+#0
+
+
+
+#ROOMS
+#71400
+Before the Sahuagin Catacombs~
+~
+0 0 3
+D2
+~
+~
+0 0 71401
+S
+#71401
+Entrance passageway~
+~
+0 0 3
+D0
+~
+~
+0 0 71400
+D2
+~
+~
+0 0 71402
+S
+#71402
+Entrance passageway~
+Stone carved portraits of face less men line the walls in this very cramped
+tunnel down into the darkness that awaits below. Small torches are illuminating
+the corridor that are held in place by small metal fixtures attached to the wall.
+~
+0 0 0
+D0
+~
+~
+0 0 71401
+D5
+~
+~
+0 0 71403
+S
+#71403
+Descending into darkness~
+Stone carved portraits of face less men line the walls in this very cramped
+tunnel down into the darkness that awaits below. Small torches are illuminating
+the corridor that are held in place by small metal fixtures attached to the wall.
+~
+0 0 0
+D4
+~
+~
+0 0 71402
+D5
+~
+~
+0 0 71404
+S
+#71404
+Descending into darkness~
+Stone carved portraits of face less men line the walls in this very cramped
+tunnel down into the darkness that awaits below. Small torches are illuminating
+the corridor that are held in place by small metal fixtures attached to the wall.
+~
+0 0 0
+D2
+~
+~
+0 0 71405
+D4
+~
+~
+0 0 71403
+S
+#71405
+Before the Sahuagin Catacomb entrance~
+This is the entrance to the Sahuagin Catacombs, where only the most noteworthy
+and righteous of the Hero's of Sahuagin are buried. The Catacombs below have never
+been explored fully, and some say there are still a few people lost inside. The
+walls of this place are made up of an almost glowing {yyellow{x-{Dwhite{x stone that
+looks strong as platinum. Torches light the walls, hanging in small metal holders.
+~
+0 0 0
+D0
+~
+~
+0 0 71404
+D1
+~
+~
+0 0 71419
+D2
+~
+~
+0 0 71418
+D3
+~
+~
+0 0 71406
+S
+#71406
+Western Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71410
+D1
+~
+~
+0 0 71405
+D2
+~
+~
+0 0 71411
+D3
+~
+~
+0 0 71407
+S
+#71407
+Western Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71413
+D1
+~
+~
+0 0 71406
+D2
+~
+~
+0 0 71412
+D3
+~
+~
+0 0 71408
+S
+#71408
+Western Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71414
+D1
+~
+~
+0 0 71407
+D2
+~
+~
+0 0 71415
+D3
+~
+~
+0 0 71409
+S
+#71409
+Western Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71416
+D1
+~
+~
+0 0 71408
+D2
+~
+~
+0 0 71417
+S
+#71410
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71406
+S
+#71411
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71406
+S
+#71412
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71407
+S
+#71413
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71407
+S
+#71414
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71408
+S
+#71415
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71408
+S
+#71416
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71409
+S
+#71417
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71409
+S
+#71418
+Dunno yet~
+{Rwest east catacombs to the north are for basic focusing mobs, one per tomb. South will be more elaborate with challenging areas for eq {X
+{YWith focusing mobs all along the way{X
+~
+0 0 0
+D0
+~
+~
+0 0 71405
+S
+#71419
+Eastern Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71423
+D1
+~
+~
+0 0 71420
+D2
+~
+~
+0 0 71424
+D3
+~
+~
+0 0 71405
+S
+#71420
+Eastern Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71425
+D1
+~
+~
+0 0 71421
+D2
+~
+~
+0 0 71426
+D3
+~
+~
+0 0 71419
+S
+#71421
+Eastern Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71427
+D1
+~
+~
+0 0 71422
+D2
+~
+~
+0 0 71428
+D3
+~
+~
+0 0 71420
+S
+#71422
+Eastern Catacombs~
+~
+0 0 0
+D0
+~
+~
+0 0 71429
+D2
+~
+~
+0 0 71430
+D3
+~
+~
+0 0 71421
+S
+#71423
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71419
+S
+#71424
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71419
+S
+#71425
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71420
+S
+#71426
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71420
+S
+#71427
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71421
+S
+#71428
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71421
+S
+#71429
+A stone carved grave~
+~
+0 0 0
+D2
+~
+~
+0 0 71422
+S
+#71430
+A stone carved grave~
+~
+0 0 0
+D0
+~
+~
+0 0 71422
+S
+#71491
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 71400 10 71403 5 *Load Catacomb Guardian
+M 0 71400 10 71404 5 *Load Catacomb Guardian
+M 0 71400 10 71405 5 *Load Catacomb Guardian
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#71400
+mob oload 919
+mob oload 913
+~
+#0
+
+#$

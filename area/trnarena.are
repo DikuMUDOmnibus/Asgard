@@ -1,0 +1,2220 @@
+#AREADATA
+Name Tournament Arenas~
+Builders Skahld Noquest Unlinked~
+VNUMs 15500 15999
+Continent 1
+Mobtier 0
+Credits {#[ {@0{8--{@0 {#] {8S{&k{7a{8h{&l{8d{0   {@Tournament Arenas{0~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#15502
+Syhkihl Mistress of Pain~
+Syhkihl, Mistress of Pain~
+Syhkihl, Mistress of Pain, cracks her whip menacingly and sneers at you.
+~
+Syhkihl, Mistress of Pain, cracks her whip menacingly as she sneers at you.
+
+{0Type '{&curse{0' to see a list of available services.
+~
+human~
+ABQX DEFJL 0 -1000 0
+30 0 1d1+999 1d1+999 2d4+30 drain
+-15 -15 -15 -15
+FHIK ABCDLQ 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V -1
+A -1
+#15503
+Sohlehn Ward of Compassion~
+Sohlen, Ward of Compassion~
+Sohlen, Ward of Compassion, smiles warmly and beckons to you.
+~
+Sohlehn, Ward of Compassion, smiles at you warmly and beckons you
+to enjoy the services of {$T{4h{7e {$B{4a{7sti{4o{$n {7of {$B{4e{7ne{4v{${&o{4l{7en{4c{4e{0.
+
+Type '{&repent{0' to see a listing of available services.
+~
+human~
+ABQZ DEFJL 0 1000 0
+103 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCDLQ 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+S 1
+V -1
+A -1
+#15504
+Rohm Geihl the Healer~
+Rohm Geihl the Healer~
+Rohm Geihl the Healer is here calmly raking the soothing sands.
+~
+Rohm Geihl the Healer is here tending to the Soothing Sands of healing. He
+seems to have a constant smile on his lips and a sparkle in his eye.
+
+Type '{&heal{0' to see a listing of available spell services.
+~
+human~
+ABQa DEFJL 0 1000 0
+250 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCDQ 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+V -1
+A -1
+#15505
+Vehrmihllion Shop Keeper~
+{%V{8e{0hrmihlli{8o{%n{0~
+Vehrmihllion is here hawking his Tournament Wares.
+~
+{%V{8e{0hrmihlli{8o{%n{0 is here tending his shop and hawking his wares.
+ 
+Type '{&list{0' to see a list of items available for purchase.
+~
+human~
+AB DEJL 0 0 0
+300 0 1d1+200000 0d0+0 0d0+0 none
+0 0 0 0
+0 ACDLQ 0 0
+stand stand male 20000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+S 1
+V -1
+A -1
+#0
+
+
+
+#OBJECTS
+#15500
+Augen Verstarkung Flaschen aus~
+ein Flaschen aus {3A{2u{3g{2e{3n V{2er{3st{2ar{3ku{2n{3g{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'detect invis' 'detect motion' 'infravision' 'farsight'
+101 0 35000 P
+#15501
+Verblendung Erbrechen Flaschen aus~
+ein Flaschen aus {4V{5e{8rbl{4e{8ndu{5n{4g {4E{5r{8br{4e{8ch{5e{4n{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'cure blindness' 'cure blindness' 'cure blindness' 'cure blindness'
+101 0 35000 P
+#15502
+Magisch Enden Flaschen aus~
+ein Flaschen aus {2M{1a{8g{2i{8s{1c{2h {2E{1n{8d{1e{2n{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+101 0 35000 P
+#15503
+Flaschen aus Abschirmen~
+ein Flaschen aus {1A{3b{^s{3c{^h{3i{^rm{3e{1n{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'iceshield' 'shockshield' 'fireshield' 'stone skin'
+101 0 35000 P
+#15504
+Soothing Sands~
+an area of Soothing Sand~
+An area of Soothing Sand dominates this room.~
+unknown~
+furniture RTYf 0
+BEF BEF CFIL ABCDIJKN ABCDIJKN
+0 0 2147483647 P
+#15505
+Flaschen aus Kurativ~
+ein Flaschen aus {7K{6ur{2a{6ti{7v{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'remove curse' 'cancellation' 'cure poison' 'cure disease'
+101 0 35000 P
+#15506
+Flaschen aus Schild~
+ein Flaschen aus {1S{4c{8hi{4l{1d{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'stone skin' 'steel flesh' 'armor' 'shield'
+101 0 35000 P
+#15507
+Flaschen aus Starke~
+ein Flaschen aus {3S{1t{8ar{1k{3e{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'frenzy' 'haste' 'giant strength' 'bless'
+101 0 35000 P
+#15508
+Flaschen aus Gespenst~
+ein Flaschen aus {7G{8es{7p{8en{7s{8t{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+101 0 35000 P
+#15509
+Flaschen aus Heilend~
+ein Flaschen aus {^H{&e{^i{7l{^en{&d{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG AO
+105 'mass healing' 'heal' 'mass healing' 'heal'
+101 0 40000 P
+#15510
+Flaschen aus Dunkel Segen~
+ein Flaschen aus {1D{5u{8nk{5e{1l S{5e{8g{5e{1n{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG A
+105 'darkshield' 'bless' 'protection good' 'heal'
+101 0 35000 P
+#15511
+Flaschen aus Geistlich Segen~
+ein Flaschen aus {^G{&ei{^stl{&ic{^h S{&e{^g{&e{^n{0~
+A strange Flaschen has been left here.~
+unknown~
+potion AG A
+105 'mass invis' 'bless' 'protection evil' 'heal'
+101 0 35000 P
+#15512
+1 Tournament Portal I.~
+{xTournament Portal {RI.{x~
+{xTournament Portal {RI.{x hovers here.~
+unknown~
+portal RTYf 0
+0 0 0 ACDEHKLMN 0
+101 0 0 P
+#15513
+2 Tournament Portal II.~
+{xTournament Portal {GII{x.~
+{xTournament Portal {GII{x. hovers here.~
+unknown~
+portal RTYf 0
+0 0 0 BCDFHKLMN 0
+101 0 0 P
+#15514
+3 Tournament Portal III.~
+{xTournament Portal {YIII{x.~
+{xTournament Portal {YIII{x. hovers here.~
+unknown~
+portal RTYf 0
+0 0 0 ABCDEFHKLMN 0
+101 0 0 P
+#15515
+4 Tournament Portal IV.~
+{xTournament Portal {MIV{x.~
+{xTournament Portal {MIV{x. hovers here.~
+unknown~
+portal RTYf 0
+0 0 0 CEGHKLMN 0
+101 0 0 P
+#15516
+5 Tournament Portal V.~
+{xTournament Portal {BV{x.~
+{xTournament Portal {BV{x. hovers here.~
+unknown~
+portal RTYf 0
+0 0 0 CDFGHKLMN 0
+101 0 0 P
+#15572
+sign of rules~
+{xThe {YSign{x of Tournament Rules~
+The {YSign{x of Tournament Rules hovers here, so {YREAD IT{x!~
+gold~
+furniture RTYdf 0
+0 0 0 0 0
+101 9999 0 P
+E
+sign~
+{Y-{D={Y- General {RPK {YTourament Rules {Y-{D={Y-{x
+ 
+{Y1) {GIgnorance of the Tournament Rules does not negate them in any way.{x
+{Y2) {GLeaving a tournament arena during a battle is immediate forfeit of{x
+{G   your on going match no matter the method of travel.{x
+{Y3) {GIf you are disconnected at any time during a tournament battle that{x
+   {Gis your bad luck. Better luck next time.{x
+{Y4) {GGiving or recieving aid during a {RPK {GTournament battle is strictly{x
+   {Gforbidden and will result in the forfeit of your current match.{x
+   {RNOTRAN {Gis highly recommended.{x
+ 
+~
+#0
+
+
+
+#ROOMS
+#15500
+The Gathering Hall~
+The Gathering Hall is very large and spacious with vaulted ceilings that vanish
+into the darkness above. Iron rings stacked with candles hang suspended from
+chains and cast flickering shadows all about. Open archways lead off in various
+different directions.
+~
+0 525324 0
+D1
+A brightly lit and cluttered shop of some sort lies to the east.
+~
+~
+0 0 15505
+D3
+An open archway leads west into a poorly lit domed chamber.
+~
+~
+0 0 15501
+M 9999 H 9999
+S
+#15501
+An Domed Hall~
+This is a plain unadorned chamber built of blue marbled with white swirls.
+Open archways lead off in nearly every direction.
+~
+0 525324 0
+D0
+Looking to the north you are overwhelmed by a sense of pain and foreboding.
+~
+~
+0 0 15502
+D1
+The festive Hall of Gathering can be seen just to the east.
+~
+~
+0 0 15500
+D2
+A feeling of peace and serenity washes over you as you look south.
+~
+~
+0 0 15503
+D3
+Through the wester arch you spy a warm and inviting well lit room.
+~
+~
+0 0 15504
+M 9999 H 9999
+S
+#15502
+{!T{1h{8e {!S{1a{8nct{1u{!m {8of {!M{1a{8li{1c{8e{0~
+This chamber has been built and lined with pitch black marble swirling
+blood red streaks of color. Symbols of hate, darkness and pain decorate
+the walls, floor and ceiling.
+~
+0 525324 0
+D2
+An open archway leads south out of the darkness of this room.
+~
+~
+0 0 15501
+M 9999 H 9999
+S
+#15503
+{$T{4h{7e {$B{4a{7sti{4o{$n {7of {$B{4e{7ne{4v{${&o{4l{7en{4c{4e{0~
+The Bastion of Benevolence is brightly lit and has a warm and comforting
+atmosphere. Beautiful tapestries and paintings decorate the walls while
+muraled tiles cover the floor.
+~
+0 525324 0
+D0
+An open archway leads out of this room and into a domed chamber.
+~
+~
+0 0 15501
+M 9999 H 9999
+S
+#15504
+{2T{@h{7e {2C{7ha{@m{7be{2r {7of {2R{7e{2g{7e{2n{7e{2r{7a{2t{7io{2n{0~
+This well lit and friendly chamber houses the Tournament Arena's resident
+Healer. Here you can heal your wounds and seek aid in curing your infections
+for a fair and modest price.
+~
+0 525324 0
+D1
+An open archway leads out of this chamber into a poorly lit domed chamber.
+~
+~
+0 0 15501
+M 9999 H 9999
+S
+#15505
+{%V{5e{0hrmihlli{5o{%n{0's {%W{5a{0renha{5u{%s{0 aus {%W{5u{0nderb{5a{%r{0~
+The Warenhaus aus Wunderbar is a storefront cluttered with all manner of
+elixars and potions. Better stock up for the PK Tournament.
+~
+0 525324 0
+D3
+The Gathering Hall can be seen just to the west.
+~
+~
+0 0 15500
+M 9999 H 9999
+S
+#15506
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D2
+~
+~
+0 0 15507
+D3
+~
+~
+0 0 15598
+S
+#15507
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15506
+D1
+~
+~
+0 0 15508
+S
+#15508
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15509
+D1
+~
+~
+0 0 15515
+D2
+~
+~
+0 0 15509
+D3
+~
+~
+0 0 15507
+S
+#15509
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15508
+D2
+~
+~
+0 0 15513
+D3
+~
+~
+0 0 15510
+S
+#15510
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D1
+~
+~
+0 0 15509
+D2
+~
+~
+0 0 15515
+D3
+~
+~
+0 0 15596
+S
+#15511
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15512
+D1
+~
+~
+0 0 15596
+D2
+~
+~
+0 0 15512
+D3
+~
+~
+0 0 15516
+S
+#15512
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15511
+D1
+~
+~
+0 0 15513
+S
+#15513
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15596
+D2
+~
+~
+0 0 15514
+D3
+~
+~
+0 0 15512
+S
+#15514
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15513
+D1
+~
+~
+0 0 15515
+S
+#15515
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15510
+D3
+~
+~
+0 0 15514
+S
+#15516
+~
+~
+0 0 0
+D0
+~
+~
+0 0 15506
+D1
+~
+~
+0 0 15597
+S
+#15517
+{3T{2h{7e {3P{2l{7a{3t{7e{2a{3u {3T{2o{7p{0~
+The plateau top is barren of plant life except for the occassional sickly
+shrubbery. Jagged rocks and earthen debris litter the ground.
+~
+0 532480 5
+D0
+The plateau continues on to the north.
+~
+~
+0 0 15522
+D1
+The plateau continues on to the east.
+~
+~
+0 0 15520
+D2
+The plateau continues on to the south.
+~
+~
+0 0 15518
+D3
+The plateau continues on to the west.
+~
+~
+0 0 15524
+S
+#15518
+{3T{2h{7e {3P{2l{7a{3t{7e{2a{3u {3T{2o{7p{0~
+The plateau top is barren of plant life except for the occassional sickly
+shrubbery. Jagged rocks and earthen debris litter the ground.
+~
+0 532480 5
+D0
+~
+~
+0 0 15517
+D2
+~
+~
+0 0 15519
+D3
+~
+~
+0 0 15531
+S
+#15519
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15518
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15528
+S
+#15520
+{3T{2h{7e {3P{2l{7a{3t{7e{2a{3u {3T{2o{7p{0~
+The plateau top is barren of plant life except for the occassional sickly
+shrubbery. Jagged rocks and earthen debris litter the ground.
+~
+0 532480 5
+D1
+~
+~
+0 0 15521
+D2
+~
+~
+0 0 15533
+D3
+The plateau continues on to the west.
+~
+~
+0 0 15517
+S
+#15521
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15527
+D2
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15518
+D3
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15520
+S
+#15522
+{3T{2h{7e {3P{2l{7a{3t{7e{2a{3u {3T{2o{7p{0~
+The plateau top is barren of plant life except for the occassional sickly
+shrubbery. Jagged rocks and earthen debris litter the ground.
+~
+0 532480 5
+D0
+~
+~
+0 0 15523
+D1
+~
+~
+0 0 15530
+D2
+The plateau continues on to the south.
+~
+~
+0 0 15517
+D3
+~
+~
+0 0 15532
+S
+#15523
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15519
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15527
+D2
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15522
+D3
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15529
+S
+#15524
+{3T{2h{7e {3P{2l{7a{3t{7e{2a{3u {3T{2o{7p{0~
+The plateau top is barren of plant life except for the occassional sickly
+shrubbery. Jagged rocks and earthen debris litter the ground.
+~
+0 532480 5
+D1
+The plateau continues on to the east.
+~
+~
+0 0 15517
+D3
+~
+~
+0 0 15525
+S
+#15525
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15524
+D2
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15526
+S
+#15526
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15525
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15521
+S
+#15527
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15528
+D2
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15521
+S
+#15528
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15526
+D3
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15519
+S
+#15529
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15526
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15523
+S
+#15530
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15532
+D3
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15522
+S
+#15531
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15533
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15518
+D2
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15528
+S
+#15532
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15531
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15522
+S
+#15533
+{4In the Air{0~
+You are flyin in the air around the top of a jagged mountain capped with
+a barren plateau. Moist clumbs of cloud obscure the world around and below
+you.
+~
+0 532480 9
+D0
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15520
+D1
+Moist chunks of cloudy vapor obscure your vision.
+~
+~
+0 0 15527
+S
+#15534
+{8T{3h{#e {#R{3u{8i{3n{#s {8o{#f {3C{#i{8v{3i{8l{3i{8z{3a{8t{3i{#o{3n{0~
+You find yourself surrounded by the jagged and worn ruins that dominate the landscape.
+Hidey holes abound amidst the ruins so you better be on guard.
+~
+0 532480 1
+D0
+~
+~
+0 0 15538
+D1
+~
+~
+0 0 15535
+D2
+~
+~
+0 0 15541
+D3
+~
+~
+0 0 15536
+S
+#15535
+{8T{3h{#e {#R{3u{8i{3n{#s {8o{#f {3C{#i{8v{3i{8l{3i{8z{3a{8t{3i{#o{3n{0~
+You find yourself surrounded by the jagged and worn ruins that dominate the landscape.
+Hidey holes abound amidst the ruins so you better be on guard.
+~
+0 532480 1
+D0
+~
+~
+0 0 15536
+D2
+~
+~
+0 0 15542
+D3
+~
+~
+0 0 15534
+S
+#15536
+{8T{5h{8e V{5o{8id of N{5o{8thingn{5e{8ss{0~
+Wandering through the caves you stagger into a darkness so complete that there
+is nothing beyond the weak glow of your pathetic light. You can't even feel solid
+ground beneath your feet.
+~
+0 532480 9
+D0
+~
+~
+0 0 15543
+D1
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15540
+S
+#15537
+{8T{5h{8e V{5o{8id of N{5o{8thingn{5e{8ss{0~
+Wandering through the caves you stagger into a darkness so complete that there
+is nothing beyond the weak glow of your pathetic light. You can't even feel solid
+ground beneath your feet.
+~
+0 532480 9
+D1
+~
+~
+0 0 15544
+D2
+You can see nothing beyond the weak glow of your pathetic light.
+~
+~
+0 0 15539
+D3
+~
+~
+0 0 15541
+S
+#15538
+{8T{5h{8e V{5o{8id of N{5o{8thingn{5e{8ss{0~
+Wandering through the caves you stagger into a darkness so complete that there
+is nothing beyond the weak glow of your pathetic light. You can't even feel solid
+ground beneath your feet.
+~
+0 532481 9
+D0
+~
+~
+0 0 15544
+D1
+~
+~
+0 0 15545
+D2
+~
+~
+0 0 15534
+S
+#15539
+{3D{8e{3e{8p {3W{8ith{3i{8n {3t{8he {3C{8av{3e{8s {3o{8f {3D{8ec{3e{8it{0~
+The rock walls of the caves surround you on all sides and bounce the echoes
+of your footsteps all around.
+~
+0 532480 5
+D0
+~
+~
+0 0 15537
+D1
+~
+~
+0 0 15540
+S
+#15540
+{8T{2h{8e {2P{8h{2o{8sph{2o{8rus {2J{8u{2n{8gle{0~
+A strange phosphorus lichen covers the walls of this massive cavern illuminating the
+world as if under the glow of a full moon. Massive fungi and mushrooms have created a
+subteranean mold jungle.
+~
+0 532480 3
+D0
+~
+~
+0 0 15536
+D2
+~
+~
+0 0 15544
+D3
+~
+~
+0 0 15539
+S
+#15541
+{8T{3h{#e {#R{3u{8i{3n{#s {8o{#f {3C{#i{8v{3i{8l{3i{8z{3a{8t{3i{#o{3n{0~
+You find yourself surrounded by the jagged and worn ruins that dominate the landscape.
+Hidey holes abound amidst the ruins so you better be on guard.
+~
+0 532480 1
+D0
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15545
+D3
+~
+~
+0 0 15539
+S
+#15542
+{8T{3h{#e {#R{3u{8i{3n{#s {8o{#f {3C{#i{8v{3i{8l{3i{8z{3a{8t{3i{#o{3n{0~
+You find yourself surrounded by the jagged and worn ruins that dominate the landscape.
+Hidey holes abound amidst the ruins so you better be on guard.
+~
+0 532480 1
+D0
+~
+~
+0 0 15535
+D2
+~
+~
+0 0 15546
+D3
+~
+~
+0 0 15550
+S
+#15543
+{8T{2h{8e {2P{8h{2o{8sph{2o{8rus {2J{8u{2n{8gle{0~
+A strange phosphorus lichen covers the walls of this massive cavern illuminating the
+world as if under the glow of a full moon. Massive fungi and mushrooms have created a
+subteranean mold jungle.
+~
+0 532480 3
+D1
+~
+~
+0 0 15549
+D2
+~
+~
+0 0 15547
+S
+#15544
+{3D{8e{3e{8p {3W{8ith{3i{8n {3t{8he {3C{8av{3e{8s {3o{8f {3D{8ec{3e{8it{0~
+The rock walls of the caves surround you on all sides and bounce the echoes
+of your footsteps all around.
+~
+0 532480 5
+D0
+~
+~
+0 0 15540
+D1
+~
+~
+0 0 15545
+S
+#15545
+{3D{8e{3e{8p {3W{8ith{3i{8n {3t{8he {3C{8av{3e{8s {3o{8f {3D{8ec{3e{8it{0~
+The rock walls of the caves surround you on all sides and bounce the echoes
+of your footsteps all around.
+~
+0 532480 5
+D0
+~
+~
+0 0 15541
+D2
+~
+~
+0 0 15538
+D3
+~
+~
+0 0 15544
+S
+#15546
+{8T{3h{#e {#R{3u{8i{3n{#s {8o{#f {3C{#i{8v{3i{8l{3i{8z{3a{8t{3i{#o{3n{0~
+You find yourself surrounded by the jagged and worn ruins that dominate the landscape.
+Hidey holes abound amidst the ruins so you better be on guard.
+~
+0 532480 1
+D0
+~
+~
+0 0 15542
+D1
+~
+~
+0 0 15547
+D2
+~
+~
+0 0 15537
+D3
+~
+~
+0 0 15539
+S
+#15547
+{8T{4h{8e {4U{8nd{4e{8rgr{4ou{8nd L{4a{8ke{0~
+An enormous underground lake fills the area, water as far as the ear can
+hear. The gentle sounds of water lapping against rock echo at you from
+every direction.
+~
+0 532480 6
+D0
+~
+~
+0 0 15543
+D1
+~
+~
+0 0 15548
+D3
+~
+~
+0 0 15546
+S
+#15548
+{8T{4h{8e {4U{8nd{4e{8rgr{4ou{8nd L{4a{8ke{0~
+An enormous underground lake fills the area, water as far as the ear can
+hear. The gentle sounds of water lapping against rock echo at you from
+every direction.
+~
+0 532480 6
+D0
+~
+~
+0 0 15540
+D1
+~
+~
+0 0 15535
+D2
+~
+~
+0 0 15547
+D3
+~
+~
+0 0 15547
+S
+#15549
+{8T{2h{8e {2P{8h{2o{8sph{2o{8rus {2J{8u{2n{8gle{0~
+A strange phosphorus lichen covers the walls of this massive cavern illuminating the
+world as if under the glow of a full moon. Massive fungi and mushrooms have created a
+subteranean mold jungle.
+~
+0 532480 3
+D1
+~
+~
+0 0 15550
+D3
+~
+~
+0 0 15543
+S
+#15550
+{8T{2h{8e {2P{8h{2o{8sph{2o{8rus {2J{8u{2n{8gle{0~
+A strange phosphorus lichen covers the walls of this massive cavern illuminating the
+world as if under the glow of a full moon. Massive fungi and mushrooms have created a
+subteranean mold jungle.
+~
+0 532480 3
+D1
+~
+~
+0 0 15549
+D2
+~
+~
+0 0 15542
+D3
+~
+~
+0 0 15549
+S
+#15551
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15570
+D1
+~
+~
+0 0 15560
+D2
+~
+~
+0 0 15571
+D3
+~
+~
+0 0 15559
+S
+#15552
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D1
+~
+~
+0 0 15553
+D2
+~
+~
+0 0 15557
+D3
+~
+~
+0 0 15569
+S
+#15553
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D1
+~
+~
+0 0 15554
+D2
+~
+~
+0 0 15558
+D3
+~
+~
+0 0 15552
+S
+#15554
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15565
+D1
+~
+~
+0 0 15555
+D2
+~
+~
+0 0 15570
+D3
+~
+~
+0 0 15553
+S
+#15555
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D1
+~
+~
+0 0 15556
+D2
+~
+~
+0 0 15561
+D3
+~
+~
+0 0 15554
+S
+#15556
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D1
+~
+~
+0 0 15563
+D2
+~
+~
+0 0 15562
+D3
+~
+~
+0 0 15555
+S
+#15557
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15552
+D1
+~
+~
+0 0 15558
+D2
+~
+~
+0 0 15563
+S
+#15558
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15553
+D1
+~
+~
+0 0 15559
+D2
+~
+~
+0 0 15564
+D3
+~
+~
+0 0 15557
+S
+#15559
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D1
+~
+~
+0 0 15551
+D2
+~
+~
+0 0 15560
+D3
+~
+~
+0 0 15558
+S
+#15560
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15559
+D1
+~
+~
+0 0 15561
+D3
+~
+~
+0 0 15551
+S
+#15561
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15555
+D1
+~
+~
+0 0 15562
+D2
+~
+~
+0 0 15566
+D3
+~
+~
+0 0 15560
+S
+#15562
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15556
+D1
+~
+~
+0 0 15569
+D2
+~
+~
+0 0 15567
+D3
+~
+~
+0 0 15561
+S
+#15563
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15557
+D1
+~
+~
+0 0 15564
+D2
+~
+~
+0 0 15567
+S
+#15564
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15558
+D1
+~
+~
+0 0 15565
+D2
+~
+~
+0 0 15568
+D3
+~
+~
+0 0 15563
+S
+#15565
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15571
+D1
+~
+~
+0 0 15566
+D2
+~
+~
+0 0 15554
+D3
+~
+~
+0 0 15564
+S
+#15566
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15561
+D1
+~
+~
+0 0 15567
+D2
+~
+~
+0 0 15569
+D3
+~
+~
+0 0 15565
+S
+#15567
+{8A {^P{gr{Gi{Wm{^o{wr{Gd{gi{ga{^l {gF{8o{Gr{ge{8s{Gt{x~
+Fronds and ferns tickle your feet as you manuver through the overgrowth of a
+great and ancient Primordial Forest.
+~
+0 532480 3
+D0
+~
+~
+0 0 15562
+D1
+~
+~
+0 0 15553
+D3
+~
+~
+0 0 15566
+S
+#15568
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15564
+D1
+~
+~
+0 0 15555
+D2
+~
+~
+0 0 15556
+D3
+~
+~
+0 0 15557
+S
+#15569
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15566
+D2
+~
+~
+0 0 15552
+S
+#15570
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15554
+D1
+~
+~
+0 0 15571
+D2
+~
+~
+0 0 15551
+S
+#15571
+{8A {GF{go{8r{ges{Gt {gC{Gl{gea{Gr{yi{gn{Gg{x~
+The embrace of the Primordial Forest releases you into a grass field clearing. You can
+almost see the sun!
+~
+0 532480 3
+D0
+~
+~
+0 0 15551
+D2
+~
+~
+0 0 15565
+D3
+~
+~
+0 0 15570
+S
+#15572
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15575
+D1
+~
+~
+0 0 15582
+D2
+~
+~
+0 0 15587
+D3
+~
+~
+0 0 15581
+S
+#15573
+{8De{5a{8d E{5n{8d{0~
+The paths of the {4U{8nd{4e{8rd{4ar{8k{0 twist and turn in ways that make it
+very difficult to navigate accurately. You've made a mistake
+and arrived at a {8De{5a{8d E{5n{8d{0.
+~
+0 532489 5
+D2
+~
+~
+0 0 15580
+S
+#15574
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15590
+D1
+~
+~
+0 0 15575
+D2
+~
+~
+0 0 15581
+S
+#15575
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D0
+~
+~
+0 0 15593
+D1
+~
+~
+0 0 15576
+D2
+~
+~
+0 0 15572
+D3
+~
+~
+0 0 15574
+S
+#15576
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D1
+~
+~
+0 0 15577
+D3
+~
+~
+0 0 15575
+S
+#15577
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15588
+D2
+~
+~
+0 0 15583
+D3
+~
+~
+0 0 15576
+S
+#15578
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D1
+~
+~
+0 0 15579
+D2
+~
+~
+0 0 15585
+S
+#15579
+{8De{5a{8d E{5n{8d{0~
+The paths of the {4U{8nd{4e{8rd{4ar{8k{0 twist and turn in ways that make it
+very difficult to navigate accurately. You've made a mistake
+and arrived at a {8De{5a{8d E{5n{8d{0.
+~
+0 532489 5
+D3
+~
+~
+0 0 15578
+S
+#15580
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15573
+D1
+~
+~
+0 0 15581
+D2
+~
+~
+0 0 15590
+D3
+~
+~
+0 0 15574
+S
+#15581
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D0
+~
+~
+0 0 15574
+D1
+~
+~
+0 0 15572
+D2
+~
+~
+0 0 15586
+D3
+~
+~
+0 0 15580
+S
+#15582
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D1
+~
+~
+0 0 15583
+D2
+~
+~
+0 0 15588
+D3
+~
+~
+0 0 15572
+S
+#15583
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D0
+~
+~
+0 0 15577
+D1
+~
+~
+0 0 15584
+D2
+~
+~
+0 0 15595
+D3
+~
+~
+0 0 15582
+S
+#15584
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15591
+D1
+~
+~
+0 0 15585
+D2
+~
+~
+0 0 15589
+D3
+~
+~
+0 0 15583
+S
+#15585
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D0
+~
+~
+0 0 15578
+D1
+~
+~
+0 0 15577
+D2
+~
+~
+0 0 15589
+D3
+~
+~
+0 0 15584
+S
+#15586
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15581
+D1
+~
+~
+0 0 15587
+D3
+~
+~
+0 0 15594
+S
+#15587
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15572
+D1
+~
+~
+0 0 15588
+D2
+~
+~
+0 0 15576
+D3
+~
+~
+0 0 15586
+S
+#15588
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15582
+D1
+~
+~
+0 0 15589
+D3
+~
+~
+0 0 15587
+S
+#15589
+{8A {#C{$h{1a{#m{!b{3e{1r {8of {#F{$l{1a{#m{!e{0~
+The paths of the Underdark suddenly light up and emerge into a smoldering
+chamber of flame. The fumes burn your throat and the heat of the burning
+rock singes your flesh.
+~
+0 268967944 5
+D0
+~
+~
+0 0 15584
+D2
+~
+~
+0 0 15591
+D3
+~
+~
+0 0 15588
+S
+#15590
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15580
+D1
+~
+~
+0 0 15592
+D2
+~
+~
+0 0 15586
+S
+#15591
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D0
+~
+~
+0 0 15589
+D1
+~
+~
+0 0 15578
+D3
+~
+~
+0 0 15592
+S
+#15592
+{4P{8a{4t{8hs of the {4U{8nd{4e{8rd{4a{8rk{0~
+The pathways of the {4U{8nd{4e{8rd{4a{8rk{0 are treacherous and misleading,
+watch your step.
+~
+0 532489 5
+D1
+~
+~
+0 0 15591
+D2
+~
+~
+0 0 15594
+D3
+~
+~
+0 0 15590
+S
+#15593
+{8De{5a{8d E{5n{8d{0~
+The paths of the {4U{8nd{4e{8rd{4ar{8k{0 twist and turn in ways that make it
+very difficult to navigate accurately. You've made a mistake
+and arrived at a {8De{5a{8d E{5n{8d{0.
+~
+0 532489 5
+D2
+~
+~
+0 0 15575
+S
+#15594
+{8De{5a{8d E{5n{8d{0~
+The paths of the {4U{8nd{4e{8rd{4ar{8k{0 twist and turn in ways that make it
+very difficult to navigate accurately. You've made a mistake
+and arrived at a {8De{5a{8d E{5n{8d{0.
+~
+0 532489 5
+D0
+~
+~
+0 0 15592
+S
+#15595
+{8De{5a{8d E{5n{8d{0~
+The paths of the {4U{8nd{4e{8rd{4ar{8k{0 twist and turn in ways that make it
+very difficult to navigate accurately. You've made a mistake
+and arrived at a {8De{5a{8d E{5n{8d{0.
+~
+0 532489 5
+D0
+~
+~
+0 0 15583
+S
+#15596
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D1
+~
+~
+0 0 15510
+D2
+~
+~
+0 0 15513
+D3
+~
+~
+0 0 15511
+S
+#15597
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15598
+D3
+~
+~
+0 0 15516
+S
+#15598
+{8T{2h{8e {2M{8urkw{2a{8t{2e{8r {2S{8w{2a{8mp{0~
+The bogs of the {2M{8urkw{2a{8t{2e{8r{0 Swamp are seemingly endless, stretching
+out as far as the eye can see in nearly every direction. The stench
+assaults your nostrils non-stop.
+~
+0 532480 6
+D0
+~
+~
+0 0 15598
+D1
+~
+~
+0 0 15506
+D2
+~
+~
+0 0 15597
+S
+#0
+
+
+
+#SPECIALS
+M 15504 spec_cast_adept Load to: Rohm Geihl the Healer
+S
+
+
+
+#RESETS
+O 0 15516 0 15500 *{xtournament portal {bv{x. loaded to The Gathering Hall
+O 0 15515 0 15500 *{xtournament portal {miv{x. loaded to The Gathering Hall
+O 0 15514 0 15500 *{xtournament portal {yiii{x. loaded to The Gathering Hall
+O 0 15513 0 15500 *{xtournament portal {gii{x. loaded to The Gathering Hall
+O 0 15512 0 15500 *{xtournament portal {ri.{x loaded to The Gathering Hall
+O 0 15572 0 15500 *{xthe {ysign{x of tournament rules loaded to The Gathering Hall
+M 0 15502 1 15502 1 *Load Syhkihl, Mistress of Pain
+M 0 15503 1 15503 1 *Load Sohlen, Ward of Compassion
+M 0 15504 1 15504 1 *Load Rohm Geihl the Healer
+O 0 15504 0 15504 *An area of soothing sand loaded to {2T{@h{7e {2C{7ha{@m{7be{2r {7of {2R{7e{2g{7e{2n{7e{2r{7a{2t{7io{2n{0
+M 0 15505 1 15505 1 *Load {%V{8e{0hrmihlli{8o{%n{0
+G 0 15500 0 *Ein flaschen aus {3a{2u{3g{2e{3n v{2er{3st{2ar{3ku{2n{3g{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15501 0 *Ein flaschen aus {4v{5e{8rbl{4e{8ndu{5n{4g {4e{5r{8br{4e{8ch{5e{4n{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15502 0 *Ein flaschen aus {2m{1a{8g{2i{8s{1c{2h {2e{1n{8d{1e{2n{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15503 0 *Ein flaschen aus {1a{3b{^s{3c{^h{3i{^rm{3e{1n{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15505 0 *Ein flaschen aus {7k{6ur{2a{6ti{7v{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15506 0 *Ein flaschen aus {1s{4c{8hi{4l{1d{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15507 0 *Ein flaschen aus {3s{1t{8ar{1k{3e{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15508 0 *Ein flaschen aus {7g{8es{7p{8en{7s{8t{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15509 0 *Ein flaschen aus {^h{&e{^i{7l{^en{&d{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15510 0 *Ein flaschen aus {1d{5u{8nk{5e{1l s{5e{8g{5e{1n{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+G 0 15511 0 *Ein flaschen aus {^g{&ei{^stl{&ic{^h s{&e{^g{&e{^n{0 is given to {%V{8e{0hrmihlli{8o{%n{0
+S
+
+
+
+#SHOPS
+15505 10 33 2 3 4 100 25 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1754 @@
+#AREADATA
+Name Cow Level~
+Builders Ishamael Unlinked~
+VNUMs 22700 22799
+Continent 0
+Mobtier 0
+Credits i pwn you~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#22700
+cow bovine hell~
+a hell bovine~
+A hell bovine rests here murmering " moo, moo moo... moooo! "
+~
+~
+lizardman~
+A b 0 0 0
+190 300 1d1+20000 0d0+0 25d40+50 claw
+-40 -40 -40 -40
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+V -1
+A -1
+M DEATH 22700 40~
+#22701
+mud bovine hell~
+a hell bovine~
+A hell bovine stands here covered in mud.
+~
+~
+lizardman~
+AG b 0 0 0
+190 300 1d1+20000 0d0+0 25d40+50 claw
+-40 -40 -40 -40
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+V -1
+A -1
+M DEATH 22700 40~
+#22702
+water bovine hell~
+a hell bovine~
+A hell bovine looks annoyed you have interrupted his afternoon drink.
+~
+~
+lizardman~
+AG b 0 0 0
+190 300 1d1+20000 0d0+0 25d40+50 claw
+-40 -40 -40 -40
+FH A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+V -1
+A -1
+M DEATH 22700 40~
+#22703
+Cow King~
+the Cow King~
+A large cow stands here wielding a large halberd!!!!!!!
+~
+~
+troll~
+ABFGRS DFJTVc 0 -1000 0
+200 500 1d1+50000 110d10+100 550d6+150 bite
+-100 -85 -85 -85
+ADEFGHK ACIJ ABCDEMZ HK
+stand stand male 80000
+ABHIMV ABCDEFGHIJUV medium unknown
+F par K
+V -1
+A -1
+M DEATH 22705 75~
+#22704
+old wizard~
+an old wizard~
+An old wizard stands here leaning on a gnarled staff.
+~
+~
+human~
+ABa DFJ 0 1000 0
+105 150 1d1+1230913 0d0+0 123d123+5 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+V -1
+A -1
+M DELAY 22702 100~
+M BRIBE 22701 2500000~
+M SPEECH 22704 travel~
+M GRALL 22703 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22700
+Inside the Gate~
+As you pass through the gate, you see fields of green extending for miles
+with a three rail wooden fence enclosing the area.  The loud sound of mooing
+echoes around you and the smell of cow dung assults your nostrils.  
+~
+0 8196 2
+D0
+~
+~
+0 0 22732
+D1
+~
+~
+0 0 22701
+D2
+~
+~
+0 0 13712
+D3
+~
+~
+0 0 22704
+S
+#22701
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22731
+D1
+~
+~
+0 0 22702
+D3
+~
+~
+0 0 22700
+S
+#22702
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22730
+D1
+~
+~
+0 0 22703
+D3
+~
+~
+0 0 22701
+S
+#22703
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south and east is in place to hold back the
+herd, yet strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22729
+D3
+~
+~
+0 0 22702
+S
+#22704
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22733
+D1
+~
+~
+0 0 22700
+D3
+~
+~
+0 0 22705
+S
+#22705
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22734
+D1
+~
+~
+0 0 22704
+D3
+~
+~
+0 0 22706
+S
+#22706
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the south and west is in place to hold back the
+herd, yet strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22707
+D1
+~
+~
+0 0 22705
+S
+#22707
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22708
+D1
+~
+~
+0 0 22734
+D2
+~
+~
+0 0 22706
+S
+#22708
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22709
+D1
+~
+~
+0 0 22735
+D2
+~
+~
+0 0 22707
+S
+#22709
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22710
+D1
+~
+~
+0 0 22736
+D2
+~
+~
+0 0 22708
+S
+#22710
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22711
+D1
+~
+~
+0 0 22737
+D2
+~
+~
+0 0 22709
+S
+#22711
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22712
+D1
+~
+~
+0 0 22738
+D2
+~
+~
+0 0 22710
+S
+#22712
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22713
+D1
+~
+~
+0 0 22739
+D2
+~
+~
+0 0 22711
+S
+#22713
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22714
+D1
+~
+~
+0 0 22740
+D2
+~
+~
+0 0 22712
+S
+#22714
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the west is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22715
+D1
+~
+~
+0 0 22741
+D2
+~
+~
+0 0 22713
+S
+#22715
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north and west is in place to hold back the
+herd, yet strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22716
+D2
+~
+~
+0 0 22714
+S
+#22716
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22717
+D2
+~
+~
+0 0 22741
+D3
+~
+~
+0 0 22715
+S
+#22717
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22718
+D2
+~
+~
+0 0 22742
+D3
+~
+~
+0 0 22716
+S
+#22718
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22719
+D2
+~
+~
+0 0 22743
+D3
+~
+~
+0 0 22717
+S
+#22719
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22720
+D2
+~
+~
+0 0 22744
+D3
+~
+~
+0 0 22718
+S
+#22720
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D1
+~
+~
+0 0 22721
+D2
+~
+~
+0 0 22745
+D3
+~
+~
+0 0 22719
+S
+#22721
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the north and east is in place to hold back the
+herd, yet strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D2
+~
+~
+0 0 22722
+D3
+~
+~
+0 0 22720
+S
+#22722
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22721
+D2
+~
+~
+0 0 22723
+D3
+~
+~
+0 0 22745
+S
+#22723
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22722
+D2
+~
+~
+0 0 22724
+D3
+~
+~
+0 0 22746
+S
+#22724
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22723
+D2
+~
+~
+0 0 22725
+D3
+~
+~
+0 0 22747
+S
+#22725
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22724
+D2
+~
+~
+0 0 22726
+D3
+~
+~
+0 0 22748
+S
+#22726
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22725
+D2
+~
+~
+0 0 22727
+D3
+~
+~
+0 0 22767
+S
+#22727
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22726
+D2
+~
+~
+0 0 22728
+D3
+~
+~
+0 0 22769
+S
+#22728
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22727
+D2
+~
+~
+0 0 22729
+D3
+~
+~
+0 0 22752
+S
+#22729
+Along the Fence~
+The pasture continues around you fields of green stretching for miles.  A
+wooden three rail fence to the east is in place to hold back the herd, yet
+strangely only darkness can be seen on the other side.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22728
+D2
+~
+~
+0 0 22703
+D3
+~
+~
+0 0 22730
+S
+#22730
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22752
+D1
+~
+~
+0 0 22729
+D2
+~
+~
+0 0 22702
+D3
+~
+~
+0 0 22731
+S
+#22731
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22753
+D1
+~
+~
+0 0 22730
+D2
+~
+~
+0 0 22701
+D3
+~
+~
+0 0 22732
+S
+#22732
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22754
+D1
+~
+~
+0 0 22731
+D2
+~
+~
+0 0 22700
+D3
+~
+~
+0 0 22733
+S
+#22733
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22755
+D1
+~
+~
+0 0 22732
+D2
+~
+~
+0 0 22704
+D3
+~
+~
+0 0 22734
+S
+#22734
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22735
+D1
+~
+~
+0 0 22733
+D2
+~
+~
+0 0 22705
+D3
+~
+~
+0 0 22707
+S
+#22735
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22736
+D1
+~
+~
+0 0 22755
+D2
+~
+~
+0 0 22734
+D3
+~
+~
+0 0 22708
+S
+#22736
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22737
+D1
+~
+~
+0 0 22756
+D2
+~
+~
+0 0 22735
+D3
+~
+~
+0 0 22709
+S
+#22737
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22738
+D1
+~
+~
+0 0 22757
+D2
+~
+~
+0 0 22736
+D3
+~
+~
+0 0 22710
+S
+#22738
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22739
+D1
+~
+~
+0 0 22760
+D2
+~
+~
+0 0 22737
+D3
+~
+~
+0 0 22711
+S
+#22739
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22740
+D1
+~
+~
+0 0 22761
+D2
+~
+~
+0 0 22738
+D3
+~
+~
+0 0 22712
+S
+#22740
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22741
+D1
+~
+~
+0 0 22762
+D2
+~
+~
+0 0 22739
+D3
+~
+~
+0 0 22713
+S
+#22741
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22716
+D1
+~
+~
+0 0 22742
+D2
+~
+~
+0 0 22740
+D3
+~
+~
+0 0 22714
+S
+#22742
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22717
+D1
+~
+~
+0 0 22743
+D2
+~
+~
+0 0 22762
+D3
+~
+~
+0 0 22741
+S
+#22743
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22718
+D1
+~
+~
+0 0 22744
+D2
+~
+~
+0 0 22763
+D3
+~
+~
+0 0 22742
+S
+#22744
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22719
+D1
+~
+~
+0 0 22745
+D2
+~
+~
+0 0 22751
+D3
+~
+~
+0 0 22743
+S
+#22745
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22720
+D1
+~
+~
+0 0 22722
+D2
+~
+~
+0 0 22746
+D3
+~
+~
+0 0 22744
+S
+#22746
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22745
+D1
+~
+~
+0 0 22723
+D2
+~
+~
+0 0 22747
+D3
+~
+~
+0 0 22751
+S
+#22747
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22746
+D1
+~
+~
+0 0 22724
+D2
+~
+~
+0 0 22748
+D3
+~
+~
+0 0 22750
+S
+#22748
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22747
+D1
+~
+~
+0 0 22725
+D2
+~
+~
+0 0 22767
+D3
+~
+~
+0 0 22749
+S
+#22749
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22750
+D1
+~
+~
+0 0 22748
+D2
+~
+~
+0 0 22766
+D3
+~
+~
+0 0 22765
+S
+#22750
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22751
+D1
+~
+~
+0 0 22747
+D2
+~
+~
+0 0 22749
+D3
+~
+~
+0 0 22764
+S
+#22751
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22744
+D1
+~
+~
+0 0 22746
+D2
+~
+~
+0 0 22750
+D3
+~
+~
+0 0 22763
+S
+#22752
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22769
+D1
+~
+~
+0 0 22728
+D2
+~
+~
+0 0 22730
+D3
+~
+~
+0 0 22753
+S
+#22753
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22768
+D1
+~
+~
+0 0 22752
+D2
+~
+~
+0 0 22731
+D3
+~
+~
+0 0 22754
+S
+#22754
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22753
+D2
+~
+~
+0 0 22732
+D3
+~
+~
+0 0 22755
+S
+#22755
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22756
+D1
+~
+~
+0 0 22754
+D2
+~
+~
+0 0 22733
+D3
+~
+~
+0 0 22735
+S
+#22756
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22757
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22755
+D3
+~
+~
+0 0 22736
+S
+#22757
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22760
+D1
+~
+~
+0 0 22758
+D2
+~
+~
+0 0 22756
+D3
+~
+~
+0 0 22737
+S
+#22758
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22765
+D1
+~
+~
+0 0 22766
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22757
+S
+#22759
+Field of Green~
+Tall blades of green grass grow dotted with white clover tops extend for
+miles around you.  The sharp smell of manure accompanies the loud mooing
+throughout the pasture.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22758
+D1
+~
+~
+0 0 22768
+D2
+~
+~
+0 0 22754
+D3
+~
+~
+0 0 22756
+S
+#22760
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22761
+D1
+~
+~
+0 0 22765
+D2
+~
+~
+0 0 22757
+D3
+~
+~
+0 0 22738
+S
+#22761
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22762
+D1
+~
+~
+0 0 22764
+D2
+~
+~
+0 0 22760
+D3
+~
+~
+0 0 22739
+S
+#22762
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22742
+D1
+~
+~
+0 0 22763
+D2
+~
+~
+0 0 22761
+D3
+~
+~
+0 0 22740
+S
+#22763
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22743
+D1
+~
+~
+0 0 22751
+D2
+~
+~
+0 0 22764
+D3
+~
+~
+0 0 22762
+S
+#22764
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22763
+D1
+~
+~
+0 0 22750
+D2
+~
+~
+0 0 22765
+D3
+~
+~
+0 0 22761
+S
+#22765
+Shallow Pool~
+The ground dips slightly creating a shallow pool of water that is nothing
+more than a glorfied puddle.  Flies actively buzz around your head and
+several members of the heard peacefully drink from the pool.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22764
+D1
+~
+~
+0 0 22749
+D2
+~
+~
+0 0 22758
+D3
+~
+~
+0 0 22760
+S
+#22766
+In the Muck~
+The ground beneath your feet is soggy and brown, ankle deep mud covers
+your boots making each step slow and difficult.  Several members of the herd
+stand nearby covered in mud to prevent the daily assault from flies.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22749
+D1
+~
+~
+0 0 22767
+D2
+~
+~
+0 0 22768
+D3
+~
+~
+0 0 22758
+S
+#22767
+In the Muck~
+The ground beneath your feet is soggy and brown, ankle deep mud covers
+your boots making each step slow and difficult.  Several members of the herd
+stand nearby covered in mud to prevent the daily assault from flies.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22748
+D1
+~
+~
+0 0 22726
+D2
+~
+~
+0 0 22769
+D3
+~
+~
+0 0 22766
+S
+#22768
+In the Muck~
+The ground beneath your feet is soggy and brown, ankle deep mud covers
+your boots making each step slow and difficult.  Several members of the herd
+stand nearby covered in mud to prevent the daily assault from flies.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22766
+D1
+~
+~
+0 0 22769
+D2
+~
+~
+0 0 22753
+D3
+~
+~
+0 0 22759
+S
+#22769
+In the Muck~
+The ground beneath your feet is soggy and brown, ankle deep mud covers
+your boots making each step slow and difficult.  Several members of the herd
+stand nearby covered in mud to prevent the daily assault from flies.  
+~
+0 8192 2
+D0
+~
+~
+0 0 22767
+D1
+~
+~
+0 0 22727
+D2
+~
+~
+0 0 22752
+D3
+~
+~
+0 0 22768
+S
+#22770
+Dusty Home~
+The dark and dirty home is scattered with bits and pieces of junk from
+all over.  Piles and mounds of unidentifiable items lay scattered throughout
+the home.  The damp smell of mold and dust dominates the home.  
+~
+0 256 0
+D3
+~
+~
+0 0 22612
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 22700 30 22702 1 *Load a hell bovine
+M 0 22700 30 22708 1 *Load a hell bovine
+M 0 22700 30 22711 1 *Load a hell bovine
+M 0 22700 30 22713 1 *Load a hell bovine
+M 0 22700 30 22715 1 *Load a hell bovine
+M 0 22700 30 22717 1 *Load a hell bovine
+M 0 22700 30 22719 1 *Load a hell bovine
+M 0 22700 30 22721 1 *Load a hell bovine
+M 0 22700 30 22724 1 *Load a hell bovine
+M 0 22700 30 22726 1 *Load a hell bovine
+M 0 22700 30 22728 1 *Load a hell bovine
+M 0 22700 30 22731 1 *Load a hell bovine
+M 0 22700 30 22734 1 *Load a hell bovine
+M 0 22700 30 22736 1 *Load a hell bovine
+M 0 22700 30 22740 1 *Load a hell bovine
+M 0 22700 30 22743 1 *Load a hell bovine
+M 0 22703 1 22746 1 *Load the Cow King
+M 0 22700 30 22748 1 *Load a hell bovine
+M 0 22700 30 22749 1 *Load a hell bovine
+M 0 22700 30 22754 1 *Load a hell bovine
+M 0 22700 30 22755 1 *Load a hell bovine
+M 0 22700 30 22757 1 *Load a hell bovine
+M 0 22702 2 22761 1 *Load a hell bovine
+M 0 22702 3 22765 1 *Load a hell bovine
+M 0 22701 3 22766 2 *Load a hell bovine
+M 0 22701 3 22769 2 *Load a hell bovine
+M 0 22704 1 22770 1 *Load an old wizard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#22700
+mob oload randobj
+ 
+~
+#22701
+say You must really be brave, I thought the steep price would scare you away!
+say But I guess you must really want to go!  Very well!
+mob remember $n
+mob delay 5
+~
+#22702
+mob echo The wizard gestures at $q.
+mob echo A bright flash envelopes $q!
+mob trans $q 13712
+mob forget $q
+~
+#22703
+mob echo The wizard glances at you.
+mob echo The wizard mumbles, "I suppose your looking to travel?"
+~
+#22704
+say Yes Travel!  Do I look like a fool?  I was a great wizard once!
+say  I warn you though it is very dangerous and your life will be a ask, but you may discover great wonders.
+say  There will be a small fee if you still wish to go, 250 platinum and I will gate you there.
+~
+#22705
+mob call 13820 self
+mob oload randobj
+mob oload randobj
+~
+#22706
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#22709
+mob oload randobj
+~
+#0
+
+#$

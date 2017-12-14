@@ -1,0 +1,6152 @@
+#AREADATA
+Name Random Items~
+Builders Unlinked~
+VNUMs 24500 25499
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#24500
+bone dagger~
+bone dagger~
+bone dagger~
+unknown~
+weapon 0 AN
+dagger 5 6 stab 0
+1 1 1000 P
+#24501
+bone sword~
+bone sword~
+bone sword~
+unknown~
+weapon 0 AN
+sword 6 5 slash 0
+1 1 1000 P
+#24502
+bone greatsword~
+bone greatsword~
+bone greatsword~
+unknown~
+weapon 0 AN
+sword 7 5 cleave F
+1 1 1000 P
+#24503
+bone hand axe~
+bone hand axe~
+bone hand axe~
+unknown~
+weapon 0 AN
+axe 8 4 chop 0
+1 1 1000 P
+#24504
+bone battle axe~
+bone battle axe~
+bone battle axe~
+unknown~
+weapon 0 AN
+axe 9 4 chop F
+1 1 1000 P
+#24505
+bone short spear~
+bone short spear~
+bone short spear~
+unknown~
+weapon 0 AN
+staff 2 17 pierce 0
+1 1 1000 P
+#24506
+bone hunting spear~
+bone hunting spear~
+bone hunting spear~
+unknown~
+weapon 0 AN
+staff 2 19 thrust F
+1 1 1000 P
+#24507
+bone mace~
+bone mace~
+bone mace~
+unknown~
+weapon 0 AN
+mace 9 3 pound 0
+1 1 1000 P
+#24508
+bone great mace~
+bone great mace~
+bone great mace~
+unknown~
+weapon 0 AN
+mace 10 3 crush F
+1 1 1000 P
+#24509
+bone flail~
+bone flail~
+bone flail~
+unknown~
+weapon 0 AN
+flail 15 2 beating 0
+1 1 1000 P
+#24510
+bone ball on chain~
+bone ball on chain~
+bone ball on chain~
+unknown~
+weapon 0 AN
+flail 15 2 smash F
+1 1 1000 P
+#24511
+bone whip~
+bone whip~
+bone whip~
+unknown~
+weapon 0 AN
+whip 1 30 sting 0
+1 1 1000 P
+#24512
+bone halberd~
+bone halberd~
+bone halberd~
+unknown~
+weapon 0 AN
+polearm 10 3 charge F
+1 1 1000 P
+#24513
+bone bola~
+bone bola~
+bone bola~
+unknown~
+weapon 0 AN
+exotic 6 5 thwack 0
+1 1 1000 P
+#24514
+bone quarterstaff~
+bone quarterstaff~
+bone quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 30 slap F
+1 1 1000 P
+#24515
+bone ring~
+bone ring~
+bone ring~
+unknown~
+armor 0 AB
+AB AB AB AB 0
+1 1 1000 P
+#24516
+bone medallion~
+bone medallion~
+bone medallion~
+unknown~
+armor 0 AC
+AB AB AB AB 0
+1 1 1000 P
+#24517
+bone breastplate~
+bone breastplate~
+bone breastplate~
+unknown~
+armor 0 AD
+AC AC AC AC 0
+1 1 1000 P
+#24518
+bone helm~
+bone helm~
+bone helm~
+unknown~
+armor 0 AE
+AB AB AB AB 0
+1 1 1000 P
+#24519
+bone mask~
+bone mask~
+bone mask~
+unknown~
+armor 0 AR
+AB AB AB AB 0
+1 1 1000 P
+#24520
+bone leggings~
+bone leggings~
+bone leggings~
+unknown~
+armor 0 AF
+AB AB AB AB 0
+1 1 1000 P
+#24521
+bone anklet~
+bone anklet~
+bone anklet~
+unknown~
+armor 0 AT
+AB AB AB AB 0
+1 1 1000 P
+#24522
+bone boots~
+bone boots~
+bone boots~
+unknown~
+armor 0 AG
+AC AC AC AC 0
+1 1 1000 P
+#24523
+bone gauntlets~
+bone gauntlets~
+bone gauntlets~
+unknown~
+armor 0 AH
+AB AB AB AB 0
+1 1 1000 P
+#24524
+bone sleeves~
+bone sleeves~
+bone sleeves~
+unknown~
+armor 0 AI
+AC AC AC AC 0
+1 1 1000 P
+#24525
+bone shield~
+bone shield~
+bone shield~
+unknown~
+armor 0 AJ
+AC AC AC AC 0
+1 1 1000 P
+#24526
+bone cloak~
+bone cloak~
+bone cloak~
+unknown~
+armor 0 AK
+AB AB AB AB 0
+1 1 1000 P
+#24527
+bone belt~
+bone belt~
+bone belt~
+unknown~
+armor 0 AL
+AB AB AB AB 0
+1 1 1000 P
+#24528
+bone wristguard~
+bone wristguard~
+bone wristguard~
+unknown~
+armor 0 AM
+AB AB AB AB 0
+1 1 1000 P
+#24529
+bone talisman~
+bone talisman~
+bone talisman~
+unknown~
+armor 0 AO
+AB AB AB AB 0
+1 1 1000 P
+#24530
+bone orb~
+bone orb~
+bone orb~
+unknown~
+armor 0 AQ
+AB AB AB AB 0
+1 1 1000 P
+#24531
+bone earrings~
+bone earrings~
+bone earrings~
+unknown~
+armor 0 AS
+AB AB AB AB 0
+1 1 1000 P
+#24532
+bone clan patch~
+bone clan patch~
+bone clan patch~
+unknown~
+armor 0 AU
+AB AB AB AB 0
+1 1 1000 P
+#24533
+bone chest patch~
+bone chest patch~
+bone chest patch~
+unknown~
+armor 0 AW
+A A A A 0
+1 1 1000 P
+#24534
+bone religion patch~
+bone religion patch~
+bone religion patch~
+unknown~
+armor 0 AV
+A A A A 0
+1 1 1000 P
+#24535
+ivory dagger~
+ivory dagger~
+ivory dagger~
+unknown~
+weapon 0 AN
+dagger 5 6 stab 0
+10 1 6000 P
+#24536
+ivory sword~
+ivory sword~
+ivory sword~
+unknown~
+weapon 0 AN
+sword 6 5 slash 0
+10 1 6000 P
+#24537
+ivory greatsword~
+ivory greatsword~
+ivory greatsword~
+unknown~
+weapon 0 AN
+sword 7 5 cleave F
+10 1 6000 P
+#24538
+ivory hand axe~
+ivory hand axe~
+ivory hand axe~
+unknown~
+weapon 0 AN
+axe 8 4 chop 0
+10 1 6000 P
+#24539
+ivory battle axe~
+ivory battle axe~
+ivory battle axe~
+unknown~
+weapon 0 AN
+axe 9 4 chop F
+10 1 6000 P
+#24540
+ivory short spear~
+ivory short spear~
+ivory short spear~
+unknown~
+weapon 0 AN
+staff 2 17 pierce 0
+10 1 6000 P
+#24541
+ivory hunting spear~
+ivory hunting spear~
+ivory hunting spear~
+unknown~
+weapon 0 AN
+staff 2 19 thrust F
+10 1 6000 P
+#24542
+ivory mace~
+ivory mace~
+ivory mace~
+unknown~
+weapon 0 AN
+mace 9 3 pound 0
+10 1 6000 P
+#24543
+ivory great mace~
+ivory great mace~
+ivory great mace~
+unknown~
+weapon 0 AN
+mace 10 3 crush F
+10 1 6000 P
+#24544
+ivory flail~
+ivory flail~
+ivory flail~
+unknown~
+weapon 0 AN
+flail 15 2 beating 0
+10 1 6000 P
+#24545
+ivory ball on chain~
+ivory ball on chain~
+ivory ball on chain~
+unknown~
+weapon 0 AN
+flail 15 2 smash F
+10 1 6000 P
+#24546
+ivory whip~
+ivory whip~
+ivory whip~
+unknown~
+weapon 0 AN
+whip 1 30 sting 0
+10 1 6000 P
+#24547
+ivory halberd~
+ivory halberd~
+ivory halberd~
+unknown~
+weapon 0 AN
+polearm 10 3 charge F
+10 1 6000 P
+#24548
+ivory bola~
+ivory bola~
+ivory bola~
+unknown~
+weapon 0 AN
+exotic 6 5 thwack 0
+10 1 6000 P
+#24549
+ivory quarterstaff~
+ivory quarterstaff~
+ivory quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 30 slap F
+10 1 6000 P
+#24550
+ivory ring~
+ivory ring~
+ivory ring~
+unknown~
+armor 0 AB
+AB AB AB AB 0
+10 1 6000 P
+#24551
+ivory medallion~
+ivory medallion~
+ivory medallion~
+unknown~
+armor 0 AC
+AB AB AB AB 0
+10 1 6000 P
+#24552
+ivory breastplate~
+ivory breastplate~
+ivory breastplate~
+unknown~
+armor 0 AD
+AC AC AC AC 0
+10 1 6000 P
+#24553
+ivory helm~
+ivory helm~
+ivory helm~
+unknown~
+armor 0 AE
+AC AC AC AC 0
+10 1 6000 P
+#24554
+ivory mask~
+ivory mask~
+ivory mask~
+unknown~
+armor 0 AR
+AB AB AB AB 0
+10 1 6000 P
+#24555
+ivory leggings~
+ivory leggings~
+ivory leggings~
+unknown~
+armor 0 AF
+AB AB AB AB 0
+10 1 6000 P
+#24556
+ivory anklet~
+ivory anklet~
+ivory anklet~
+unknown~
+armor 0 AT
+AB AB AB AB 0
+10 1 6000 P
+#24557
+ivory boots~
+ivory boots~
+ivory boots~
+unknown~
+armor 0 AG
+AC AC AC AC 0
+10 1 6000 P
+#24558
+ivory gauntlets~
+ivory gauntlets~
+ivory gauntlets~
+unknown~
+armor 0 AH
+AB AB AB AB 0
+10 1 6000 P
+#24559
+ivory sleeves~
+ivory sleeves~
+ivory sleeves~
+unknown~
+armor 0 AI
+AC AC AC AC 0
+10 1 6000 P
+#24560
+ivory shield~
+ivory shield~
+ivory shield~
+unknown~
+armor 0 AJ
+AC AC AC AC 0
+10 1 6000 P
+#24561
+ivory cloak~
+ivory cloak~
+ivory cloak~
+unknown~
+armor 0 AK
+AB AB AB AB 0
+10 1 6000 P
+#24562
+ivory belt~
+ivory belt~
+ivory belt~
+unknown~
+armor 0 AL
+AB AB AB AB 0
+10 1 6000 P
+#24563
+ivory wristguard~
+ivory wristguard~
+ivory wristguard~
+unknown~
+armor 0 AM
+AB AB AB AB 0
+10 1 6000 P
+#24564
+ivory talisman~
+ivory talisman~
+ivory talisman~
+unknown~
+armor 0 AO
+AB AB AB AB 0
+10 1 6000 P
+#24565
+ivory orb~
+ivory orb~
+ivory orb~
+unknown~
+armor 0 AQ
+AB AB AB AB 0
+10 1 6000 P
+#24566
+ivory earrings~
+ivory earrings~
+ivory earrings~
+unknown~
+armor 0 AS
+AB AB AB AB 0
+10 1 6000 P
+#24567
+ivory clan patch~
+ivory clan patch~
+ivory clan patch~
+unknown~
+armor 0 AU
+AB AB AB AB 0
+10 1 6000 P
+#24568
+ivory chest patch~
+ivory chest patch~
+ivory chest patch~
+unknown~
+armor 0 AW
+AB AB AB AB 0
+10 1 6000 P
+#24569
+ivory religion patch~
+ivory religion patch~
+ivory religion patch~
+unknown~
+armor 0 AV
+AB AB AB AB 0
+10 1 6000 P
+#24570
+ebony dagger~
+ebony dagger~
+ebony dagger~
+unknown~
+weapon 0 AN
+dagger 5 10 stab 0
+20 1 11000 P
+#24571
+ebony sword~
+ebony sword~
+ebony sword~
+unknown~
+weapon 0 AN
+sword 8 6 slash 0
+20 1 11000 P
+#24572
+ebony greatsword~
+ebony greatsword~
+ebony greatsword~
+unknown~
+weapon 0 AN
+sword 9 6 cleave F
+20 1 11000 P
+#24573
+ebony hand axe~
+ebony hand axe~
+ebony hand axe~
+unknown~
+weapon 0 AN
+axe 10 5 chop 0
+20 1 11000 P
+#24574
+ebony battle axe~
+ebony battle axe~
+ebony battle axe~
+unknown~
+weapon 0 AN
+axe 11 5 chop F
+20 1 11000 P
+#24575
+ebony short spear~
+ebony short spear~
+ebony short spear~
+unknown~
+weapon 0 AN
+staff 2 25 pierce 0
+20 1 11000 P
+#24576
+ebony hunting spear~
+ebony hunting spear~
+ebony hunting spear~
+unknown~
+weapon 0 AN
+staff 2 30 thrust F
+20 1 11000 P
+#24577
+ebony mace~
+ebony mace~
+ebony mace~
+unknown~
+weapon 0 AN
+mace 9 5 pound 0
+20 1 11000 P
+#24578
+ebony great mace~
+ebony great mace~
+ebony great mace~
+unknown~
+weapon 0 AN
+mace 10 5 crush F
+20 1 11000 P
+#24579
+ebony flail~
+ebony flail~
+ebony flail~
+unknown~
+weapon 0 AN
+flail 15 2 beating 0
+20 1 11000 P
+#24580
+ebony ball on chain~
+ebony ball on chain~
+ebony ball on chain~
+unknown~
+weapon 0 AN
+flail 25 2 smash F
+20 1 11000 P
+#24581
+ebony whip~
+ebony whip~
+ebony whip~
+unknown~
+weapon 0 AN
+whip 1 50 sting 0
+20 1 11000 P
+#24582
+ebony halberd~
+ebony halberd~
+ebony halberd~
+unknown~
+weapon 0 AN
+polearm 10 5 charge F
+20 1 11000 P
+#24583
+ebony bola~
+ebony bola~
+ebony bola~
+unknown~
+weapon 0 AN
+exotic 6 5 thwack 0
+20 1 11000 P
+#24584
+ebony quarterstaff~
+ebony quarterstaff~
+ebony quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 30 slap F
+20 1 11000 P
+#24585
+ebony ring~
+ebony ring~
+ebony ring~
+unknown~
+armor 0 AB
+AB AB AB AB 0
+20 1 11000 P
+#24586
+ebony medallion~
+ebony medallion~
+ebony medallion~
+unknown~
+armor 0 AC
+AB AB AB AB 0
+20 1 11000 P
+#24587
+ebony breastplate~
+ebony breastplate~
+ebony breastplate~
+unknown~
+armor 0 AD
+ABC ABC ABC ABC 0
+20 1 11000 P
+#24588
+ebony helm~
+ebony helm~
+ebony helm~
+unknown~
+armor 0 AE
+AC AC AC AC 0
+20 1 11000 P
+#24589
+ebony mask~
+ebony mask~
+ebony mask~
+unknown~
+armor 0 AR
+AC AC AC AC 0
+20 1 11000 P
+#24590
+ebony leggings~
+ebony leggings~
+ebony leggings~
+unknown~
+armor 0 AF
+AB AB AB AB 0
+20 1 11000 P
+#24591
+ebony anklet~
+ebony anklet~
+ebony anklet~
+unknown~
+armor 0 AT
+AB AB AB AB 0
+20 1 11000 P
+#24592
+ebony boots~
+ebony boots~
+ebony boots~
+unknown~
+armor 0 AG
+AC AC AC AC 0
+20 1 11000 P
+#24593
+ebony gauntlets~
+ebony gauntlets~
+ebony gauntlets~
+unknown~
+armor 0 AH
+AB AB AB AB 0
+20 1 11000 P
+#24594
+ebony sleeves~
+ebony sleeves~
+ebony sleeves~
+unknown~
+armor 0 AI
+AC AC AC AC 0
+20 1 11000 P
+#24595
+ebony shield~
+ebony shield~
+ebony shield~
+unknown~
+armor 0 AJ
+ABC ABC ABC ABC 0
+20 1 11000 P
+#24596
+ebony cloak~
+ebony cloak~
+ebony cloak~
+unknown~
+armor 0 AK
+AC AC AC AC 0
+20 1 11000 P
+#24597
+ebony belt~
+ebony belt~
+ebony belt~
+unknown~
+armor 0 AL
+AB AB AB AB 0
+20 1 11000 P
+#24598
+ebony wristguard~
+ebony wristguard~
+ebony wristguard~
+unknown~
+armor 0 AM
+AB AB AB AB 0
+20 1 11000 P
+#24599
+ebony talisman~
+ebony talisman~
+ebony talisman~
+unknown~
+armor 0 AO
+AB AB AB AB 0
+20 1 11000 P
+#24600
+ebony orb~
+ebony orb~
+ebony orb~
+unknown~
+armor 0 AQ
+AB AB AB AB 0
+20 1 11000 P
+#24601
+ebony earrings~
+ebony earrings~
+ebony earrings~
+unknown~
+armor 0 AS
+AB AB AB AB 0
+20 1 11000 P
+#24602
+ebony clan patch~
+ebony clan patch~
+ebony clan patch~
+unknown~
+armor 0 AU
+AB AB AB AB 0
+20 1 11000 P
+#24603
+ebony chest patch~
+ebony chest patch~
+ebony chest patch~
+unknown~
+armor 0 AW
+AB AB AB AB 0
+20 1 11000 P
+#24604
+ebony religion patch~
+ebony religion patch~
+ebony religion patch~
+unknown~
+armor 0 AV
+AB AB AB AB 0
+20 1 11000 P
+#24605
+stone dagger~
+stone dagger~
+stone dagger~
+unknown~
+weapon 0 AN
+dagger 5 10 stab 0
+30 1 16000 P
+#24606
+stone sword~
+stone sword~
+stone sword~
+unknown~
+weapon 0 AN
+sword 8 6 slash 0
+30 1 16000 P
+#24607
+stone greatsword~
+stone greatsword~
+stone greatsword~
+unknown~
+weapon 0 AN
+sword 9 6 cleave F
+30 1 16000 P
+#24608
+stone hand axe~
+stone hand axe~
+stone hand axe~
+unknown~
+weapon 0 AN
+axe 10 5 chop 0
+30 1 16000 P
+#24609
+stone battle axe~
+stone battle axe~
+stone battle axe~
+unknown~
+weapon 0 AN
+axe 11 5 chop F
+30 1 16000 P
+#24610
+stone short spear~
+stone short spear~
+stone short spear~
+unknown~
+weapon 0 AN
+staff 2 25 pierce 0
+30 1 16000 P
+#24611
+stone hunting spear~
+stone hunting spear~
+stone hunting spear~
+unknown~
+weapon 0 AN
+staff 2 30 thrust F
+30 1 16000 P
+#24612
+stone mace~
+stone mace~
+stone mace~
+unknown~
+weapon 0 AN
+mace 9 5 pound 0
+30 1 16000 P
+#24613
+stone great mace~
+stone great mace~
+stone great mace~
+unknown~
+weapon 0 AN
+mace 10 5 crush F
+30 1 16000 P
+#24614
+stone flail~
+stone flail~
+stone flail~
+unknown~
+weapon 0 AN
+flail 25 2 beating 0
+30 1 16000 P
+#24615
+stone ball on chain~
+stone ball on chain~
+stone ball on chain~
+unknown~
+weapon 0 AN
+flail 25 2 smash F
+30 1 16000 P
+#24616
+stone whip~
+stone whip~
+stone whip~
+unknown~
+weapon 0 AN
+whip 1 50 sting 0
+30 1 16000 P
+#24617
+stone halberd~
+stone halberd~
+stone halberd~
+unknown~
+weapon 0 AN
+polearm 10 5 charge F
+30 1 16000 P
+#24618
+stone bola~
+stone bola~
+stone bola~
+unknown~
+weapon 0 AN
+exotic 6 5 thwack 0
+30 1 16000 P
+#24619
+stone quarterstaff~
+stone quarterstaff~
+stone quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 30 slap F
+30 1 16000 P
+#24620
+stone ring~
+stone ring~
+stone ring~
+unknown~
+armor 0 AB
+AB AB AB AB 0
+30 1 16000 P
+#24621
+stone medallion~
+stone medallion~
+stone medallion~
+unknown~
+armor 0 AC
+AB AB AB AB 0
+30 1 16000 P
+#24622
+stone breastplate~
+stone breastplate~
+stone breastplate~
+unknown~
+armor 0 AD
+ABC ABC ABC ABC 0
+30 1 16000 P
+#24623
+stone helm~
+stone helm~
+stone helm~
+unknown~
+armor 0 AE
+ABC ABC ABC ABC 0
+30 1 16000 P
+#24624
+stone mask~
+stone mask~
+stone mask~
+unknown~
+armor 0 AR
+AC AC AC AC 0
+30 1 16000 P
+#24625
+stone leggings~
+stone leggings~
+stone leggings~
+unknown~
+armor 0 AF
+AC AC AC AC 0
+30 1 16000 P
+#24626
+stone anklet~
+stone anklet~
+stone anklet~
+unknown~
+armor 0 AT
+AC AC AC AC 0
+30 1 16000 P
+#24627
+stone boots~
+stone boots~
+stone boots~
+unknown~
+armor 0 AG
+ABC ABC ABC ABC 0
+30 1 16000 P
+#24628
+stone gauntlets~
+stone gauntlets~
+stone gauntlets~
+unknown~
+armor 0 AH
+AC AC AC AC 0
+30 1 16000 P
+#24629
+stone sleeves~
+stone sleeves~
+stone sleeves~
+unknown~
+armor 0 AI
+ABC ABC ABC ABC 0
+30 1 16000 P
+#24630
+stone shield~
+stone shield~
+stone shield~
+unknown~
+armor 0 AJ
+ABC ABC ABC ABC 0
+30 1 16000 P
+#24631
+stone cloak~
+stone cloak~
+stone cloak~
+unknown~
+armor 0 AK
+AC AC AC AC 0
+30 1 16000 P
+#24632
+stone belt~
+stone belt~
+stone belt~
+unknown~
+armor 0 AL
+AC AC AC AC 0
+30 1 16000 P
+#24633
+stone wristguard~
+stone wristguard~
+stone wristguard~
+unknown~
+armor 0 AM
+AB AB AB AB 0
+30 1 16000 P
+#24634
+stone talisman~
+stone talisman~
+stone talisman~
+unknown~
+armor 0 AO
+AC AC AC AC 0
+30 1 16000 P
+#24635
+stone orb~
+stone orb~
+stone orb~
+unknown~
+armor 0 AQ
+AC AC AC AC 0
+30 1 16000 P
+#24636
+stone earrings~
+stone earrings~
+stone earrings~
+unknown~
+armor 0 AS
+AC AC AC AC 0
+30 1 16000 P
+#24637
+stone clan patch~
+stone clan patch~
+stone clan patch~
+unknown~
+armor 0 AU
+AB AB AB AB 0
+30 1 16000 P
+#24638
+stone chest patch~
+stone chest patch~
+stone chest patch~
+unknown~
+armor 0 AW
+AB AB AB AB 0
+30 1 16000 P
+#24639
+stone religion patch~
+stone religion patch~
+stone religion patch~
+unknown~
+armor 0 AV
+AB AB AB AB 0
+30 1 16000 P
+#24640
+lead dagger~
+lead dagger~
+lead dagger~
+unknown~
+weapon 0 AN
+dagger 5 13 stab 0
+40 1 21000 P
+#24641
+lead sword~
+lead sword~
+lead sword~
+unknown~
+weapon 0 AN
+sword 9 8 slash 0
+40 1 21000 P
+#24642
+lead greatsword~
+lead greatsword~
+lead greatsword~
+unknown~
+weapon 0 AN
+sword 9 9 cleave F
+40 1 21000 P
+#24643
+lead hand axe~
+lead hand axe~
+lead hand axe~
+unknown~
+weapon 0 AN
+axe 10 8 chop 0
+40 1 21000 P
+#24644
+lead battle axe~
+lead battle axe~
+lead battle axe~
+unknown~
+weapon 0 AN
+axe 11 8 chop F
+40 1 21000 P
+#24645
+lead short spear~
+lead short spear~
+lead short spear~
+unknown~
+weapon 0 AN
+staff 2 36 pierce 0
+40 1 21000 P
+#24646
+lead hunting spear~
+lead hunting spear~
+lead hunting spear~
+unknown~
+weapon 0 AN
+staff 2 41 thrust F
+40 1 21000 P
+#24647
+lead mace~
+lead mace~
+lead mace~
+unknown~
+weapon 0 AN
+mace 11 6 pound 0
+40 1 21000 P
+#24648
+lead great mace~
+lead great mace~
+lead great mace~
+unknown~
+weapon 0 AN
+mace 12 6 crush F
+40 1 21000 P
+#24649
+lead flail~
+lead flail~
+lead flail~
+unknown~
+weapon 0 AN
+flail 25 2 beating 0
+40 1 21000 P
+#24650
+lead ball on chain~
+lead ball on chain~
+lead ball on chain~
+unknown~
+weapon 0 AN
+flail 17 4 smash F
+40 1 21000 P
+#24651
+lead whip~
+lead whip~
+lead whip~
+unknown~
+weapon 0 AN
+whip 1 65 sting 0
+40 1 21000 P
+#24652
+lead halberd~
+lead halberd~
+lead halberd~
+unknown~
+weapon 0 AN
+polearm 12 6 charge F
+40 1 21000 P
+#24653
+lead bola~
+lead bola~
+lead bola~
+unknown~
+weapon 0 AN
+exotic 8 6 thwack 0
+40 1 21000 P
+#24654
+lead quarterstaff~
+lead quarterstaff~
+lead quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 50 slap F
+40 1 21000 P
+#24655
+lead ring~
+lead ring~
+lead ring~
+unknown~
+armor 0 AB
+AC AC AC AC 0
+40 1 21000 P
+#24656
+lead medallion~
+lead medallion~
+lead medallion~
+unknown~
+armor 0 AC
+AC AC AC AC 0
+40 1 21000 P
+#24657
+lead breastplate~
+lead breastplate~
+lead breastplate~
+unknown~
+armor 0 AD
+BD BD BD BD 0
+40 1 21000 P
+#24658
+lead helm~
+lead helm~
+lead helm~
+unknown~
+armor 0 AE
+ABC ABC ABC ABC 0
+40 1 21000 P
+#24659
+lead mask~
+lead mask~
+lead mask~
+unknown~
+armor 0 AR
+AC AC AC AC 0
+40 1 21000 P
+#24660
+lead leggings~
+lead leggings~
+lead leggings~
+unknown~
+armor 0 AF
+AC AC AC AC 0
+40 1 21000 P
+#24661
+lead anklet~
+lead anklet~
+lead anklet~
+unknown~
+armor 0 AT
+AC AC AC AC 0
+40 1 21000 P
+#24662
+lead boots~
+lead boots~
+lead boots~
+unknown~
+armor 0 AG
+ABC ABC ABC ABC 0
+40 1 21000 P
+#24663
+lead gauntlets~
+lead gauntlets~
+lead gauntlets~
+unknown~
+armor 0 AH
+AC AC AC AC 0
+40 1 21000 P
+#24664
+lead sleeves~
+lead sleeves~
+lead sleeves~
+unknown~
+armor 0 AI
+ABC ABC ABC ABC 0
+40 1 21000 P
+#24665
+lead shield~
+lead shield~
+lead shield~
+unknown~
+armor 0 AJ
+ABC ABC ABC ABC 0
+40 1 21000 P
+#24666
+lead cloak~
+lead cloak~
+lead cloak~
+unknown~
+armor 0 AK
+AC AC AC AC 0
+40 1 21000 P
+#24667
+lead belt~
+lead belt~
+lead belt~
+unknown~
+armor 0 AL
+AC AC AC AC 0
+40 1 21000 P
+#24668
+lead wristguard~
+lead wristguard~
+lead wristguard~
+unknown~
+armor 0 AM
+AC AC AC AC 0
+40 1 21000 P
+#24669
+lead talisman~
+lead talisman~
+lead talisman~
+unknown~
+armor 0 AO
+AC AC AC AC 0
+40 1 21000 P
+#24670
+lead orb~
+lead orb~
+lead orb~
+unknown~
+armor 0 AQ
+AC AC AC AC 0
+40 1 21000 P
+#24671
+lead earrings~
+lead earrings~
+lead earrings~
+unknown~
+armor 0 AS
+AC AC AC AC 0
+40 1 21000 P
+#24672
+lead clan patch~
+lead clan patch~
+lead clan patch~
+unknown~
+armor 0 AU
+AC AC AC AC 0
+40 1 21000 P
+#24673
+lead chest patch~
+lead chest patch~
+lead chest patch~
+unknown~
+armor 0 AW
+AC AC AC AC 0
+40 1 21000 P
+#24674
+lead religion patch~
+lead religion patch~
+lead religion patch~
+unknown~
+armor 0 AV
+AC AC AC AC 0
+40 1 21000 P
+#24675
+copper dagger~
+copper dagger~
+copper dagger~
+unknown~
+weapon 0 AN
+dagger 5 13 stab 0
+50 1 26000 P
+#24676
+copper sword~
+copper sword~
+copper sword~
+unknown~
+weapon 0 AN
+sword 9 8 slash 0
+50 1 26000 P
+#24677
+copper greatsword~
+copper greatsword~
+copper greatsword~
+unknown~
+weapon 0 AN
+sword 9 9 cleave F
+50 1 26000 P
+#24678
+copper hand axe~
+copper hand axe~
+copper hand axe~
+unknown~
+weapon 0 AN
+axe 10 8 chop 0
+50 1 26000 P
+#24679
+copper battle axe~
+copper battle axe~
+copper battle axe~
+unknown~
+weapon 0 AN
+axe 11 8 chop F
+50 1 26000 P
+#24680
+copper short spear~
+copper short spear~
+copper short spear~
+unknown~
+weapon 0 AN
+staff 2 36 pierce 0
+50 1 26000 P
+#24681
+copper hunting spear~
+copper hunting spear~
+copper hunting spear~
+unknown~
+weapon 0 AN
+staff 2 41 thrust F
+50 1 26000 P
+#24682
+copper mace~
+copper mace~
+copper mace~
+unknown~
+weapon 0 AN
+mace 12 6 pound 0
+50 1 26000 P
+#24683
+copper great mace~
+copper great mace~
+copper great mace~
+unknown~
+weapon 0 AN
+mace 14 6 crush F
+50 1 26000 P
+#24684
+copper flail~
+copper flail~
+copper flail~
+unknown~
+weapon 0 AN
+flail 16 4 beating 0
+50 1 26000 P
+#24685
+copper ball on chain~
+copper ball on chain~
+copper ball on chain~
+unknown~
+weapon 0 AN
+flail 19 4 smash F
+50 1 26000 P
+#24686
+copper whip~
+copper whip~
+copper whip~
+unknown~
+weapon 0 AN
+whip 1 78 sting 0
+50 1 26000 P
+#24687
+copper halberd~
+copper halberd~
+copper halberd~
+unknown~
+weapon 0 AN
+polearm 14 6 charge F
+50 1 26000 P
+#24688
+copper bola~
+copper bola~
+copper bola~
+unknown~
+weapon 0 AN
+exotic 8 6 thwack 0
+50 1 26000 P
+#24689
+copper quarterstaff~
+copper quarterstaff~
+copper quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 50 slap F
+50 1 26000 P
+#24690
+copper ring~
+copper ring~
+copper ring~
+unknown~
+armor 0 AB
+AC AC AC AC 0
+50 1 26000 P
+#24691
+copper medallion~
+copper medallion~
+copper medallion~
+unknown~
+armor 0 AC
+AC AC AC AC 0
+50 1 26000 P
+#24692
+copper breastplate~
+copper breastplate~
+copper breastplate~
+unknown~
+armor 0 AD
+BD BD BD BD 0
+50 1 26000 P
+#24693
+copper helm~
+copper helm~
+copper helm~
+unknown~
+armor 0 AE
+BD BD BD BD 0
+50 1 26000 P
+#24694
+copper mask~
+copper mask~
+copper mask~
+unknown~
+armor 0 AR
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24695
+copper leggings~
+copper leggings~
+copper leggings~
+unknown~
+armor 0 AF
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24696
+copper anklet~
+copper anklet~
+copper anklet~
+unknown~
+armor 0 AT
+AC AC AC AC 0
+50 1 26000 P
+#24697
+copper boots~
+copper boots~
+copper boots~
+unknown~
+armor 0 AG
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24698
+copper gauntlets~
+copper gauntlets~
+copper gauntlets~
+unknown~
+armor 0 AH
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24699
+copper sleeves~
+copper sleeves~
+copper sleeves~
+unknown~
+armor 0 AI
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24700
+copper shield~
+copper shield~
+copper shield~
+unknown~
+armor 0 AJ
+BD BD BD BD 0
+50 1 26000 P
+#24701
+copper cloak~
+copper cloak~
+copper cloak~
+unknown~
+armor 0 AK
+ABC ABC ABC ABC 0
+50 1 26000 P
+#24702
+copper belt~
+copper belt~
+copper belt~
+unknown~
+armor 0 AL
+AC AC AC AC 0
+50 1 26000 P
+#24703
+copper wristguard~
+copper wristguard~
+copper wristguard~
+unknown~
+armor 0 AM
+AC AC AC AC 0
+50 1 26000 P
+#24704
+copper talisman~
+copper talisman~
+copper talisman~
+unknown~
+armor 0 AO
+AC AC AC AC 0
+50 1 26000 P
+#24705
+copper orb~
+copper orb~
+copper orb~
+unknown~
+armor 0 AQ
+AC AC AC AC 0
+50 1 26000 P
+#24706
+copper earrings~
+copper earrings~
+copper earrings~
+unknown~
+armor 0 AS
+AC AC AC AC 0
+50 1 26000 P
+#24707
+copper clan patch~
+copper clan patch~
+copper clan patch~
+unknown~
+armor 0 AU
+AC AC AC AC 0
+50 1 26000 P
+#24708
+copper chest patch~
+copper chest patch~
+copper chest patch~
+unknown~
+armor 0 AW
+AC AC AC AC 0
+50 1 26000 P
+#24709
+copper religion patch~
+copper religion patch~
+copper religion patch~
+unknown~
+armor 0 AV
+AC AC AC AC 0
+50 1 26000 P
+#24710
+bronze dagger~
+bronze dagger~
+bronze dagger~
+unknown~
+weapon 0 AN
+dagger 5 21 stab 0
+60 1 31000 P
+#24711
+bronze sword~
+bronze sword~
+bronze sword~
+unknown~
+weapon 0 AN
+sword 10 9 slash 0
+60 1 31000 P
+#24712
+bronze greatsword~
+bronze greatsword~
+bronze greatsword~
+unknown~
+weapon 0 AN
+sword 12 9 cleave F
+60 1 31000 P
+#24713
+bronze hand axe~
+bronze hand axe~
+bronze hand axe~
+unknown~
+weapon 0 AN
+axe 16 7 chop 0
+60 1 31000 P
+#24714
+bronze battle axe~
+bronze battle axe~
+bronze battle axe~
+unknown~
+weapon 0 AN
+axe 15 8 chop F
+60 1 31000 P
+#24715
+bronze short spear~
+bronze short spear~
+bronze short spear~
+unknown~
+weapon 0 AN
+staff 2 45 pierce 0
+60 1 31000 P
+#24716
+bronze hunting spear~
+bronze hunting spear~
+bronze hunting spear~
+unknown~
+weapon 0 AN
+staff 2 52 thrust F
+60 1 31000 P
+#24717
+bronze mace~
+bronze mace~
+bronze mace~
+unknown~
+weapon 0 AN
+mace 14 7 pound 0
+60 1 31000 P
+#24718
+bronze great mace~
+bronze great mace~
+bronze great mace~
+unknown~
+weapon 0 AN
+mace 15 7 crush F
+60 1 31000 P
+#24719
+bronze flail~
+bronze flail~
+bronze flail~
+unknown~
+weapon 0 AN
+flail 19 4 beating 0
+60 1 31000 P
+#24720
+bronze ball on chain~
+bronze ball on chain~
+bronze ball on chain~
+unknown~
+weapon 0 AN
+flail 20 5 smash F
+60 1 31000 P
+#24721
+bronze whip~
+bronze whip~
+bronze whip~
+unknown~
+weapon 0 AN
+whip 1 98 sting 0
+60 1 31000 P
+#24722
+bronze halberd~
+bronze halberd~
+bronze halberd~
+unknown~
+weapon 0 AN
+polearm 15 7 charge F
+60 1 31000 P
+#24723
+bronze bola~
+bronze bola~
+bronze bola~
+unknown~
+weapon 0 AN
+exotic 9 8 thwack 0
+60 1 31000 P
+#24724
+bronze quarterstaff~
+bronze quarterstaff~
+bronze quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 65 slap F
+60 1 31000 P
+#24725
+bronze ring~
+bronze ring~
+bronze ring~
+unknown~
+armor 0 AB
+AC AC AC AC 0
+60 1 31000 P
+#24726
+bronze medallion~
+bronze medallion~
+bronze medallion~
+unknown~
+armor 0 AC
+AC AC AC AC 0
+60 1 31000 P
+#24727
+bronze breastplate~
+bronze breastplate~
+bronze breastplate~
+unknown~
+armor 0 AD
+CD CD CD CD 0
+60 1 31000 P
+#24728
+bronze helm~
+bronze helm~
+bronze helm~
+unknown~
+armor 0 AE
+BD BD BD BD 0
+60 1 31000 P
+#24729
+bronze mask~
+bronze mask~
+bronze mask~
+unknown~
+armor 0 AR
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24730
+bronze leggings~
+bronze leggings~
+bronze leggings~
+unknown~
+armor 0 AF
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24731
+bronze anklet~
+bronze anklet~
+bronze anklet~
+unknown~
+armor 0 AT
+AC AC AC AC 0
+60 1 31000 P
+#24732
+bronze boots~
+bronze boots~
+bronze boots~
+unknown~
+armor 0 AG
+BD BD BD BD 0
+60 1 31000 P
+#24733
+bronze gauntlets~
+bronze gauntlets~
+bronze gauntlets~
+unknown~
+armor 0 AH
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24734
+bronze sleeves~
+bronze sleeves~
+bronze sleeves~
+unknown~
+armor 0 AI
+BD BD BD BD 0
+60 1 31000 P
+#24735
+bronze shield~
+bronze shield~
+bronze shield~
+unknown~
+armor 0 AJ
+BD BD BD BD 0
+60 1 31000 P
+#24736
+bronze cloak~
+bronze cloak~
+bronze cloak~
+unknown~
+armor 0 AK
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24737
+bronze belt~
+bronze belt~
+bronze belt~
+unknown~
+armor 0 AL
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24738
+bronze wristguard~
+bronze wristguard~
+bronze wristguard~
+unknown~
+armor 0 AM
+AC AC AC AC 0
+60 1 31000 P
+#24739
+bronze talisman~
+bronze talisman~
+bronze talisman~
+unknown~
+armor 0 AO
+AC AC AC AC 0
+60 1 31000 P
+#24740
+bronze orb~
+bronze orb~
+bronze orb~
+unknown~
+armor 0 AQ
+ABC ABC ABC ABC 0
+60 1 31000 P
+#24741
+bronze earrings~
+bronze earrings~
+bronze earrings~
+unknown~
+armor 0 AS
+AC AC AC AC 0
+60 1 31000 P
+#24742
+bronze clan patch~
+bronze clan patch~
+bronze clan patch~
+unknown~
+armor 0 AU
+AC AC AC AC 0
+60 1 31000 P
+#24743
+bronze chest patch~
+bronze chest patch~
+bronze chest patch~
+unknown~
+armor 0 AW
+AC AC AC AC 0
+60 1 31000 P
+#24744
+bronze religion patch~
+bronze religion patch~
+bronze religion patch~
+unknown~
+armor 0 AV
+AC AC AC AC 0
+60 1 31000 P
+#24745
+brass dagger~
+brass dagger~
+brass dagger~
+unknown~
+weapon 0 AN
+dagger 5 29 stab 0
+70 1 36000 P
+#24746
+brass sword~
+brass sword~
+brass sword~
+unknown~
+weapon 0 AN
+sword 13 10 slash 0
+70 1 36000 P
+#24747
+brass greatsword~
+brass greatsword~
+brass greatsword~
+unknown~
+weapon 0 AN
+sword 15 9 cleave F
+70 1 36000 P
+#24748
+brass hand axe~
+brass hand axe~
+brass hand axe~
+unknown~
+weapon 0 AN
+axe 16 8 chop 0
+70 1 36000 P
+#24749
+brass battle axe~
+brass battle axe~
+brass battle axe~
+unknown~
+weapon 0 AN
+axe 16 8 chop F
+70 1 36000 P
+#24750
+brass short spear~
+brass short spear~
+brass short spear~
+unknown~
+weapon 0 AN
+staff 2 65 pierce 0
+70 1 36000 P
+#24751
+brass hunting spear~
+brass hunting spear~
+brass hunting spear~
+unknown~
+weapon 0 AN
+staff 2 73 thrust F
+70 1 36000 P
+#24752
+brass mace~
+brass mace~
+brass mace~
+unknown~
+weapon 0 AN
+mace 15 7 pound 0
+70 1 36000 P
+#24753
+brass great mace~
+brass great mace~
+brass great mace~
+unknown~
+weapon 0 AN
+mace 16 7 crush F
+70 1 36000 P
+#24754
+brass flail~
+brass flail~
+brass flail~
+unknown~
+weapon 0 AN
+flail 20 5 beating 0
+70 1 36000 P
+#24755
+brass ball on chain~
+brass ball on chain~
+brass ball on chain~
+unknown~
+weapon 0 AN
+flail 27 5 smash F
+70 1 36000 P
+#24756
+brass whip~
+brass whip~
+brass whip~
+unknown~
+weapon 0 AN
+whip 1 105 sting 0
+70 1 36000 P
+#24757
+brass halberd~
+brass halberd~
+brass halberd~
+unknown~
+weapon 0 AN
+polearm 16 7 charge F
+70 1 36000 P
+#24758
+brass bola~
+brass bola~
+brass bola~
+unknown~
+weapon 0 AN
+exotic 9 8 thwack 0
+70 1 36000 P
+#24759
+brass quarterstaff~
+brass quarterstaff~
+brass quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 78 slap F
+70 1 36000 P
+#24760
+brass ring~
+brass ring~
+brass ring~
+unknown~
+armor 0 AB
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24761
+brass medallion~
+brass medallion~
+brass medallion~
+unknown~
+armor 0 AC
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24762
+brass breastplate~
+brass breastplate~
+brass breastplate~
+unknown~
+armor 0 AD
+CD CD CD CD 0
+70 1 36000 P
+#24763
+brass helm~
+brass helm~
+brass helm~
+unknown~
+armor 0 AE
+CD CD CD CD 0
+70 1 36000 P
+#24764
+brass mask~
+brass mask~
+brass mask~
+unknown~
+armor 0 AR
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24765
+brass leggings~
+brass leggings~
+brass leggings~
+unknown~
+armor 0 AF
+BD BD BD BD 0
+70 1 36000 P
+#24766
+brass anklet~
+brass anklet~
+brass anklet~
+unknown~
+armor 0 AT
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24767
+brass boots~
+brass boots~
+brass boots~
+unknown~
+armor 0 AG
+BD BD BD BD 0
+70 1 36000 P
+#24768
+brass gauntlets~
+brass gauntlets~
+brass gauntlets~
+unknown~
+armor 0 AH
+BD BD BD BD 0
+70 1 36000 P
+#24769
+brass sleeves~
+brass sleeves~
+brass sleeves~
+unknown~
+armor 0 AI
+BD BD BD BD 0
+70 1 36000 P
+#24770
+brass shield~
+brass shield~
+brass shield~
+unknown~
+armor 0 AJ
+BD BD BD BD 0
+70 1 36000 P
+#24771
+brass cloak~
+brass cloak~
+brass cloak~
+unknown~
+armor 0 AK
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24772
+brass belt~
+brass belt~
+brass belt~
+unknown~
+armor 0 AL
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24773
+brass wristguard~
+brass wristguard~
+brass wristguard~
+unknown~
+armor 0 AM
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24774
+brass talisman~
+brass talisman~
+brass talisman~
+unknown~
+armor 0 AO
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24775
+brass orb~
+brass orb~
+brass orb~
+unknown~
+armor 0 AQ
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24776
+brass earrings~
+brass earrings~
+brass earrings~
+unknown~
+armor 0 AS
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24777
+brass clan patch~
+brass clan patch~
+brass clan patch~
+unknown~
+armor 0 AU
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24778
+brass chest patch~
+brass chest patch~
+brass chest patch~
+unknown~
+armor 0 AW
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24779
+brass religion patch~
+brass religion patch~
+brass religion patch~
+unknown~
+armor 0 AV
+ABC ABC ABC ABC 0
+70 1 36000 P
+#24780
+electrum dagger~
+electrum dagger~
+electrum dagger~
+unknown~
+weapon 0 AN
+dagger 5 32 stab 0
+80 1 41000 P
+#24781
+electrum sword~
+electrum sword~
+electrum sword~
+unknown~
+weapon 0 AN
+sword 14 11 slash 0
+80 1 41000 P
+#24782
+electrum greatsword~
+electrum greatsword~
+electrum greatsword~
+unknown~
+weapon 0 AN
+sword 15 10 cleave F
+80 1 41000 P
+#24783
+electrum hand axe~
+electrum hand axe~
+electrum hand axe~
+unknown~
+weapon 0 AN
+axe 17 9 chop 0
+80 1 41000 P
+#24784
+electrum battle axe~
+electrum battle axe~
+electrum battle axe~
+unknown~
+weapon 0 AN
+axe 16 9 chop F
+80 1 41000 P
+#24785
+electrum short spear~
+electrum short spear~
+electrum short spear~
+unknown~
+weapon 0 AN
+staff 2 74 pierce 0
+80 1 41000 P
+#24786
+electrum hunting spear~
+electrum hunting spear~
+electrum hunting spear~
+unknown~
+weapon 0 AN
+staff 2 84 thrust F
+80 1 41000 P
+#24787
+electrum mace~
+electrum mace~
+electrum mace~
+unknown~
+weapon 0 AN
+mace 16 7 pound 0
+80 1 41000 P
+#24788
+electrum great mace~
+electrum great mace~
+electrum great mace~
+unknown~
+weapon 0 AN
+mace 17 8 crush F
+80 1 41000 P
+#24789
+electrum flail~
+electrum flail~
+electrum flail~
+unknown~
+weapon 0 AN
+flail 27 5 beating 0
+80 1 41000 P
+#24790
+electrum ball on chain~
+electrum ball on chain~
+electrum ball on chain~
+unknown~
+weapon 0 AN
+flail 30 5 smash F
+80 1 41000 P
+#24791
+electrum whip~
+electrum whip~
+electrum whip~
+unknown~
+weapon 0 AN
+whip 1 130 sting 0
+80 1 41000 P
+#24792
+electrum halberd~
+electrum halberd~
+electrum halberd~
+unknown~
+weapon 0 AN
+polearm 17 8 charge F
+80 1 41000 P
+#24793
+electrum bola~
+electrum bola~
+electrum bola~
+unknown~
+weapon 0 AN
+exotic 10 9 thwack 0
+80 1 41000 P
+#24794
+electrum quarterstaff~
+electrum quarterstaff~
+electrum quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 98 slap F
+80 1 41000 P
+#24795
+electrum ring~
+electrum ring~
+electrum ring~
+unknown~
+armor 0 AB
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24796
+electrum medallion~
+electrum medallion~
+electrum medallion~
+unknown~
+armor 0 AC
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24797
+electrum breastplate~
+electrum breastplate~
+electrum breastplate~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD ABCD 0
+80 1 41000 P
+#24798
+electrum helm~
+electrum helm~
+electrum helm~
+unknown~
+armor 0 AE
+CD CD CD CD 0
+80 1 41000 P
+#24799
+electrum mask~
+electrum mask~
+electrum mask~
+unknown~
+armor 0 AR
+BD BD BD BD 0
+80 1 41000 P
+#24800
+electrum leggings~
+electrum leggings~
+electrum leggings~
+unknown~
+armor 0 AF
+BD BD BD BD 0
+80 1 41000 P
+#24801
+electrum anklet~
+electrum anklet~
+electrum anklet~
+unknown~
+armor 0 AT
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24802
+electrum boots~
+electrum boots~
+electrum boots~
+unknown~
+armor 0 AG
+BD BD BD BD 0
+80 1 41000 P
+#24803
+electrum gauntlets~
+electrum gauntlets~
+electrum gauntlets~
+unknown~
+armor 0 AH
+BD BD BD BD 0
+80 1 41000 P
+#24804
+electrum sleeves~
+electrum sleeves~
+electrum sleeves~
+unknown~
+armor 0 AI
+BD BD BD BD 0
+80 1 41000 P
+#24805
+electrum shield~
+electrum shield~
+electrum shield~
+unknown~
+armor 0 AJ
+CD CD CD CD 0
+80 1 41000 P
+#24806
+electrum cloak~
+electrum cloak~
+electrum cloak~
+unknown~
+armor 0 AK
+BD BD BD BD 0
+80 1 41000 P
+#24807
+electrum belt~
+electrum belt~
+electrum belt~
+unknown~
+armor 0 AL
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24808
+electrum wristguard~
+electrum wristguard~
+electrum wristguard~
+unknown~
+armor 0 AM
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24809
+electrum talisman~
+electrum talisman~
+electrum talisman~
+unknown~
+armor 0 AO
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24810
+electrum orb~
+electrum orb~
+electrum orb~
+unknown~
+armor 0 AQ
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24811
+electrum earrings~
+electrum earrings~
+electrum earrings~
+unknown~
+armor 0 AS
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24812
+electrum clan patch~
+electrum clan patch~
+electrum clan patch~
+unknown~
+armor 0 AU
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24813
+electrum chest patch~
+electrum chest patch~
+electrum chest patch~
+unknown~
+armor 0 AW
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24814
+electrum religion patch~
+electrum religion patch~
+electrum religion patch~
+unknown~
+armor 0 AV
+ABC ABC ABC ABC 0
+80 1 41000 P
+#24815
+gold dagger~
+gold dagger~
+gold dagger~
+unknown~
+weapon 0 AN
+dagger 5 37 stab 0
+90 1 46000 P
+#24816
+gold sword~
+gold sword~
+gold sword~
+unknown~
+weapon 0 AN
+sword 15 11 slash 0
+90 1 46000 P
+#24817
+gold greatsword~
+gold greatsword~
+gold greatsword~
+unknown~
+weapon 0 AN
+sword 16 10 cleave F
+90 1 46000 P
+#24818
+gold hand axe~
+gold hand axe~
+gold hand axe~
+unknown~
+weapon 0 AN
+axe 18 9 chop 0
+90 1 46000 P
+#24819
+gold battle axe~
+gold battle axe~
+gold battle axe~
+unknown~
+weapon 0 AN
+axe 17 9 chop F
+90 1 46000 P
+#24820
+gold short spear~
+gold short spear~
+gold short spear~
+unknown~
+weapon 0 AN
+staff 2 87 pierce 0
+90 1 46000 P
+#24821
+gold hunting spear~
+gold hunting spear~
+gold hunting spear~
+unknown~
+weapon 0 AN
+staff 2 95 thrust F
+90 1 46000 P
+#24822
+gold mace~
+gold mace~
+gold mace~
+unknown~
+weapon 0 AN
+mace 22 7 pound 0
+90 1 46000 P
+#24823
+gold great mace~
+gold great mace~
+gold great mace~
+unknown~
+weapon 0 AN
+mace 19 8 crush F
+90 1 46000 P
+#24824
+gold flail~
+gold flail~
+gold flail~
+unknown~
+weapon 0 AN
+flail 30 5 beating 0
+90 1 46000 P
+#24825
+gold ball on chain~
+gold ball on chain~
+gold ball on chain~
+unknown~
+weapon 0 AN
+flail 33 5 smash F
+90 1 46000 P
+#24826
+gold whip~
+gold whip~
+gold whip~
+unknown~
+weapon 0 AN
+whip 1 164 sting 0
+90 1 46000 P
+#24827
+gold halberd~
+gold halberd~
+gold halberd~
+unknown~
+weapon 0 AN
+polearm 19 8 charge F
+90 1 46000 P
+#24828
+gold bola~
+gold bola~
+gold bola~
+unknown~
+weapon 0 AN
+exotic 13 10 thwack 0
+90 1 46000 P
+#24829
+gold quarterstaff~
+gold quarterstaff~
+gold quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 105 slap F
+90 1 46000 P
+#24830
+gold ring~
+gold ring~
+gold ring~
+unknown~
+armor 0 AB
+BD BD BD BD 0
+90 1 46000 P
+#24831
+gold medallion~
+gold medallion~
+gold medallion~
+unknown~
+armor 0 AC
+BD BD BD BD 0
+90 1 46000 P
+#24832
+gold breastplate~
+gold breastplate~
+gold breastplate~
+unknown~
+armor 0 AD
+AE AE AE AE 0
+90 1 46000 P
+#24833
+gold helm~
+gold helm~
+gold helm~
+unknown~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+90 1 46000 P
+#24834
+gold mask~
+gold mask~
+gold mask~
+unknown~
+armor 0 AR
+BD BD BD BD 0
+90 1 46000 P
+#24835
+gold leggings~
+gold leggings~
+gold leggings~
+unknown~
+armor 0 AF
+CD CD CD CD 0
+90 1 46000 P
+#24836
+gold anklet~
+gold anklet~
+gold anklet~
+unknown~
+armor 0 AT
+ABC ABC ABC ABC 0
+90 1 46000 P
+#24837
+gold boots~
+gold boots~
+gold boots~
+unknown~
+armor 0 AG
+CD CD CD CD 0
+90 1 46000 P
+#24838
+gold gauntlets~
+gold gauntlets~
+gold gauntlets~
+unknown~
+armor 0 AH
+CD CD CD CD 0
+90 1 46000 P
+#24839
+gold sleeves~
+gold sleeves~
+gold sleeves~
+unknown~
+armor 0 AI
+CD CD CD CD 0
+90 1 46000 P
+#24840
+gold shield~
+gold shield~
+gold shield~
+unknown~
+armor 0 AJ
+ABCD ABCD ABCD ABCD 0
+90 1 46000 P
+#24841
+gold cloak~
+gold cloak~
+gold cloak~
+unknown~
+armor 0 AK
+BD BD BD BD 0
+90 1 46000 P
+#24842
+gold belt~
+gold belt~
+gold belt~
+unknown~
+armor 0 AL
+BD BD BD BD 0
+90 1 46000 P
+#24843
+gold wristguard~
+gold wristguard~
+gold wristguard~
+unknown~
+armor 0 AM
+BD BD BD BD 0
+90 1 46000 P
+#24844
+gold talisman~
+gold talisman~
+gold talisman~
+unknown~
+armor 0 AO
+ABC ABC ABC ABC 0
+90 1 46000 P
+#24845
+gold orb~
+gold orb~
+gold orb~
+unknown~
+armor 0 AQ
+BD BD BD BD 0
+90 1 46000 P
+#24846
+gold earrings~
+gold earrings~
+gold earrings~
+unknown~
+armor 0 AS
+ABC ABC ABC ABC 0
+90 1 46000 P
+#24847
+gold clan patch~
+gold clan patch~
+gold clan patch~
+unknown~
+armor 0 AU
+BD BD BD BD 0
+90 1 46000 P
+#24848
+gold chest patch~
+gold chest patch~
+gold chest patch~
+unknown~
+armor 0 AW
+BD BD BD BD 0
+90 1 46000 P
+#24849
+gold religion patch~
+gold religion patch~
+gold religion patch~
+unknown~
+armor 0 AV
+BD BD BD BD 0
+90 1 46000 P
+#24850
+iron dagger~
+iron dagger~
+iron dagger~
+unknown~
+weapon 0 AN
+dagger 5 39 stab 0
+100 1 51000 P
+#24851
+iron sword~
+iron sword~
+iron sword~
+unknown~
+weapon 0 AN
+sword 17 11 slash 0
+100 1 51000 P
+#24852
+iron greatsword~
+iron greatsword~
+iron greatsword~
+unknown~
+weapon 0 AN
+sword 17 10 cleave F
+100 1 51000 P
+#24853
+iron hand axe~
+iron hand axe~
+iron hand axe~
+unknown~
+weapon 0 AN
+axe 18 10 chop 0
+100 1 51000 P
+#24854
+iron battle axe~
+iron battle axe~
+iron battle axe~
+unknown~
+weapon 0 AN
+axe 18 9 chop F
+100 1 51000 P
+#24855
+iron short spear~
+iron short spear~
+iron short spear~
+unknown~
+weapon 0 AN
+staff 2 95 pierce 0
+100 1 51000 P
+#24856
+iron hunting spear~
+iron hunting spear~
+iron hunting spear~
+unknown~
+weapon 0 AN
+staff 2 100 thrust F
+100 1 51000 P
+#24857
+iron mace~
+iron mace~
+iron mace~
+unknown~
+weapon 0 AN
+mace 24 7 pound 0
+100 1 51000 P
+#24858
+iron great mace~
+iron great mace~
+iron great mace~
+unknown~
+weapon 0 AN
+mace 20 8 crush F
+100 1 51000 P
+#24859
+iron flail~
+iron flail~
+iron flail~
+unknown~
+weapon 0 AN
+flail 32 5 beating 0
+100 1 51000 P
+#24860
+iron ball on chain~
+iron ball on chain~
+iron ball on chain~
+unknown~
+weapon 0 AN
+flail 34 5 smash F
+100 1 51000 P
+#24861
+iron whip~
+iron whip~
+iron whip~
+unknown~
+weapon 0 AN
+whip 1 179 sting 0
+100 1 51000 P
+#24862
+iron halberd~
+iron halberd~
+iron halberd~
+unknown~
+weapon 0 AN
+polearm 20 8 charge F
+100 1 51000 P
+#24863
+iron bola~
+iron bola~
+iron bola~
+unknown~
+weapon 0 AN
+exotic 14 11 thwack 0
+100 1 51000 P
+#24864
+iron quarterstaff~
+iron quarterstaff~
+iron quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 130 slap F
+100 1 51000 P
+#24865
+iron ring~
+iron ring~
+iron ring~
+unknown~
+armor 0 AB
+BD BD BD BD 0
+100 1 51000 P
+#24866
+iron medallion~
+iron medallion~
+iron medallion~
+unknown~
+armor 0 AC
+BD BD BD BD 0
+100 1 51000 P
+#24867
+iron breastplate~
+iron breastplate~
+iron breastplate~
+unknown~
+armor 0 AD
+CE CE CE CE 0
+100 1 51000 P
+#24868
+iron helm~
+iron helm~
+iron helm~
+unknown~
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+100 1 51000 P
+#24869
+iron mask~
+iron mask~
+iron mask~
+unknown~
+armor 0 AR
+CD CD CD CD 0
+100 1 51000 P
+#24870
+iron leggings~
+iron leggings~
+iron leggings~
+unknown~
+armor 0 AF
+CD CD CD CD 0
+100 1 51000 P
+#24871
+iron anklet~
+iron anklet~
+iron anklet~
+unknown~
+armor 0 AT
+ABC ABC ABC ABC 0
+100 1 51000 P
+#24872
+iron boots~
+iron boots~
+iron boots~
+unknown~
+armor 0 AG
+CD CD CD CD 0
+100 1 51000 P
+#24873
+iron gauntlets~
+iron gauntlets~
+iron gauntlets~
+unknown~
+armor 0 AH
+CD CD CD CD 0
+100 1 51000 P
+#24874
+iron sleeves~
+iron sleeves~
+iron sleeves~
+unknown~
+armor 0 AI
+CD CD CD CD 0
+100 1 51000 P
+#24875
+iron shield~
+iron shield~
+iron shield~
+unknown~
+armor 0 AJ
+AE AE AE AE 0
+100 1 51000 P
+#24876
+iron cloak~
+iron cloak~
+iron cloak~
+unknown~
+armor 0 AK
+CD CD CD CD 0
+100 1 51000 P
+#24877
+iron belt~
+iron belt~
+iron belt~
+unknown~
+armor 0 AL
+BD BD BD BD 0
+100 1 51000 P
+#24878
+iron wristguard~
+iron wristguard~
+iron wristguard~
+unknown~
+armor 0 AM
+BD BD BD BD 0
+100 1 51000 P
+#24879
+iron talisman~
+iron talisman~
+iron talisman~
+unknown~
+armor 0 AO
+ABC ABC ABC ABC 0
+100 1 51000 P
+#24880
+iron orb~
+iron orb~
+iron orb~
+unknown~
+armor 0 AQ
+BD BD BD BD 0
+100 1 51000 P
+#24881
+iron earrings~
+iron earrings~
+iron earrings~
+unknown~
+armor 0 AS
+ABC ABC ABC ABC 0
+100 1 51000 P
+#24882
+iron clan patch~
+iron clan patch~
+iron clan patch~
+unknown~
+armor 0 AU
+BD BD BD BD 0
+100 1 51000 P
+#24883
+iron chest patch~
+iron chest patch~
+iron chest patch~
+unknown~
+armor 0 AW
+BD BD BD BD 0
+100 1 51000 P
+#24884
+iron religion patch~
+iron religion patch~
+iron religion patch~
+unknown~
+armor 0 AV
+BD BD BD BD 0
+100 1 51000 P
+#24885
+steel dagger~
+steel dagger~
+steel dagger~
+unknown~
+weapon 0 AN
+dagger 5 39 stab 0
+110 1 56000 P
+#24886
+steel sword~
+steel sword~
+steel sword~
+unknown~
+weapon 0 AN
+sword 17 11 slash 0
+110 1 56000 P
+#24887
+steel greatsword~
+steel greatsword~
+steel greatsword~
+unknown~
+weapon 0 AN
+sword 17 12 cleave F
+110 1 56000 P
+#24888
+steel hand axe~
+steel hand axe~
+steel hand axe~
+unknown~
+weapon 0 AN
+axe 18 10 chop 0
+110 1 56000 P
+#24889
+steel battle axe~
+steel battle axe~
+steel battle axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop F
+110 1 56000 P
+#24890
+steel short spear~
+steel short spear~
+steel short spear~
+unknown~
+weapon 0 AN
+staff 2 100 pierce 0
+110 1 56000 P
+#24891
+steel hunting spear~
+steel hunting spear~
+steel hunting spear~
+unknown~
+weapon 0 AN
+staff 2 104 thrust F
+110 1 56000 P
+#24892
+steel mace~
+steel mace~
+steel mace~
+unknown~
+weapon 0 AN
+mace 24 7 pound 0
+110 1 56000 P
+#24893
+steel great mace~
+steel great mace~
+steel great mace~
+unknown~
+weapon 0 AN
+mace 23 8 crush F
+110 1 56000 P
+#24894
+steel flail~
+steel flail~
+steel flail~
+unknown~
+weapon 0 AN
+flail 34 5 beating 0
+110 1 56000 P
+#24895
+steel ball on chain~
+steel ball on chain~
+steel ball on chain~
+unknown~
+weapon 0 AN
+flail 36 5 smash F
+110 1 56000 P
+#24896
+steel whip~
+steel whip~
+steel whip~
+unknown~
+weapon 0 AN
+whip 1 190 sting 0
+110 1 56000 P
+#24897
+steel halberd~
+steel halberd~
+steel halberd~
+unknown~
+weapon 0 AN
+polearm 23 8 charge F
+110 1 56000 P
+#24898
+steel bola~
+steel bola~
+steel bola~
+unknown~
+weapon 0 AN
+exotic 15 11 thwack 0
+110 1 56000 P
+#24899
+steel quarterstaff~
+steel quarterstaff~
+steel quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 164 slap F
+110 1 56000 P
+#24900
+steel ring~
+steel ring~
+steel ring~
+unknown~
+armor 0 AB
+CD CD CD CD 0
+110 1 56000 P
+#24901
+steel medallion~
+steel medallion~
+steel medallion~
+unknown~
+armor 0 AC
+CD CD CD CD 0
+110 1 56000 P
+#24902
+steel breastplate~
+steel breastplate~
+steel breastplate~
+unknown~
+armor 0 AD
+BCE BCE BCE BCE 0
+110 1 56000 P
+#24903
+steel helm~
+steel helm~
+steel helm~
+unknown~
+armor 0 AE
+AE AE AE AE 0
+110 1 56000 P
+#24904
+steel mask~
+steel mask~
+steel mask~
+unknown~
+armor 0 AR
+CD CD CD CD 0
+110 1 56000 P
+#24905
+steel leggings~
+steel leggings~
+steel leggings~
+unknown~
+armor 0 AF
+ABCD ABCD ABCD ABCD 0
+110 1 56000 P
+#24906
+steel anklet~
+steel anklet~
+steel anklet~
+unknown~
+armor 0 AT
+BD BD BD BD 0
+110 1 56000 P
+#24907
+steel boots~
+steel boots~
+steel boots~
+unknown~
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+110 1 56000 P
+#24908
+steel gauntlets~
+steel gauntlets~
+steel gauntlets~
+unknown~
+armor 0 AH
+ABCD ABCD ABCD ABCD 0
+110 1 56000 P
+#24909
+steel sleeves~
+steel sleeves~
+steel sleeves~
+unknown~
+armor 0 AI
+ABCD ABCD ABCD ABCD 0
+110 1 56000 P
+#24910
+steel shield~
+steel shield~
+steel shield~
+unknown~
+armor 0 AJ
+CE CE CE CE 0
+110 1 56000 P
+#24911
+steel cloak~
+steel cloak~
+steel cloak~
+unknown~
+armor 0 AK
+CD CD CD CD 0
+110 1 56000 P
+#24912
+steel belt~
+steel belt~
+steel belt~
+unknown~
+armor 0 AL
+BD BD BD BD 0
+110 1 56000 P
+#24913
+steel wristguard~
+steel wristguard~
+steel wristguard~
+unknown~
+armor 0 AM
+CD CD CD CD 0
+110 1 56000 P
+#24914
+steel talisman~
+steel talisman~
+steel talisman~
+unknown~
+armor 0 AO
+BD BD BD BD 0
+110 1 56000 P
+#24915
+steel orb~
+steel orb~
+steel orb~
+unknown~
+armor 0 AQ
+BD BD BD BD 0
+110 1 56000 P
+#24916
+steel earrings~
+steel earrings~
+steel earrings~
+unknown~
+armor 0 AS
+BD BD BD BD 0
+110 1 56000 P
+#24917
+steel clan patch~
+steel clan patch~
+steel clan patch~
+unknown~
+armor 0 AU
+CD CD CD CD 0
+110 1 56000 P
+#24918
+steel chest patch~
+steel chest patch~
+steel chest patch~
+unknown~
+armor 0 AW
+CD CD CD CD 0
+110 1 56000 P
+#24919
+steel religion patch~
+steel religion patch~
+steel religion patch~
+unknown~
+armor 0 AV
+CD CD CD CD 0
+110 1 56000 P
+#24920
+silver dagger~
+silver dagger~
+silver dagger~
+unknown~
+weapon 0 AN
+dagger 5 40 stab 0
+120 1 61000 P
+#24921
+silver sword~
+silver sword~
+silver sword~
+unknown~
+weapon 0 AN
+sword 17 11 slash 0
+120 1 61000 P
+#24922
+silver greatsword~
+silver greatsword~
+silver greatsword~
+unknown~
+weapon 0 AN
+sword 17 12 cleave F
+120 1 61000 P
+#24923
+silver hand axe~
+silver hand axe~
+silver hand axe~
+unknown~
+weapon 0 AN
+axe 18 10 chop 0
+120 1 61000 P
+#24924
+silver battle axe~
+silver battle axe~
+silver battle axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop F
+120 1 61000 P
+#24925
+silver short spear~
+silver short spear~
+silver short spear~
+unknown~
+weapon 0 AN
+staff 2 101 pierce 0
+120 1 61000 P
+#24926
+silver hunting spear~
+silver hunting spear~
+silver hunting spear~
+unknown~
+weapon 0 AN
+staff 2 109 thrust F
+120 1 61000 P
+#24927
+silver mace~
+silver mace~
+silver mace~
+unknown~
+weapon 0 AN
+mace 25 7 pound 0
+120 1 61000 P
+#24928
+silver great mace~
+silver great mace~
+silver great mace~
+unknown~
+weapon 0 AN
+mace 24 8 crush F
+120 1 61000 P
+#24929
+silver flail~
+silver flail~
+silver flail~
+unknown~
+weapon 0 AN
+flail 34 5 beating 0
+120 1 61000 P
+#24930
+silver ball on chain~
+silver ball on chain~
+silver ball on chain~
+unknown~
+weapon 0 AN
+flail 37 5 smash F
+120 1 61000 P
+#24931
+silver whip~
+silver whip~
+silver whip~
+unknown~
+weapon 0 AN
+whip 1 195 sting 0
+120 1 61000 P
+#24932
+silver halberd~
+silver halberd~
+silver halberd~
+unknown~
+weapon 0 AN
+polearm 24 8 charge F
+120 1 61000 P
+#24933
+silver bola~
+silver bola~
+silver bola~
+unknown~
+weapon 0 AN
+exotic 17 11 thwack 0
+120 1 61000 P
+#24934
+silver quarterstaff~
+silver quarterstaff~
+silver quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 179 slap F
+120 1 61000 P
+#24935
+silver ring~
+silver ring~
+silver ring~
+unknown~
+armor 0 AB
+CD CD CD CD 0
+120 1 61000 P
+#24936
+silver medallion~
+silver medallion~
+silver medallion~
+unknown~
+armor 0 AC
+CD CD CD CD 0
+120 1 61000 P
+#24937
+silver breastplate~
+silver breastplate~
+silver breastplate~
+unknown~
+armor 0 AD
+ADE ADE ADE ADE 0
+120 1 61000 P
+#24938
+silver helm~
+silver helm~
+silver helm~
+unknown~
+armor 0 AE
+CE CE CE CE 0
+120 1 61000 P
+#24939
+silver mask~
+silver mask~
+silver mask~
+unknown~
+armor 0 AR
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24940
+silver leggings~
+silver leggings~
+silver leggings~
+unknown~
+armor 0 AF
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24941
+silver anklet~
+silver anklet~
+silver anklet~
+unknown~
+armor 0 AT
+BD BD BD BD 0
+120 1 61000 P
+#24942
+silver boots~
+silver boots~
+silver boots~
+unknown~
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24943
+silver gauntlets~
+silver gauntlets~
+silver gauntlets~
+unknown~
+armor 0 AH
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24944
+silver sleeves~
+silver sleeves~
+silver sleeves~
+unknown~
+armor 0 AI
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24945
+silver shield~
+silver shield~
+silver shield~
+unknown~
+armor 0 AJ
+BCE BCE BCE BCE 0
+120 1 61000 P
+#24946
+silver cloak~
+silver cloak~
+silver cloak~
+unknown~
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+120 1 61000 P
+#24947
+silver belt~
+silver belt~
+silver belt~
+unknown~
+armor 0 AL
+CD CD CD CD 0
+120 1 61000 P
+#24948
+silver wristguard~
+silver wristguard~
+silver wristguard~
+unknown~
+armor 0 AM
+CD CD CD CD 0
+120 1 61000 P
+#24949
+silver talisman~
+silver talisman~
+silver talisman~
+unknown~
+armor 0 AO
+BD BD BD BD 0
+120 1 61000 P
+#24950
+silver orb~
+silver orb~
+silver orb~
+unknown~
+armor 0 AQ
+CD CD CD CD 0
+120 1 61000 P
+#24951
+silver earrings~
+silver earrings~
+silver earrings~
+unknown~
+armor 0 AS
+BD BD BD BD 0
+120 1 61000 P
+#24952
+silver clan patch~
+silver clan patch~
+silver clan patch~
+unknown~
+armor 0 AU
+CD CD CD CD 0
+120 1 61000 P
+#24953
+silver chest patch~
+silver chest patch~
+silver chest patch~
+unknown~
+armor 0 AW
+CD CD CD CD 0
+120 1 61000 P
+#24954
+silver religion patch~
+silver religion patch~
+silver religion patch~
+unknown~
+armor 0 AV
+CD CD CD CD 0
+120 1 61000 P
+#24955
+platinum dagger~
+platinum dagger~
+platinum dagger~
+unknown~
+weapon 0 AN
+dagger 5 40 stab 0
+130 1 66000 P
+#24956
+platinum sword~
+platinum sword~
+platinum sword~
+unknown~
+weapon 0 AN
+sword 16 12 slash 0
+130 1 66000 P
+#24957
+platinum greatsword~
+platinum greatsword~
+platinum greatsword~
+unknown~
+weapon 0 AN
+sword 17 12 cleave F
+130 1 66000 P
+#24958
+platinum hand axe~
+platinum hand axe~
+platinum hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+130 1 66000 P
+#24959
+platinum battle axe~
+platinum battle axe~
+platinum battle axe~
+unknown~
+weapon 0 AN
+axe 20 10 chop F
+130 1 66000 P
+#24960
+platinum short spear~
+platinum short spear~
+platinum short spear~
+unknown~
+weapon 0 AN
+staff 2 101 pierce 0
+130 1 66000 P
+#24961
+platinum hunting spear~
+platinum hunting spear~
+platinum hunting spear~
+unknown~
+weapon 0 AN
+staff 2 109 thrust F
+130 1 66000 P
+#24962
+platinum mace~
+platinum mace~
+platinum mace~
+unknown~
+weapon 0 AN
+mace 25 7 pound 0
+130 1 66000 P
+#24963
+platinum great mace~
+platinum great mace~
+platinum great mace~
+unknown~
+weapon 0 AN
+mace 24 8 crush F
+130 1 66000 P
+#24964
+platinum flail~
+platinum flail~
+platinum flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+130 1 66000 P
+#24965
+platinum ball on chain~
+platinum ball on chain~
+platinum ball on chain~
+unknown~
+weapon 0 AN
+flail 37 5 smash F
+130 1 66000 P
+#24966
+platinum whip~
+platinum whip~
+platinum whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+130 1 66000 P
+#24967
+platinum halberd~
+platinum halberd~
+platinum halberd~
+unknown~
+weapon 0 AN
+polearm 24 8 charge F
+130 1 66000 P
+#24968
+platinum bola~
+platinum bola~
+platinum bola~
+unknown~
+weapon 0 AN
+exotic 17 11 thwack 0
+130 1 66000 P
+#24969
+platinum quarterstaff~
+platinum quarterstaff~
+platinum quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 190 slap F
+130 1 66000 P
+#24970
+platinum ring~
+platinum ring~
+platinum ring~
+unknown~
+armor 0 AB
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24971
+platinum medallion~
+platinum medallion~
+platinum medallion~
+unknown~
+armor 0 AC
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24972
+platinum breastplate~
+platinum breastplate~
+platinum breastplate~
+unknown~
+armor 0 AD
+ABDE ABDE ABDE ABDE 0
+130 1 66000 P
+#24973
+platinum helm~
+platinum helm~
+platinum helm~
+unknown~
+armor 0 AE
+BCE BCE BCE BCE 0
+130 1 66000 P
+#24974
+platinum mask~
+platinum mask~
+platinum mask~
+unknown~
+armor 0 AR
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24975
+platinum leggings~
+platinum leggings~
+platinum leggings~
+unknown~
+armor 0 AF
+AE AE AE AE 0
+130 1 66000 P
+#24976
+platinum anklet~
+platinum anklet~
+platinum anklet~
+unknown~
+armor 0 AT
+BD BD BD BD 0
+130 1 66000 P
+#24977
+platinum boots~
+platinum boots~
+platinum boots~
+unknown~
+armor 0 AG
+AE AE AE AE 0
+130 1 66000 P
+#24978
+platinum gauntlets~
+platinum gauntlets~
+platinum gauntlets~
+unknown~
+armor 0 AH
+AE AE AE AE 0
+130 1 66000 P
+#24979
+platinum sleeves~
+platinum sleeves~
+platinum sleeves~
+unknown~
+armor 0 AI
+AE AE AE AE 0
+130 1 66000 P
+#24980
+platinum shield~
+platinum shield~
+platinum shield~
+unknown~
+armor 0 AJ
+ADE ADE ADE ADE 0
+130 1 66000 P
+#24981
+platinum cloak~
+platinum cloak~
+platinum cloak~
+unknown~
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24982
+platinum belt~
+platinum belt~
+platinum belt~
+unknown~
+armor 0 AL
+CD CD CD CD 0
+130 1 66000 P
+#24983
+platinum wristguard~
+platinum wristguard~
+platinum wristguard~
+unknown~
+armor 0 AM
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24984
+platinum talisman~
+platinum talisman~
+platinum talisman~
+unknown~
+armor 0 AO
+BD BD BD BD 0
+130 1 66000 P
+#24985
+platinum orb~
+platinum orb~
+platinum orb~
+unknown~
+armor 0 AQ
+CD CD CD CD 0
+130 1 66000 P
+#24986
+platinum earrings~
+platinum earrings~
+platinum earrings~
+unknown~
+armor 0 AS
+BD BD BD BD 0
+130 1 66000 P
+#24987
+platinum clan patch~
+platinum clan patch~
+platinum clan patch~
+unknown~
+armor 0 AU
+ABCD ABCD ABCD ABCD 0
+130 1 66000 P
+#24988
+platinum chest patch~
+platinum chest patch~
+platinum chest patch~
+unknown~
+armor 0 AW
+CD CD CD CD 0
+130 1 66000 P
+#24989
+platinum religion patch~
+platinum religion patch~
+platinum religion patch~
+unknown~
+armor 0 AV
+CD CD CD CD 0
+130 1 66000 P
+#24990
+glass dagger~
+glass dagger~
+glass dagger~
+unknown~
+weapon 0 AN
+dagger 5 40 stab 0
+140 1 71000 P
+#24991
+glass sword~
+glass sword~
+glass sword~
+unknown~
+weapon 0 AN
+sword 16 12 slash 0
+140 1 71000 P
+#24992
+glass greatsword~
+glass greatsword~
+glass greatsword~
+unknown~
+weapon 0 AN
+sword 17 12 cleave F
+140 1 71000 P
+#24993
+glass hand axe~
+glass hand axe~
+glass hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+140 1 71000 P
+#24994
+glass battle axe~
+glass battle axe~
+glass battle axe~
+unknown~
+weapon 0 AN
+axe 20 10 chop F
+140 1 71000 P
+#24995
+glass short spear~
+glass short spear~
+glass short spear~
+unknown~
+weapon 0 AN
+staff 2 101 pierce 0
+140 1 71000 P
+#24996
+glass hunting spear~
+glass hunting spear~
+glass hunting spear~
+unknown~
+weapon 0 AN
+staff 2 110 thrust F
+140 1 71000 P
+#24997
+glass mace~
+glass mace~
+glass mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+140 1 71000 P
+#24998
+glass great mace~
+glass great mace~
+glass great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+140 1 71000 P
+#24999
+glass flail~
+glass flail~
+glass flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+140 1 71000 P
+#25000
+glass ball on chain~
+glass ball on chain~
+glass ball on chain~
+unknown~
+weapon 0 AN
+flail 37 5 smash F
+140 1 71000 P
+#25001
+glass whip~
+glass whip~
+glass whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+140 1 71000 P
+#25002
+glass halberd~
+glass halberd~
+glass halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+140 1 71000 P
+#25003
+glass bola~
+glass bola~
+glass bola~
+unknown~
+weapon 0 AN
+exotic 17 11 thwack 0
+140 1 71000 P
+#25004
+glass quarterstaff~
+glass quarterstaff~
+glass quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 195 slap F
+140 1 71000 P
+#25005
+glass ring~
+glass ring~
+glass ring~
+unknown~
+armor 0 AB
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25006
+glass medallion~
+glass medallion~
+glass medallion~
+unknown~
+armor 0 AC
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25007
+glass breastplate~
+glass breastplate~
+glass breastplate~
+unknown~
+armor 0 AD
+BCDE BCDE BCDE BCDE 0
+140 1 71000 P
+#25008
+glass helm~
+glass helm~
+glass helm~
+unknown~
+armor 0 AE
+ADE ADE ADE ADE 0
+140 1 71000 P
+#25009
+glass mask~
+glass mask~
+glass mask~
+unknown~
+armor 0 AR
+CE CE CE CE 0
+140 1 71000 P
+#25010
+glass leggings~
+glass leggings~
+glass leggings~
+unknown~
+armor 0 AF
+AE AE AE AE 0
+140 1 71000 P
+#25011
+glass anklet~
+glass anklet~
+glass anklet~
+unknown~
+armor 0 AT
+BD BD BD BD 0
+140 1 71000 P
+#25012
+glass boots~
+glass boots~
+glass boots~
+unknown~
+armor 0 AG
+AE AE AE AE 0
+140 1 71000 P
+#25013
+glass gauntlets~
+glass gauntlets~
+glass gauntlets~
+unknown~
+armor 0 AH
+AE AE AE AE 0
+140 1 71000 P
+#25014
+glass sleeves~
+glass sleeves~
+glass sleeves~
+unknown~
+armor 0 AI
+AE AE AE AE 0
+140 1 71000 P
+#25015
+glass shield~
+glass shield~
+glass shield~
+unknown~
+armor 0 AJ
+ABDE ABDE ABDE ABDE 0
+140 1 71000 P
+#25016
+glass cloak~
+glass cloak~
+glass cloak~
+unknown~
+armor 0 AK
+CE CE CE CE 0
+140 1 71000 P
+#25017
+glass belt~
+glass belt~
+glass belt~
+unknown~
+armor 0 AL
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25018
+glass wristguard~
+glass wristguard~
+glass wristguard~
+unknown~
+armor 0 AM
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25019
+glass talisman~
+glass talisman~
+glass talisman~
+unknown~
+armor 0 AO
+BD BD BD BD 0
+140 1 71000 P
+#25020
+glass orb~
+glass orb~
+glass orb~
+unknown~
+armor 0 AQ
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25021
+glass earrings~
+glass earrings~
+glass earrings~
+unknown~
+armor 0 AS
+BD BD BD BD 0
+140 1 71000 P
+#25022
+glass clan patch~
+glass clan patch~
+glass clan patch~
+unknown~
+armor 0 AU
+ABCD ABCD ABCD ABCD 0
+140 1 71000 P
+#25023
+glass chest patch~
+glass chest patch~
+glass chest patch~
+unknown~
+armor 0 AW
+CD CD CD CD 0
+140 1 71000 P
+#25024
+glass religion patch~
+glass religion patch~
+glass religion patch~
+unknown~
+armor 0 AV
+CD CD CD CD 0
+140 1 71000 P
+#25025
+quartz dagger~
+quartz dagger~
+quartz dagger~
+unknown~
+weapon 0 AN
+dagger 5 41 stab 0
+150 1 76000 P
+#25026
+quartz sword~
+quartz sword~
+quartz sword~
+unknown~
+weapon 0 AN
+sword 16 12 slash 0
+150 1 76000 P
+#25027
+quartz greatsword~
+quartz greatsword~
+quartz greatsword~
+unknown~
+weapon 0 AN
+sword 16 13 cleave F
+150 1 76000 P
+#25028
+quartz hand axe~
+quartz hand axe~
+quartz hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+150 1 76000 P
+#25029
+quartz battle axe~
+quartz battle axe~
+quartz battle axe~
+unknown~
+weapon 0 AN
+axe 20 10 chop F
+150 1 76000 P
+#25030
+quartz short spear~
+quartz short spear~
+quartz short spear~
+unknown~
+weapon 0 AN
+staff 2 101 pierce 0
+150 1 76000 P
+#25031
+quartz hunting spear~
+quartz hunting spear~
+quartz hunting spear~
+unknown~
+weapon 0 AN
+staff 2 110 thrust F
+150 1 76000 P
+#25032
+quartz mace~
+quartz mace~
+quartz mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+150 1 76000 P
+#25033
+quartz great mace~
+quartz great mace~
+quartz great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+150 1 76000 P
+#25034
+quartz flail~
+quartz flail~
+quartz flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+150 1 76000 P
+#25035
+quartz ball on chain~
+quartz ball on chain~
+quartz ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+150 1 76000 P
+#25036
+quartz whip~
+quartz whip~
+quartz whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+150 1 76000 P
+#25037
+quartz halberd~
+quartz halberd~
+quartz halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+150 1 76000 P
+#25038
+quartz bola~
+quartz bola~
+quartz bola~
+unknown~
+weapon 0 AN
+exotic 16 12 thwack 0
+150 1 76000 P
+#25039
+quartz quarterstaff~
+quartz quarterstaff~
+quartz quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+150 1 76000 P
+#25040
+quartz ring~
+quartz ring~
+quartz ring~
+unknown~
+armor 0 AB
+AE AE AE AE 0
+150 1 76000 P
+#25041
+quartz medallion~
+quartz medallion~
+quartz medallion~
+unknown~
+armor 0 AC
+AE AE AE AE 0
+150 1 76000 P
+#25042
+quartz breastplate~
+quartz breastplate~
+quartz breastplate~
+unknown~
+armor 0 AD
+F F F F 0
+150 1 76000 P
+#25043
+quartz helm~
+quartz helm~
+quartz helm~
+unknown~
+armor 0 AE
+ABDE ABDE ABDE ABDE 0
+150 1 76000 P
+#25044
+quartz mask~
+quartz mask~
+quartz mask~
+unknown~
+armor 0 AR
+CE CE CE CE 0
+150 1 76000 P
+#25045
+quartz leggings~
+quartz leggings~
+quartz leggings~
+unknown~
+armor 0 AF
+CE CE CE CE 0
+150 1 76000 P
+#25046
+quartz anklet~
+quartz anklet~
+quartz anklet~
+unknown~
+armor 0 AT
+CD CD CD CD 0
+150 1 76000 P
+#25047
+quartz boots~
+quartz boots~
+quartz boots~
+unknown~
+armor 0 AG
+CE CE CE CE 0
+150 1 76000 P
+#25048
+quartz gauntlets~
+quartz gauntlets~
+quartz gauntlets~
+unknown~
+armor 0 AH
+CE CE CE CE 0
+150 1 76000 P
+#25049
+quartz sleeves~
+quartz sleeves~
+quartz sleeves~
+unknown~
+armor 0 AI
+CE CE CE CE 0
+150 1 76000 P
+#25050
+quartz shield~
+quartz shield~
+quartz shield~
+unknown~
+armor 0 AJ
+BCDE BCDE BCDE BCDE 0
+150 1 76000 P
+#25051
+quartz cloak~
+quartz cloak~
+quartz cloak~
+unknown~
+armor 0 AK
+CE CE CE CE 0
+150 1 76000 P
+#25052
+quartz belt~
+quartz belt~
+quartz belt~
+unknown~
+armor 0 AL
+AE AE AE AE 0
+150 1 76000 P
+#25053
+quartz wristguard~
+quartz wristguard~
+quartz wristguard~
+unknown~
+armor 0 AM
+AE AE AE AE 0
+150 1 76000 P
+#25054
+quartz talisman~
+quartz talisman~
+quartz talisman~
+unknown~
+armor 0 AO
+CD CD CD CD 0
+150 1 76000 P
+#25055
+quartz orb~
+quartz orb~
+quartz orb~
+unknown~
+armor 0 AQ
+AE AE AE AE 0
+150 1 76000 P
+#25056
+quartz earrings~
+quartz earrings~
+quartz earrings~
+unknown~
+armor 0 AS
+CD CD CD CD 0
+150 1 76000 P
+#25057
+quartz clan patch~
+quartz clan patch~
+quartz clan patch~
+unknown~
+armor 0 AU
+AE AE AE AE 0
+150 1 76000 P
+#25058
+quartz chest patch~
+quartz chest patch~
+quartz chest patch~
+unknown~
+armor 0 AW
+ABCD ABCD ABCD ABCD 0
+150 1 76000 P
+#25059
+quartz religion patch~
+quartz religion patch~
+quartz religion patch~
+unknown~
+armor 0 AV
+ABCD ABCD ABCD ABCD 0
+150 1 76000 P
+#25060
+diamond dagger~
+diamond dagger~
+diamond dagger~
+unknown~
+weapon 0 AN
+dagger 5 41 stab 0
+160 1 81000 P
+#25061
+diamond sword~
+diamond sword~
+diamond sword~
+unknown~
+weapon 0 AN
+sword 16 12 slash 0
+160 1 81000 P
+#25062
+diamond greatsword~
+diamond greatsword~
+diamond greatsword~
+unknown~
+weapon 0 AN
+sword 16 13 cleave F
+160 1 81000 P
+#25063
+diamond hand axe~
+diamond hand axe~
+diamond hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+160 1 81000 P
+#25064
+diamond battle axe~
+diamond battle axe~
+diamond battle axe~
+unknown~
+weapon 0 AN
+axe 21 10 chop F
+160 1 81000 P
+#25065
+diamond short spear~
+diamond short spear~
+diamond short spear~
+unknown~
+weapon 0 AN
+staff 2 103 pierce 0
+160 1 81000 P
+#25066
+diamond hunting spear~
+diamond hunting spear~
+diamond hunting spear~
+unknown~
+weapon 0 AN
+staff 2 111 thrust F
+160 1 81000 P
+#25067
+diamond mace~
+diamond mace~
+diamond mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+160 1 81000 P
+#25068
+diamond great mace~
+diamond great mace~
+diamond great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+160 1 81000 P
+#25069
+diamond flail~
+diamond flail~
+diamond flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+160 1 81000 P
+#25070
+diamond ball on chain~
+diamond ball on chain~
+diamond ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+160 1 81000 P
+#25071
+diamond whip~
+diamond whip~
+diamond whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+160 1 81000 P
+#25072
+diamond halberd~
+diamond halberd~
+diamond halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+160 1 81000 P
+#25073
+diamond bola~
+diamond bola~
+diamond bola~
+unknown~
+weapon 0 AN
+exotic 16 12 thwack 0
+160 1 81000 P
+#25074
+diamond quarterstaff~
+diamond quarterstaff~
+diamond quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+160 1 81000 P
+#25075
+diamond ring~
+diamond ring~
+diamond ring~
+unknown~
+armor 0 AB
+AE AE AE AE 0
+160 1 81000 P
+#25076
+diamond medallion~
+diamond medallion~
+diamond medallion~
+unknown~
+armor 0 AC
+AE AE AE AE 0
+160 1 81000 P
+#25077
+diamond breastplate~
+diamond breastplate~
+diamond breastplate~
+unknown~
+armor 0 AD
+ABF ABF ABF ABF 0
+160 1 81000 P
+#25078
+diamond helm~
+diamond helm~
+diamond helm~
+unknown~
+armor 0 AE
+BCDE BCDE BCDE BCDE 0
+160 1 81000 P
+#25079
+diamond mask~
+diamond mask~
+diamond mask~
+unknown~
+armor 0 AR
+ADE ADE ADE ADE 0
+160 1 81000 P
+#25080
+diamond leggings~
+diamond leggings~
+diamond leggings~
+unknown~
+armor 0 AF
+CE CE CE CE 0
+160 1 81000 P
+#25081
+diamond anklet~
+diamond anklet~
+diamond anklet~
+unknown~
+armor 0 AT
+CD CD CD CD 0
+160 1 81000 P
+#25082
+diamond boots~
+diamond boots~
+diamond boots~
+unknown~
+armor 0 AG
+BCE BCE BCE BCE 0
+160 1 81000 P
+#25083
+diamond gauntlets~
+diamond gauntlets~
+diamond gauntlets~
+unknown~
+armor 0 AH
+CE CE CE CE 0
+160 1 81000 P
+#25084
+diamond sleeves~
+diamond sleeves~
+diamond sleeves~
+unknown~
+armor 0 AI
+BCE BCE BCE BCE 0
+160 1 81000 P
+#25085
+diamond shield~
+diamond shield~
+diamond shield~
+unknown~
+armor 0 AJ
+F F F F 0
+160 1 81000 P
+#25086
+diamond cloak~
+diamond cloak~
+diamond cloak~
+unknown~
+armor 0 AK
+ADE ADE ADE ADE 0
+160 1 81000 P
+#25087
+diamond belt~
+diamond belt~
+diamond belt~
+unknown~
+armor 0 AL
+CE CE CE CE 0
+160 1 81000 P
+#25088
+diamond wristguard~
+diamond wristguard~
+diamond wristguard~
+unknown~
+armor 0 AM
+AE AE AE AE 0
+160 1 81000 P
+#25089
+diamond talisman~
+diamond talisman~
+diamond talisman~
+unknown~
+armor 0 AO
+CD CD CD CD 0
+160 1 81000 P
+#25090
+diamond orb~
+diamond orb~
+diamond orb~
+unknown~
+armor 0 AQ
+CE CE CE CE 0
+160 1 81000 P
+#25091
+diamond earrings~
+diamond earrings~
+diamond earrings~
+unknown~
+armor 0 AS
+CD CD CD CD 0
+160 1 81000 P
+#25092
+diamond clan patch~
+diamond clan patch~
+diamond clan patch~
+unknown~
+armor 0 AU
+AE AE AE AE 0
+160 1 81000 P
+#25093
+diamond chest patch~
+diamond chest patch~
+diamond chest patch~
+unknown~
+armor 0 AW
+ABCD ABCD ABCD ABCD 0
+160 1 81000 P
+#25094
+diamond religion patch~
+diamond religion patch~
+diamond religion patch~
+unknown~
+armor 0 AV
+ABCD ABCD ABCD ABCD 0
+160 1 81000 P
+#25095
+obsidian dagger~
+obsidian dagger~
+obsidian dagger~
+unknown~
+weapon 0 AN
+dagger 5 41 stab 0
+170 1 86000 P
+#25096
+obsidian sword~
+obsidian sword~
+obsidian sword~
+unknown~
+weapon 0 AN
+sword 15 13 slash 0
+170 1 86000 P
+#25097
+obsidian greatsword~
+obsidian greatsword~
+obsidian greatsword~
+unknown~
+weapon 0 AN
+sword 16 13 cleave F
+170 1 86000 P
+#25098
+obsidian hand axe~
+obsidian hand axe~
+obsidian hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+170 1 86000 P
+#25099
+obsidian battle axe~
+obsidian battle axe~
+obsidian battle axe~
+unknown~
+weapon 0 AN
+axe 21 10 chop F
+170 1 86000 P
+#25100
+obsidian short spear~
+obsidian short spear~
+obsidian short spear~
+unknown~
+weapon 0 AN
+staff 2 103 pierce 0
+170 1 86000 P
+#25101
+obsidian hunting spear~
+obsidian hunting spear~
+obsidian hunting spear~
+unknown~
+weapon 0 AN
+staff 2 111 thrust F
+170 1 86000 P
+#25102
+obsidian mace~
+obsidian mace~
+obsidian mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+170 1 86000 P
+#25103
+obsidian great mace~
+obsidian great mace~
+obsidian great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+170 1 86000 P
+#25104
+obsidian flail~
+obsidian flail~
+obsidian flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+170 1 86000 P
+#25105
+obsidian ball on chain~
+obsidian ball on chain~
+obsidian ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+170 1 86000 P
+#25106
+obsidian whip~
+obsidian whip~
+obsidian whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+170 1 86000 P
+#25107
+obsidian halberd~
+obsidian halberd~
+obsidian halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+170 1 86000 P
+#25108
+obsidian bola~
+obsidian bola~
+obsidian bola~
+unknown~
+weapon 0 AN
+exotic 16 12 thwack 0
+170 1 86000 P
+#25109
+obsidian quarterstaff~
+obsidian quarterstaff~
+obsidian quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+170 1 86000 P
+#25110
+obsidian ring~
+obsidian ring~
+obsidian ring~
+unknown~
+armor 0 AB
+CE CE CE CE 0
+170 1 86000 P
+#25111
+obsidian medallion~
+obsidian medallion~
+obsidian medallion~
+unknown~
+armor 0 AC
+CE CE CE CE 0
+170 1 86000 P
+#25112
+obsidian breastplate~
+obsidian breastplate~
+obsidian breastplate~
+unknown~
+armor 0 AD
+ACF ACF ACF ACF 0
+170 1 86000 P
+#25113
+obsidian helm~
+obsidian helm~
+obsidian helm~
+unknown~
+armor 0 AE
+F F F F 0
+170 1 86000 P
+#25114
+obsidian mask~
+obsidian mask~
+obsidian mask~
+unknown~
+armor 0 AR
+ABDE ABDE ABDE ABDE 0
+170 1 86000 P
+#25115
+obsidian leggings~
+obsidian leggings~
+obsidian leggings~
+unknown~
+armor 0 AF
+BCE BCE BCE BCE 0
+170 1 86000 P
+#25116
+obsidian anklet~
+obsidian anklet~
+obsidian anklet~
+unknown~
+armor 0 AT
+CD CD CD CD 0
+170 1 86000 P
+#25117
+obsidian boots~
+obsidian boots~
+obsidian boots~
+unknown~
+armor 0 AG
+ADE ADE ADE ADE 0
+170 1 86000 P
+#25118
+obsidian gauntlets~
+obsidian gauntlets~
+obsidian gauntlets~
+unknown~
+armor 0 AH
+BCE BCE BCE BCE 0
+170 1 86000 P
+#25119
+obsidian sleeves~
+obsidian sleeves~
+obsidian sleeves~
+unknown~
+armor 0 AI
+ADE ADE ADE ADE 0
+170 1 86000 P
+#25120
+obsidian shield~
+obsidian shield~
+obsidian shield~
+unknown~
+armor 0 AJ
+ABF ABF ABF ABF 0
+170 1 86000 P
+#25121
+obsidian cloak~
+obsidian cloak~
+obsidian cloak~
+unknown~
+armor 0 AK
+ABDE ABDE ABDE ABDE 0
+170 1 86000 P
+#25122
+obsidian belt~
+obsidian belt~
+obsidian belt~
+unknown~
+armor 0 AL
+BCE BCE BCE BCE 0
+170 1 86000 P
+#25123
+obsidian wristguard~
+obsidian wristguard~
+obsidian wristguard~
+unknown~
+armor 0 AM
+CE CE CE CE 0
+170 1 86000 P
+#25124
+obsidian talisman~
+obsidian talisman~
+obsidian talisman~
+unknown~
+armor 0 AO
+CD CD CD CD 0
+170 1 86000 P
+#25125
+obsidian orb~
+obsidian orb~
+obsidian orb~
+unknown~
+armor 0 AQ
+BCE BCE BCE BCE 0
+170 1 86000 P
+#25126
+obsidian earrings~
+obsidian earrings~
+obsidian earrings~
+unknown~
+armor 0 AS
+CD CD CD CD 0
+170 1 86000 P
+#25127
+obsidian clan patch~
+obsidian clan patch~
+obsidian clan patch~
+unknown~
+armor 0 AU
+CE CE CE CE 0
+170 1 86000 P
+#25128
+obsidian chest patch~
+obsidian chest patch~
+obsidian chest patch~
+unknown~
+armor 0 AW
+AE AE AE AE 0
+170 1 86000 P
+#25129
+obsidian religion patch~
+obsidian religion patch~
+obsidian religion patch~
+unknown~
+armor 0 AV
+AE AE AE AE 0
+170 1 86000 P
+#25130
+mithril dagger~
+mithril dagger~
+mithril dagger~
+unknown~
+weapon 0 AN
+dagger 5 41 stab 0
+180 1 91000 P
+#25131
+mithril sword~
+mithril sword~
+mithril sword~
+unknown~
+weapon 0 AN
+sword 15 13 slash 0
+180 1 91000 P
+#25132
+mithril greatsword~
+mithril greatsword~
+mithril greatsword~
+unknown~
+weapon 0 AN
+sword 16 13 cleave F
+180 1 91000 P
+#25133
+mithril hand axe~
+mithril hand axe~
+mithril hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+180 1 91000 P
+#25134
+mithril battle axe~
+mithril battle axe~
+mithril battle axe~
+unknown~
+weapon 0 AN
+axe 21 10 chop F
+180 1 91000 P
+#25135
+mithril short spear~
+mithril short spear~
+mithril short spear~
+unknown~
+weapon 0 AN
+staff 2 104 pierce 0
+180 1 91000 P
+#25136
+mithril hunting spear~
+mithril hunting spear~
+mithril hunting spear~
+unknown~
+weapon 0 AN
+staff 2 114 thrust F
+180 1 91000 P
+#25137
+mithril mace~
+mithril mace~
+mithril mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+180 1 91000 P
+#25138
+mithril great mace~
+mithril great mace~
+mithril great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+180 1 91000 P
+#25139
+mithril flail~
+mithril flail~
+mithril flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+180 1 91000 P
+#25140
+mithril ball on chain~
+mithril ball on chain~
+mithril ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+180 1 91000 P
+#25141
+mithril whip~
+mithril whip~
+mithril whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+180 1 91000 P
+#25142
+mithril halberd~
+mithril halberd~
+mithril halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+180 1 91000 P
+#25143
+mithril bola~
+mithril bola~
+mithril bola~
+unknown~
+weapon 0 AN
+exotic 16 12 thwack 0
+180 1 91000 P
+#25144
+mithril quarterstaff~
+mithril quarterstaff~
+mithril quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+180 1 91000 P
+#25145
+mithril ring~
+mithril ring~
+mithril ring~
+unknown~
+armor 0 AB
+CE CE CE CE 0
+180 1 91000 P
+#25146
+mithril medallion~
+mithril medallion~
+mithril medallion~
+unknown~
+armor 0 AC
+CE CE CE CE 0
+180 1 91000 P
+#25147
+mithril breastplate~
+mithril breastplate~
+mithril breastplate~
+unknown~
+armor 0 AD
+DF DF DF DF 0
+180 1 91000 P
+#25148
+mithril helm~
+mithril helm~
+mithril helm~
+unknown~
+armor 0 AE
+ABF ABF ABF ABF 0
+180 1 91000 P
+#25149
+mithril mask~
+mithril mask~
+mithril mask~
+unknown~
+armor 0 AR
+BCDE BCDE BCDE BCDE 0
+180 1 91000 P
+#25150
+mithril leggings~
+mithril leggings~
+mithril leggings~
+unknown~
+armor 0 AF
+BCE BCE BCE BCE 0
+180 1 91000 P
+#25151
+mithril anklet~
+mithril anklet~
+mithril anklet~
+unknown~
+armor 0 AT
+ABCD ABCD ABCD ABCD 0
+180 1 91000 P
+#25152
+mithril boots~
+mithril boots~
+mithril boots~
+unknown~
+armor 0 AG
+ABDE ABDE ABDE ABDE 0
+180 1 91000 P
+#25153
+mithril gauntlets~
+mithril gauntlets~
+mithril gauntlets~
+unknown~
+armor 0 AH
+BCE BCE BCE BCE 0
+180 1 91000 P
+#25154
+mithril sleeves~
+mithril sleeves~
+mithril sleeves~
+unknown~
+armor 0 AI
+ABDE ABDE ABDE ABDE 0
+180 1 91000 P
+#25155
+mithril shield~
+mithril shield~
+mithril shield~
+unknown~
+armor 0 AJ
+ACF ACF ACF ACF 0
+180 1 91000 P
+#25156
+mithril cloak~
+mithril cloak~
+mithril cloak~
+unknown~
+armor 0 AK
+BCDE BCDE BCDE BCDE 0
+180 1 91000 P
+#25157
+mithril belt~
+mithril belt~
+mithril belt~
+unknown~
+armor 0 AL
+ADE ADE ADE ADE 0
+180 1 91000 P
+#25158
+mithril wristguard~
+mithril wristguard~
+mithril wristguard~
+unknown~
+armor 0 AM
+CE CE CE CE 0
+180 1 91000 P
+#25159
+mithril talisman~
+mithril talisman~
+mithril talisman~
+unknown~
+armor 0 AO
+ABCD ABCD ABCD ABCD 0
+180 1 91000 P
+#25160
+mithril orb~
+mithril orb~
+mithril orb~
+unknown~
+armor 0 AQ
+ADE ADE ADE ADE 0
+180 1 91000 P
+#25161
+mithril earrings~
+mithril earrings~
+mithril earrings~
+unknown~
+armor 0 AS
+ABCD ABCD ABCD ABCD 0
+180 1 91000 P
+#25162
+mithril clan patch~
+mithril clan patch~
+mithril clan patch~
+unknown~
+armor 0 AU
+CE CE CE CE 0
+180 1 91000 P
+#25163
+mithril chest patch~
+mithril chest patch~
+mithril chest patch~
+unknown~
+armor 0 AW
+AE AE AE AE 0
+180 1 91000 P
+#25164
+mithril religion patch~
+mithril religion patch~
+mithril religion patch~
+unknown~
+armor 0 AV
+AE AE AE AE 0
+180 1 91000 P
+#25165
+adamantium dagger~
+adamantium dagger~
+adamantium dagger~
+unknown~
+weapon 0 AN
+dagger 5 41 stab 0
+190 1 96000 P
+#25166
+adamantium sword~
+adamantium sword~
+adamantium sword~
+unknown~
+weapon 0 AN
+sword 15 13 slash 0
+190 1 96000 P
+#25167
+adamantium greatsword~
+adamantium greatsword~
+adamantium greatsword~
+unknown~
+weapon 0 AN
+sword 18 12 cleave F
+190 1 96000 P
+#25168
+adamantium hand axe~
+adamantium hand axe~
+adamantium hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+190 1 96000 P
+#25169
+adamantium battle axe~
+adamantium battle axe~
+adamantium battle axe~
+unknown~
+weapon 0 AN
+axe 21 10 chop F
+190 1 96000 P
+#25170
+adamantium short spear~
+adamantium short spear~
+adamantium short spear~
+unknown~
+weapon 0 AN
+staff 2 104 pierce 0
+190 1 96000 P
+#25171
+adamantium hunting spear~
+adamantium hunting spear~
+adamantium hunting spear~
+unknown~
+weapon 0 AN
+staff 2 114 thrust F
+190 1 96000 P
+#25172
+adamantium mace~
+adamantium mace~
+adamantium mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+190 1 96000 P
+#25173
+adamantium great mace~
+adamantium great mace~
+adamantium great mace~
+unknown~
+weapon 0 AN
+mace 25 8 crush F
+190 1 96000 P
+#25174
+adamantium flail~
+adamantium flail~
+adamantium flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+190 1 96000 P
+#25175
+adamantium ball on chain~
+adamantium ball on chain~
+adamantium ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+190 1 96000 P
+#25176
+adamantium whip~
+adamantium whip~
+adamantium whip~
+unknown~
+weapon 0 AN
+whip 1 205 sting 0
+190 1 96000 P
+#25177
+adamantium halberd~
+adamantium halberd~
+adamantium halberd~
+unknown~
+weapon 0 AN
+polearm 25 8 charge F
+190 1 96000 P
+#25178
+adamantium bola~
+adamantium bola~
+adamantium bola~
+unknown~
+weapon 0 AN
+exotic 15 13 thwack 0
+190 1 96000 P
+#25179
+adamantium quarterstaff~
+adamantium quarterstaff~
+adamantium quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+190 1 96000 P
+#25180
+adamantium ring~
+adamantium ring~
+adamantium ring~
+unknown~
+armor 0 AB
+BCE BCE BCE BCE 0
+190 1 96000 P
+#25181
+adamantium medallion~
+adamantium medallion~
+adamantium medallion~
+unknown~
+armor 0 AC
+BCE BCE BCE BCE 0
+190 1 96000 P
+#25182
+adamantium breastplate~
+adamantium breastplate~
+adamantium breastplate~
+unknown~
+armor 0 AD
+BDF BDF BDF BDF 0
+190 1 96000 P
+#25183
+adamantium helm~
+adamantium helm~
+adamantium helm~
+unknown~
+armor 0 AE
+ACF ACF ACF ACF 0
+190 1 96000 P
+#25184
+adamantium mask~
+adamantium mask~
+adamantium mask~
+unknown~
+armor 0 AR
+F F F F 0
+190 1 96000 P
+#25185
+adamantium leggings~
+adamantium leggings~
+adamantium leggings~
+unknown~
+armor 0 AF
+ADE ADE ADE ADE 0
+190 1 96000 P
+#25186
+adamantium anklet~
+adamantium anklet~
+adamantium anklet~
+unknown~
+armor 0 AT
+ABCD ABCD ABCD ABCD 0
+190 1 96000 P
+#25187
+adamantium boots~
+adamantium boots~
+adamantium boots~
+unknown~
+armor 0 AG
+BCDE BCDE BCDE BCDE 0
+190 1 96000 P
+#25188
+adamantium gauntlets~
+adamantium gauntlets~
+adamantium gauntlets~
+unknown~
+armor 0 AH
+ADE ADE ADE ADE 0
+190 1 96000 P
+#25189
+adamantium sleeves~
+adamantium sleeves~
+adamantium sleeves~
+unknown~
+armor 0 AI
+BCDE BCDE BCDE BCDE 0
+190 1 96000 P
+#25190
+adamantium shield~
+adamantium shield~
+adamantium shield~
+unknown~
+armor 0 AJ
+DF DF DF DF 0
+190 1 96000 P
+#25191
+adamantium cloak~
+adamantium cloak~
+adamantium cloak~
+unknown~
+armor 0 AK
+F F F F 0
+190 1 96000 P
+#25192
+adamantium belt~
+adamantium belt~
+adamantium belt~
+unknown~
+armor 0 AL
+ABDE ABDE ABDE ABDE 0
+190 1 96000 P
+#25193
+adamantium wristguard~
+adamantium wristguard~
+adamantium wristguard~
+unknown~
+armor 0 AM
+BCE BCE BCE BCE 0
+190 1 96000 P
+#25194
+adamantium talisman~
+adamantium talisman~
+adamantium talisman~
+unknown~
+armor 0 AO
+ABCD ABCD ABCD ABCD 0
+190 1 96000 P
+#25195
+adamantium orb~
+adamantium orb~
+adamantium orb~
+unknown~
+armor 0 AQ
+ABDE ABDE ABDE ABDE 0
+190 1 96000 P
+#25196
+adamantium earrings~
+adamantium earrings~
+adamantium earrings~
+unknown~
+armor 0 AS
+ABCD ABCD ABCD ABCD 0
+190 1 96000 P
+#25197
+adamantium clan patch~
+adamantium clan patch~
+adamantium clan patch~
+unknown~
+armor 0 AU
+BCE BCE BCE BCE 0
+190 1 96000 P
+#25198
+adamantium chest patch~
+adamantium chest patch~
+adamantium chest patch~
+unknown~
+armor 0 AW
+CE CE CE CE 0
+190 1 96000 P
+#25199
+adamantium religion patch~
+adamantium religion patch~
+adamantium religion patch~
+unknown~
+armor 0 AV
+CE CE CE CE 0
+190 1 96000 P
+#25200
+shadowsteel dagger~
+shadowsteel dagger~
+shadowsteel dagger~
+unknown~
+weapon 0 AN
+dagger 5 42 stab 0
+200 1 101000 P
+#25201
+shadowsteel sword~
+shadowsteel sword~
+shadowsteel sword~
+unknown~
+weapon 0 AN
+sword 15 13 slash 0
+200 1 101000 P
+#25202
+shadowsteel greatsword~
+shadowsteel greatsword~
+shadowsteel greatsword~
+unknown~
+weapon 0 AN
+sword 18 12 cleave F
+200 1 101000 P
+#25203
+shadowsteel hand axe~
+shadowsteel hand axe~
+shadowsteel hand axe~
+unknown~
+weapon 0 AN
+axe 19 10 chop 0
+200 1 101000 P
+#25204
+shadowsteel battle axe~
+shadowsteel battle axe~
+shadowsteel battle axe~
+unknown~
+weapon 0 AN
+axe 21 10 chop F
+200 1 101000 P
+#25205
+shadowsteel short spear~
+shadowsteel short spear~
+shadowsteel short spear~
+unknown~
+weapon 0 AN
+staff 2 105 pierce 0
+200 1 101000 P
+#25206
+shadowsteel hunting spear~
+shadowsteel hunting spear~
+shadowsteel hunting spear~
+unknown~
+weapon 0 AN
+staff 2 115 thrust F
+200 1 101000 P
+#25207
+shadowsteel mace~
+shadowsteel mace~
+shadowsteel mace~
+unknown~
+weapon 0 AN
+mace 26 7 pound 0
+200 1 101000 P
+#25208
+shadowsteel great mace~
+shadowsteel great mace~
+shadowsteel great mace~
+unknown~
+weapon 0 AN
+mace 26 8 crush F
+200 1 101000 P
+#25209
+shadowsteel flail~
+shadowsteel flail~
+shadowsteel flail~
+unknown~
+weapon 0 AN
+flail 35 5 beating 0
+200 1 101000 P
+#25210
+shadowsteel ball on chain~
+shadowsteel ball on chain~
+shadowsteel ball on chain~
+unknown~
+weapon 0 AN
+flail 38 5 smash F
+200 1 101000 P
+#25211
+shadowsteel whip~
+shadowsteel whip~
+shadowsteel whip~
+unknown~
+weapon 0 AN
+whip 1 210 sting 0
+200 1 101000 P
+#25212
+shadowsteel halberd~
+shadowsteel halberd~
+shadowsteel halberd~
+unknown~
+weapon 0 AN
+polearm 26 8 charge F
+200 1 101000 P
+#25213
+shadowsteel bola~
+shadowsteel bola~
+shadowsteel bola~
+unknown~
+weapon 0 AN
+exotic 15 13 thwack 0
+200 1 101000 P
+#25214
+shadowsteel quarterstaff~
+shadowsteel quarterstaff~
+shadowsteel quarterstaff~
+unknown~
+weapon 0 AN
+exotic 1 205 slap F
+200 1 101000 P
+#25215
+shadowsteel ring~
+shadowsteel ring~
+shadowsteel ring~
+unknown~
+armor 0 AB
+ADE ADE ADE ADE 0
+200 1 101000 P
+#25216
+shadowsteel medallion~
+shadowsteel medallion~
+shadowsteel medallion~
+unknown~
+armor 0 AC
+ADE ADE ADE ADE 0
+200 1 101000 P
+#25217
+shadowsteel breastplate~
+shadowsteel breastplate~
+shadowsteel breastplate~
+unknown~
+armor 0 AD
+ACDF ACDF ACDF ACDF 0
+200 1 101000 P
+#25218
+shadowsteel helm~
+shadowsteel helm~
+shadowsteel helm~
+unknown~
+armor 0 AE
+DF DF DF DF 0
+200 1 101000 P
+#25219
+shadowsteel mask~
+shadowsteel mask~
+shadowsteel mask~
+unknown~
+armor 0 AR
+ABF ABF ABF ABF 0
+200 1 101000 P
+#25220
+shadowsteel leggings~
+shadowsteel leggings~
+shadowsteel leggings~
+unknown~
+armor 0 AF
+ABDE ABDE ABDE ABDE 0
+200 1 101000 P
+#25221
+shadowsteel anklet~
+shadowsteel anklet~
+shadowsteel anklet~
+unknown~
+armor 0 AT
+ABCD ABCD ABCD ABCD 0
+200 1 101000 P
+#25222
+shadowsteel boots~
+shadowsteel boots~
+shadowsteel boots~
+unknown~
+armor 0 AG
+F F F F 0
+200 1 101000 P
+#25223
+shadowsteel gauntlets~
+shadowsteel gauntlets~
+shadowsteel gauntlets~
+unknown~
+armor 0 AH
+ABDE ABDE ABDE ABDE 0
+200 1 101000 P
+#25224
+shadowsteel sleeves~
+shadowsteel sleeves~
+shadowsteel sleeves~
+unknown~
+armor 0 AI
+F F F F 0
+200 1 101000 P
+#25225
+shadowsteel shield~
+shadowsteel shield~
+shadowsteel shield~
+unknown~
+armor 0 AJ
+BDF BDF BDF BDF 0
+200 1 101000 P
+#25226
+shadowsteel cloak~
+shadowsteel cloak~
+shadowsteel cloak~
+unknown~
+armor 0 AK
+ABF ABF ABF ABF 0
+200 1 101000 P
+#25227
+shadowsteel belt~
+shadowsteel belt~
+shadowsteel belt~
+unknown~
+armor 0 AL
+BCDE BCDE BCDE BCDE 0
+200 1 101000 P
+#25228
+shadowsteel wristguard~
+shadowsteel wristguard~
+shadowsteel wristguard~
+unknown~
+armor 0 AM
+ADE ADE ADE ADE 0
+200 1 101000 P
+#25229
+shadowsteel talisman~
+shadowsteel talisman~
+shadowsteel talisman~
+unknown~
+armor 0 AO
+ABCD ABCD ABCD ABCD 0
+200 1 101000 P
+#25230
+shadowsteel orb~
+shadowsteel orb~
+shadowsteel orb~
+unknown~
+armor 0 AQ
+BCDE BCDE BCDE BCDE 0
+200 1 101000 P
+#25231
+shadowsteel earrings~
+shadowsteel earrings~
+shadowsteel earrings~
+unknown~
+armor 0 AS
+ABCD ABCD ABCD ABCD 0
+200 1 101000 P
+#25232
+shadowsteel clan patch~
+shadowsteel clan patch~
+shadowsteel clan patch~
+unknown~
+armor 0 AU
+ADE ADE ADE ADE 0
+200 1 101000 P
+#25233
+shadowsteel chest patch~
+shadowsteel chest patch~
+shadowsteel chest patch~
+unknown~
+armor 0 AW
+BCE BCE BCE BCE 0
+200 1 101000 P
+#25234
+shadowsteel religion patch~
+shadowsteel religion patch~
+shadowsteel religion patch~
+unknown~
+armor 0 AV
+BCE BCE BCE BCE 0
+200 1 101000 P
+#25235
+bone-handled lightstick~
+bone-handled lightstick~
+Bone-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 1 P
+A
+17 -1
+#25236
+ivory-handled lightstick~
+ivory-handled lightstick~
+Ivory-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10 1 1 P
+A
+17 -2
+#25237
+ebony-handled lightstick~
+ebony-handled lightstick~
+Ebony-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 1 1 P
+A
+17 -3
+#25238
+stone-handled lightstick~
+stone-handled lightstick~
+Stone-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+30 1 1 P
+A
+17 -4
+#25239
+lead-handled lightstick~
+lead-handled lightstick~
+Lead-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+40 1 1 P
+A
+17 -5
+#25240
+copper-handled lightstick~
+copper-handled lightstick~
+Copper-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+50 1 1 P
+A
+17 -6
+#25241
+bronze-handled lightstick~
+bronze-handled lightstick~
+Bronze-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+60 1 1 P
+A
+17 -7
+#25242
+brass-handled lightstick~
+brass-handled lightstick~
+Brass-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+70 1 1 P
+A
+17 -8
+#25243
+electrum-handled lightstick~
+electrum-handled lightstick~
+Electrum-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+80 1 1 P
+A
+17 -9
+#25244
+gold-handled lightstick~
+gold-handled lightstick~
+Gold-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+90 1 1 P
+A
+17 -10
+#25245
+iron-handled lightstick~
+iron-handled lightstick~
+Iron-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 1 1 P
+A
+17 -11
+#25246
+steel-handled lightstick~
+steel-handled lightstick~
+Steel-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+110 1 1 P
+A
+17 -12
+#25247
+silver-handled lightstick~
+silver-handled lightstick~
+Silver-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+120 1 1 P
+A
+17 -13
+#25248
+platinum-handled lightstick~
+platinum-handled lightstick~
+Platinum-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+130 1 1 P
+A
+17 -14
+#25249
+glass-handled lightstick~
+glass-handled lightstick~
+Glass-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+140 1 1 P
+A
+17 -15
+#25250
+quartz-handled lightstick~
+quartz-handled lightstick~
+Quartz-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+150 1 1 P
+A
+17 -16
+#25251
+diamond-handled lightstick~
+diamond-handled lightstick~
+Diamond-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+160 1 1 P
+A
+17 -17
+#25252
+obsidian-handled lightstick~
+obsidian-handled lightstick~
+Obsidian-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+170 1 1 P
+A
+17 -20
+#25253
+mithril-handled lightstick~
+mithril-handled lightstick~
+Mithril-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+180 1 1 P
+A
+17 -20
+#25254
+adamantium-handled lightstick~
+adamantium-handled lightstick~
+Adamantium-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+190 1 1 P
+A
+17 -22
+#25255
+shadowsteel-handled lightstick~
+shadowsteel-handled lightstick~
+Shadowsteel-handled lightstick~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+200 1 1 P
+A
+17 -25
+#0
+
+
+
+#ROOMS
+#24500
+Random Base Objects~
+~
+0 12 0
+D1
+~
+~
+0 0 25500
+D2
+~
+~
+0 0 702
+D3
+~
+~
+0 0 23500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

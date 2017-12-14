@@ -1,0 +1,329 @@
+#AREADATA
+Name Dead Asgard~
+Builders Roivas Unlinked~
+VNUMs 48300 48900
+Continent 0
+Mobtier 0
+Credits (null)~
+Security 3
+Flags 0
+End
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#48300
+fountain~
+a {8b{xl{8a{xc{8k{x fountain gushes forth here~
+A {8b{xl{8a{xc{8k{x fountain gushes forth here~
+granite~
+fountain 0 0
+2147483647 2147483647 'blood' 0 0
+0 2147483647 0 P
+#0
+
+
+
+#ROOMS
+#48300
+{x{!M{3arket {!S{3quare{x~
+You are standing on the market square, the famous square of Midgaard.  A
+large, crumbling statue stands in ruins in the midle of the square.  Roads
+lead in every direction, north to the temple square, south to the common
+square, east and westbound is the main street.  
+~
+0 4 0
+D0
+~
+~
+0 0 48301
+D2
+~
+~
+0 0 48309
+S
+#48301
+{!T{3emple {!S{3quare{x~
+You are in a place where there are many destroyed temples.  They are
+blackened and charred with broken pillars deocrating the front in a heathen
+fashion.  Silence seems to be the only sounds eminating from them.  An aura
+of power is fading slowly.  
+~
+0 4 0
+D0
+~
+~
+0 0 48308
+D1
+~
+~
+0 0 48302
+D2
+~
+~
+0 0 48300
+D3
+~
+~
+0 0 48315
+S
+#48302
+{!Entrance to the {^Rabid {@Wolf {$Inn{x~
+You are standing in the entrance hall of the {^Rabid {@Wolf {$Inn{x.  The
+hall has been wisely decorated with body parts, and severed heads.  A small
+staircase slicked in blood leads up to the reception room, where you can not
+buy a room.  The bar is to the west.  
+~
+0 4 0
+D1
+~
+~
+0 0 48303
+D3
+~
+~
+0 0 48301
+D4
+~
+~
+0 0 48307
+D5
+~
+~
+0 0 48306
+S
+#48303
+{!The {^Rabid {@Wolf {$Inn{x~
+You are standing in the bar.  The bar is set again the northern wall, new
+writing made in blood, nail scratches and satanic symbols cover its top.  A
+fireplace is built into the western wall, and through the southeastern
+windows you can see the temple square.  This place makes you feel nervous. 
+A small sign lays in pieces at the bottom of the bar.  
+~
+0 4 0
+D0
+~
+~
+0 0 48304
+D3
+~
+~
+0 0 48302
+S
+#48304
+Hall of Records~
+~
+0 4 0
+D2
+~
+~
+0 0 48303
+D3
+~
+~
+0 0 48305
+S
+#48305
+Hall of Victory~
+~
+0 4 0
+D1
+~
+~
+0 0 48304
+S
+#48306
+Entrance to the Shade's Guild~
+There is a gate swinging lazily here, creaking with the voices of
+countless centuries of use.  Just beyond the gate beckons a ghostly white
+hand for you to enter, and you observe a pair of burning red eyes where the
+face would be.  Some unintelligible whisper seems to be asking a question of
+you, and rather than bother with it you decide the best thing to do is just
+leave.  A stairway leads up to the Inn.  
+~
+0 4 0
+D4
+~
+~
+0 0 48302
+S
+#48307
+The Reception Room~
+You are standing in an old, room, with fine blesses wooden walls.  The
+desk is on the western wall, where the inn keepers feet is dangling ontop
+of.  The dark rooms down the hall are blocked by rubble to the east, and the
+light rooms are blocked by corpses to the north.  The entrance to the inn is
+down the staircase following the blood trail.  
+~
+0 4 0
+D5
+~
+~
+0 0 48302
+S
+#48308
+Temple~
+You have entered the temple.  The building is made of polished stone,
+illuminated by large windows on either side of the chamber.  A small
+staircase on the east wall goes upward to the academy.  To the north you see
+the donation room where you can donate to the gods or accept donations from
+other people.  To the west lies the temple of Odin, where the people who
+believe in good and kind things may worship.  To the east lies the temple of
+Hel, where evilness is celebrated.  
+~
+0 4 0
+D0
+~
+~
+0 0 48310
+D1
+~
+~
+0 0 48313
+D2
+~
+~
+0 0 48301
+D3
+~
+~
+0 0 48311
+S
+#48309
+{!C{3ommon {!S{3quare{x~
+The common square, no one seems to be here talking to each other.  To the
+west is the poor alley, and to the east is the dark alley.  To the north,
+this square is connected to the market square.  From the south you notice a
+nasty smell.  
+~
+0 4 0
+D0
+~
+~
+0 0 48300
+S
+#48310
+Donation Room~
+You are in a small room next to the temple. A note on the wall tells you that this is a place to leave your unwanted items for other travelers.
+~
+0 0 0
+D2
+~
+~
+0 0 48308
+S
+#48311
+The Temple of Odin~
+Standing in the Mighty Odin's temple, screaming can be heard from all
+around.  Bright lights flash from numerous doorways, and others remain dark.
+There is a crisp smell of death to the air.  To the north, the temple altar
+lays broken.  East is the main temple room.  
+~
+0 0 0
+D0
+~
+~
+0 0 48312
+D1
+~
+~
+0 0 48308
+S
+#48312
+In Odin's Chapel~
+You feel Hel's hateful gaze on your back as you enter this chapel.  You
+are in a small chapel dedicated to the god Odin.  The church of Odin is
+widely known for helping those in Odin's favor, and those who wish to
+be.........  For a price.  
+~
+0 0 0
+D2
+~
+~
+0 0 48311
+S
+#48313
+The Temple of Hel~
+~
+0 0 0
+D0
+~
+~
+0 0 48314
+D3
+~
+~
+0 0 48308
+S
+#48314
+The Temple Altar of Hel~
+~
+0 0 0
+D2
+~
+~
+0 0 48313
+S
+#48315
+Entrance to Cleric's Guild~
+The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads east to the temple square.  A small entrance to
+the bar is in the northern wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 48301
+S
+#48316
+~
+~
+0 4 0
+S
+#48317
+~
+~
+0 4 0
+S
+#48318
+~
+~
+0 4 0
+S
+#48319
+~
+~
+0 4 0
+S
+#48320
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
